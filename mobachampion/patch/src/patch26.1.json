@@ -1,0 +1,174 @@
+{
+    "name": "Closed Beta: Patch 26.1",
+    "date" : "March 3, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Shapers</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>All Shapers now gain 0.5 Movement Speed per point of Haste, up from 0.34.</li><li>The Respawn time upon dying has been reduced to 15 seconds + (0.5 per level + (1.25 per minute), down from 15 seconds + (0.5 per level) + (1.5 per minute).</li></ul>"
+		},
+		{
+			"id" : "Adamance",
+			"itemp" : "Adamance",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Stackable Passive - Vanguard is now only 33% as effective for Damage Over Time abilities.</li></ul>"
+		},
+		{
+			"id" : "Balance",
+			"itemp" : "Balance",
+			"class" : "Advanced",
+			"data" : "<ul><li>The amount of Magic Resistance gained and shredded per stack by the Will Thief passive ability has been reduced to 3, down from 4.</li></ul>"
+		},
+		{
+			"id" : "Betrayal",
+			"itemp" : "Betrayal",
+			"class" : "Legendary",
+			"data" : "<ul><li>The amount of Magic Resistance gained and shredded per stack by the Will Thief passive ability has been reduced to 3, down from 4.</li></ul>"
+		},
+		{
+			"id" : "Energy",
+			"itemp" : "Energy",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Unique Passive Shock is now a Stackable Passive.</li></ul>"
+		},
+		{
+			"id" : "Faith",
+			"itemp" : "Faith",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Magic Resistance granted by this item has been reduced to 50, down from 55.</li><li>The price of this item has been reduced to 2730, down from 2820.</li></ul>"
+		},
+		{
+			"id" : "Form",
+			"itemp" : "Form",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Stackable Passive - Vanguard is now only 33% as effective for Damage Over Time abilities.</li></ul>"
+		},
+		{
+			"id" : "Hope",
+			"itemp" : "Hope",
+			"class" : "Legendary",
+			"data" : "<ul><li>The amount of bonus Magic Resistance and Armor gained Avatar Unique Passive has been reduced to 50% of total Armor and Magic Resistance, down from 100%.</li><li>The duration of the Avatar Unique Passive has been reduced to 3 seconds base, down from 4. The extended duration has also been changed to a max of 6 seconds, down from 8.</li></ul>"
+		},
+		{
+			"id" : "Oppression",
+			"itemp" : "Oppression",
+			"class" : "Legendary",
+			"data" : "<ul><li>The amount of Magic Resistance gained and shredded per stack by the Will Thief passive ability has been reduced to 3, down from 4.</li></ul>"
+		},
+		{
+			"id" : "Preservation",
+			"itemp" : "Preservation",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Stackable Passive - Vanguard is now only 33% as effective for Damage Over Time abilities.</li></ul>"
+		},
+		{
+			"id" : "Prosperity",
+			"itemp" : "Prosperity",
+			"class" : "Legendary",
+			"data" : "<ul><li>The maximum amount of Magic Resistance gained from the Unique Passive - Endless Bounty has been reduced to 15, down from 20.</li></ul>"
+		},
+		{
+			"id" : "Rage",
+			"itemp" : "Rage",
+			"class" : "Legendary",
+			"data" : "<ul><li>Now has +10 Defense Penetration.</li><li>The bonus defense penetration on the Furious Assault unique passive has been increased to 60%, up from 50%.</li><li>The price of this item has been increased to 2500, up from 2375.</li></ul>"
+		},
+		{
+			"id" : "Resilience",
+			"itemp" : "Resilience",
+			"class" : "Basic",
+			"data" : "<ul><li>The Stackable Passive - Toughness I will now be 50% as effective for every stack beyond the first.</li></ul>"
+		},
+		{
+			"id" : "Retribution",
+			"itemp" : "Retribution",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Magic Resistance granted by this item has been reduced to 40, down from 45.</li><li>The price of this item has been reduced to 2640, down from 2725.</li></ul>"
+		},
+		{
+			"id" : "Valor",
+			"itemp" : "Valor",
+			"class" : "Legendary",
+			"data" : "<ul><li>The amount of Magic Resistance gained and shredded per stack by the Will Thief passive ability has been reduced to 3, down from 4.</li></ul>"
+		},
+		{
+			"id" : "Will",
+			"itemp" : "Will",
+			"class" : "Basic",
+			"data" : "<ul><li>The Stackable Passive - Void will now be 50% as effective for every stack beyond the first.</li><li>The Magic Resistance gained from this item has been reduced to 20, down from 24.</li><li>The price of this item has been reduced to 340, down from 360.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Spells</h4>"		
+		},
+		{
+			"id" : "Blink",
+			"spell" : "Blink",
+			"data" : "<ul><li>The range of this spell has been increased to 625, up from 612.</li></ul>"
+		},
+		{
+			"id" : "Deflect",
+			"spell" : "Deflect",
+			"data" : "<ul><li>The range of this spell has been increased to 700, up from 680.</li></ul>"
+		},
+		{
+			"id" : "Stagger",
+			"spell" : "Stagger",
+			"data" : "<ul><li>The range of this spell has been increased to 675, up from 671.</li></ul>"
+		},
+		{
+			"id" : "Tailwind",
+			"spell" : "Tailwind",
+			"data" : "<ul><li>The range of this spell has been increased to 575, up from 559.</li></ul>"
+		},
+		{
+			"id" : "Vanquish",
+			"spell" : "Vanquish",
+			"data" : "<ul><li>The range of this spell has been increased to 600, up from 544.</li></ul>"
+		},
+		{
+			"id" : "Wither",
+			"spell" : "Wither",
+			"data" : "<ul><li>The range of this spell has been increased to 550, up from 537.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Map</h4>"		
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Jungle</h5>"		
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>The base experience for all Buff Monsters (Green, Orange and Blue) has been reduced to 240, down from 290.</li><li>The experience per level for all Buff Monsters (Green, Orange and Blue) has been reduced to 3, down from 4.</li></ul>"		
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Parasite</h5>"		
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>The base basic attack damage of the Parasite has been increased to 50/85/120, up from 35/55/85.</li><li>The Magical Damage per stack of Lesser Spirit Fire has been increased to 10/20/30, up from 10/15/20.</li><li>The max Health scaling for the Parasite's evolutions has been increased to the following values:</li><ul><li>Evolution 1 (5 to 15 minutes) 4000 HP to 8500, up from 3500 HP to 6000.</li><li>Evolution 2 (15 to 25 minutes) 8500 HP to 15000, up from 6000 HP to 10500.</li><li>Evolution 3 (25 to 40 minutes) 15000 HP to 19950, up from 10500 HP to 16500.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Spirit Well Workers</h5>"		
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>The base experience Spirit Well Workers are worth has been reduced to 15, down from 20.</li><li>The experience per level for Spirit Well Workers has been reduced to 1, down from 2.</li></ul>"		
+		}
+	]
+}

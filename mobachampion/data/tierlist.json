@@ -1,0 +1,232 @@
+{
+    "magetier": {
+        "tier1": [
+			{
+				"name" : "Kindra",
+				"reason" : "Kindra's potential to snowball allows her to exceed at all MMR brackets. Her high mobility and sustain helps her survive long enough to become very hard to shut down."
+			},
+            {
+                "name": "Amarynth",
+				"reason" : "Amarynth's high mobility, great sustained DPS and burst make her a great pick in lane. With the nerfs to Dispel in Patch 26, her win rates and viability have become top tier."
+			},
+    		{
+				"name" : "Zalgus",
+				"reason" : "Zalgus relies heavily on skillshots to output tons of damage, but isn't hindered by the creep line like Amarynth. His combo can safely global squishies from a distance and makes up for his lack of mobility."
+			}
+		],
+		"tier2": [	
+    		{
+				"name" : "Fenmore",
+				"reason" : "Fenmore is a very strong sustain mage that can bully many enemies in lane. The introduction of Drain and his generally low mobility impacts his viability."
+			},
+    		{
+				"name" : "King of Masks",
+				"reason" : "The King of Masks brings a lot to the table. He can safely apply damage and crowd control better than most other mages, and his ultimate synergizes well with AOE compositions."
+			},	
+			{
+				"name" : "Faris",
+				"reason" : "Faris's high skill cap and mobility can result in some extraordinary damage in his best case scenario, but we feel that his kit offers too much counterplay to be top tier. Nerfs to Form have dropped him from high-tier status."
+			}
+		]
+	},
+    "meleetier": {
+        "tier1": [
+			{
+				"name" : "Voluc",
+				"reason" : "Voluc has excelled since Patch 26, dominating the win rates across all MMR. His ability to snowball and carry from the jungle makes him a very strong pick."
+			},
+			{
+				"name" : "Salous",
+				"reason" : "Salous received some huge usability buffs in Patch 27 and has seen his win rates soar."
+			},
+			{
+				"name" : "Cerulean",
+				"reason" : "Cerulean's incredible initiation and peeling make him a very potent theat in both the lane and jungle. He makes for a great kill lane partner for those looking to snowball."
+			}		
+		],
+        "tier2": [
+    		{
+				"name" : "Petrus",
+				"reason" : "Petrus is a very well-rounded jungler and features a simple kit familiar to MOBA players. His clear speed and mobility are really good and he can offer potent ganks with massive damage on his Force Wave and Hypersonic Punch. Spin 2 Win!"
+			},
+			{
+				"name" : "Moya",
+				"reason" : "Moya has a very strong and unique initiation tool with her ultimate, but a series of nerfs have reduced her viability."
+			},
+    		{
+				"name" : "Freia",
+				"reason" : "Freia is a powerful duelist and jungler, but her all-in playstyle results in a poor ability to contribute when behind."
+			}	
+		]	
+	},
+    "tanktier": {
+        "tier1": [
+    		{
+				"name" : "Raina",
+				"reason" : "Raina is an absolute juggernaut when it comes to tanking. She offers a wide array of utility to her team, and is utterly unkillable when fed. She performs well as a tactician, offering great protection to her allies, strong lane harass and a solid initiate at level 6 onwards."
+			},
+    		{
+				"name" : "Kel",
+				"reason" : "Kel's mobility is top tier and allows him to be very creative in his jungling paths. His ganks are strong and his tanky/utility kit scales well into late game. His pick potential with his ultimate is huge."
+			}
+		],
+		"tier2" : [
+			{
+				"name" : "Desecrator",
+				"reason" : "Desecrator is one of the kings of of crowd control. With a root, knockup/stun and silence, Desecrator offers a lot of versatility to his peels."
+			},
+			{
+				"name" : "Kahgen",
+				"reason" : "Despite having the only hook in the game, Kahgen has come out of the gate undertuned and seen less than stellar win rates. Until he receives some buffs, he is going to remain a weak pick."
+			}
+		]
+	},
+    "supportier": {
+        "tier1": [
+			{
+				"name" : "Zeri",
+				"reason" : "Zeri offers a lot of power to her allies. She has decent harass and lane damage, but it is her utility that makes her exceptionally strong. Her Muse and Prismatic Vortex will keep carries alive and dealing out tons of damage. She is also a direct counter to burst Shapers like Amarynth and Kindra."
+			},
+			{
+				"name" : "Viyana",
+				"reason" : "Viyana provides a ton of health regeneration and heals to her allies, which makes her a very safe pick in lane. Her ultimate applies one of the few supressions in the game, which is great against blitz-heavy melee comps."
+			},
+    		{
+				"name" : "Dibs",
+            	"reason" : "Dibs is a very effective support character than provides a lot of lane control and overpowered harass. His Reverie allows unparalleled map presence and can turn the tide of many small skirmishes."
+			}
+		],
+		"tier2" : [
+			{
+				"name" : "Renzo",
+				"reason" : "Renzo is a safe, versatile pickup in lane, and offers a straightforward and traditional support kit. Left click stuns set up easy kills and good players can maximize his ability to make great plays with his ultimate's knockback."
+			}
+		]
+	},
+    "carrytier": {
+        "tier1": [
+    		{
+				"name" : "Mikella",
+				"reason" : "Mikella scales well amongst the physical carries and offers a flexible and powerful kit. She synergizes greatly with the game's top supports and tanks."
+			},
+			{
+				"name" : "Nissa",
+				"reason" : "Nissa excels as a ranged carry with a high skill cap and huge burst potential. Her passive's extra warding effect is extremely useful on the new map and makes her very difficult to gank, but her lack of movement displacement is a weakness."
+			},
+    		{
+				"name" : "Varion",
+				"reason" : "Varion has a very accessible kit for a ranged carry and deals considerable physical damage using skill shots. His damage potential is high, and the vision granted from Insight Shell and the mobility from Progress Gate gives him a nice safety net in lane."
+			}
+		],
+		"tier2" : [
+            {
+                "name": "Vex",
+				"reason" : "Vex is a situationally amazing pick but relies heavily on coordinated peels from his teammates due to his lack of mobility. His range and damage scaling is unparalleled as he shreds the enemy team's health and armor. He is the best pick agianst tank teams, but a hard sell in solo queue."
+			}		
+		]
+	},
+	"jungletier" : {
+        "tier1": [
+			{
+				"name" : "Voluc",
+				"reason" : "Voluc has excelled since Patch 26, dominating the win rates across all MMR. His ability to snowball and carry from the jungle makes him a very strong pick."
+			},
+			{
+				"name" : "Salous",
+				"reason" : "Salous received some huge usability buffs in Patch 27 and has seen his win rates soar."
+			}
+        ],
+        "tier2": [
+    		{
+				"name" : "Petrus",
+				"reason" : "Petrus is a very well-rounded jungler and features a simple kit familiar to MOBA players. His clear speed and mobility are top notch and he can offer fairly potent ganks with massive damage on his Force Wave and Hypersonic Punch."
+			},
+			{
+				"name" : "Moya",
+				"reason" : "She has the best mobility in the game, impressive life steal, impeccable clear speed and incredibly potent ganks at level 6. Her high skill cap does allow her to fall off late game, so she is not recommended for beginners."
+			},
+			{
+				"name" : "Kel",
+				"reason" : "Kel's mobility is top tier and allows him to be very creative in his jungling paths. His ganks are strong and his tanky/utility kit scales well into late game. His pick potential with his ultimate is huge."
+			},
+    		{
+				"name" : "Freia",
+				"reason" : "Much like Voluc, Freia can clear through the jungle with ease and duel enemy Shapers into the ground. Her damage and snowball potential is high, and her late game scaling outclasses most junglers. However, her high skill cap and lack of survivability can make her a risky pick for new players"
+			},
+			{
+				"name" : "Cerulean",
+				"reason" : "Cerulean's ganks are exceptionally fearsome and landing Impale will almost always be rewarded with a kill or consume the enemy's blink. His low mobility does render his ganks slightly impotent if spotted by a ward."
+			},
+			{
+				"name" : "Kahgen",
+				"reason" : "Despite having the only hook in the game, Kahgen has come out of the gate undertuned and seen less than stellar win rates. As a jungler, his clear speeds and gank potential are valid, but there are better choices."
+			}
+        ],
+        "tier3": [
+			{
+				"name" : "Raina",
+				"reason" : "Raina's jungling kit is pretty solid. She has good sustain, average clear speeds and incredible dueling. Her post-6 ganks are devastating, but she can get behind if she isn't careful."
+			},
+			{
+				"name" : "Faris",
+				"reason" : "Faris's HP scaling abilities clear the jungle well and his kit allows him a lot of maneuverability and unique gank paths. He suffers from a lack of gold more than the tanky junglers who rely on their crowd control and utility."
+			},	
+			{
+				"name" : "Kindra",
+				"reason" : "While Kindra does not offer any crowd control, the resets on her Q/W/E abilities mean that ganks on duo lanes often result in multiple kills. Her kit also offers a lot of flexibility in tower dives."
+			},
+			{
+				"name" : "Desecrator",
+				"reason" : "Desecrator ganks well from the jungle due to his amazing crowd control. While his clear speed and damage is fairly low, his ganks have a high potential of netting kills and crowd control scales very well into late game."
+			},			
+    		{
+				"name" : "Renzo",
+				"reason" : "Renzo doesn't really belong in the jungle, but his kit can work well for aggressive gankers. He has decent sustain and strong kill potential backed by layered crowd control post-6."
+			}
+        ],
+        "tier4": [
+			{
+				"name" : "Nissa",
+				"reason" : "Nissa has good clear speeds and sustainability, but does not excel at ganing until level 6. Her passive Animal Companion offers a reasonable level of protection while clearing camps and her level 6 ganks are strong."
+			},
+			{
+				"name" : "Mikella",
+				"reason" : "Mikella can jungle effectively due to her high levels of damage. Her level 6 ganks are very strong as she can execute low health targets effectively with her ultimate from a long range."
+			},			
+			{
+				"name" : "Varion",
+				"reason" : "Varion is a pretty well rounded jungler. He has decent clear speeds and sustainability and can make some tricky ganking paths and escapes with his Progress Gate."
+			},
+			{
+				"name" : "Vex",
+				"reason" : "Vex would not be our first choice in the jungle. You can clear the mobs and lifesteal through items, but you will face difficulty dueling and ganking."
+			}			
+        ],
+        "tier5": [
+			{
+				"name" : "Fenmore",
+				"reason" : "While not an effective jungler, Fenmore is capable of clearing the jungle at a reasonable pace and keeping his health high while doing so."
+			},
+			{
+				"name" : "Amarynth",
+				"reason" : "Amarynths jungling is fairly weak as she will consume her spirit very quickly. However, once she gets to level 6 she can have effective ganks."
+			},
+			{
+				"name" : "King of Masks",
+				"reason" : "While not King of the jungle, King of Masks' crowd control can make his roaming ganks successful."
+			},
+			{
+				"name" : "Zalgus",
+				"reason" : "While not great at clearin, at least Zalgus can CC the jungle creeps to reduce damage taken and has reasonably potent ganks."
+			},				
+			{
+				"name" : "Dibs",
+				"reason" : "Dibs and Zeri do not particularly belong in the jungle. Dibs requires an ally to consume Nightmare's passive, and is not able to defend himself well against invasion."
+			},				
+			{
+				"name" : "Zeri",
+				"reason" : "Dibs and Zeri do not particularly belong in the jungle. Two of Zeri's abilities rely on buffing allies and the silence/slowing effects on her damaging abilities go mostly unnnoticed."
+			}	
+        ]
+	}
+}

@@ -1,0 +1,126 @@
+{
+    "name": "Closed Beta: Patch 8",
+    "date" : "August 09, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>Patch 8 has arrived, and, with it, a new Shaper! Raina is all about tankiness, and it's what she does very very well! We hope you guys enjoy all the changes. Be sure to take the Survey this weekend (just hit the Survey button in the front-end client just below the \"Play\" button) and leave any feedback or discussions in this thread! </p><img src=\"http://i.imgur.com/D8lRyuX.png\">"
+        },
+        {
+            "id" : "general",
+            "data" : "<p><b>Raina, the Archivist</b><BR>Raina is a melee, physical tank that excels in frontline defense, offense and initiation. Raina's versatile skillset allows her to be effective in both the jungle and lane in the early game. Raina's shield makes her an extremely potent duelist, particularly in the mid-game, but her abilities scale best when used in the chaos of a full-on 5v5. In teamfights, Raina wants to posture between her team and the enemy's, keeping would-be aggressors away from her carries as long as possible. Knowing exactly when to use her Ultimate and initiate a teamwide engage is key to dominating as Raina.<BR><b>Passive - Discipline Shaper - Steadfast</b> - Raina uses Discipline to maintain her shield, Bastion of the North. Whenever Raina successfully Basic Attacks, she is healed a small amount that increases with her total Armor and Magic Resist. This healing is doubled against enemy Shapers, and has a short cooldown.<BR><b>Q - Repelling Strike</b> - Raina dashes a short distance to target enemy, knocking away and dealing physical damage to all enemies in a large cone when she arrives. This ability generates Discipline based on the number of targets hit.<BR><b>W - Bastion of the North</b> - Passive: Raina gains bonus Armor and Magic Resist. Active: Raina forms her shield and locks onto target enemy. While locked, Raina gains greatly increased damage reduction against all targets in front of her and deals increased damage to her primary target. This effect also reveals her primary target through the fog of war, but drains Raina's Discipline while active.<BR><b>E - Shockwave</b> - Raina slams her hammer into the ground, firing a shockwave at target enemy dealing physical damage and slowing them for a few seconds. The projectile then bounces to up to 3 enemies behind the primary target, dealing physical damage to each. This ability generates Discipline based on the number of targets hit.<BR><b>R - Wisdom's Reach</b> - Raina throws her hammer, Wisdom's Reach, in target direction. If Wisdom's Reach hits an enemy Shaper, or at max distance, it creates an enormous blast that deals physical damage and stuns all nearby enemies.</p>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+        },
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li><B>Feeding Frenzy (Q)</B></li><ul><li>The cast time of this ability has been increased to 0.4 seconds, up from 0.2 seconds.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<i>Developer Note: We neglected to include a base damage increase of Death Fog (R) administered in last week's patch. Last week's patch notes have been edited to now include this change, and the change has been reiterated below. The removal of the magic resistance shred component of Desecrator's ultimate was intended to reduce the free damage he provided to his team; however, we did not want to lower the personal damage of his ultimate. To keep his ultimate's damage output at the same relative value it was before, we have increased its base damage to compensate for the removal of the MR shred. </i><ul><li><B>Desecrated Grounds (E)</B></li><ul><li>The base damage of this ability has been reduced to 75/125/175/225/275, down from 80/130/180/230/280.</li><li>The root duration of this ability has been reduced to 1.25 seconds, down from 1.5 seconds.</li><li>The persistent zone slow of this ability has been reduced to 30%, down from 35%.</li></ul><li><B>Death Fog (R)</B></li><ul><li>The percentage of max health damage component of this ability has been increased to 3/5/7%, up from 2.5/4.5/6.5%.</li></ul></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<ul><li><B>Demi (Q)</B></li><ul><li>The percentage health damage on this ability has increased to 3/6/9/12/15%, up from 2.5/5/7.5/10/12.5%.</li></ul><li><B>Unyielding Progress (E)</B></li><ul><li>The base damage of this ability for a full duration spin has been increased to 210/300/390/480/570, up from 180/270/360/450/540.</li><li>The power ratio for a full duration spin has been increased to 1.8, up from 1.5.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Sentinel Strike (Q)</B></li><ul><li>The cleave component of this ability now no longer grants an additional 40 range to Voluc's basic attack.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Spells</h4>"
+        },
+		{
+			"id" : "Bastion",
+			"spell" : "Bastion",
+			"data" : "<ul><li>The amount shielded per level has been reduced to 20, down from 21</li></ul>"
+		},
+		{
+			"id" : "Blitz",
+			"spell" : "Blitz",
+			"data" : "<i>Developer Note: Blitz is designed to support an aggressive playstyle against agile or disruptive enemies, allowing you to barrel straight through an opening volley of disabling effects, then run down a fleeing target; depending on the situation, it can also allow for a rapid retreat from those same threats. However, Blitz is not without its fair share of risk--unlike Dispel, it won't remove disables you're already suffering, so it requires you to predict your enemy's actions much more carefully. In addition, it does nothing to mitigate any incoming damage, and all the disable-immunity in the world won't make a difference if you're dead. Nonetheless, if you have the wits to spot perfect opportunity to strike, and the guts to seize it, Blitz can secure kills where no other spell can. Fortune favors the bold!</i><ul><li>(New Spell) This spell increases the player's movement speed by 30% for 8 seconds. In addition, for the first 4 seconds, all incoming disabling effects are negated.</li></ul>"
+		},
+		{
+			"id" : "Dispel",
+			"spell" : "Dispel",
+			"data" : "<ul><li>The tooltip of this spell now correctly clarifies that this ability does not remove suppression effects.</li></ul>"
+		},
+		{
+			"id" : "Stagger",
+			"spell" : "Stagger",
+			"data" : "<i>Developer Note: Stagger's intended role has always been in crippling distant enemies in order to close in on them, but its high base damage at low levels was making it a bit too effective at securing early kills, particularly when multiple players all Stagger the same target. In addition, the slow duration at close range was giving players a little too much time to attacking the victim without having to spend time to close the gap. This change should mitigate both scenarios.</i><ul><li>The base damage of this ability has been reduced to 25~215, down from 40~230.</li><li>Minimum slow duration applied to targets that are in closer proximity to the caster has been reduced to 0.5 seconds, down from 1.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Roles</h4>"
+        },
+		{
+			"id" : "Predator",
+			"role" : "Predator",
+			"data" : "<i>Developer Note: Previously, the Predator role gave full rewards for killing enemy shapers regardless of their score. This meant that Predators who were ahead could easily get further ahead by continuing to kill weak players on a death streak. By making the Predator's award based on a percentage of the amount of Vim (including Kill and death-streak modifications) for killing a shaper, Predators will now earn significantly less than before for killing players on death-streaks, and considerably more than before for killing players on kill-streaks.</i><ul><li>The amount of bonus Vim per kill and assist that this role gains has been changed to 135% bonus vim instead of a flat 100 vim.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Perks / Loadouts</h4>"
+        },
+		{
+			"id" : "Resonance Loadout",
+			"loadout" : "Resonance Loadout",
+			"data" : "<ul><li>The damage of this loadout has been reduced to 5-18 (depending on level) per stack, down from 8-21 per stack.</li><li>Fixed a bug where if two players with Resonance attacked the same target, only one instance of Resonance would do damage, but it would stack twice as fast.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Items</h4>"
+        },
+		{
+			"id" : "Control",
+			"item" : "Control",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Power that this item gives has been reduced to 25, down from 30.</li><li>The cost of this item has been reduced to 1285, down from 1460.</li></ul>"
+		},
+		{
+			"id" : "Inevitability",
+			"item" : "Inevitability",
+			"class" : "Legendary",
+			"data" : "<ul><li>The power that this item gives has been reduced to 30, down from 35.</li><li>The cost of this item has been increased to 3065, up from 2720.</li></ul>"
+		},
+		{
+			"id" : "Fate",
+			"item" : "Fate",
+			"class" : "Legendary",
+			"data" : "<ul><li>The secondary projectiles of this item have had their damage reduced to 40% of the primary basic attack, down from 50%.</li><li>Fixed a bug where the secondary projectiles could independently critically strike.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Custom Games</h5><i>Developer Note: In order to ensure statistics designed to indicate skill or experience at the game remain as accurate as possible, we have removed Custom Games from contributing towards your account level statistics. Custom Games are often used in ways where it would be inappropriate for them to provide account stats, such as when they are used to test various aspects of the game, organize tournament games, or play user created game mode types (ARAM, etc.).</i><ul><li>Custom games no longer count towards total Wins or games played.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Keybindings</h5><ul><li>More keys are now bindable; Control, Shift and Alt can now be used as modifiers for almost all keys.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Smart Cast</h5><i>Developer Note: If enabled, this interface option causes the range of the ability to be shown when the key is pressed down, waiting to actually cast the ability until the key is released.</i><ul><li>Smart Cast range indicators may now be toggled on or off in the gameplay options.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>UI</h5><ul><li>The art within Shaper Select has been updated to be more consistent with the art in the front-end client.</li><li>New graphics have been added for the 'Attention' and 'Retreat' pings.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Win Counter</h5><i>Developer Note: In preparation for an upcoming feature, and as a result of several now fixed bugs impacting Wins and MMR. While player resets are sometimes an unavoidable part of Beta, we take player's stats and in-game accomplishments very seriously and will look to do this as infrequently as possible.</i><ul><li>All player's win counts and matchmaking rating have been reset.</li></ul>"
+        }
+	]
+}

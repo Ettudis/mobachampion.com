@@ -1,0 +1,701 @@
+.loadout_editor
+{
+	float: left;
+	margin-bottom: 16px;
+}
+
+.loadout_editor_top
+{
+	float: left;
+	width: 816px;
+	height: 32px;
+	background-image:url('http://www.moba-champion.com/loadouts/editor/header.png');
+	background-position:right top;
+    background-repeat:no-repeat;
+	position: relative;
+}
+
+.loadout_editor_main
+{
+	float: left;
+	background-image:url('http://www.moba-champion.com/loadouts/editor/container3.jpg');
+    background-repeat:no-repeat;
+	background-size:100% 100%;
+	width: 816px;
+	height: 700px;
+}
+
+.loadout_editor_left
+{
+	position: relative;
+	float: left;
+	background-image:url('http://www.moba-champion.com/loadouts/editor/grid2.jpg');
+    background-repeat:no-repeat;
+	margin-left: 5px;
+	margin-top: 6px;
+	margin-bottom: 10px;
+	width: 516px;
+	height: 516px;
+}
+
+.loadout_shape
+{
+	position: absolute;
+	z-index: 3;
+}
+
+.loadout_shape_img
+{
+	max-width: 1024px !important;
+
+}
+
+.loadout_underlay_img
+{
+	max-width: 1024px !important;
+	z-index: 4;
+	opacity:0.6;
+	filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
+.shape_tt_header
+{
+	font-weight: bold;
+}
+
+#selector_underlay
+{
+	xborder: 1px solid red;
+	position: absolute;
+}
+
+.loadout_editor_right
+{
+	float: left;
+	margin-top: 7px;
+	margin-right: 2px;
+	width: 286px;
+	height: 516px;
+}
+
+.loadout_editor_summary_header
+{
+	float: left;
+	margin-left: 8px;
+	width: 100%;
+	height: 36px;
+	background-image:url('http://www.moba-champion.com/loadouts/editor/test.png');
+    background-repeat:no-repeat;
+	background-size: 100% 100%;
+}
+
+.loadout_editor_summary_header_text
+{
+	float: left;
+	font-size: 130%;
+	margin-left: 8px;
+	margin-top: 8px;
+}
+
+.loadout_editor_summary_content
+{
+	position: relative;
+	float: left;
+	margin-left: 12px;
+	margin-top: 8px;
+	width: 274px;
+	height: 395px;
+	max-height: 418px;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+
+.loadout_editor_summary_content_row
+{
+	border-bottom: 1px solid #074735;
+	padding-bottom: 8px;
+}
+
+.loadout_editor_summary_content_row:last-child
+{
+	border-bottom: none;
+	padding-bottom: 0px;
+}
+
+/* Turn on a 13x13 scrollbar */
+.loadout_editor_summary_content::-webkit-scrollbar 
+{
+    width: 20px;
+}
+
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical 
+{
+	height: 16px !important;
+}
+
+/* Turn on single button up on top, and down on bottom */
+.loadout_editor_summary_content::-webkit-scrollbar-button:start:decrement,
+.loadout_editor_summary_content::-webkit-scrollbar-button:end:increment 
+{
+    display: block;
+}
+
+/* Turn off the down area up on top, and up area on bottom */
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:start:increment,
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:end:decrement 
+{
+    display: none;
+}
+
+/* Place The scroll down button at the bottom */
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:increment 
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/scrolldown.png');
+	background-repeat: no-repeat;
+}
+
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:increment:hover
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/scrolldownhover.png');
+	background-repeat: no-repeat;
+}
+
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:increment:active
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/scrolldownactive.png');
+	background-repeat: no-repeat;
+}
+
+/* Place The scroll up button at the up */
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:decrement 
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/scrollup.png');
+	background-repeat: no-repeat;
+}
+
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:decrement:hover 
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/scrolluphover.png');
+	background-repeat: no-repeat;
+}
+
+.loadout_editor_summary_content::-webkit-scrollbar-button:vertical:decrement:active
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/scrollupactive.png');
+	background-repeat: no-repeat;
+}
+
+.loadout_editor_summary_content::-webkit-scrollbar-track:vertical 
+{
+    
+}
+
+/* Top area above thumb and below up button */
+.loadout_editor_summary_content::-webkit-scrollbar-track-piece:vertical:start 
+{
+    
+}
+
+/* Bottom area below thumb and down button */
+.loadout_editor_summary_content::-webkit-scrollbar-track-piece:vertical:end 
+{
+
+}
+
+/* Track below and above */
+.loadout_editor_summary_content::-webkit-scrollbar-track-piece 
+{
+    background-color: #1c1c1c;
+	border-radius: 4px;
+	margin-bottom: 2px;
+}
+
+/* The thumb itself */
+.loadout_editor_summary_content::-webkit-scrollbar-thumb:vertical 
+{
+    height: 25px;
+    background-color: #3c3c3c;
+	border-radius: 4px;
+}
+
+/* Corner */
+.loadout_editor_summary_content::-webkit-scrollbar-corner:vertical 
+{
+    background-color: black;
+}
+
+/* Resizer */
+.loadout_editor_summary_content::-webkit-scrollbar-resizer:vertical 
+{
+
+}
+
+.loadout_editor_summary_buttons
+{
+	float: left;
+	margin-left: 10px;
+	margin-top: 14px;
+	width: 280px;
+	height: 60px;
+}
+
+.std_button
+{
+	float: left;
+	width: 117px;
+	height: 24px;
+	padding-left: 12px;
+	padding-top: 3px;
+	margin-bottom: 2px;
+	margin-left: 4px;
+	margin-right: 4px;
+    background-image:url('http://www.moba-champion.com/loadouts/editor/button_standard_standard.png');
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+
+	/* Rules below not implemented in browsers yet */
+	-o-user-select: none;
+	user-select: none;
+	
+	cursor: pointer;
+}
+
+.std_button:hover
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/button_standard_rollover.png');
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+
+	/* Rules below not implemented in browsers yet */
+	-o-user-select: none;
+	user-select: none;
+	
+	cursor: pointer;
+}
+
+.std_button:active
+{
+    background-image:url('http://www.moba-champion.com/loadouts/editor/button_standard_clicked.png');
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+
+	/* Rules below not implemented in browsers yet */
+	-o-user-select: none;
+	user-select: none;
+	
+	cursor: pointer;
+}
+
+.loadout_editor_debug
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 25px;
+	background: #555;
+}
+
+.loadout_editor_overlay
+{
+	position: absolute;
+	opacity:0.4;
+	filter:alpha(opacity=40); /* For IE8 and earlier */
+	width: 130px;
+	height: 130px;
+}
+
+.L90
+{
+	transform:          rotate(90deg);
+	-ms-transform:      rotate(90deg);
+	-moz-transform:     rotate(90deg);
+	-webkit-transform:  rotate(90deg);
+	-o-transform:       rotate(90deg);
+}
+
+.L180
+{
+	transform:          rotate(180deg);
+	-ms-transform:      rotate(180deg);
+	-moz-transform:     rotate(180deg);
+	-webkit-transform:  rotate(180deg);
+	-o-transform:       rotate(180deg);
+}
+
+.L270
+{
+	transform:          rotate(270deg);
+	-ms-transform:      rotate(270deg);
+	-moz-transform:     rotate(270deg);
+	-webkit-transform:  rotate(270deg);
+	-o-transform:       rotate(270deg);
+}
+
+.loadout_editor_bottom
+{
+	width: 800px;
+	height: 132px;
+	float: left;
+	z-index: 25;
+}
+
+.loadout_editor_bottom_header
+{
+	position: relative;
+	z-index: 25;
+}
+
+.loadout_editor_bottom_content
+{
+	margin-left: 12px;
+    width: 790px;
+    height:132px;
+    float:left;
+	margin-top: 24px;
+    overflow-x:scroll;
+	overflow-y:none;
+    white-space:nowrap;
+	position: relative;
+	z-index: 25;
+}
+
+.loadout_editor_mini_shape
+{
+    display:inline-block;
+    *dsplay:inline;/* For IE7*/
+    *zoom:1;/* For IE7*/
+    white-space:normal;
+	margin-right: 8px;
+	position: relative;
+}
+
+.loadout_editor_mini_shape_img
+{
+	width: 80px;
+	height: 80px;	
+}
+
+.loadout_editor_mini_shape_gem
+{
+	width: 16px;
+	height: 16px;
+	position: absolute;
+	top: 32px;
+	left: 32px;
+}
+
+.loadout_editor_mini_shape_gem img
+{
+	width: 16px;
+	height: 16px;
+	position: absolute;
+}
+
+.shape_tt_body_dis
+{
+	color: #999;
+}
+
+.gem_socket
+{
+	position: absolute;
+	cursor: pointer;
+}
+
+.gem_socket img
+{
+	max-width: 1024px !important;
+}
+
+.gem_picker_window
+{
+
+}
+
+.gem_picker_background
+{
+    position: fixed;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+	
+	z-index: 10;
+	background-color:rgba(0,0,0,0.7);	
+}
+
+.gem_picker
+{
+    position: fixed;
+	
+    width: 800px;
+	height: 500px;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+	
+	background: #3c3c3c;
+	border: 1px solid #111;		
+	-moz-box-shadow: 2px 2px 2px #111;
+	-webkit-box-shadow: 2px 2px 2px #111;
+	box-shadow: 2px 2px 2px #111;
+	border-radius: 8px;
+	z-index: 30;
+}
+
+.gem_picker_close
+{
+	position: absolute;
+	bottom: -20px;
+	right: 0px;
+	color: #c3c3c3;
+	cursor: pointer;	
+}
+
+.gemtypes_radio
+{
+	margin-left: 8px;
+	margin-top: 8px;
+}
+
+.gem_picker_gem
+{
+	float: left;
+	width: 250px;
+	height: 64px;
+	background:  #2c2c2c;
+	border: 1px solid black;
+	border-radius:  4px;
+	margin-right:  4px;
+	margin-left: 8px;
+	margin-top:  8px;
+}
+
+.gem_picker_gem:hover
+{
+	background: #4c4c4c;
+	color: white;
+	cursor: pointer;
+}
+
+.gem_picker_gem_img
+{
+	float: left;
+	width: 56px;
+	height: 56px;
+	margin-top: 2px;
+}
+
+.gem_picker_gem_name
+{
+	color: #FFBF00;
+	font-weight: bold;
+	margin-top: 8px;
+	margin-left: 8px;
+	float: left;
+	width: 180px;
+	font-size: 90%;
+}
+
+.gem_picker_gem_text
+{
+	margin-left: 8px;
+	float: left;
+	width: 175px;
+	font-size: 95%
+}
+
+.wip_banner
+{
+	width: 832px;
+	margin-left: 12px;
+	background: #8B1313;
+	border-radius: 4px;
+	padding-left: 8px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-bottom: 12px;
+	font-weight: bold;
+	box-shadow: 0 0 5px rgba(0,0,0,0.75);
+}
+
+.loadout_editor_filterlist
+{
+	position: absolute;
+	left: 11px;
+	top: -2px;
+}
+
+.loadout_editor_filter
+{
+	float: left;
+	border-radius: 4px;
+	background: #2c2c2c;
+	margin-right: 4px;
+	cursor: pointer;
+}
+
+.loadout_editor_filter:hover
+{
+	background: #FFBF00;
+}
+
+.loadout_editor_controllist
+{
+	position: absolute;
+	right: -9px;
+	top: -2px;
+}
+
+.loadout_editor_control
+{
+	float: left;
+	border-radius: 4px;
+	background: #2c2c2c;
+	margin-right: 4px;
+	cursor: pointer;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.loadout_editor_control:hover
+{
+	background: #FFBF00;
+	color: black;
+}
+
+.active_filter
+{
+	background: #EB8300;
+}
+
+.loadout_editor_filter img
+{
+	width: 24px;
+	height: 24px;
+}
+
+/* Turn on a 13x13 scrollbar */
+.loadout_editor_bottom_content::-webkit-scrollbar 
+{
+    width: 20px;
+	height: 20px;
+}
+
+.loadout_editor_bottom_content::-webkit-scrollbar-button:horizontal 
+{
+	height: 16px !important;
+}
+
+/* Turn on single button up on top, and down on bottom */
+.loadout_editor_bottom_content::-webkit-scrollbar-button:start:decrement,
+.loadout_editor_bottom_content::-webkit-scrollbar-button:end:increment 
+{
+    display: none;
+}
+
+/* Turn off the down area up on top, and up area on bottom */
+.loadout_editor_bottom_content::-webkit-scrollbar-button:horizontal:start:increment,
+.loadout_editor_bottom_content::-webkit-scrollbar-button:horizontal:end:decrement 
+{
+    display: none;
+}
+
+.loadout_editor_bottom_content::-webkit-scrollbar-track:horizontal 
+{
+    
+}
+
+/* Top area above thumb and below up button */
+.loadout_editor_bottom_content::-webkit-scrollbar-track-piece:horizontal:start 
+{
+    
+}
+
+/* Bottom area below thumb and down button */
+.loadout_editor_bottom_content::-webkit-scrollbar-track-piece:horizontal:end 
+{
+
+}
+
+/* Track below and above */
+.loadout_editor_bottom_content::-webkit-scrollbar-track-piece 
+{
+    background-color: #1c1c1c;
+	border-radius: 4px;
+	margin-bottom: 2px;
+}
+
+/* The thumb itself */
+.loadout_editor_bottom_content::-webkit-scrollbar-thumb:horizontal 
+{
+    height: 25px;
+	width: 25px;
+    background-color: #3c3c3c;
+	border-radius: 4px;
+}
+
+/* Corner */
+.loadout_editor_bottom_content::-webkit-scrollbar-corner:horizontal 
+{
+    background-color: black;
+}
+
+/* Resizer */
+.loadout_editor_bottom_content::-webkit-scrollbar-resizer:horizontal 
+{
+
+}
+
+.loadout_editor_mouse_overlay
+{
+	position: absolute;
+	width: 512px;
+	height: 512px;
+	z-index: 1000;
+}
+
+.loadout_editor_save_url_input
+{
+	position: absolute;
+	left: 3px;
+	top: 6px;
+	width: 400px;
+	height: 18px;
+	background-color: #2c2c2c;
+	color: #fff;
+	border: 1px solid #3c3c3c;
+	font-size: 90%;
+}
+
+.loadout_editor_save_url_upd
+{
+	position: absolute;
+	left: 410px;
+	top: 6px;
+	background: #068539;
+	border-radius: 4px;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-bottom: 12px;
+	font-weight: bold;
+	box-shadow: 0 0 5px rgba(0,0,0,0.75);
+	color: #fff;
+}

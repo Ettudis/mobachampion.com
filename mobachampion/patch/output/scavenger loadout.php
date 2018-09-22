@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 11 (August 29, 2013)</h4><ul><li>(New Loadout) +6 Defense Penetration<BR>Passive - Scavenger: Your Movement Speed is increased by 10% if you can see a nearby enemy with less than 40% Health remaining.</li></ul>

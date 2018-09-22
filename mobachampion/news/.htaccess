@@ -1,0 +1,15 @@
+Options -MultiViews
+
+RewriteEngine On
+
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^www\.shardveil\.com$ [NC]
+RewriteRule ^(.*)$ http://www.shardveil.com/news/$1 [R=301,L]
+
+RewriteBase /news/
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^([a-zA-Z0-9]+)$ index.php?id=$1 [L,NC]

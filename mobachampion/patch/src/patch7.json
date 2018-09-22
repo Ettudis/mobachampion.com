@@ -1,0 +1,126 @@
+{
+    "name": "Closed Beta: Patch 7",
+    "date" : "August 02, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>Some interesting tweaks this week to melee Shapers across the board to help them feel a bit more responsive, and a slew of fixes to Matchmaking all here in Beta Patch 7! Enjoy your 30 hours of Dawngate and don't forget to report any bugs you may find by hitting the \"Report A Bug\" button in the front-end client!</p>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Shapers</h5><i>Developer Note: All melee Shapers have had their range adjusted for two reasons: Resolve minor pathing issues when last hitting enemy minions from behind your own melee creep line, and to better match the visual for actual melee range, before players could appear to be in melee range, but were unable to attack.</i>"
+        },
+		{
+			"id" : "Cerulean",
+			"shaper" : "Cerulean",
+			"data" : "<ul><li>Basic attack range increased to 130, up from 95.</li></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li>Basic attack range increased to 130, up from 95.</li><li><B>Chilling Presence (W)</B></li><ul><li>The additional magic damage that this ability dealt with each basic attack that the Desecrator inflicted has been adjusted to 20/30/40/50/60, from 15/35/55/75</li></ul><li><B>Desecrated Ground (E)</B></li><ul><li>The base damage of this ability has been reduced to 80/130/180/230/280, down from 80/135/190/245/300.</li></ul><li><B>Death Fog (R)</B></li><ul><li>Removed the Magic Resist shred of this ability. The percentage of max health damage component of this ability has been increased to 3/5/7%, up from 2.5/4.5/6.5%.</li></ul></ul>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li><B>Nightmare (Q)</B></li><ul><li>The base damage this ability dealt to enemies who take damage from an ally Shaper while affected by Nightmare has been increased to 60/85/110/135/160, up from 40/55/70/85/100. This secondary damage component has also had it's power ratio increased to 0.9, up from 0.6. The secondary damage component now only stacks once per target instead of up to 3 times.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li>Basic attack range increased to 130, up from 95.</li><li>Base health regeneration increased to 9, up from 7.5.</li><li>Health regeneration per level increased to 0.85 per level, up from 0.65 per level.</li><li>Magic resistance per level increased to 1.25 per level, up from 1 per level.</li><li><B>Crippling Blow (E)</B></li><ul><li>The slow this ability applies has been changed to a flat 40% at all ranks, down from 25/30/35/40/45%.</li></ul><li><B>Wrath (R)</B></li><ul><li>The duration of the Fear applied by this ability has been increased to 1.5 seconds, up from 1.25.</li></ul></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li>Basic attack range increased to 130, up from 95.</li></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li>Basic attack range increased to 130, up from 95.</li></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li>Basic attack range increased to 130, up from 95.</li><li><B>Bolt (Q)</B></li><ul><li>The cooldown of this ability has been increased to 5.5/5/4.5/4/3.5, up from 3.5 at all ranks.</li></ul></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<ul><li>Basic attack range increased to 130, up from 95.</li><li><B>Reprimand (Q)</B></li><ul><li>The base damage of this ability has been increased to 75/100/125/150/175, up from 75/95/115/135/155. The cooldown of this ability has been decreased to 9/8/7/6/5, down from 10/9/8/7/6.</li></ul></ul>"
+		},
+		{
+			"id" : "Varion",
+			"shaper" : "Varion",
+			"data" : "<ul><li><B>Progress Gate (W)</B></li><ul><li>The window in which you may reactivate this ability to teleport to target location has been increased to 5 seconds, up from 4.</li></ul><li><B>Chaos Shell (R)</B></li><ul><li>The power ratio of this ability has been increased to 1.2, up from 1.0.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li>Basic attack range increased to 170, up from 130.</li><li><B>Sentinel Strike (Q)</B></li><ul><li>This ability will now have it's cooldown reduced by 0.33 seconds per basic attack against non-shapers, in addition to it's reduction of 2 seconds per basic attack against Shapers.</li></ul></ul>"
+		},
+		{
+			"id" : "Zeri",
+			"shaper" : "Zeri",
+			"data" : "<ul><li><B>Muse (W)</B></li><ul><li>The stats gained by an ally affected by this ability has been reduced to 25% of Zeri's bonus Power, Haste, Lifedrain, Armor and Magic Resist, down from 35%.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Spells</h4>"
+        },
+		{
+			"id" : "Dispel",
+			"spell" : "Dispel",
+			"data" : "<ul><li>The cooldown of this Spell has been reduced to 90 seconds, down from 180 seconds.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Items</h4>"
+        },
+		{
+			"id" : "Glory",
+			"item" : "Glory",
+			"class" : "Legendary",
+			"data" : "<ul><li>The base damage of this item's passive ability (Blazing Aura) has been reduced to 30, down from 35.</li><li>The cost of this item has been increased to 2795, up from 2590.</li></ul>"
+		},
+		{
+			"id" : "Pride",
+			"item" : "Pride",
+			"class" : "Advanced",
+			"data" : "<ul><li>The base damage of this item's passive ability (Blazing Aura) has been reduced to 30, down from 35.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Map</h4>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Jungle</h5><ul><li>Fixed a bug where the Power (green) buff was only lasting 100 seconds, instead of the intended 150 seconds.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Parasite</h5><ul><li>Increased the Mortal Strike effect applied by the Parasite's basic attacks to the primary target to 50% healing/regeneration reduction, up from 35%.</li><li>The Parasite will now show the Mortal Strike headline effect.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Matchmaking</h4><i>Developer Note: We will continue to monitor the quality of the Matchmaking experience throughout the beta - if you continue to experience issues - please visit and post on our Bug Forums.</i><ul><li>Several issues with Matchmaking failing prior to the Accept/Decline dialog have been resolved.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Surrender</h4><ul><li>Fixed an issue that caused the Surrender option to become available at a 21 kill differential, rather than the intended 20 kill differential.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Version Checking</h4><i>Developer Note: Please be sure to always run Dawngate via the launcher. The Launcher.exe can generally be found here: C:\\Program Files (x86)\\Electronic Arts\\Dawngate\\launcher</i><ul><li>Added version checking that occurs prior to players logging in to prevent players from inadvertently attempting to play using the incorrect version of the game.</li></ul>"
+        }		
+	]
+}

@@ -1,0 +1,200 @@
+{
+    "name": "Closed Beta: Patch 27",
+    "date" : "March 17, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><p><img src=\"http://cms-media.s3.amazonaws.com/wp-content/uploads/2014/03/Kahgen720.png\"></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Kahgen, the Raider</h5><p>Kahgen is a Melee, physical damage Tank that combines ramping damage with exceptional engage and counterengage abilities. Kahgen excels at the Hunter role, his ramping damage allowing him to clear at a faster rate than all other Tanks and crowd control that lends to effective ganks. Kahgen's core kit revolves around management and upkeep of his debuff, Spirit Sands - Kahgen ramps his consistent damage, burst damage and crowd control through Spirit Sands, but must be mindful when to generate stacks and when to consume them to be most effective. Kahgen makes an extremely formidable scrapper, both in the early game and in the late game, but leans heavily on his ultimate to make teamfights happen by his rules. Hitting or missing Kahgen's ultimate can often win or lose a game.</p><p><B>Passive - Focus Shaper - Double-Edge - </B>Kahgen uses Focus to cast his abilities. Every other Basic Attack deals additional damage and generates bonus Focus.</p><p><B>Q - Dust Devil - </B>Kahgen blasts sand in an area around him, dealing physical damage and applying one stack of Spirit Sands to all enemies hit. Dust Devil deals additional physical damage per stack of Spirit Sands.</p><p><B>W - Quicksand - </B>Kahgen creates a large area of quicksand at target location, greatly slowly all enemies in the area. Enemies in the center of the area are slowed more than those near the edge. Quicksand applies stacks of Spirit Sands to all enemies who remain within it.</p><p><B>E - Heat Wave - </B>Kahgen creates a gout of fire in a cone in target direction, dealing physical damage and stunning all enemies hit. Heat Wave deals additional physical damage and has additional stun duration per stack of Spirit Sands. Heat Wave consumes all stacks of Spirit Sands on targets hit.</p><p><B>R - The Big Haul - </B>Kahgen fires his massive hook in target direction, dealing physical damage and slowing all targets hit. Upon reaching max distance Kahgen reels his hook back in, dragging all targets hit back to him. Kahgen may move while casting The Big Haul, but cannot use abilities or spells.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Shapers</h4>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li>Dreamwrap (W)</li><ul><li>The movement speed granted by this ability has been increased to 25% at all ranks, up from 10/12/14/16/18%.</li></ul></ul>"
+		},
+		{
+			"id" : "Faris",
+			"shaper" : "Faris",
+			"data" : "<ul><li>Reconfigure (Q)</li><ul><li>Fixed a bug where the magical damage done by this ability would not proc generic non-basic/non-ability specific damage triggers, such as Judgement's Magic Shred or Will Thief's Magic Resistance steal.</li></ul></ul>"
+		},
+		{
+			"id" : "Salous",
+			"shaper" : "Salous",
+			"data" : "<ul><li>Judgment (Q)</li><ul><li>The range of this ability has been increased to 1000, up from 950.</li><li>The projectile speed of this ability has been increased to 60, up from 45.</li></ul><li>Penance (E)</li><ul><li>The root duration of this ability has been increased to 1.5 seconds, up from 1.35.</li></ul><li>Absolution (R)</li><ul><li>Fixed a bug where the tooltip did not correctly specify the duration of the slow applied by this ability.</li></ul></ul>"
+		},
+		{
+			"id" : "Vex",
+			"shaper" : "Vex",
+			"data" : "<ul><li>Grievous Wounds (W)</li><ul><li>Fixed a bug where the magical damage done by this ability would not proc generic non-basic/non-ability specific damage triggers, such as Judgement's Magic Shred or Will Thief's Magic Resistance steal.</li></ul></ul>"
+		},
+		{
+			"id" : "Viyana",
+			"shaper" : "Viyana",
+			"data" : "<ul><li>Needle (Q)</li><ul><li>The base healing done by this ability has been reduced to 40/55/70/85/100, down from 45/75/105/135/155.</li><li>The healing bonus Health ratio has been increased to 12% of bonus Health, up from 7.5%.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li>Curse of Weakness (W)</li><ul><li>The base damage dealt by damaging an enemy marked with this ability has been reduced to 55/85/115/145/175, down from 55/90/125/160/195.</li></ul><li>Damnation (R)</li><ul><li>The passive Lifedrain percentage granted by this ability has been reduced to 25/50/75%, down from 50/75/100%.</li></ul></ul>"
+		},
+		{
+			"id" : "Zalgus",
+			"shaper" : "Zalgus",
+			"data" : "<ul><li>Burden of Knowledge (W)</li><ul><li>Fixed a bug where the magical damage done by this ability would not proc generic non-basic/non-ability specific damage triggers, such as Judgement's Magic Shred or Will Thief's Magic Resistance steal.</li></ul></ul>"
+		},
+		{
+			"id" : "Zeri",
+			"shaper" : "Zeri",
+			"data" : "<ul><li>Desaturate (E)</li><ul><li>The base silence duration of this ability has been reduced to 1.0 seconds, down from 1.25.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Items</h4>"
+		},
+		{
+			"id" : "Assimilation",
+			"itemp" : "Assimilation",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power ratio of the heal on the Undying Storm Passive Ability has been increased to 0.8, up from 0.7.</li></ul>"
+		},
+		{
+			"id" : "Command",
+			"itemp" : "Command",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where abilities that reactive would not trigger this item's Passive Ability (Surge) until the reactivation was used such as Faris' Flashback (E).</li></ul>"
+		},
+		{
+			"id" : "Decay",
+			"itemp" : "Decay",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug that was causing the Spirit Burn Passive Ability to immediately deal a tick of damage upon refreshing the duration of the ability.</li></ul>"
+		},
+		{
+			"id" : "Form",
+			"itemp" : "Form",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where Form's ability damage would get added to abilities that should not count as ability damage, such as the Duelist Perk and Faris Reconfigure (Q) magic damage.</li></ul>"
+		},
+		{
+			"id" : "Freedom",
+			"itemp" : "Freedom",
+			"class" : "Legendary",
+			"data" : "<ul><li>The disable reduction granted by the Tenacity on this item has been reduced to 30%, down from 35%.</li></ul>"
+		},
+		{
+			"id" : "Furor",
+			"itemp" : "Furor",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Health granted by this item has been reduced to 125, down from 150.</li><li>The cost of this item has been increased to 3290, up from 3185.</li></ul>"
+		},
+		{
+			"id" : "Justice",
+			"itemp" : "Justice",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where abilities that reactive would not trigger this item's Passive Ability (Power Overwhelming) until the reactivation was used such as Faris' Flashback (E).</li></ul>"
+		},
+		{
+			"id" : "Pestilence",
+			"itemp" : "Pestilence",
+			"class" : "Legendary",
+			"data" : "<ul><li>The slow applied by this item's Passive Ability (Plague Host) has been reduced to 20%, down from 30%.</li><li>The base damage of the damage over time of this item's Passive Ability (Plague Host) has been reduced to 75 damage over two seconds, down from 100.</li></ul>"
+		},
+		{
+			"id" : "Resilience",
+			"itemp" : "Resilience",
+			"class" : "Legendary",
+			"data" : "<ul><li>The flat basic attack damage reduction granted by this item's Stackable Passive (Toughness I) is now only doubled against Shapers, rather than tripled.</li></ul>"
+		},
+		{
+			"id" : "Stability",
+			"itemp" : "Stability",
+			"class" : "Legendary",
+			"data" : "<ul><li>The disable reduction granted by the Tenacity on this item has been reduced to 30%, down from 35%.</li><li>The Swift Recovery Passive Ability on this item no longer triggers on Slows.</li><li>The duration of the movement speed granted by this item's Passive Ability has been increased to 1.25 seconds, up from 1.0.</li></ul>"
+		},
+		{
+			"id" : "Strife",
+			"itemp" : "Strife",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where stacks on the Unique Passive Soul Collector would not correctly transfer upon upgrading to Strife.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Spiritstones / Sparks</h4>"
+		},
+		{
+			"id" : "Green Spiritstone of Draining",
+			"stone" : "Green Spiritstone of Draining",
+			"data" : "<ul><li><b>Green Spiritstone of Draining</b></li><ul><li>Lifedrain increased to 2%, up from 1.6%.</li></ul></ul>"
+		},
+		{
+			"id" : "Blue Spiritstone of Speed",
+			"stone" : "Blue Spiritstone of Speed",
+			"data" : "<ul><li><b>Blue Spiritstone of Speed</b></li><ul><li>Movement Speed increased to 2.5%, up from 2%.</li></ul></ul>"
+		},
+		{
+			"id" : "Spiritstone of the Outrider",
+			"stone" : "Spiritstone of the Outrider",
+			"data" : "<ul><li><b>Spiritstone of the Outrider</b></li><ul><li>Fixed a bug that caused the passive Outrider to deactivate when the user took self-inflicted damage, such as Fenmore or Viyana's Health costs.</li></ul></ul>"
+		},
+		{
+			"id" : "Red Spark of Regeneration",
+			"spark" : "Red Spark of Regeneration",
+			"data" : "<ul><li><b>Red Spark of Regeneration</b></li><ul><li>Health Regeneration reduced to 0.5 Health Regen per 5 Seconds, down from 0.6.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Map / Game Mode</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Guardian</h5>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>The basic attack speed of the Guardian has been increased by 25% and the damage radius of his basic attacks has been increased by 30%.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>General Updates</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Camera</h5>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Players may now toggle a Custom Locked Camera mode using the \"I\" key by default, or the Custom Soft Locked Camera mode using the \"O\" key by default. These modes allow players to set their own Locked Camera. Simply move wherever you want the camera to be locked and press either the Custom Locked Camera keybinding or the Custom Soft Locked Camera keybinding.</li><li>The camera mode \"Follow Player\" is now known as \"Toggle Soft-Lock Camera.\"</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Matchmaking</h5>"
+		},
+		{
+			"id" : "general",
+			"data" : "<p><i><b>Developer Note:</b> Players at the high end of the MMR scale were suffering from long matchmaking times. We're going to bring their values to more reasonable numbers in order to improve our ability to make matches. This change won't affect any player's rating relative to another player, but players who were unable to find matches previously should see improvements. </i></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>We have compressed Matchmaking Ratings in order to improve matchmaking times. Rankings themselves should not be affected by this change.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Bug Fixes</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Fixed a bug that causes the grass around Marah's Tree of Life (W) to be more opaque than intended.</li><li>Fixed the label for the Attention Ping in the keybindings.</li><li>Fixed a bug causing scrolling text and Voice Over to not trigger for some crowd control effects.</li><li>Fenmore and Viyana are no longer able to kill themselves by paying Health costs for abilities.</li><li>The item passive Brilliance will no longer reduced the cooldown of the Ward ability.</li><li>Harmony's effect will no longer trigger while dead.</li><li>Fixed a bug preventing Moya's ultimate (Landfall) from sharing damage to a target with Empathy.</li><li>Fixed a bug that was causing momentum to not treat Cerulean's Impale correctly.</li><li>Fixed a bug that was causing momentum to not treat Renzo's Masterpiece correctly.</li><li>Fixed a bug that was causing momentum to not treat King of Mask's Finale correctly.</li><li>Fixed a bug causing two Empathies close together to share damage indefinitely.</li><li>Fixed a bug causing Strife to earn stacks from destroying a Binding or killing a Shaper.</li><li>Fixed a bug that was not allowing Toggle Soft-Lock camera to override the Toggle Lock Camera option.</li></ul>"
+		}
+	]
+}

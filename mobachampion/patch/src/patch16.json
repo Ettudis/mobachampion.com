@@ -1,0 +1,68 @@
+{
+    "name": "Closed Beta: Patch 16",
+    "date" : "Oct 31, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<img src=\"http://i.imgur.com/VwcHsr4.png\">"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><b>Salous, the Penitent</b><BR>Salous is a melee, physical damage bruiser that excels in mobility, engages and counter-engages. Salous performs best in the jungle, boasting both good clear speeds and devastating ganks. Focusing on building damage can hone Salous into a powerful but fragile carry-killer, while focusing on defenses can make Salous a formidable frontline wall and engager. Salous synergizes particularly well with other melee Shapers, granting them a powerful Haste bonus immediately after engaging while simultaneously locking up squishy carries for easy kills. Salous' ability to penetrate an enemy team frontline is remarkable, exceeding almost any other Shaper - knowing when to engage with your team is key to success.<BR><BR><b>Passive - Pure Shaper</b> - Salous is not limited by a resource and may cast his abilities freely.<BR><b>Q - Judgment</b> - Salous projects a ball of energy in target direction, dealing physical damage and marking the first enemy hit before chaining and marking up to two enemies behind the target. For a few seconds Salous may reactivate this ability to dash to any of the targets marked, dealing physical damage on arrival. Salous may reactivate once for each target he marked.<BR><b>W - Spirit Seals</b> - Salous instantly gains a bonus to Haste and creates three Spirit Seals that rotate around him, dealing physical damage in area when an enemy comes in contact with one. If all Spirit Seals are detonated, Salous' Haste bonus duration is refreshed and Salous grants a lesser Haste bonus to all nearby ally Shapers.<BR><b>E - Penance</b> - Salous strikes target enemy, dealing physical damage and rooting them.<BR><b>R - Absolution</b> - Salous emits an incredible wave of pressure in target direction, dealing physical damage and slowing all enemies in a large cone. All enemies immediately around Salous take physical damage and are stunned."
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3><h4>Shapers</h4>"
+		},
+		{
+			"id" : "Cerulean",
+			"shaper" : "Cerulean",
+			"data" : "<ul><li>Shore's Calling (R) will now go on cooldown even if the target of the ability dies when Cerulean is in mid animation. Cerulean will also now heal the correct amount if the target dies mid animation.</li></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li>Fixed a bug that was causing Freia's Crippling Blow (E) to not display properly.</li></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li>Tightened the visual effects on Crook Sweep (E) to more accurately depict the radius of the ability.</li></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li>Fixed a bug that was causing Moya's Shock (W) to not correctly slow affected Shapers struck by the projectiles spawned from the item Fate's passive ability.</li></ul>"
+		},
+		{
+			"id" : "Vex",
+			"shaper" : "Vex",
+			"data" : "<ul><li>Fixed a bug that was causing visuals to hitch slightly when using Jagged Volley (E).</li></ul>"
+		},
+		{
+			"id" : "Zalgus",
+			"shaper" : "Zalgus",
+			"data" : "<ul><li>Now receives a buff icon that indicates the time remaining to reactivate Final Chapter (R) after dealing a killing blow with this ability.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Map</h4><ul><li>Updated the art assets in the Mushroom section of the jungle to make it more unique</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Parasite</h4><ul><li>Fixed a bug that would allow Shapers to damage and kill the parasite before it spawned.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Front-End Client</h4><ul><li>Fixed bug that was causing the client to crash when attempting to Report a Bug.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Ping-Wheel</h4><ul><li>The Ping-Wheel will now close automatically if the user issues a move command.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Shop</h4><ul><li>Users may now purchased Recommended Items by double clicking them in the shop.</li></ul>"
+		}
+	]
+}

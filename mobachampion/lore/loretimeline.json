@@ -1,0 +1,547 @@
+[ 
+	{
+		"content" : "marah",
+		"name" : "Bardo pt. 1,Bardo pt. 2",
+		"tags" : "Marah",
+		"date" : "Mai 21,1543",
+		"real" : "1/31/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?3658-Bardo-Part-I&p=20370&viewfull=1#post20370,http://forums.waystonegames.com/forums/showthread.php?3698-Bardo-Part-II&p=20677&viewfull=1#post20677"
+	},
+	{
+		"content" : "faris",
+		"name" : "Fragments pt. 1,Fragments pt. 2",
+		"tags" : "Faris",
+		"date" : "The Beginning",
+		"real" : "1/14/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?3286-Fragments-Part-I&p=18345&viewfull=1#post18345,http://forums.waystonegames.com/forums/showthread.php?3294-Fragments-Part-II&p=18419&viewfull=1#post18419"
+	},
+	{
+		"content" : "viyana",
+		"name" : "Primeval pt. 1",
+		"tags" : "Viyana",
+		"date" : "Gillai 22,1543",
+		"real" : "12/10/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?2930-Primeval-Part-I&p=16464&viewfull=1#post16464"
+	},
+	{
+		"content" : "viyana",
+		"name" : "Primeval pt. 2",
+		"tags" : "Viyana",
+		"date" : "Junil 15,1543",
+		"real" : "12/12/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?2931-Primeval-Part-II&p=16466&viewfull=1#post16466",
+		"alt1" : "Gillai 22,1543"
+	},
+	{
+		"content" : "kom",
+		"name" : "Refraction",
+		"tags" : "King of Masks",
+		"date" : "Junil 24,1519",
+		"real" : "11/19/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?2683-Refraction&p=15480&viewfull=1#post15480",
+		"alt1" : "Navamara 19,1542"
+	},
+	{
+		"content" : "salous",
+		"name" : "Fallen",
+		"tags" : "Salous",
+		"date" : "Markkun 7,1543",
+		"real" : "12/29/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?2495-Fallen&p=14717&viewfull=1#post14717",
+		"alt1" : "Markkun 9,1543",
+		"alt2" : "Markkun 13,1543"
+	},
+	{
+		"content" : "vex",
+		"name" : "Foundling",
+		"tags" : "Vex",
+		"date" : "Mai 12,1543",
+		"real" : "12/8/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?2269-Foundling&p=13632&viewfull=1#post13632",
+		"alt1" : "Mai 12,1543"
+	},
+	{
+		"content" : "renzo",
+		"name" : "Resonance pt. 1",
+		"tags" : "Renzo",
+		"date" : "Oberta 16,1542",
+		"real" : "8/26/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?1690-Resonance-Part-I&p=10460&viewfull=1#post10460"
+	},
+	{
+		"content" : "renzo",
+		"name" : "Resonance pt. 2",
+		"tags" : "Renzo",
+		"date" : "Janviar 11,1543",
+		"real" : "8/28/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?1704-Resonance-Part-II&p=10630&viewfull=1#post10630"
+	},
+	{
+		"content" : "raina",
+		"title" : "Strand pt. 1 - 3",
+		"name" : "Strand pt. 1, Strand pt. 2, Strand pt. 3",
+		"tags" : "Raina",
+		"date" : "Aprelle 14,1543",
+		"real" : "8/5/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?1377-Strand-Part-I&p=8443&viewfull=1#post8443,http://forums.waystonegames.com/forums/showthread.php?1389-Strand-Part-II&p=8552&viewfull=1#post8552,http://forums.waystonegames.com/forums/showthread.php?1393-Strand-Part-III&p=8597&viewfull=1#post8597",
+		"alt1" : "Aprelle 13,1543"
+	},
+	{
+		"content" : "kindra",
+		"name" : "Unravelled pt. 1",
+		"tags" : "Kindra",
+		"date" : "Junil 18,1536",
+		"real" : "7/15/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?953-Unravelled-Part-I&p=5812&viewfull=1#post5812"
+	},
+	{
+		"content" : "kindra",
+		"name" : "Unravelled pt. 2",
+		"tags" : "Kindra",
+		"date" : "Janviar 14,1532",
+		"real" : "7/16/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?964-Unravelled-Part-II&p=5879&viewfull=1#post5879"
+	},
+	{
+		"content" : "kindra",
+		"name" : "Unravelled pt. 3",
+		"tags" : "Kindra",
+		"date" : "Heptaver 3,1528",
+		"real" : "7/17/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?979-Unravelled-Part-III&p=5988&viewfull=1#post5988"
+	},
+	{
+		"content" : "kindra",
+		"name" : "Unravelled pt. 4",
+		"tags" : "Kindra",
+		"date" : "Mai 3,1524",
+		"real" : "7/18/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?985-Unravelled-Part-IV&p=6083&viewfull=1#post6083",
+		"alt1" : "Gillai 7,1520"
+	},
+	{
+		"content" : "petrus",
+		"name" : "Monuments pt. 1",
+		"tags" : "Petrus",
+		"date" : "Augente 2,1535",
+		"real" : "6/18/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?521-Monuments-Part-I&p=3053&viewfull=1#post3053",
+		"alt1" : "Augente 5,1535"
+	},
+	{
+		"content" : "petrus",
+		"name" : "Monuments pt. 2",
+		"tags" : "Petrus",
+		"date" : "Heptaver 7,1535",
+		"real" : "6/21/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?562-Monuments-Part-II&p=3268&viewfull=1#post3268"
+	},
+	{
+		"content" : "petrus",
+		"name" : "Monuments pt. 3",
+		"tags" : "Petrus",
+		"date" : "Oberta 21,1535",
+		"real" : "6/26/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?661-Monuments-Part-III&p=3925&viewfull=1#post3925"
+	},
+	{
+		"content" : "varion",
+		"name" : "Gallowglass pt. 1",
+		"tags" : "Varion",
+		"date" : "Aprelle 21,1543",
+		"real" : "5/29/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?150-Gallowglass-Part-1&p=793&viewfull=1#post793"
+	},
+	{
+		"content" : "varion",
+		"name" : "Gallowglass pt. 2",
+		"tags" : "Varion",
+		"date" : "Mai 8,1543",
+		"real" : "5/4/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?274-Gallowglass-Part-2&p=1476&viewfull=1#post1476"
+	},
+	{
+		"content" : "viridian",
+		"name" : "Beneath",
+		"tags" : "Viridian",
+		"date" : "Gillai 18,1529",
+		"real" : "6/13/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?5346-Beneath",
+		"alt1" : "Oberta 6,1542"
+	},
+	{
+		"content" : "kensu",
+		"name" : "Stranger",
+		"tags" : "Kensu",
+		"date" : "Mai 5,1543",
+		"real" : "5/21/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?5047-Stranger"
+	},
+	{
+		"content" : "mina",
+		"name" : "Immersed pt. 1",
+		"tags" : "Mina",
+		"date" : "Aprelle 20,1543",
+		"real" : "5/2/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?4891-Immersed-Part-I"
+	},
+	{
+		"content" : "mina",
+		"name" : "Immersed pt. 2",
+		"tags" : "Mina",
+		"date" : "Aprelle 21,1543",
+		"real" : "5/5/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?4907-Immersed-Part-II"
+	},
+	{
+		"content" : "kahgen",
+		"name" : "Ingrained",
+		"tags" : "Kahgen",
+		"date" : "Junil 7,1543",
+		"real" : "3/14/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?4291-Ingrained&highlight=avarice"
+	},
+	{
+		"content" : "zalgus",
+		"name" : "Wasted Pt 1",
+		"tags" : "Zalgus",
+		"date" : "Aprelle 12,1543",
+		"real" : "Sept 17, 2013",
+		"link" : "http://moba-champion.com/forum/index.php?topic=422.0"
+	},
+	{
+		"content" : "zalgus",
+		"name" : "Wasted Pt 2",
+		"tags" : "Zalgus",
+		"date" : "Aprelle 12,1543",
+		"real" : "Sept 18, 2013",
+		"link" : "http://moba-champion.com/forum/index.php?topic=423.0"
+	},
+	{
+		"content" : "ashabel",
+		"name" : "Steel pt. 1",
+		"tags" : "Ashabel",
+		"date" : "Junil 11,1543",
+		"real" : "4/4/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?4493-Steel-Part-I&highlight=elegance"
+	},
+	{
+		"content" : "ashabel",
+		"name" : "Steel pt. 2",
+		"tags" : "Ashabel",
+		"date" : "Junil 11,1543",
+		"real" : "4/7/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?4519-Steel-Part-II&highlight=elegance"
+	},
+	{
+		"content" : "eidoluspetrus",
+		"name" : "Chronicles Prologue Part 1",
+		"tags" : "Eidolus,Petrus",
+		"date" : "Augente 2,1535",
+		"real" : "4/11/2014",
+		"link" : "http://dawngatechronicles.com/prologue/1/"
+	},
+	{
+		"content" : "eidoluspetrus",
+		"name" : "Chronicles Prologue Part 2",
+		"tags" : "Eidolus,Petrus",
+		"date" : "Heptaver 7,1535",
+		"real" : "4/12/2014",
+		"link" : "http://dawngatechronicles.com/prologue/2/"
+	},
+	{
+		"content" : "eidoluspetrus",
+		"name" : "Chronicles Prologue Part 3",
+		"tags" : "Eidolus,Petrus",
+		"date" : "Oberta 21,1535",
+		"real" : "4/13/2014",
+		"link" : "http://dawngatechronicles.com/prologue/3/"
+	},
+	{
+		"content" : "eidolus",
+		"name" : "Chronicles Prologue Part 4",
+		"tags" : "Eidolus",
+		"date" : "Fevriar 8,1536",
+		"real" : "4/14/2014",
+		"link" : "http://dawngatechronicles.com/prologue/4/"
+	},
+	{
+		"content" : "eidolus",
+		"name" : "Chronicles Prologue Part 5",
+		"tags" : "Eidolus",
+		"date" : "Fevriar 8,1537",
+		"real" : "4/16/2014",
+		"link" : "http://dawngatechronicles.com/prologue/5/"
+	},
+	{
+		"content" : "eidolusanzeranimikella",
+		"name" : "Chronicles Prologue Part 6",
+		"tags" : "Eidolus,Anzerani,Mikella",
+		"date" : "Janviar 8,1537",
+		"real" : "4/18/2014",
+		"link" : "http://dawngatechronicles.com/prologue/6/"
+	},
+	{
+		"content" : "eidolusvoluc",
+		"title" : "Chronicles Prologue Part 7 - 10",
+		"name" : "Chronicles Prologue Part 7,Chronicles Prologue Part 8,Chronicles Prologue Part 9,Chronicles Prologue Part 10",
+		"tags" : "Eidolus,Voluc",
+		"date" : "Aprelle 12,1543",
+		"real" : "4/21/2014",
+		"link" : "http://dawngatechronicles.com/prologue/7/,http://dawngatechronicles.com/prologue/8/,http://dawngatechronicles.com/prologue/9/,http://dawngatechronicles.com/prologue/10"
+	},
+	{
+		"content" : "eidolus",
+		"name" : "From the Client: Testament",
+		"tags" : "Eidolus",
+		"date" : "Aprelle 12,1543",
+		"real" : "8/13/2013",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?1497-From-the-Client-Testament"
+	},
+	{
+		"content" : "dawngate",
+		"name" : "Courting Traditions of the World",
+		"tags" : "Dawngate",
+		"date" : "N/A",
+		"real" : "2/11/2014",
+		"link" : "http://forums.waystonegames.com/forums/showthread.php?3848-Courting-Traditions-of-the-World"
+	},
+	{
+		"content" : "kel",
+		"title" : "Chronicles Prologue Part 11, 13",
+		"name" : "Chronicles Prologue Part 11,Chronicles Prologue Part 13",
+		"tags" : "Kel",
+		"date" : "Aprelle 12,1543",
+		"real" : "4/30/2014",
+		"link" : "http://dawngatechronicles.com/prologue/11/,http://dawngatechronicles.com/prologue/13/"
+	},
+	{
+		"content" : "dawngate",
+		"name" : "Chronicles Prologue Part 12",
+		"tags" : "Dawngate",
+		"date" : "Aprelle 12,1543",
+		"real" : "5/2/2014",
+		"link" : "http://dawngatechronicles.com/prologue/12/"
+	},
+	{
+		"content" : "eidolusvoluc",
+		"name" : "Chronicles Prologue Part 14",
+		"tags" : "Voluc",
+		"date" : "Aprelle 12,1543",
+		"real" : "5/7/2014",
+		"link" : "http://dawngatechronicles.com/prologue/14/"
+	},
+	{
+		"content" : "nissa",
+		"title" : "Chronicles Prologue Part 15 - 18",
+		"name" : "Chronicles Prologue Part 15,Chronicles Prologue Part 16,Chronicles Prologue Part 17,Chronicles Prologue Part 18",
+		"tags" : "Nissa",
+		"date" : "Aprelle 12,1543",
+		"real" : "5/9/2014",
+		"link" : "http://dawngatechronicles.com/prologue/17/,http://dawngatechronicles.com/prologue/18/,http://dawngatechronicles.com/prologue/19/,http://dawngatechronicles.com/prologue/20/"
+	},
+	{
+		"content" : "zeri",
+		"title" : "Chronicles Prologue Part 19 - 21",
+		"name" : "Chronicles Prologue Part 19,Chronicles Prologue Part 20,Chronicles Prologue Part 21",
+		"tags" : "Zeri",
+		"date" : "Aprelle 13,1543",
+		"real" : "5/19/2014",
+		"link" : "http://dawngatechronicles.com/prologue/19/,http://dawngatechronicles.com/prologue/20/,http://dawngatechronicles.com/prologue/21/"
+	},
+	{
+		"content" : "desecratorpetrus",
+		"title" : "Chronicles Prologue Part 22 - 24",
+		"name" : "Chronicles Prologue Part 22,Chronicles Prologue Part 23,Chronicles Prologue Part 24",
+		"tags" : "Desecrator,Anzerani,Petrus",
+		"date" : "Aprelle 13,1543",
+		"real" : "5/26/2014",
+		"link" : "http://dawngatechronicles.com/prologue/22/,http://dawngatechronicles.com/prologue/23/,http://dawngatechronicles.com/prologue/24/"
+	},
+	{
+		"content" : "raina",
+		"title" : "Chronicles Prologue Part 25 - 26",
+		"name" : "Chronicles Prologue Part 25,Chronicles Prologue Part 26",
+		"tags" : "Raina",
+		"date" : "Aprelle 14,1543",
+		"real" : "6/2/2014",
+		"link" : "http://dawngatechronicles.com/prologue/25/,http://dawngatechronicles.com/prologue/26/"
+	},
+	{
+		"content" : "rainazalgussereyn",
+		"title" : "Chronicles Prologue Part 27 - 28",
+		"name" : "Chronicles Prologue Part 27,Chronicles Prologue Part 28",
+		"tags" : "Raina,Zalgus,Sereyn",
+		"date" : "Mai 21,1543",
+		"real" : "6/6/2014",
+		"link" : "http://dawngatechronicles.com/prologue/27/,http://dawngatechronicles.com/prologue/28"
+	},
+	{
+		"content" : "fenmoresereyn",
+		"name" : "Chronicles Prologue Part 29",
+		"tags" : "Sereyn,Fenmore",
+		"date" : "Junil 1,1543",
+		"real" : "6/11/2014",
+		"link" : "http://dawngatechronicles.com/prologue/29/"
+	},
+	{
+		"content" : "fenmoresereyn",
+		"name" : "Chronicles Prologue Part 30",
+		"tags" : "Sereyn,Fenmore",
+		"date" : "Junil 1,1543",
+		"real" : "6/13/2014",
+		"link" : "http://dawngatechronicles.com/prologue/30/"
+	},
+	{
+		"content" : "fenmore",
+		"name" : "Chronicles Prologue Part 31",
+		"tags" : "Fenmore",
+		"date" : "Junil 1,1543",
+		"real" : "6/16/2014",
+		"link" : "http://dawngatechronicles.com/prologue/31/" 
+	},
+	{
+		"content" : "fenmorefreia",
+		"title" : "Chronicles Prologue Part 32 - 33",
+		"name" : "Chronicles Prologue Part 32,Chronicles Prologue Part 33",
+		"tags" : "Fenmore,Freia",
+		"date" : "Junil 4,1543",
+		"real" : "6/18/2014",
+		"link" : "http://dawngatechronicles.com/prologue/32/,http://dawngatechronicles.com/prologue/33/" 
+	},
+	{
+		"content" : "varionanzeranipetrusmikella",
+		"title" : "Chronicles Prologue Part 34 - 40",
+		"name" : "Chronicles Prologue Part 34,Chronicles Prologue Part 35,Chronicles Prologue Part 36,Chronicles Prologue Part 37,Chronicles Prologue Part 38,Chronicles Prologue Part 39,Chronicles Prologue Part 40",
+		"tags" : "Varion,Anzerani,Petrus,Mikella",
+		"date" : "Junil 4,1543",
+		"real" : "6/23/2014",
+		"link" : "http://dawngatechronicles.com/prologue/34/,http://dawngatechronicles.com/prologue/35/,http://dawngatechronicles.com/prologue/36/,http://dawngatechronicles.com/prologue/37/,http://dawngatechronicles.com/prologue/38/,http://dawngatechronicles.com/prologue/39/,http://dawngatechronicles.com/prologue/40/" 
+	},
+	{
+		"content" : "basko",
+		"title" : "Knuckled",
+		"name" : "Knuckled",
+		"tags" : "Basko",
+		"date" : "Augente 17,1542",
+		"real" : "7/4/2014",
+		"link" : "https://www.dawngate.com/news/detail/knuckled_25550"
+	},
+	{
+		"content" : "rainazalgus",
+		"title" : "Chronicles Prologue Part 41 - 42",
+		"name" : "Chronicles Prologue Part 41,Chronicles Prologue Part 42,Chronicles Prologue Part 43",
+		"tags" : "Zalgus,Raina",
+		"date" : "Mai 26,1543",
+		"real" : "7/9/2014",
+		"link" : "http://dawngatechronicles.com/prologue/41/,http://dawngatechronicles.com/prologue/42,http://dawngatechronicles.com/prologue/43" 
+	},
+	{
+		"content" : "rainazalguskindra",
+		"title" : "Chronicles Prologue Part 44",
+		"name" : "Chronicles Prologue Part 44",
+		"tags" : "Zalgus,Raina,Kindra",
+		"date" : "Mai 26,1543",
+		"real" : "7/16/2014",
+		"link" : "http://dawngatechronicles.com/prologue/44" 
+	},
+	{
+		"content" : "fenmorekindra",
+		"title" : "Chronicles Prologue Part 45 - 47",
+		"name" : "Chronicles Prologue Part 45,Chronicles Prologue Part 46,Chronicles Prologue Part 47",
+		"tags" : "Fenmore,Kindra",
+		"date" : "Junil 5,1543",
+		"real" : "7/18/2014",
+		"link" : "http://dawngatechronicles.com/prologue/45,http://dawngatechronicles.com/prologue/46,http://dawngatechronicles.com/prologue/47" 
+	},
+	{
+		"content" : "fenmorefreia",
+		"title" : "Chronicles Prologue Part 48-50",
+		"name" : "Chronicles Prologue Part 48,Chronicles Prologue Part 49,Chronicles Prologue Part 50",
+		"tags" : "Fenmore,Freia",
+		"date" : "Junil 6,1543",
+		"real" : "7/25/2014",
+		"link" : "http://dawngatechronicles.com/prologue/48,http://dawngatechronicles.com/prologue/49,http://dawngatechronicles.com/prologue/50" 
+	},
+	{
+		"content" : "fenmoresereyn",
+		"title" : "From the Correspondance of Marzgraf Fenmore",
+		"name" : "From the Correspondance of Marzgraf Fenmore",
+		"tags" : "Fenmore,Sereyn",
+		"date" : "Navamara 6,1542",
+		"real" : "7/31/2014",
+		"link" : "https://www.dawngate.com/news/detail/from-the-correspondance-of-marzgraf_26490"
+	},
+	{
+		"content" : "nissadibs",
+		"title" : "Chronicles Prologue Part 51",
+		"name" : "Chronicles Prologue Part 51",
+		"tags" : "Nissa,Dibs",
+		"date" : "Junil 8,1543",
+		"real" : "8/1/2014",
+		"link" : "http://dawngatechronicles.com/prologue/51/"
+	},
+	{
+		"content" : "fenmorefreianissakindra",
+		"title" : "Chronicles Prologue Part 52-55",
+		"name" : "Chronicles Prologue Part 52,Chronicles Prologue Part 53,Chronicles Prologue Part 54,Chronicles Prologue Part 55",
+		"tags" : "Fenmore,Freia,Nissa,Kindra",
+		"date" : "Junil 6,1543",
+		"real" : "8/4/2014",
+		"link" : "http://dawngatechronicles.com/prologue/52,http://dawngatechronicles.com/prologue/53,http://dawngatechronicles.com/prologue/54,http://dawngatechronicles.com/prologue/55"
+	},
+	{
+		"content" : "renzozerikom",
+		"title" : "Chronicles Prologue Part 56 - 59",
+		"name" : "Chronicles Prologue Part 56,Chronicles Prologue Part 57,Chronicles Prologue Part 58,Chronicles Prologue Part 59",
+		"tags" : "Renzo,Zeri,King of Masks",
+		"date" : "Junil 9,1543",
+		"real" : "8/13/2014",
+		"link" : "http://dawngatechronicles.com/prologue/56,http://dawngatechronicles.com/prologue/57,http://dawngatechronicles.com/prologue/58,http://dawngatechronicles.com/prologue/59"
+	},
+	{
+		"content" : "renzozerikahgen",
+		"title" : "Chronicles Prologue Part 60 - 62",
+		"name" : "Chronicles Prologue Part 60,Chronicles Prologue Part 61,Chronicles Prologue Part 62",
+		"tags" : "Renzo,Zeri,Kahgen",
+		"date" : "Junil 9,1543",
+		"real" : "8/22/2014",
+		"link" : "http://dawngatechronicles.com/prologue/60,http://dawngatechronicles.com/prologue/61,http://dawngatechronicles.com/prologue/62"
+	},
+	{
+		"content" : "mikellavex",
+		"title" : "Chronicles Prologue Part 63 - 67",
+		"name" : "Chronicles Prologue Part 63,Chronicles Prologue Part 64,Chronicles Prologue Part 65,Chronicles Prologue Part 66,Chronicles Prologue Part 67",
+		"tags" : "Mikella,Vex",
+		"date" : "Junil 9,1543",
+		"real" : "8/29/2014",
+		"link" : "http://dawngatechronicles.com/prologue/63,http://dawngatechronicles.com/prologue/64,http://dawngatechronicles.com/prologue/65,http://dawngatechronicles.com/prologue/66,http://dawngatechronicles.com/prologue/67"
+	},
+	{
+		"content" : "renzo",
+		"title" : "Arushti",
+		"name" : "Arushti",
+		"tags" : "Renzo",
+		"date" : "Fevriar 12, 1543",
+		"real" : "9/04/2014",
+		"link" : "https://www.dawngate.com/news/detail/arushti_28194"
+	},
+	{
+		"content" : "viyana",
+		"title" : "Chronicles Prologue Part 68 - 72",
+		"name" : "Chronicles Prologue Part 68,Chronicles Prologue Part 69,Chronicles Prologue Part 70,Chronicles Prologue Part 71,Chronicles Prologue Part 72",
+		"tags" : "Viyana",
+		"date" : "Junil 15,1543",
+		"real" : "9/8/2014",
+		"link" : "http://dawngatechronicles.com/prologue/68,http://dawngatechronicles.com/prologue/69,http://dawngatechronicles.com/prologue/70,http://dawngatechronicles.com/prologue/71,http://dawngatechronicles.com/prologue/72"
+	},
+	{
+		"content" : "kindrafenmore",
+		"title" : "Chronicles Prologue Part 73 - 75",
+		"name" : "Chronicles Prologue Part 73,Chronicles Prologue Part 74,Chronicles Prologue Part 75",
+		"tags" : "Kindra,Fenmore",
+		"date" : "Junil 15,1543",
+		"real" : "9/22/2014",
+		"link" : "http://dawngatechronicles.com/prologue/73,http://dawngatechronicles.com/prologue/74,http://dawngatechronicles.com/prologue/75"
+	}
+]

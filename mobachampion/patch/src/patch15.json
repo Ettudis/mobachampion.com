@@ -1,0 +1,72 @@
+{
+    "name": "Closed Beta: Patch 15",
+    "date" : "October 22, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><B>Desecrated Ground (E)</B></li><ul><li>The cooldown of this ability has been changed to 12 seconds at all ranks, from 14/13/12/11/10.</li><li>The range of this ability has been reduced to 850, down from 900.</li><li>The damage of this ability has been adjusted to 75/115/155/195/235, from 70/115/160/205/250.</li></ul><li><B>Death Fog (R)</B></li><ul><li>The cooldown of this ultimate ability has been increased to 120/110/100, up from 100/90/80.</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li><B>Passive - Steadfast</B></li><ul><li>The Armor and Magic Resist ratios on this passive ability have been removed. The amount healed is now equal to 10 + (1.5 * Level). This effect is doubled against Shapers.</li><li>The cooldown of this passive ability has been increased to 6 seconds, up from 5.</li></ul><li><B>Wisdom's Reach (R)</B></li><ul><li>The cooldown of this ultimate ability has been increased to 150/130/110, up from 130/115/100.</li><li>The damage of this ultimate ability has been reduced to 150/225/300, down from 150/235/320.</li></ul></ul>"
+		},
+		{
+			"id" : "Renzo",
+			"shaper" : "Renzo",
+			"data" : "<ul><li><B>Renzo's Embrace (W)</B></li><ul><li>The amount shielded by this ability has been increased to 65/115/165/215/265, up from 60/105/150/195/240.</li></ul><li><B>Masterpiece (R)</B></li><ul><li>The knock-up duration of this ultimate ability has been increased to 1 second, up from 0.85.</li></ul></ul>"
+		},
+		{
+			"id" : "Vex",
+			"shaper" : "Vex",
+			"data" : "<ul><li>Recommended items have been updated.</li><li><B>Grievous Wounds (W)</B></li><ul><li>The base percentage max health damage of this ability has been increased to 3/3.5/4/4.5/5%, up from 2/2.5/3/3.5/4%.</li><li>The duration of this ability when activated has been increased to 8 seconds, up from 7.</li></ul><li><B>Jagged Volley (E)</B></li><ul><li>The cooldown of this ability has been reduced to 14/13/12/11/10 seconds, down from 18/16/15/12/10.</li></ul><li><B>Splintering Spines (R)</B></li><ul><li>The tooltip for this ability has been updated to show the exact amount of damage the splash of this ability will do, rather than displaying it only as a percentage of your attack damage.</li><li>The duration of this ability when activated has been increased to 8 seconds, up from 7.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Spells</h4>"
+		},
+		{
+			"id" : "Blitz",
+			"spell" : "Blitz",
+			"data" : "<ul><li>The increased movement speed duration granted by this Spell has been reduced to 6 seconds, down from 8.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Shapers</h4>"
+		},
+		{
+			"id" : "Fenmore",
+			"shaper" : "Fenmore",
+			"data" : "<ul><li>Fixed a bug that allowed Fenmore to get credit for his own deaths.</li></ul>"
+		},
+		{
+			"id" : "Will",
+			"item" : "Will",
+			"class" : "Basic",
+			"data" : "<ul><li>Fixed a bug that was causing this item's passive ability not to work in certain circumstances.</li></ul>"
+		},
+		{
+			"id" : "Equilibrium",
+			"item" : "Equilibrium",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug that was causing this item's passive ability not to work in certain circumstances.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Chat</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Fixed a bug that caused the chat box to fade out if chat populates while in the process of typing.</li></ul>"
+		}
+    ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Patch 36.1",
+  "date": "October 7, 2014",
+  "patch": [
+    {
+      "id": "general",
+      "data": "<h2>Balance and Tuning</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Shapers</h3>"
+    },
+    {
+      "id": "Basko",
+      "shaper": "Basko",
+      "data": "<ul><li><b>Uprising (R)</b></li><ul><li> The projectile speed of this ability has been increased by 6%.</li></ul></ul>"
+    },
+    {
+      "id": "Dibs",
+      "shaper": "Dibs",
+      "data": "<ul><li><b>Nightmare (Q)</b></li><ul><li> The power ratio of the allied proc damage portion of this ability has been reduced to 0.6, down from 0.7.</li></ul><li><b>Dreamwrap (W)</b></li><ul><li> The movement speed granted by this ability has been reduced to 20/22.5/25/27.5/30%, down from 30/30/30/30/30%.</li><li> The duration of a single activation of this ability has been reduced to 3 seconds, down from 4 seconds.</li><li> The power ratio of this ability has been reduced to 0.35 per stack, down from 0.4 per stack. </li></ul></ul>"
+    },
+    {
+      "id": "Freia",
+      "shaper": "Freia",
+      "data": "<ul><li>Fixed a bug which was causing the buff indicator circles to disappear off Freia.</li></ul>"
+    },
+    {
+      "id": "Mina",
+      "shaper": "Mina",
+      "data": "<ul><li><b>Key to the Heart (W)</b></li><ul><li> The duration of the fear component of this ability has been reduced to 0.5 seconds, down from 0.75 seconds.</li></ul></ul>"
+    },
+    {
+      "id": "Ronan",
+      "shaper": "Ronan",
+      "data": "<ul><li><b>On the House(E)</b></li><ul><li> The maximum base damage of this ability has been increased to 60/95/130/165/200, up from 50/80/110/140/170.</li><li> The minimum base damage of this ability has been increased to 40/65/90/115/140, up from 35/50/65/80/95.</li></ul><li><b>Reckoning (R)</b></li><ul><li> The basic attack damage bonus granted by this ability has been increased to 50/75/100, up from 35/60/85.</li></ul></ul>"
+    },
+    {
+      "id": "Sakari",
+      "shaper": "Sakari",
+      "data": "<ul><li><b>Frost Shaper - Black Ice (Passive)</b></li><ul><li> The power ratio of this passive has been increased to 0.075, up from 0.05.</li></ul><li><b>Iceberg (W)</b></li><ul><li> Fixed a bug where Shapers would occasionally get incorrectly force-moved by an Iceberg when they should have been unaffected by its placement.</li><li> The number of Ice Shards Sakari can store is now based on ability rank and has been reduced to 2/3/4/5/5, down from 5/5/5/5/5.</li></ul></ul>"
+    },
+    {
+      "id": "Tess",
+      "shaper": "Tess",
+      "data": "<ul><li><b>Bombshell (Q)</b></li><ul><li> The power ratio of the primary hit portion of this ability has been increased to 0.8, up from 0.5.</li><li> The power ratio of the splash damage portion of this ability has been increased to 0.4, up from 0.3.</li><li> The total damage of the empowered version of this ability has been reduced to 175% of a single use of this ability, down from 200%.</li></ul></ul>"
+    },
+    {
+      "id": "Varion",
+      "shaper": "Varion",
+      "data": "<ul><li><b>Celerity Shell (Q)</b></li><ul><li> The cooldown of this ability has been increased to 11/10/9/8/7, up from 10/9/8/7/6.</li><li> The base damage of this ability has been reduced to 55/100/145/190/235, down from 65/110/155/200/245.</li></ul></ul>"
+    },
+    {
+      "id": "Assimilation",
+      "itemp": "Assimilation",
+      "class": "Legendary",
+      "data": "<ul><li>Fixed a bug where the Undying Storm passive effect of this item would fail to trigger if the target died past a certain distance away from you.</li><li>The base heal amount of this item's Undying Storm passive has been increased to 100, up from 75.</li></ul>"
+    },
+    {
+      "id": "Duress",
+      "itemp": "Duress",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 2700, up from 2630.</li><li>Haste has been reduced to 40, down from 45.</li><li>The cooldown reduction component of the Netherbind passive will now only trigger against the primary target so that Fate will no longer reduce its cooldown.</li><li>The cooldown of the Netherbind passive has been increased to 15, up from 10.</li><li>The Netherbind passive now has diminishing returns when applied in rapid succession. Attempting to root a target with Netherbind that has been affected by a previous Netherbind within the last 5 seconds will result in the root duration being reduced to 50% of the previous root's duration.</li></ul>"
+    },
+    {
+      "id": "Faith",
+      "itemp": "Faith",
+      "class": "Legendary",
+      "data": "<ul><li>The shield charge interval has been reduced to 3 seconds, down from 4 seconds.</li></ul>"
+    },
+    {
+      "id": "Grace",
+      "itemp": "Grace",
+      "class": "Legendary",
+      "data": "<ul><li><b>Fixed a bug where the Zephyr Aura passive effect of this item would fail to trigger if the target died past a certain distance away from you.</b></li><li><b>The duration of the movement speed granted by the Zephyr Aura passive has been increased to 3 seconds, up from 2 seconds.</b></li><li><b>Added a particle effect upon activating the Zephyr Aura passive.</b></li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Bugs</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Brilliance Passive</h5>"
+    },
+    {
+      "id": "general",
+      "data": "Fixed a bug affecting Corruption, Furor, Grace, Influence and Zeal where the Brilliance passive would provide the incorrect amount of Spellbook cooldown reduction if you had multiple instances of the passive and you sold one of these items."
+    },
+    {
+      "id": "general",
+      "data": "<h5>Silence</h5>"
+    },
+    {
+      "id": "general",
+      "data": "Fixed a bug where this status effect could interrupt a basic attack if applied before the projectile was launched."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Closed Beta: Patch 19",
+    "date" : "November 27, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shapers</h5>"
+		},
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li>Fixed a bug that was causing Amarynth to occasionally fire multiple instances of her abilities.</li></ul>"
+		},
+		{
+			"id" : "King of Masks",
+			"shaper" : "King of Masks",
+			"data" : "<ul><li>Fixed a bug that was causing the visual effects for Captivate (Q) to extend past the first target struck.</li><li>Fixed a bug that was causing the King of Masks to occasionally fire multiple instances of his abilities.</li><li>Fixed a bug that was causing the Endless Delights (E) to not deal area of effect damage.</li></ul>"
+		}
+	]
+}

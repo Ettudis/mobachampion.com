@@ -1,0 +1,31 @@
+{
+    "name": "Closed Beta: Patch 14",
+    "date" : "October 16, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3>"
+		},
+        {
+            "id" : "general",
+            "data" : "<img src=\"http://i.imgur.com/kfkK1LX.png\">"
+        },
+		{
+			"id" : "general",
+			"data" : "<h4>Shapers</h4>"
+		},
+		{
+			"id" : "Vex",
+			"shaper" : "Vex",
+			"data" : "<ul><li>Updated ability icons for Vex.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Map</h4><ul><li>Added some Jack-O-Lanterns to the Locus just to add a little Halloween flair to the map.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Custom Games</h4><i>Developer Note: We have internally been working on an update to the existing map. In order to collect feedback on the direction of the map revision we are allowing the in progress map to be created in custom games. This map is intended to eventually replace the existing map and features a variety of changes such as an overall size increase, longer and wider lanes, moving the parasite to the center of his alcove, and adding additional bindings near the Guardian that will spawn ranged siege striders when destroyed. <BR><BR>Please note that this map is in progress and as a result features extremely early and incomplete art assets.</i><ul><li>Players may now choose the work in progress map of the Dawngate when creating a custom game. We encourage players who desire to give us feedback on this iteration of The Dawngate map to play it and post feedback on the Forums, or in the Subreddit.</li><li>To choose the new map, take the following steps:</li><ul><li>Select \"Play\" in the front-end client.</li><li>Select \"Custom\"</li><li>At the Custom Game list hit the \"Create Game\" button.</li><li>After selecting a game name and a skill level, drop down the \"Map:\" dialogue and choose \"Map, Work In Progress.\"</li><li>Hit \"Create\"</li><li>When the game is ready to be launched hit \"Start Game\"</li></ul></ul>"
+		}
+	]
+}

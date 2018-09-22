@@ -1,0 +1,271 @@
+{
+  "name": "Patch 37",
+  "date": "October 21, 2014",
+  "patch": [
+    {
+      "id": "general",
+      "data": "<h3>New Shaper</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h4>Lillin, the Old Guard</h4>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Passive: Pure Shaper - Chastise</b></li><ul><li> Lillin may cast her abilities freely. Lillin's abilities deal bonus magical damage to enemy Shapers based on the target's bonus Health.</li></ul><li><b>Q - Fool's Fire</b></li><ul><li> Lillin summons shades that seek out and damage target enemy. Creates more shades per enemy Shaper hit with Consecrate.</li></ul><li><b>W - Rebuke</b></li><ul><li> Passive: Lillin gains percent bonus defense penetration.</li><li> Active: Lillin releases a massive wave in target direction, damaging enemies. Closer enemies take more damage and are knocked back.</li></ul><li><b>E - Consecrate</b></li><ul><li> Lillin creates a massive plume of fire in target direction, damaging minions passed through. Detonates when hitting a Shaper or at max range, damaging and marking enemies for Fool's Fire.</li></ul><li><b>R - Invocation</b></li><ul><li> Lillin summons the spirit of Divinity to destroy target enemy Shaper. For a short time, the target has a large percent of their Magic Resistance shredded before the spirit fires a projectile at them, dealing massive damage. This projectile can be blocked by other enemy Shapers.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "Lillin is a ranged, magical damage Burst Mage who specializes in bringing down even the toughest targets. Lillin's early game is most easily spent as a Tactician by using her powerful burst to harass and zone enemy Shapers. While Lillin can make a potent Gladiator as well, it can be more difficult to take advantage of her superior burst. What Lillin lacks in mobility, she makes up for in raw power and synergy with other Mages - consider laning or teaming Lillin with another burst Mage for potentially devastating combos. Lillin is more vulnerable than your average Mage in Dawngate, lacking both mobility and long-range crowd control - be careful with your positioning and use your knockback effectively to stay alive."
+    },
+    {
+      "id": "general",
+      "data": "<h3>Environment</h3>"
+    },
+    {
+      "id": "general",
+      "data": "The Dawngate map is now SpoOooOooOoOky."
+    },
+    {
+      "id": "general",
+      "data": "<h3>Quality of Life</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Casting Mode</h5>"
+    },
+    {
+      "id": "general",
+      "data": "Users can now toggle pings and chat on/off in this mode."
+    },
+    {
+      "id": "general",
+      "data": "<h5>Pre-Game Chat</h5>"
+    },
+    {
+      "id": "general",
+      "data": "Lobby chat is now persistent when navigating across screens in the client."
+    },
+    {
+      "id": "general",
+      "data": "<h5>In-Game Chat</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Chat scrolling has been enabled.</li><li>Chat no longer scales and should be readable at all resolutions and client modes.</li><li>Chat now fits properly across all game modes (Spectator vs. Non-spectator, Swapped Mini-map vs. Non-swapped Mini-map, etc.)</li><li>Certain actions will now cause left clicks to pass through the Chat Window so that the input is not blocked when attempting in-game actions.</li><li>When you hit your chat button (Default: \"Enter\"), chat will enter a \"Focused\" state where it becomes more visible.</li><li>If chat is in the \"Focused\" state, scrolling will keep it in the \"Focused\" state and vice versa.</li><li>You can now click on \"All\", \"Team\" and \"Player Names\" to allow whispers and channel changes in-game.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h2>Balance and Tuning</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Shapers</h3>"
+    },
+    {
+      "id": "Ashabel",
+      "shaper": "Ashabel",
+      "data": "<ul><li><b>Wrath of Heaven (R)</b></li><ul><li> The variable travel time on this ability has been removed. This ability will now always land 1.5 seconds after Ashabel launches the projectile, down from between 1.5 seconds and 2.5 seconds.</li></ul></ul>"
+    },
+    {
+      "id": "Mikella",
+      "shaper": "Mikella",
+      "data": "<ul><li><b>Mikella now has a passive: Compound Interest (Passive)</b></li><ul><li> Mikella's attacks and abilities apply marks of Compound Interest for 2 seconds. The fourth consecutive attack or ability against the same target will consume the marks to deal between 20-100 (+30% Power), based on level.</li></ul></ul>"
+    },
+    {
+      "id": "Salous",
+      "shaper": "Salous",
+      "data": "<ul><li><b>Salous now has a passive: Inner Calm, Outer Storm (Passive)</b></li><ul><li> Salous's Movement Speed is increased by between 8% and 20% based on the number of enemy Shapers he has damaged with a basic attack or ability in the last 5 seconds.</li></ul><li><b>Judgment (Q)</b></li><ul><li> The initial hit base damage of this ability has been reduced to 30/45/60/75/90, down from 35/50/65/80/95.</li><li> The secondary activation damage of this ability has been reduced to 70/85/100/115/130, down from 75/90/105/120/135.</li></ul><li><b>Spirit Seals (W)</b></li><ul><li> This ability is now additionally tagged as \"Damage Over Time\" in addition to \"Area of Effect\".</li></ul><li><b>Penance (E)</b></li><ul><li> The base damage of this ability has been reduced to 50/85/120/155/190, down from 70/110/150/190/230.</li></ul></ul>"
+    },
+    {
+      "id": "Vex",
+      "shaper": "Vex",
+      "data": "<ul><li><b>Skewer (Q)</b></li><ul><li> This ability will now cast slightly faster to be more in line with the animation.</li></ul></ul>"
+    },
+    {
+      "id": "Viyana",
+      "shaper": "Viyana",
+      "data": "<ul><li><b>Needle (Q)</b></li><ul><li> The power ratio of this ability has been increased to 0.6, up from 0.5.</li></ul><li><b>Pure Blood (W)</b></li><ul><li> Consecutive blood orbs will now deal 60% damage, up from 35%.</li></ul><li><b>Exsanguinate (R)</b></li><ul><li> The range of this ability has been increased to 650, up from 575.</li></ul></ul>"
+    },
+    {
+      "id": "Voluc",
+      "shaper": "Voluc",
+      "data": "<ul><li><b>Curse of Weakness (W)</b></li><ul><li> The initial base damage of this ability has been reduced to 30/45/60/75/90, down from 30/55/80/105/130.</li></ul><li><b>Devour (E)</b></li><ul><li> The base damage of this ability has been reduced to 55/95/135/175/215, down from 55/100/145/190/235.</li></ul><li><b>Damnation(R)</b></li><ul><li> The base damage of this ability has been reduced to 175/300/425, down from 200/325/450.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Items</h3>"
+    },
+    {
+      "id": "general",
+      "data": "Items that have scaling values in their unique passives will now take into account their own stats when they pre-compute the value when viewed in the item store before purchasing."
+    },
+    {
+      "id": "Ambition",
+      "itemp": "Ambition",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has  been increased to 2700, up from 2555.</li><li>The Power granted by this item has been reduced to 25, down from 30.</li><li>The Armor granted by this item has been reduced to 25, down from 30.</li></ul>"
+    },
+    {
+      "id": "Consumption",
+      "itemp": "Consumption",
+      "class": "Advanced",
+      "data": "<ul><li>The Power granted by this item has been increased to 35, up from 30.</li></ul>"
+    },
+    {
+      "id": "Desire",
+      "itemp": "Desire",
+	  "class": "Advanced",
+      "data": "<ul><li>The price of this item has been reduced to 1200, down from 1500.</li><li>This Armor granted by this item has been reduced to 25, down from 30.</li></ul>"
+    },
+    {
+      "id": "Potency",
+      "itemp": "Potency",
+      "class": "Legendary",
+      "data": "<ul><li>The Stormcall passive now deals 5% of the target's maximum health instead of 6% of their current health.</li></ul>"
+    },
+    {
+      "id": "Strife",
+      "itemp": "Strife",
+      "class": "Legendary",
+      "data": "<ul><li>The diminishing return percentage for each additional stack of the Soul Master passive has been reduced to 0.5%, down from 1%.</li></ul>"
+    },
+    {
+      "id": "Voracity",
+      "itemp": "Voracity",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been reduced to 3000, down from 3025.</li><li>The Rising Hunger passive now grants 7 Power per stack, up from 6.</li></ul>"
+    },
+    {
+      "id": "Wisdom",
+      "itemp": "Wisdom",
+      "class": "Advanced",
+      "data": "<ul><li>Updated the tool-tip of this item to calculate and display the amount of Power the passive will provide you.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h2>General</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>First Time Player Practice Mode</h5>"
+    },
+    {
+      "id": "general",
+      "data": "The bots in this mode have been adjusted to be less aggressive."
+    },
+    {
+      "id": "general",
+      "data": "<h5>Practice Mode</h5>"
+    },
+    {
+      "id": "general",
+      "data": "Fixed a bug which would cause Raina Bot to frequently steal last hits from allied Gladiators."
+    },
+    {
+      "id": "general",
+      "data": "<h3>Bugs</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Abilities</h5>"
+    },
+    {
+      "id": "general",
+      "data": "Fixed a bug which would allow area of effect crowd control abilities to apply to a target that Blinked in the same frame that the crowd control triggered."
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Fixed a bug where blinking away from certain abilities as they were being cast would result in the ability resolving and the target still being hit by them at their blink location. The following abilities have been affected by this change:</b></li><li><b>Cerulean</b></li><ul><li> Impale (E)</li></ul><li><b>Flin</b></li><ul><li> Field Ration (E)</li></ul><li><b>Freia</b></li><ul><li> Gouge (Q)</li><li> Crippling Blow (E)</li></ul><li><b>Kindra</b></li><ul><li> Shadowstep (E)</li></ul><li><b>Petrus</b></li><ul><li> Reprimand (Q)</li><li> Maridian Education (R)</li></ul><li><b>Renzo</b></li><ul><li> Inspiring Strike (Q)</li></ul><li><b>Salous</b></li><ul><li> Penance (E)</li></ul><li><b>Viridian</b></li><ul><li> Heartstrike (E)</li></ul><li><b>Viyana</b></li><ul><li> Exsanguinate (R)</li></ul><li><b>Zeri</b></li><ul><li> Desaturate (E)</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "Fixed a bug where certain abilities would incorrectly go on cooldown if silenced during the beginning of the cast. The following abilities have been affected by this change:"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Ashabel</b></li><ul><li> Gale (Q)</li></ul><li><b>Sakari</b></li><ul><li> Ice Lance (Q)</li></ul><li><b>Vex</b></li><ul><li> Skewer (Q)</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "Fixed a bug where certain abilities would follow the target for extremely long distances if they were to recall or use a long distance movement ability. The following abilities have been affected by this change:"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Basko</b></li><ul><li> Revolt (Q)</li></ul><li><b>Cerulean</b></li><ul><li> Shore's Calling (R)</li></ul><li><b>Freia</b></li><ul><li> Blinding Speed (W)</li></ul><li><b>Kel</b></li><ul><li> Titanic Charge (R)</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>General</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Updated the error messaging in the Patcher to be more informative.</li><li>Updated the \"Help\" section.</li><li>Fixed a bug which prevented proper detection of Dawngate for discrete GPU use on systems with switchable graphics.</li><li>Fixed a bug which caused a new player's Avatar icon to appear blank.</li><li>Fixed a bug which caused text in the \"Options\" screen to display improperly when first opened.</li><li>Fixed a bug which allowed the host of a game to change region selection while in a group lobby.</li><li>Fixed a bug which would sometimes add players to the matchmaking queue after a custom game was aborted in Shaper Select.</li><li>Fixed a bug which caused the Spirit Well HUD indicator to display incorrect information.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Items</h5>"
+    },
+    {
+      "id": "Influence",
+      "itemp": "Influence",
+      "class": "Legendary",
+      "data": "<ul><li>Fixed a bug which prevented the Unstoppable passive on Influence from affecting the Relentless passive on Pursuit.</li></ul>"
+    },
+    {
+      "id": "Assimilation",
+      "itemp": "Assimilation",
+      "class": "Legendary",
+      "data": "<ul><li>Fixed a bug which would cause the Undying Storm passive on this item to not heal you if you were too far away from the kill.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Shapers</h5>"
+    },
+    {
+      "id": "Freia",
+      "shaper": "Freia",
+      "data": "<ul><li>Fixed a bug that would cause the visual effects for jungle buffs to disappear from Freia.</li></ul>"
+    },
+    {
+      "id": "Kahgen",
+      "shaper": "Kahgen",
+      "data": "<ul><li>Fixed a bug which caused a Shaper to become stuck in a falling animation when pulled by this ability while they were falling.</li></ul>"
+    },
+    {
+      "id": "King of Masks",
+      "shaper": "King of Masks",
+      "data": "<ul><li><b>Flourish (W)</b></li><ul><li> Updated the tool-tip on this ability to reflect the fact that it cannot be used to dash over terrain.</li></ul></ul>"
+    },
+    {
+      "id": "Mikella",
+      "shaper": "Mikella",
+      "data": "<ul><li><b>Waltz (E)</b></li><ul><li> Updated the tool-tip on this ability to reflect the fact that it cannot be used to dash over terrain.</li></ul></ul>"
+    },
+    {
+      "id": "Mina",
+      "shaper": "Mina",
+      "data": "<ul><li><b>Key to the Heart (W)</b></li><ul><li> Fixed a bug which would cause some on hit effects to affect Mina while she was riding another Shaper rather than applying to the host.</li></ul></ul>"
+    },
+    {
+      "id": "Ronan",
+      "shaper": "Ronan",
+      "data": "<ul><li><b>Bolt (Q)</b></li><ul><li> Fixed a bug where this ability could be used while rooted.</li></ul></ul>"
+    },
+    {
+      "id": "Viridian",
+      "shaper": "Viridian",
+      "data": "<ul><li><b>Deep Rising (R)</b></li><ul><li> Fixed a bug which caused the target of this ability to become permanently rooted.</li></ul></ul>"
+    },
+    {
+      "id": "Voluc",
+      "shaper": "Voluc",
+      "data": "<ul><li><b>Sentinel Strike (Q)</b></li><ul><li> Fixed a bug where activating this ability would reset Voluc's basic attack cooldown but not cleave correctly.</li></ul></ul>"
+    },
+    {
+      "id": "Zeri",
+      "shaper": "Zeri",
+      "data": "<ul><li><b>Desaturate (E)</b></li><ul><li> Fixed a bug which allowed this ability to reset basic attacks on her target.</li></ul></ul>"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Closed Beta: Patch 10",
+    "date" : "August 23, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>A large amount of tuning to many Shapers, and the introduction of our Ping Wheel! We hope that Ping Wheel will allow players to communicate with each other in a more efficient manner! Enjoy the Dawngate this weekend!</p>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>New Feature: Ping Wheel</h3><img src=\"http://i.imgur.com/2qjki7l.png\"><p><i>Developer Note: We added the Ping Wheel into the game to allow for increased communication across teammates in a wider array of scenarios, particularly with the hope to increase the flow of communication and teamwork in solo queue games. Players playing through all roles and phases of the game should be able to better convey critical information or intent.</i></p><h5>Ping Wheel</h5><ul><li>The Ping Wheel can be accessed by holding down any of the \"Ping\" keys (Ctrl, Alt, V or G) and left-click dragging the mouse in the desired direction.</li><li>New ping functions include: (starting at the top of the Ping Wheel and going clock-wise) Danger, On My Way, Missing, Retreat, and Attention.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4><i><b>Developer Notes:</b> On Movement Speed Changes: We've updated the base movement speeds of the different archetypes to have a larger disparity between the slowest and fastest archetypes in order to more accurately support their intended gameplay. Ranged carries and ranged mages, for example, are intended to have to be careful with their positioning to counterbalance the fact that they can deal quite a bit of damage from a safe distance, as a result the movement speed of these archetypes has been reduced. Similarly, the movement speed of archetypes who greatly expose themselves in order to do damage, such as melee carries, has been increased. On Tank Haste Ability Ratio: All tanks were scaling a little too well with Haste across the board. We've slightly reduced the amount of CDR tanks get from Haste to bring their power curve more in line with the other archetypes. </i>"
+        },
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li>Base Movement Speed reduced to 380, down from 385.</li></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li>The Haste ratio on all of Desecrator's abilities have been reduced to 0.5, down from 0.6.</li><li><B>Forgotten Tombs (Q)</B></li><ul><li>The base damage of this ability has been reduced to 55/95/135/175/215, down from 60/105/150/195/235.</li><li>The base damage of the first gravestone has been reduced to 90/140/190/240/290, down from 95/150/205/260/315.</li><li>The power ratio of the first gravestone has been reduced to 0.9, down from 1.0.</li></ul><li><B>Chilling Presence (W)</B></li><ul><li>The slow duration of this ability has been reduced to 2 seconds, down from 3 seconds.</li><li>The tooltip of this ability has been updated to specify that the silence and extra damage apply only to the primary target, and thus do not get propagated by the item Fate.</li></ul></ul>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li><B>Nightmare (Q)</B></li><ul><li>The base damage of this ability has been reduced to 60/105/150/195/240, down from 70/120/170/220/270.</li></ul></ul>"
+		},
+		{
+			"id" : "Fenmore",
+			"shaper" : "Fenmore",
+			"data" : "<ul><li>Base Movement Speed reduced to 380, down from 385.</li></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li>Base Movement Speed reduced to 380, down from 385.</li></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li>The Haste ratio on all of Kel's abilities have been reduced to 0.5, down from 0.6.</li></ul>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li>Base Movement Speed reduced to 370, down from 385.</li></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Shock (W)</B></li><ul><li>The slow that this ability applies will now affect all targets hit by the item Fate's additional projectiles.</li></ul><li><B>Recharge (E)</B></li><ul><li>The healing granted by this ability will now apply from all targets hit by the item Fate's additional projectiles.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li>Base Movement Speed reduced to 370, down from 385.</li><li><B>Final Flight (R)</B></li><ul><li>The base damage of this ability has been reduced to 125/225/325 per hit, down from 150/250/350.</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li>The Haste ratio on all of Raina's abilities have been reduced to 0.5, down from 0.6.</li><li><B>Shockwave (E)</B></li><ul><li>The base damage of this ability has been reduced to 50/90/130/170/210, down from 60/100/140/180/220.</li></ul></ul>"
+		},
+		{
+			"id" : "Varion",
+			"shaper" : "Varion",
+			"data" : "<ul><li>Base Movement Speed reduced to 370, down from 385.</li></ul>"
+		},
+		{
+			"id" : "Zeri",
+			"shaper" : "Zeri",
+			"data" : "<ul><li>Zeri's Recommended Items have been updated.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Spells</h4>"
+        },
+		{
+			"id" : "Blitz",
+			"spell" : "Blitz",
+			"data" : "<i><b>Developer Note:</b> While Blitz has been an excellent tool for melee shapers trying to close in or chase, ranged shapers are currently a little too effective with it due to their inherently higher level of safety. Reducing the immunity duration for ranged shapers will still allow them to block incoming disables with a clutch Blitz activation, but limit their ability to make guaranteed escapes or unstoppable offenses.</i><ul><li>The Crowd Control Immunity has been adjusted to differentiate between Ranged and Melee Shapers. Melee Shapers are now immune for 4 seconds, while Ranged Shapers are only immune for 2 seconds.</li></ul>"
+		},
+		{
+			"id" : "Stagger",
+			"spell" : "Stagger",
+			"data" : "<ul><li>The max distance slow duration has been reduced to 2.5 seconds, down from 3 seconds.</li></ul>"
+		},
+		{
+			"id" : "Tailwind",
+			"spell" : "Tailwind",
+			"data" : "<ul><li>The visual effects of this spell have been updated.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Items</h4>"
+        },
+		{
+			"id" : "Fate",
+			"item" : "Fate",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fate now specifies that it does not propagate effects that are listed as applying only to the primary target.</li></ul>"
+		},
+		{
+			"id" : "Insight",
+			"item" : "Insight",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Puncture passive ability on this item has been redesigned. Puncture now causes your next basic attack to deal bonus true damage every 3 seconds, this is changed from dealing bonus true damage ever 3rd attack.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Perks / Loadouts</h4>"
+        },
+		{
+			"id" : "Resonance Loadout",
+			"loadout" : "Resonance Loadout",
+			"data" : "<ul><li>The base damage of this Loadout's passive has been reduced to 5-14 (based on level) per stack, down from 5-18 (based on level) per stack.</li><li>The Power ratio on this Loadout's passive has been reduced to 0.03 per stack, down from 0.075 per stack.</li><li>This Loadout's passive, Resonance, now only applies to your primary target.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Roles</h4>"
+        },
+		{
+			"id" : "Predator",
+			"role" : "Predator",
+			"data" : "<i>Developer Note: The change we made to Predator last week was to cause the role to correctly scale with the target's killstreak or deathstreak modified bounty. Since assists are inherently worth less than Kills, this resulted in the change reducing the Predator reward from assists in two ways, resulting in the role getting lower than intended rewards from assists. The role will now provide a larger bonus from assists than from kills to offset this. While still providing less total vim from assists than when the role provided a static bonus, it should now be significantly more desirable to get an assist as a Predator.</i><ul><li>The bonus Vim and experience gained from scoring an assist on an enemy Shaper has been increased to 180% of normal value, up from 135% of the normal value. The bonus Vim and experience gained from killing an enemy Shaper remains at 135%.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Map</h4>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Spirit Wells</h5><i>Developer Note: We've moved the accrued bounty on Spirit Wells to Well capture instead of on killing workers since the accrued bounty is a global award. With capturing a well being a global award, and worker bounties being area reward, it is more consistent for this to be appended to the base well bounty.</i><ul><li>The accrued bounty on Spirit Wells equal to 50% of the total Vim that well has mined since its capture has been moved to being awarded on capturing the well instead of being partially awarded via killing workers with the full amount being distributed across each worker.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>General</h4><h5>General</h5><ul><li>Players on a deathstreak who get an assist will now have their death streak progress reversed by one death instead of resetting their death streak progress entirely. Players who get a kill still reset their death streaks entirely.</li></ul>"
+        }
+	]
+}

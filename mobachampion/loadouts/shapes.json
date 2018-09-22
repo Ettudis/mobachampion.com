@@ -1,0 +1,1609 @@
+{
+	"special" : 
+		[
+			{
+			  "name": "Spiritstone of the Outrider",
+			  "special" : "Outrider",
+			  "bonus": "Unique Passive - Outrider: You gain 10% increased Movement Speed until you enter combat. Outrider refreshes 5 seconds without dealing damage.",
+			  "img": "shapes/ui_perks_shape_harrier",
+			  "area" : "52,11,1_112,014_01,11,34_51,311",
+			  "id" : "0",
+			  "gems": [
+				{
+					"color" : "combo",
+					"offset" : "0,-1.0",
+					"pos" : "64,16_240,64_64,240_16,64"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.6,0",
+					"pos" : "128,128_128,128_0,128_128,0"
+				},
+				{
+					"color" : "green",
+					"offset" : "-0.6,0",
+					"pos" : "0,128_128,0_128,128_128,128"
+				},
+				{
+					"color" : "combo",
+					"offset" : "-0.6,1.2",
+					"pos" : "0,256_0,0_128,0_256,128"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Ravager",
+			  "special" : "Ravager",
+			  "bonus": "Unique Passive - Ravager: You gain Power each second while in combat, to a maximum of 7 to 26 Power after 10 seconds.",
+			  "img": "shapes/ui_perks_shape_Berserker",
+			  "area" : "051,111_1,12,11_111,14_11,31,01",
+			  "id" : "1",
+			  "gems": [
+				{
+					"color" : "combo",
+					"offset" : "1.2,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "green",
+					"offset" : "1.2,0.6",
+					"pos" : "256,128_0,256_0,0_128,0"
+				},
+				{
+					"color" : "green",
+					"offset" : "0,0.6",
+					"pos" : "128,128_0,128_128,0_128,128"
+				},
+				{
+					"color" : "green",
+					"offset" : "-1.2,0.6",
+					"pos" : "0,128_0,0_256,0_128,256"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Brawler",
+			  "special" : "Brawler",
+			  "bonus": "Unique Passive - Brawler: You gain 3 to 6 Armor and Magic Resist for each nearby enemy shaper.",
+			  "img": "shapes/ui_perks_shape_Brawler",
+			  "area" : "001,001,111_1,1,111_111,1,1_111,001,001",
+			  "id" : "2",
+			  "gems": [
+				{
+					"color" : "combo",
+					"offset" : "1.2,-1.2",
+					"pos" : "256,0_256,256_0,256_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "1.2,0",
+					"pos" : "128,256_0,128_128,0_256,128"
+				},
+				{
+					"color" : "red",
+					"offset" : "1.2,1.2",
+					"pos" : "256,256_0,256_0,0_256,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0,1.2",
+					"pos" : "256,128_128,256_0,128_128,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "-1.2,1.2",
+					"pos" : "0,256_0,0_256,0_256,256"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Hoplite",
+			  "special" : "Hoplite",
+			  "bonus": "Unique Passive - Hoplite: You gain bonus Power equal to 10% of your Armor.",
+			  "img": "shapes/ui_perks_shape_Bullwark",
+			  "area" : "111,314_51,11,31_512,111_12,11,14",
+			  "id" : "3",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "-1.1,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "green",
+					"offset" : "1.1,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0,0.6",
+					"pos" : "128,128_0,128_128,0_128,128"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Reaper",
+			  "special" : "Reaper",
+			  "bonus": "Unique Passive - Reaper: You gain 30 Power for 10 seconds whenever you score a kill or assist.",
+			  "img": "shapes/ui_perks_shape_reaper",
+			  "area" : "111,104,1_111,001,031_001,501,111_12,1,111",
+			  "id" : "4",
+			  "gems": [
+			  	{
+					"color" : "green",
+					"offset" : "-1.25,-1.2",
+					"pos" : "0,0_256,0_256,256_0,256"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "0,-1.2",
+					"pos" : "128,0_256,128_128,256_0,128"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "1.2,-1.2",
+					"pos" : "256,0_256,256_0,256_0,0"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "-1.25,0",
+					"pos" : "0,128_128,0_256,128_128,256"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "-1.25,1.2",
+					"pos" : "0,256_0,0_256,0_256,256"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Scavenger",
+			  "special" : "Scavenger",
+			  "bonus": "Unique Passive - Scavenger: Your Movement Speed is increased by 10% if you can see a nearby enemy shaper with less than 40% Health remaining.",
+			  "img": "shapes/ui_perks_shape_9",
+			  "area" : "002,1112,14_11,31,014,04_0041,3111,03_05,51,012,011",
+			  "id" : "5",
+			  "gems": [
+			  	{
+					"color" : "green",
+					"offset" : "0.55,-0.65",
+					"pos" : "244,64_180,244_140,192_140,64"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "1.25,0.1",
+					"pos" : "306,134_120,304_70,120_64,140"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "-1.8,0",
+					"pos" : "0,128_128,0_384,128_128,384"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "-0.6,0",
+					"pos" : "128,128_128,128_256,128_128,256"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "-1.8,1.2",
+					"pos" : "0,256_0,0_384,0_256,384"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Adventurer",
+			  "special" : "Adventurer",
+			  "bonus": "Unique Passive - Adventurer: Your Movement Speed is increased by 8% while in tall grass.",
+			  "img": "shapes/ui_perks_shape_Adventurer",
+			  "area" : "1111,011_01,11,11,01_011,1111_1,11,11,1",
+			  "id" : "6",
+			  "gems": [
+			  	{
+					"color" : "combo",
+					"offset" : "-1.8,-0.6",
+					"pos" : "0,0_128,0_384,128_0,384"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "-0.6,-0.6",
+					"pos" : "128,0_128,128_256,128_0,256"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,0_128,256_128,128_0,128"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "1.8,-0.6",
+					"pos" : "384,0_128,384_0,128_0,0"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "-0.6,0.6",
+					"pos" : "128,128_0,128_256,0_128,256"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "0.6,0.6",
+					"pos" : "256,128_0,256_128,0_128,128"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Berserker",
+			  "special" : "Berserker",
+			  "bonus": "Unique Passive - Berserker: You take 5% less damage for 2 seconds after damaging an enemy shaper. Items and Spells will not trigger Berserker.",
+			  "img": "shapes/ui_perks_shape_bravado",
+			  "area" : "05,51,11,11_112,1112_11,11,14,4_3111,0311",
+			  "id" : "7",
+			  "gems": [
+			  	{
+					"color" : "combo",
+					"offset" : "0.6,-0.6",
+					"pos" : "128,128_256,128_0,256_128,0"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "-0.6,0.6",
+					"pos" : "0,256_128,0_128,128_256,128"
+				},
+			  	{
+					"color" : "red",
+					"offset" : "0.6,0.6",
+					"pos" : "128,256_128,128_0,128_256,0"
+				},
+			  	{
+					"color" : "red",
+					"offset" : "-0.6,1.8",
+					"pos" : "0,384_0,0_128,0_384,128"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "0.6,1.8",
+					"pos" : "128,384_0,128_0,0_384,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Rogue",
+			  "special" : "Rogue",
+			  "bonus": "Unique Passive - Rogue: Immediately after being not visible to the enemy team, you will ready a Sneak Attack, causing your next basic attack against an enemy shaper to deal 12 to 75 (+0.1) additional magical damage.",
+			  "img": "shapes/ui_perks_shape_lurker",
+			  "area" : "11,111,001_011,011,110_1,111,011_011,11,11",
+			  "id" : "8",
+			  "gems": [
+			  	{
+					"color" : "combo",
+					"offset" : "-1.2,-1.2",
+					"pos" : "0,0_256,0_256,256_0,256"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "0,-1.2",
+					"pos" : "128,0_256,128_128,256_0,128"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "-1.2,0",
+					"pos" : "0,128_128,0_256,128_128,256"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "0,0",
+					"pos" : "128,128_128,128_128,128_128,128"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "1.2,0",
+					"pos" : "256,128_128,256_0,128_128,0"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "1.2,1.2",
+					"pos" : "256,256_0,256_0,0_256,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Warden",
+			  "special" : "Warden",
+			  "bonus": "Unique Passive - Warden: After 10 seconds without taking damage, you gain a shield equal to 7% of your maximum Health.",
+			  "img": "shapes/ui_perks_shape_7",
+			  "area" : "111,001,111_101,101,111_111,100,111_111,101,101",
+			  "id" : "9",
+			  "gems": [
+			  	{
+					"color" : "red",
+					"offset" : "-1.2,-1.2",
+					"pos" : "0,0_256,0_256,256_0,256"
+				},
+			  	{
+					"color" : "red",
+					"offset" : "0,-1.2",
+					"pos" : "128,0_256,128_128,256_0,128"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "1.2,-1.2",
+					"pos" : "256,0_256,256_0,256_0,0"
+				},
+			  	{
+					"color" : "red",
+					"offset" : "1.2,0",
+					"pos" : "256,128_128,256_0,128_128,0"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "1.2,1.2",
+					"pos" : "256,256_0,256_0,0_256,0"
+				},
+			  	{
+					"color" : "red",
+					"offset" : "0,1.2",
+					"pos" : "128,256_0,128_128,0_256,128"
+				},
+			  	{
+					"color" : "red",
+					"offset" : "-1.2,1.2",
+					"pos" : "0,256_0,0_256,0_256,256"
+				}
+			  ]
+			},
+			{
+			  "name": "Spiritstone of the Duelist",
+			  "special" : "Duelist",
+			  "bonus": "Unique Passive - Duelist: Your basic attacks apply a stacking mark to the primary target, then deal 5 to 14 (+0.03) bonug magical damage for each stack. Duelist stacks up to 3 times and lasts 4 seconds.",
+			  "img": "shapes/ui_perks_shape_resonance",
+			  "area" : "3111,0311,0011,0011_0005,0051,1111,1111_11,11,112,1112_1111,1111,14,4",
+			  "id" : "10",
+			  "gems": [
+			  	{
+					"color" : "combo",
+					"offset" : "-0.6,-1.8",
+					"pos" : "128,0_384,128_256,384_0,256"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "1.2,-1.8",
+					"pos" : "320,0_384,320_64,384_0,64"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,128_256,256_0,256_128,0"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "1.8,-0.6",
+					"pos" : "384,128_256,384_128,256_128,128"
+				},
+			  	{
+					"color" : "green",
+					"offset" : "1.2,0.6",
+					"pos" : "320,256_128,320_64,128_256,64"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "0.6,1.8",
+					"pos" : "256,384_0,256_0,0_384,0"
+				},
+			  	{
+					"color" : "combo",
+					"offset" : "1.8,1.8",
+					"pos" : "384,384_0,384_128,0_384,128"
+				}
+			  ]
+			}			
+		],
+	"health" : 
+		[
+			{
+			  "name": "Red Spiritstone of Health (Square)",
+			  "bonus": "+9.2 Health",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "11",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Health (Square)",
+			  "bonus": "+11.0 Health",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "12",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Health (Square)",
+			  "bonus": "+11.0 Health",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "13",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Regeneration",
+			  "bonus": "+1.2 Health-Regeneration",
+			  "img": "shapes/ui_perks_shape_5",
+			  "area" : "31_5,1_12_1,4",
+			  "id" : "14",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Regeneration",
+			  "bonus": "+1.4 Health-Regeneration",
+			  "img": "shapes/ui_perks_shape_5",
+			  "area" : "31_5,1_12_1,4",
+			  "id" : "15",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Regeneration",
+			  "bonus": "+1.4 Health-Regeneration",
+			  "img": "shapes/ui_perks_shape_5",
+			  "area" : "31_5,1_12_1,4",
+			  "id" : "16",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Health (Triangle)",
+			  "bonus": "+10.6 Health",
+			  "img": "shapes/ui_perks_shape_2",
+			  "area" : "34_5,3_52_2,4",
+			  "id" : "17",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0,-0.1",
+					"pos" : "64,-12_16,68_64,12_-12,64"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Health (Triangle)",
+			  "bonus": "+12.4 Health",
+			  "img": "shapes/ui_perks_shape_2",
+			  "area" : "34_5,3_52_2,4",
+			  "id" : "17",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0,-0.1",
+					"pos" : "64,-12_16,68_64,12_-12,64"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Health (Triangle)",
+			  "bonus": "+12.4 Health",
+			  "img": "shapes/ui_perks_shape_2",
+			  "area" : "34_5,3_52_2,4",
+			  "id" : "18",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0,-0.1",
+					"pos" : "64,-12_16,68_64,12_-12,64"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Stamina",
+			  "bonus": "+11 Health,+0.8 Health-Regeneration",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "19",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "red",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Stamina",
+			  "bonus": "+12.4 Health,+1.0 Health-Regeneration",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "20",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Stamina",
+			  "bonus": "+12.4 Health,+1.0 Health-Regeneration",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "21",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "blue",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Bravery",
+			  "bonus": "+4.0 Armor,+27.7 Health",
+			  "img": "shapes/ui_perks_shape_square4_s2",
+			  "area" : "11,11_11,11_11,11_11,11",
+			  "id" : "22",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "-0.5,-0.5",
+					"pos" : "0,0_128,0_128,128_0,128"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.5,0.5",
+					"pos" : "128,128_0,128_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Fortitude",
+			  "bonus": "+22.2 Health,+3.2 Magic-Resistance",
+			  "img": "shapes/ui_perks_shape_lblock8b_s4",
+			  "area" : "111,001_01,01,11_1,111_11,1,1",
+			  "id" : "23",
+			  "gems": [
+				{
+					"color" : "combo",
+					"offset" : "-1.8,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "red",
+					"offset" : "-0.6,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "red",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0.6,0.6",
+					"pos" : "256,128_0,256_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Bravery",
+			  "bonus": "+22.2 Health,+3.2 Armor",
+			  "img": "shapes/ui_perks_shape_8",
+			  "area" : "111,100_11,01,01_001,111_1,1,11",
+			  "id" : "24",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "-1.2,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "red",
+					"offset" : "0,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "combo",
+					"offset" : "1.2,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "-1.2,0.6",
+					"pos" : "0,128_0,0_256,0_128,256"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Health Growth",
+			  "bonus": "+3 Percent-Health",
+			  "img": "shapes/ui_perks_shape_Arch10_s5",
+			  "area" : "111,101_11,01,11_101,111_11,1,11",
+			  "id" : "25",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "-1.8,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "red",
+					"offset" : "-0.6,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "red",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "-1.8,0.6",
+					"pos" : "0,128_0,0_256,0_128,256"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0.6,0.6",
+					"pos" : "256,128_0,256_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Vigor",
+			  "bonus": "+70.9 Health,+5.8 Power",
+			  "img": "shapes/ui_perks_shape_rectangle8_s2",
+			  "area" : "11,11,11,11_1111,1111_11,11,11,11_1111,1111",
+			  "id" : "26",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0.5,-1.5",
+					"pos" : "128,0_384,128_0,384_0,0"
+				},
+				{
+					"color" : "blue",
+					"offset" : "-0.5,-0.5",
+					"pos" : "0,128_256,0_128,256_128,128"
+				},
+				{
+					"color" : "blue",
+					"offset" : "0.5,0.5",
+					"pos" : "128,256_128,128_0,128_256,0"
+				},
+				{
+					"color" : "blue",
+					"offset" : "-0.5,1.5",
+					"pos" : "0,384_0,0_128,0_384,128"
+				}
+			  ]
+			}
+		],
+	"utility" : 
+		[
+			{
+			  "name": "Red Spiritstone of Haste (Square)",
+			  "bonus": "+0.8 Haste",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "27",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Haste (Square)",
+			  "bonus": "+0.8 Haste",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "28",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Haste (Square)",
+			  "bonus": "+0.7 Haste",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "29",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Celerity",
+			  "bonus": "+1.4 Percent-Cooldown-Reduction",
+			  "img": "shapes/ui_perks_shape_4",
+			  "area" : "51_2,1_14_1,3",
+			  "id" : "30",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Celerity",
+			  "bonus": "+1.4 Percent-Cooldown-Reduction",
+			  "img": "shapes/ui_perks_shape_4",
+			  "area" : "51_2,1_14_1,3",
+			  "id" : "31",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Celerity",
+			  "bonus": "+1.2 Percent-Cooldown-Reduction",
+			  "img": "shapes/ui_perks_shape_4",
+			  "area" : "51_2,1_14_1,3",
+			  "id" : "32",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Haste (Triangle)",
+			  "bonus": "+2.0 Haste",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "33",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "red",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Haste (Triangle)",
+			  "bonus": "+2.0 Haste",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "34",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Haste (Triangle)",
+			  "bonus": "+1.7 Haste",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "35",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "blue",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Fervor",
+			  "bonus": "+1.2 Power,+1.2 Haste",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "36",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0.6,0.6",
+					"pos" : "128,128_0,128_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Fortune",
+			  "bonus": "+0.7 Vim-Generation-Per-5",
+			  "img": "shapes/ui_perks_shape_6",
+			  "area" : "01,11_10,11_11,1_11,01",
+			  "id" : "37",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0.6,-0.6",
+					"pos" : "128,0_128,128_0,128_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0.6,0.6",
+					"pos" : "128,128_0,128_0,0_128,0"
+				},
+				{
+					"color" : "blue",
+					"offset" : "-0.6,0.6",
+					"pos" : "0,128_0,0_128,0_128,128"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Wisdom",
+			  "bonus": "+2.0 Percent-Experience",
+			  "img": "shapes/ui_perks_shape_6",
+			  "area" : "01,11_10,11_11,1_11,01",
+			  "id" : "38",
+			  "gems": [
+				{
+					"color" : "combo",
+					"offset" : "0.6,-0.6",
+					"pos" : "128,0_128,128_0,128_0,0"
+				},
+				{
+					"color" : "blue",
+					"offset" : "0.6,0.6",
+					"pos" : "128,128_0,128_0,0_128,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "-0.6,0.6",
+					"pos" : "0,128_0,0_128,0_128,128"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Speed",
+			  "bonus": "+2.5 Percent-Movement-Speed",
+			  "img": "shapes/ui_perks_shape_8",
+			  "area" : "111,100_11,01,01_001,111_1,1,11",
+			  "id" : "39",
+			  "gems": [
+				{
+					"color" : "combo",
+					"offset" : "-1.2,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "blue",
+					"offset" : "1.2,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "blue",
+					"offset" : "-1.2,0.6",
+					"pos" : "0,128_0,0_256,0_128,256"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Haste Growth",
+			  "bonus": "+9.0 Percent-Haste",
+			  "img": "shapes/ui_perks_shape_Arch10_s5",
+			  "area" : "111,101_11,01,11_101,111_11,1,11",
+			  "id" : "40",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "-1.8,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "blue",
+					"offset" : "-0.6,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "blue",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "-1.8,0.6",
+					"pos" : "0,128_0,0_256,0_128,256"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0.6,0.6",
+					"pos" : "256,128_0,256_0,0_128,0"
+				}
+			  ]
+			}
+		],
+	"offense" : 
+		[
+			{
+			  "name": "Red Spiritstone of Power (Square)",
+			  "bonus": "+0.8 Power",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "41",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Power (Square)",
+			  "bonus": "+0.7 Power",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "42",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Power (Square)",
+			  "bonus": "+0.8 Power",
+			  "img": "shapes/ui_perks_shape_1",
+			  "area" : "1_1_1_1",
+			  "id" : "43",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0,0",
+					"pos" : "0,0_0,0_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Penetration",
+			  "bonus": "+1.2 Defense-Penetration",
+			  "img": "shapes/ui_perks_shape_4",
+			  "area" : "51_2,1_14_1,3",
+			  "id" : "44",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Penetration",
+			  "bonus": "+1.0 Defense-Penetration",
+			  "img": "shapes/ui_perks_shape_4",
+			  "area" : "51_2,1_14_1,3",
+			  "id" : "45",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Penetration",
+			  "bonus": "+1.2 Defense-Penetration",
+			  "img": "shapes/ui_perks_shape_4",
+			  "area" : "51_2,1_14_1,3",
+			  "id" : "46",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Mastery",
+			  "bonus": "+0.9 Mastery",
+			  "img": "shapes/ui_perks_shape_5",
+			  "area" : "31_5,1_12_1,4",
+			  "id" : "47",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Mastery",
+			  "bonus": "+0.8 Mastery",
+			  "img": "shapes/ui_perks_shape_5",
+			  "area" : "31_5,1_12_1,4",
+			  "id" : "48",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Mastery",
+			  "bonus": "+0.9 Mastery",
+			  "img": "shapes/ui_perks_shape_5",
+			  "area" : "31_5,1_12_1,4",
+			  "id" : "49",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0.5,0",
+					"pos" : "128,0_0,128_0,0_0,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Power (Triangle)",
+			  "bonus": "+2 Power",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "50",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "red",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Power (Triangle)",
+			  "bonus": "+1.7 Power",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "51",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Power (Triangle)",
+			  "bonus": "+2 Power",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "52",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0,0.7",
+					"pos" : "64,140_-12,64_64,-12_140,64"
+				},
+				{
+					"color" : "blue",
+					"offset" : "0.7,0",
+					"pos" : "140,64_64,140_-12,64_64,-12"
+				}
+			  ]
+			},
+			{
+			  "name": "Red Spiritstone of Fervor",
+			  "bonus": "+1.2 Power,+1.2 Haste",
+			  "img": "shapes/ui_perks_shape_3",
+			  "area" : "05,51_2,12_14,4_31,03",
+			  "id" : "53",
+			  "gems": [
+				{
+					"color" : "red",
+					"offset" : "0.6,0.6",
+					"pos" : "128,128_0,128_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Draining",
+			  "bonus": "+2 Percent-Lifedrain",
+			  "img": "shapes/ui_perks_shape_lblock8b_s4",
+			  "area" : "111,001_01,01,11_1,111_11,1,1",
+			  "id" : "54",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "-1.8,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "green",
+					"offset" : "-0.6,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.6,0.6",
+					"pos" : "256,128_0,256_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Force",
+			  "bonus": "+2.3 Power,+1.4 Mastery",
+			  "img": "shapes/ui_perks_shape_lblock8b_s4",
+			  "area" : "111,001_01,01,11_1,111_11,1,1",
+			  "id" : "71",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "-1.8,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "green",
+					"offset" : "-0.6,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.6,0.6",
+					"pos" : "256,128_0,256_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Green Spiritstone of Power Growth",
+			  "bonus": "+4 Percent-Power",
+			  "img": "shapes/ui_perks_shape_Arch10_s5",
+			  "area" : "111,101_11,01,11_101,111_11,1,11",
+			  "id" : "55",
+			  "gems": [
+				{
+					"color" : "green",
+					"offset" : "-1.8,-0.6",
+					"pos" : "0,0_128,0_256,128_0,256"
+				},
+				{
+					"color" : "green",
+					"offset" : "-0.6,-0.6",
+					"pos" : "128,0_128,128_128,128_0,128"
+				},
+				{
+					"color" : "green",
+					"offset" : "0.6,-0.6",
+					"pos" : "256,0_128,256_0,128_0,0"
+				},
+				{
+					"color" : "combo",
+					"offset" : "-1.8,0.6",
+					"pos" : "0,128_0,0_256,0_128,256"
+				},
+				{
+					"color" : "combo",
+					"offset" : "0.6,0.6",
+					"pos" : "256,128_0,256_0,0_128,0"
+				}
+			  ]
+			},
+			{
+			  "name": "Blue Spiritstone of Vigor",
+			  "bonus": "+70.9 Health,+5.8 Power",
+			  "img": "shapes/ui_perks_shape_rectangle8_s2",
+			  "area" : "11,11,11,11_1111,1111_11,11,11,11_1111,1111",
+			  "id" : "56",
+			  "gems": [
+				{
+					"color" : "blue",
+					"offset" : "0.5,-1.5",
+					"pos" : "128,0_384,128_0,384_0,0"
+				},
+				{
+					"color" : "blue",
+					"offset" : "-0.5,-0.5",
+					"pos" : "0,128_256,0_128,256_128,128"
+				},
+				{
+					"color" : "blue",
+					"offset" : "0.5,0.5",
+					"pos" : "128,256_128,128_0,128_256,0"
+				},
+				{
+					"color" : "blue",
+					"offset" : "-0.5,1.5",
+					"pos" : "0,384_0,0_128,0_384,128"
+				}
+			  ]
+			}
+		],
+	"mitigation" : [
+		{
+		  "name": "Red Spiritstone of Armor",
+		  "bonus": "+1.3 Armor",
+		  "img": "shapes/ui_perks_shape_1",
+		  "area" : "1_1_1_1",
+		  "id" : "57",
+		  "gems": [
+			{
+				"color" : "red",
+				"offset" : "0,0",
+				"pos" : "0,0_0,0_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Green Spiritstone of Armor",
+		  "bonus": "+1.6 Armor",
+		  "img": "shapes/ui_perks_shape_1",
+		  "area" : "1_1_1_1",
+		  "id" : "58",
+		  "gems": [
+			{
+				"color" : "green",
+				"offset" : "0,0",
+				"pos" : "0,0_0,0_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Blue Spiritstone of Armor",
+		  "bonus": "+1.6 Armor",
+		  "img": "shapes/ui_perks_shape_1",
+		  "area" : "1_1_1_1",
+		  "id" : "59",
+		  "gems": [
+			{
+				"color" : "blue",
+				"offset" : "0,0",
+				"pos" : "0,0_0,0_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Red Spiritstone of Resistance",
+		  "bonus": "+1.3 Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_1",
+		  "area" : "1_1_1_1",
+		  "id" : "60",
+		  "gems": [
+			{
+				"color" : "red",
+				"offset" : "0,0",
+				"pos" : "0,0_0,0_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Green Spiritstone of Resistance",
+		  "bonus": "+1.6 Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_1",
+		  "area" : "1_1_1_1",
+		  "id" : "61",
+		  "gems": [
+			{
+				"color" : "green",
+				"offset" : "0,0",
+				"pos" : "0,0_0,0_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Blue Spiritstone of Resistance",
+		  "bonus": "+1.6 Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_1",
+		  "area" : "1_1_1_1",
+		  "id" : "62",
+		  "gems": [
+			{
+				"color" : "blue",
+				"offset" : "0,0",
+				"pos" : "0,0_0,0_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Red Spiritstone of Defense",
+		  "bonus": "+1.6 Armor,+1.6 Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_rectangle4_s2",
+		  "area" : "11_1,1_11_1,1",
+		  "id" : "63",
+		  "gems": [
+			{
+				"color" : "red",
+				"offset" : "-0.5,0",
+				"pos" : "0,0_0,0_128,0_0,128"
+			},
+			{
+				"color" : "red",
+				"offset" : "0.5,0",
+				"pos" : "128,0_0,128_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Green Spiritstone of Defense",
+		  "bonus": "+1.8 Armor,+1.8 Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_rectangle4_s2",
+		  "area" : "11_1,1_11_1,1",
+		  "id" : "64",
+		  "gems": [
+			{
+				"color" : "green",
+				"offset" : "-0.5,0",
+				"pos" : "0,0_0,0_128,0_0,128"
+			},
+			{
+				"color" : "green",
+				"offset" : "0.5,0",
+				"pos" : "128,0_0,128_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Blue Spiritstone of Defense",
+		  "bonus": "+1.8 Armor,+1.8 Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_rectangle4_s2",
+		  "area" : "11_1,1_11_1,1",
+		  "id" : "65",
+		  "gems": [
+			{
+				"color" : "blue",
+				"offset" : "-0.5,0",
+				"pos" : "0,0_0,0_128,0_0,128"
+			},
+			{
+				"color" : "blue",
+				"offset" : "0.5,0",
+				"pos" : "128,0_0,128_0,0_0,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Green Spiritstone of Bravery",
+		  "bonus": "+4.0 Armor,+27.7 Health",
+		  "img": "shapes/ui_perks_shape_square4_s2",
+		  "area" : "11,11_11,11_11,11_11,11",
+		  "id" : "66",
+		  "gems": [
+			{
+				"color" : "green",
+				"offset" : "-0.5,-0.5",
+				"pos" : "0,0_128,0_128,128_0,128"
+			},
+			{
+				"color" : "green",
+				"offset" : "0.5,0.5",
+				"pos" : "128,128_0,128_0,0_128,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Red Spiritstone of Fortitude",
+		  "bonus": "+22.2 Health,+3.2 Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_lblock8b_s4",
+		  "area" : "111,001_01,01,11_1,111_11,1,1",
+		  "id" : "67",
+		  "gems": [
+			{
+				"color" : "combo",
+				"offset" : "-1.8,-0.6",
+				"pos" : "0,0_128,0_256,128_0,256"
+			},
+			{
+				"color" : "red",
+				"offset" : "-0.6,-0.6",
+				"pos" : "128,0_128,128_128,128_0,128"
+			},
+			{
+				"color" : "red",
+				"offset" : "0.6,-0.6",
+				"pos" : "256,0_128,256_0,128_0,0"
+			},
+			{
+				"color" : "combo",
+				"offset" : "0.6,0.6",
+				"pos" : "256,128_0,256_0,0_128,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Red Spiritstone of Bravery",
+		  "bonus": "+22.2 Health,+3.2 Armor",
+		  "img": "shapes/ui_perks_shape_8",
+		  "area" : "111,100_11,01,01_001,111_1,1,11",
+		  "id" : "68",
+		  "gems": [
+			{
+				"color" : "red",
+				"offset" : "-1.2,-0.6",
+				"pos" : "0,0_128,0_256,128_0,256"
+			},
+			{
+				"color" : "red",
+				"offset" : "0,-0.6",
+				"pos" : "128,0_128,128_128,128_0,128"
+			},
+			{
+				"color" : "combo",
+				"offset" : "1.2,-0.6",
+				"pos" : "256,0_128,256_0,128_0,0"
+			},
+			{
+				"color" : "combo",
+				"offset" : "-1.2,0.6",
+				"pos" : "0,128_0,0_256,0_128,256"
+			}
+		  ]
+		},
+		{
+		  "name": "Red Spiritstone of Resist Growth",
+		  "bonus": "+6.6 Percent-Magic-Resistance",
+		  "img": "shapes/ui_perks_shape_Arch10_s5",
+		  "area" : "111,101_11,01,11_101,111_11,1,11",
+		  "id" : "69",
+		  "gems": [
+			{
+				"color" : "red",
+				"offset" : "-1.8,-0.6",
+				"pos" : "0,0_128,0_256,128_0,256"
+			},
+			{
+				"color" : "red",
+				"offset" : "-0.6,-0.6",
+				"pos" : "128,0_128,128_128,128_0,128"
+			},
+			{
+				"color" : "red",
+				"offset" : "0.6,-0.6",
+				"pos" : "256,0_128,256_0,128_0,0"
+			},
+			{
+				"color" : "combo",
+				"offset" : "-1.8,0.6",
+				"pos" : "0,128_0,0_256,0_128,256"
+			},
+			{
+				"color" : "combo",
+				"offset" : "0.6,0.6",
+				"pos" : "256,128_0,256_0,0_128,0"
+			}
+		  ]
+		},
+		{
+		  "name": "Red Spiritstone of Armor Growth",
+		  "bonus": "+6.6 Percent-Armor",
+		  "img": "shapes/ui_perks_shape_Arch10_s5",
+		  "area" : "111,101_11,01,11_101,111_11,1,11",
+		  "id" : "70",
+		  "gems": [
+			{
+				"color" : "red",
+				"offset" : "-1.8,-0.6",
+				"pos" : "0,0_128,0_256,128_0,256"
+			},
+			{
+				"color" : "red",
+				"offset" : "-0.6,-0.6",
+				"pos" : "128,0_128,128_128,128_0,128"
+			},
+			{
+				"color" : "red",
+				"offset" : "0.6,-0.6",
+				"pos" : "256,0_128,256_0,128_0,0"
+			},
+			{
+				"color" : "combo",
+				"offset" : "-1.8,0.6",
+				"pos" : "0,128_0,0_256,0_128,256"
+			},
+			{
+				"color" : "combo",
+				"offset" : "0.6,0.6",
+				"pos" : "256,128_0,256_0,0_128,0"
+			}
+		  ]
+		}
+	]
+}

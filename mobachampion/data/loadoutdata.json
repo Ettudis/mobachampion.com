@@ -1,0 +1,42 @@
+[
+{
+"name" : "Power Loadout",
+"loadout" : "+15 Power"
+},
+{
+"name" : "Power, Armor, Haste Loadout",
+"loadout" : "+6.2 Power, +11.5 Armor, +6 Haste"
+},
+{
+"name" : "Defense Penetration Loadout",
+"loadout" : "+12 Defense Penetration"
+},
+{
+"name" : "Brawler Loadout",
+"loadout" : "+112 Health<BR>Passive - Brawler: You gain 3 to 7 Armor and Magic Resist for each nearby enemy Shaper."
+},
+{
+"name" : "Adventurer Loadout",
+"loadout" : "+6.9 Armor, +5 Power<BR>Passive - Adventurer: You gain 8% Bonus Movement Speed while moving through brush."
+},
+{
+"name" : "Force Bubble Loadout",
+"loadout" : "+6.9 Magic Resist<BR>Passive - Force Bubble: After 10 seconds without taking damage, you gain a shield equal to 7% of your maximum Health."
+},
+{
+"name" : "Resonance Loadout",
+"loadout" : "+3 Defense Penetration<BR>Passive - Resonance: Your basic attacks apply one stack of Resonance, dealing 5-14 (+0.03) bonus magical damage for each stack. Resonance stacks up to 3 times and lasts 4 seconds."
+},
+{
+"name" : "Bulwark Loadout",
+"loadout" : "+11.5 Armor<BR>Passive - Bulwark: Converts 12% of your armor into bonus power."
+},
+{
+"name" : "Bravado Loadout",
+"loadout" : "+112 Health<BR>Passive - Bravado: You take 5% less damage for 2 seconds after damaging an enemy Shaper. Items and spells will not trigger Bravado."
+},
+{
+"name" : "Scavenger Loadout",
+"loadout" : "+6 Defense Penetration<BR>Passive - Scavenger:  Your Movement Speed is increased by 10% if you can see a nearby enemy with less than 40% Health remaining."
+}
+]

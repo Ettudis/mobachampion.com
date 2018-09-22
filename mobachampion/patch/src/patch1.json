@@ -1,0 +1,142 @@
+{
+    "name": "Closed Beta: Patch 1",
+    "date" : "June 06, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "Greetings Friends!<BR><BR>In this first patch of the Dawngate Closed beta we've implemented several quality of life updates and various balance changes. This version also see the introduction of our first new Shaper - Varion the Mercenary. <BR><BR>Enjoy!<BR><h3>New Shaper</h3><img src=\"http://i.imgur.com/t3RDEQ0.png\"><p>Varion, the Mercenary<BR>Varion is a long range, versatile ranged Carry capable of getting in and out of fights with ease. Varion can easily farm while harassing enemy Shapers in lane from afar, but excels at surprising enemies close-up with his extremely high mobility. The passive damage bonuses on Varion's Basic Attack after using abilities affords him higher base damage than almost any other Shaper, and can often propel him into an extremely threatening late game carry status. In a teamfight, causing widespread chaos with his Ultimate while avoiding enemies with his mobility is key to being successful.<BR><BR>Passive - Pure Shaper - Varion is not limited by a resource, and may cast his abilities freely.<BR>Q - Celerity Shell: Varion winds up and fires a shell infused with the vitality of Celerity, dealing physical damage to all targets in a line.<BR>W - Progress Gate: Varion throws a Progress Gate to target location. For the next few seconds, Varion may reactivate this ability to instantly teleport to the Gate's location.<BR>E - Insight Shell: Passive: Using any of Varion's abilities grants him bonus haste and scaling damage on his next two Basic Attacks. This effect stacks several times. Activate: Lobs a flare to target location, revealing the area and any enemies struck for a few seconds.<BR>R - Chaos Shell: Varion loads and fires an experimental Chaos Shell in target direction. The Shell attaches to the first enemy Shaper hit, dealing damage to them over time while radiating damage to all nearby enemy Shapers for several seconds.</p>"
+        },
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li><B>Reverie (R)</B><ul><li>This ability is now smartcast by default for both its primary and secondary activations.</li></ul></li></ul>"
+		},
+		{
+			"id" : "Fenmore",
+			"shaper" : "Fenmore",
+			"data" : "<ul><li><B>Heart Eater (E)</B><ul><li>Fixed a bug where Heart Eater would sometimes trigger 3 damage events instead of 2 if it hit a target at maximum range.</li></ul></li></ul>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li><B>Collateral (Q)</B><ul><li>Fixed a bug where Collateral would sometimes trigger 3 damage events instead of 2 if it hit a target at maximum range.</li></ul></li></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>General</B><ul><li>Moya's Basic Attack Animation timing has been greatly reduced to feel more responsive.</li></ul></li><li><B>Landfall (R)</B><ul><li>Increased the window for reactivating Landfall to 2 seconds, up from 1.5 seconds and added a buff that indicates the time the player has to reactivate of this ability.</li></ul></li><li><B>Landfall (R)</B><ul><li>The blue ring that indicates the reactivation area of this ability will now automatically disappear after 2 seconds, instead of 3.</li></ul></li></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li><B>Final Flight (R)</B><ul><li>Fixed a bug where Final Flight would sometimes trigger 3 damage events instead of 2 if it hit a target at maximum range.</li></ul></li></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Sentinel Strike (Q)</B><ul><li>Activating Sentinel Strike while auto-attacking before the hit connects will now instantly reset Voluc's auto attack animation and cause his next strike to cleave. We have also fixed a bug where Sentinel Strike was not receiving increased base damage at higher ranks.</li></ul></li><li><B>Curse of Weakness (W)</B><ul><li>Fixed a bug where Curse of Weakness was not receiving increased base damage at higher ranks.<BR><BR><I>Developer Notes - We felt that Voluc's jungle clear speed was a bit too fast. The below changes should bring him in line with other junglers without hurting his teamfighting ability.</I><BR><BR></li></ul><li><B>Devour (E)</B><ul><li>Haste bonus adjusted to 9/13/17/21/25 from 8/13/18/23/28. Additionally, the haste bonus now only stacks 4 times, down from 5. This results in the maximum haste received from the ability to be adjusted to 36/52/68/84/100, down from 40/65/90/115/140.</li></ul></li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Map</h3>"
+		},
+		{
+			"id" : "Bindings",
+			"data" : "<h4>Bindings</h4><ul><li>Damage to minions has been slightly reduced.</li><li>Tier 1 bindings now have a 12 minute respawn time, up from 10 minutes.</li><li>Tier 2 bindings now have an 8 minute respawn time, up from 7 minutes.</li></ul>"
+		},
+		{
+			"id" : "Jungle",
+			"data" : "<h4>Jungle</h4><I>Developer Notes - We came to realize that there wasn't a huge incentive to counter jungling. To incentivize players to counter-jungle more, we've shifted the total jungle experience towards the Buff Camps so that stealing a buff from an enemy provides you with a greater reward.</I><ul><li>All jungle minions begin growing stronger at 6 minutes into the game</li><li>Total experience gained from the Mushroom section of the jungle has been reduced by 18%.</li><li>Experience has been shifted such that Buff Camps now offer significantly more experience than other camps.</li></ul>"
+		},
+		{
+			"id" : "Parasite",
+			"data" : "<h4>The Parasite</h4><ul><li>Lesser Spirit Fire: This debuff has been redesigned so that it now deals additional flat magic damage per stack on every basic attack that The Parasite uses.</li><li>Basic attack damage has been greatly reduced.</li><li>Total health now scales more smoothly into late game.</li><li>Overall damage reduced at all evolutions.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Roles & Perks</h3>"
+		},
+		{
+			"id" : "Gladiator",
+			"role" : "Gladiator",
+			"data" : "<ul><li>Bonus vim per stack acquired from consecutive last hits reduced to 2, down from 3.</li></ul>"
+		},
+		{
+			"id" : "Hunter",
+			"role" : "Hunter",
+			"data" : "<I>Dev Notes - An additional effect has been added to the Hunter role to address late game utility concerns for this role.</I><ul><li>Choosing the Hunter Role will now also grant a 25% chance to gain 20 bonus vim when killing a jungle creature. This is in addition to the already existing bonuses provided by the Role.</li></ul>"
+		},
+		{
+			"id" : "Predator",
+			"role" : "Predator",
+			"data" : "<ul><li>Amount of experience gained for shaper kills and assists has been increased to 130%, up from 125%.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Items</h3>"
+		},
+		{
+			"id" : "Fate",
+			"item" : "Fate",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Collateral Damage passive has been redesigned. The damage caused by the projectiles is now 50% of the damage dealt by the initial attack instead of a flat value equal to 60% of your attack damage. Additionally, the projectiles will now proc other item effects and on-hit effects.</li></ul>"
+		},
+		{
+			"id" : "Flask of Moxie",
+			"item" : "Flask of Moxie",
+			"class" : "Consumable",
+			"data" : "<ul><li>All flasks will now correctly retain their visual effects upon reviving.</li></ul>"
+		},
+		{
+			"id" : "Flask of Foresight",
+			"item" : "Flask of Foresight",
+			"class" : "Consumable",
+			"data" : "<ul><li>All flasks will now correctly retain their visual effects upon reviving.</li></ul>"
+		},
+		{
+			"id" : "Flask of Prowess",
+			"item" : "Flask of Prowess",
+			"class" : "Consumable",
+			"data" : "<ul><li>All flasks will now correctly retain their visual effects upon reviving.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Spells</h3><I>Developer Notes - The spellbook is designed to allow for a great deal of gameplay specialization. To this end, we intend to be regularly introducing new Spells into the game to significantly increase the options available. </I>"
+		},
+		{
+			"id" : "Tailwind",
+			"spell" : "Tailwind",
+			"data" : "<ul><li>Increased the area of effect of this spell to 625, up from 456.</li></ul>"
+		},
+		{
+			"id" : "Vanquish",
+			"spell" : "Vanquish",
+			"data" : "<ul><li>Shapers will now move into range when attempting to cast on an out-of-range enemy.</li></ul>"
+		},	
+		{
+			"id" : "Bastion",
+			"spell" : "Bastion",
+			"data" : "<ul><li>(NEW SPELL) On use you gain a shield that absorbs 100 (+21 per level) damage and grants 20 bonus Armor and Magic resistance for 2 seconds.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Fixed several 'black screen' issues when going from Lobby to Shaper Select as well as from Shaper Select to Game.</li><li>Over 30 Announcer VO events added, including warnings and announcements for binding respawns.</li><li>Added recommended items for each Shaper to the Item Shop.</li><li>Add options to control mouse speed and edge scroll rate.</li><li>Fixed a bug with Force Bubble so that it now updates correctly on revive.</li><li>Change Level Up indicators to Yellow instead of blue.</li><li>Made the Level Up and Spell Indicators 110% bigger to improve clickability and visibility.</li><li>Added a Level Up UI headline to make Leveling Up m ore apparent.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>User Interface</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Using the command /t or /team now speaks only to your team.</li><li>The command /all works the same as /game.</li><li>Shift+Enter automatically sends messages to the \"Game\" channel.</li><li>\"Enter\" defaults to team chat in-game now.</li><li>Pressing \"Z\" in game will unhide previous text.</li><li>Fixed a bug where Notification Counts were not displaying properly.</li></ul>"
+		}
+    ]
+}

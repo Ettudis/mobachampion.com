@@ -1,0 +1,35 @@
+{
+    "name": "Closed Beta: Patch 12",
+    "date" : "September 26, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>Tiny patch this week! Just a little tuning to Zalgus' ultimate, and some bug fixes here and there! Enjoy the Friday-Sunday weekend of Dawngate!</p><h3>Balance and Tuning</h3><h5>Shapers</h5>"
+        },
+		{
+			"id" : "Zalgus",
+			"shaper" : "Zalgus",
+			"data" : "<ul><li><B>Final Chapter (R)</B></li><ul><li>The Power scaling on this ability has been reduced to 1.25, down from 1.5.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Front-End Client</h5><ul><li>Fixed an issue where it was difficult to right-click Users in the Social Panel.</li><li>Fixed an issue where chat lists could lose their Scroll Bar.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>In-Game Chat</h5><ul><li>Chat will no longer fade out when typing long messages.</li><li>When whispering to other users, typing their usernames is no longer case-sensitive.</li><li>Users may now whisper to another player more than one time in a row.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Player Profile</h5><ul><li>Fixed an issue where the Career Graph would occasionally not display.</li><li>Fixed several small issues with the Shaper sorting in the Career and Recent History sections.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Streaming / Game Recording</h5><ul><li>The in-game cursor will now correctly display when streaming or recording gameplay footage of Dawngate.</li></ul>"
+        }
+	]
+}

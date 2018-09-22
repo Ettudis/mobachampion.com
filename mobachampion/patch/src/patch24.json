@@ -1,0 +1,50 @@
+{
+    "name": "Closed Beta: Patch 24",
+    "date" : "Jan 30, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<p><img src=\"http://cms-media.s3.amazonaws.com/wp-content/uploads/2014/02/Marah720.png\"></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><h5>Marah, the Awakened</h5><p>Marah is a melee physical damage bruiser with a commanding presence on the battlefield. Her safe clearing and brutal ganks make her a proficient jungler, but her ability to control space makes her remarkably effective in the lane, as well. Her gameplay revolves around planting trees to create zones of relative safety, then using her wall of brambles to repel advancing enemies; however, if an enemy strays too close, she can go on the offensive in the blink of an eye, pouncing on intruders and cutting off their escape. Marah's ultimate allows her to transition into a late-game juggernaut, wading into the thick of battle and breaking the enemy's ranks, but because her maneuverability drops substantially after she commits to a fight, she must choose her battles carefully; if she pushes too deep and her enemies scatter too quickly, she's likely to get focused down before she can retreat.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>New Spell</h5><h3>Drain</h3>Saps lifeforce from a targeted enemy Shaper for 5 seconds, dealing 100-550 magical damage over the duration and healing you for 90% of the damage dealt. In addition, all healing effects on the target are reduced by 50% for the duration of the spell."
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Features</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Waypoints</h5><ul><li>Waypoints have now been introduced into Dawngate. Waypoints will act as a paid currency within Dawngate.</li><li>For the first phase of the Waypoints testing period, varying grants will be awarded to all existing accounts at random. The amount of Waypoints that a player may receive are:</li><ul><li>900 Waypoints</li><li>1350 Waypoints</li><li>1800 Waypoints</li><li>2250 Waypoints</li></ul><li>At this phase Waypoints will not be purchasable. Every subsequent Tuesday at 12:01 AM PST, players will be awarded an additional 450 Waypoints. This will continue until the next phase of testing begins.</li><li>Accounts made after the initial Waypoints grant will be awarded their random grant the same day at Midnight.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shaper / Ward Skins</h5><ul><li>We're happy to introduce Shaper and Ward Skins into the Dawngate. Both will be purchasable with Waypoints at varying costs. A total of two Ward Skins and 8 Shaper Skins will be introduced this patch.</li><li>You may purchase Shaper Skins by visiting the Shaper Gallery, navigating to the Shaper whose Skin you'd like to purchase, select the Skin and click the Waypoints button. This will take you through the purchasing process. You must own a Shaper before purchasing a Skin.</li><li>You may purchase Ward Skins by visiting the \"Wards\" tab located in the Front-End Client just under the \"Play\" button. This will display all Ward Skins available for purchase. Clicking the Waypoints button below the desired Ward Skin will take you through the purchasing process.</li><li>You will select both your Ward Skin and Shaper Skin during Shaper select after selecting your Shaper, Loadout and Role.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shaper Skins</h5><ul><li>Moonrise Amarynth - 320 WP</li><li>Sunset Cerulean - 320 WP</li><li>Final Dispatch Freia - 495 WP</li><li>House Anzerani Varion - 495 WP</li><li>Experimental Petrus - 495 WP</li><li>Sentinel Voluc - 495 WP</li><li>Forest Dreams Dibs - 495 WP</li><li>Weaponized Vex - 785 WP</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Ward Skins</h5><ul><li>The Waystone - 120 WP</li><li>Spirit of the Heart - 295 WP</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>3D Shaper Gallery / Shaper Select</h5><ul><li>A 3D Shaper Viewer has been added to the Shaper Gallery and during Shaper Select. This will allow players to view a full 3D model of each Shaper and Skin in both of these places within the Front-End Client.</li><li>The Shaper Gallery is still accessed by clicking the Shapers tab in the Front-End Client under the \"Play\" button. Upon selecting a Shaper, a full 3D image will be shown of the Shaper. Selecting different Skins for that Shaper will also show a full 3D image of that particular Skin.</li><li>The same functionality has been added during Shaper Select before entering a game of Dawngate.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Dodge Penalties</h5><ul><li>There will now be a Dodge Penalty that affects players who purposefully close their client at any point during Shaper Select. If a player chooses to leave during Shaper Select of a matchmade game they will incur a Dodge Penalty that will disallow them from entering the queue for a set amount of time. The penalties are: 10 Minutes for the first dodge, 30 minutes for the second dodge and 1 hour for the third dodge.<li>These punishments will not be reset until the player plays one entire matchmade game.</li><li>Players who go AFK during a match will attempt to be booted after 5 minutes of inactivity. Failing to respond to the inactivity detector will cause the player to be booted from the match, forfeiting their Blessings.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Bug Fixes</h5><ul><li>Fixed an issue that would cause player's Shapers to become invisible or appear immobile to other players in the match.</li><li>Fixed a bug where a new player's profile would not display properly.</li><li>Fixed some inaccurate tooltips on certain Spiritstones.</li><li>The legend in a user's profile history regarding Wins and Losses has been corrected to properly display the correct colors.</li><li>Fixed an issue that wasn't allow players to properly report the player in the bottom-most spot in the Post Game Scoreboard.</li><li>Fixed an exploit that allowed Shapers to gain infinite range.</li><li>Fixed an issue that cancelled recalling to the Locus if the Shaper lost the effects of Zeri's Muse (W).</li><li>Fixed an issue that caused the in-game HUD to become misaligned when reversing the position of the minimap.</li><li>Fixed some issues in the Social Panel that was causing some players to display incorrect statuses.</li><li>Offline friends should now be correctly displayed in alphabetical order.</li><li>Private chat windows will no longer maximize each time a user receives a new message.</li><li>Fixed an bug that causes Pursuit's passive ability to no longer trigger once a player died after having purchased the item.</li></ul>"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Closed Beta: Patch 25",
+    "date" : "Feb 10, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>Bug Fixes</h3><ul><li>Fixed a typo in the tooltip for Zalgus' Burden of Knowledge (W).</li><li>Fixed some UI issues that were causing memory leaks.</li></ul>"
+		}
+	]
+}

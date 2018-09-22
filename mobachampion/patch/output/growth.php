@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 33 (July 29th, 2014)</h4><ul><li>The cost of this item has been increased to 1500, up from 1495.</li></ul><h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Now additionally builds into the new Legendary item: Vibrance.</li><li>Price increased to 1495, up from 1440.</li></ul>

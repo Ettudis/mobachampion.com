@@ -1,0 +1,125 @@
+{
+    "name": "Closed Beta: Patch 32.1",
+    "date" : "July 17th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h2>Balance and Tuning</h2>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Shapers</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<i><b>Developer Note:</b> In this patch we're updating the base Health for all Carry Bruisers. Previously, these bruisers had the highest base Health in the game. These base stats haven't been as warranted after we updated the game with Itempalooza to provide significantly better and more diverse options for bruisers, especially ones who scale well with Haste. These base stat changes to all Carry Bruisers will bring their health values down to be more in line with Ability Bruisers.</i>"
+		},
+		{
+			"id" : "general",
+			"data" : "<p>Basko came in a little more powerful than we anticipated, with the majority of his strength being in his empowered Q and the survivability granted from his W. In practice, people have been able to empower the Q more times than we anticipated over the duration of a team fight. To compensate for this, we're reducing the damage output of his empowered state. In regards to his survivability, we're updating his shielding to have reduced effectiveness in the Jungle in order to bring his survivability down to be similar to other bruisers, and provided a cap to how high it can stack in order to avoid rare edge cases where Basko was fighting amongst both shapers and jungle creatures simultaneously in order to reach enormous shield values. These changes, along with a general reduction to the total shield value across the board, should help to bring Basko much more in line with other shapers.</p>"
+		},
+		{
+			"id" : "Basko",
+			"shaper" : "Basko",
+			"data" : "<ul><li><b>Passive - Underdog</b></li><ul><li>The stat bonus duration upon this passive ability triggering has been reduced to 5 seconds, down from 6.</li></ul><li><b>Revolt (Q)</b></li><ul><li>The base Power ratio on this ability has been reduced to 0.5, down from 0.6.</li><li>The empowered base damage on this ability has been reduced to 80/115/150/185/220, down from 80/120/160/200/240.</li><li>The empowered damage Power ratio has been reduced to 0.8, down from 0.9.</li></ul><li><b>Unbreakable (W)</b></li><ul><li>The base shield value on this ability per second has been reduced to 12/18/24/30/36, down from 16/22/28/34/40.</li><li>This ability now provides 50% as much shielding on jungle creatures.</li><li>This ability now has a maximum amount of shielding that cannot be exceeded, equivalent to linking five Shapers for the total duration.</li></ul><li><b>Uprising (R)</b></li><li>The cooldown of this ability has been increased to 120/110/100, up from 110/100/90.</li><li>The speed at which Basko will pull himself to his target has been increased by 20%, this will result in the duration of the immobilization effect on the target being reduced by the same amount.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><b>Blinding Speed (W)</b></li><ul><li>The movement speed bonus granted by the second cast of this ability no longer decays over time.</li></ul></ul>"
+		},
+		{
+			"id" : "Kahgen",
+			"shaper" : "Kahgen",
+			"data" : "<ul><li><b>Passive - Double-Edge</b></li><ul><li>Kahgen now gains double the amount of Focus from his basic attacks when attacking enemy Shapers.</li></ul></ul>"
+		},
+		{
+			"id" : "Marah",
+			"shaper" : "Marah",
+			"data" : "<ul><li>Base health reduced to 525, down from 540.</li><li>Health per level reduced to 78, down from 84.</li></ul></ul>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li><b>Gold Standard (W)</b></li><ul><li>Mikella's basic attack will now become immediately able to fire upon triggering this ability.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><b>Base Stats</b></li><ul><li>Base Health reduced to 525, down from 540.</li><li>Health per level reduced to 78, down from 84.</li></ul><li><b>Passive - Celerity</b></li><ul><li>The Attack Speed bonus granted by this passive ability has been increased to 33-80% (based on level), up from 22-60%.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li><b>Final Flight (R)</b></li><ul><li>Damage fall off on this ability per target hit has been increased to 10%, up from 8%.</li><li>The minimum damage for subsequent targets hit after the first has been reduced to 50%, down from 60%.</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li><b>Shockwave (E)</b></li><ul><li>The base damage of this ability has been reduced to 50/85/120/155/190, down from 50/90/130/170/210.</li></ul></ul>"
+		},
+		{
+			"id" : "Viyana",
+			"shaper" : "Viyana",
+			"data" : "<ul><li><b>Needle (Q)</b></li><ul><li>The cooldown of this ability has been increased to 12/11/10/9/8, up from 11/10/9/8/7.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><b>Base Stats</b></li><ul><li>Base Health has been reduced to 525, down from 540.</li><li>Base health per level has been reduced to 78, down from 84.</li></ul><li><b>Curse of Weakness (W)</b></li><ul><li>The initial damage of this ability has been reduced to 35/60/85/110/135, down from 35/65/95/125/155.</li><li>The damage dealt by this ability upon triggering the mark has been reduced to 50/75/100/125/150, down from 55/85/115/145/175.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Items</h3>"
+		},
+		{
+			"id" : "Justice",
+			"itemp" : "Justice",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power granted by this item has been increased to 35, up from 30.</li><li>The price of this item has been reduced to 3000, down from 3155.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Sparks / Spiritstones</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<i><b>Developer Note:</b> The amount of Health Regeneration available from loadouts was creating a gameplay environment that was more passive than we were comfortable with. Minor skirmishes and damage trades would often have their effectiveness significantly reduced or entirely negated by the strong sustain provided by Health Regen. These changes are aimed at making damage stick more during the laning phase.</i>"
+		},
+		{
+			"id" : "Red Spark of Regeneration",
+			"spark" : "Red Spark of Regeneration",
+			"data" : "<b>Red Spark of Regeneration</b><ul><li>The Health regeneration per 5 seconds has been reduced to 0.3, down from 0.5.</li></ul>"
+		},
+		{
+			"id" : "Blue  Spiritstone of Regeneration",
+			"stone" : "Blue  Spiritstone of Regeneration",
+			"data" : "<b>Blue  Spiritstone of Regeneration</b><ul><li>The Health regeneration per 5 seconds has been reduced to 1.4, down from 2.3.</li></ul>"
+		},
+		{
+			"id" : "Blue Spiritstone of Stamina",
+			"stone" : "Blue Spiritstone of Stamina",
+			"data" : "<b>Blue Spiritstone of Stamina</b><ul><li>The Health regeneration per 5 seconds has been reduced to 1, down from 1.6.</li></ul>"
+		},
+		{
+			"id" : "Green Spiritstone of Regeneration",
+			"stone" : "Green Spiritstone of Regeneration",
+			"data" : "<b>Green Spiritstone of Regeneration</b><ul><li>The Health regeneration per 5 seconds has been reduced to 1.4, down from 2.3.</li></ul>"
+		},
+		{
+			"id" : "Green Spiritstone of Stamina",
+			"stone" : "Green Spiritstone of Stamina",
+			"data" : "<b>Green Spiritstone of Stamina</b><ul><li>The Health regeneration per 5 seconds has been reduced to 1, down from 1.4.</li></ul>"
+		},
+		{
+			"id" : "Red Spiritstone of Regeneration",
+			"stone" : "Red Spiritstone of Regeneration",
+			"data" : "<b>Red Spiritstone of Regeneration</b><ul><li>The Health regeneration per 5 seconds has been reduced to 1.2, down from 2.</li></ul>"
+		},
+		{
+			"id" : "Red Spiritstone of Stamina",
+			"stone" : "Red Spiritstone of Stamina",
+			"data" : "<b>Red Spiritstone of Stamina</b><ul><li>The Health regeneration per 5 seconds has been reduced to 0.8, down from 1.4.</li></ul>"
+		}
+	]
+}

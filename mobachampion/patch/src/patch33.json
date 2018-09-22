@@ -1,0 +1,154 @@
+{
+    "name": "Closed Beta: Patch 33",
+    "date" : "July 29th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><img src=\"http://moba-champion.com/images/shapers/tess/tess.png\"><h4>Tess, the Sky Captain</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<p>Tess is a ranged, physical damage Carry who sacrifices basic attack steroids for ability burst and tremendous long-range mobility. Tess excels in the Gladiator role, safely last hitting or harassing her enemies from afar, but may also choose a Tactician or Predator role to take advantage of her ganking potential. Tess' core kit is focused around her unique mobility ability, Mount Up. Mount Up opens many opportunities to Tess that don't exist for other Shapers when it comes to taking objectives or joining fights. Combined with Tess' above-average ability burst, Mount Up allows Tess to apply global pressure whenever she wishes. In the early game, play close attention to your jungler and other lane - when it comes to a fight, Tess can often be the first to arrive and empowered core abilities or her ultimate can swing an otherwise unwinnable exchange in your favor. As the game progress to the mid and late-stage, consider Tess' extended range to secure objectives or push lanes separately - no Shaper is faster than Tess and it's her greatest advantage on the battlefield.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li><b>Passive - Pure Shaper - Crow's Nest - </b>Tess may cast her abilities freely. Deals true damage when attacking enemy Shapers, on a cooldown. The cooldown of this effect is extended when taking damage from enemy Shapers.</li><li><b>Q - Bombshell - </b>Fires a missile in target direction, damaging and applying on-hit effects to the first target struck and damaging all enemies in a cone behind them. Overdrive: Deals increased damage and applies 3 on-hit effects.</li><li><b>W - Mount Up - </b>Grants greatly increased movespeed after a short mounting period. Remaining mounted for a duration enters Overdrive, empowering Tess' next Bombshell or Backdraft.</li><li><b>E - Backdraft - </b>Fires a rocket to target location, damaging and slowing all enemies hit. Overdrive: Slow is greatly increased.</li><li><b>R - Heavy Iron - </b>Drops an anchor in target direction, damaging all enemies it hits and leaving a trail of destruction on the ground that slows enemies.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Feature - Practice Mode</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Practice Mode</h5><ul><li>Practice Mode may now be selected from the Front-End Client. This will place a solo-player in a game with 4 AI partner against 5 AI opponents. During this mode, players will be presented with context driven tips to help them learn Dawngate.</li><li>Completing one Practice Mode game will be required for all accounts created after Tuesday 7/29/14 or any account that has yet to play one matchmade game of Dawngate.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h2>Balance and Tuning</h2>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Shapers</h3>"
+		},
+		{
+			"id" : "Ashabel",
+			"shaper" : "Ashabel",
+			"data" : "<ul><li><B>Zephyr Stance - Slipstream (E)</B></li><ul><li>The range of this ability has been increased to 1200, up from 1020.</li></ul></ul>"
+		},
+		{
+			"id" : "Basko",
+			"shaper" : "Basko",
+			"data" : "<ul><li><b>Revolt (Q)</b></li><ul><li>The base damage of this ability has been reduced to 45/65/85/105/125, down from 55/75/95/115/135.</li><li>The Power ratio on this ability has been reduced to 0.4, down from 0.5.</li><li>The empowered base damage of this ability has been reduced to 65/100/135/170/205, down from 80/115/150/185/220.</li><li>Fixed a bug where the percentage ability overload granted from Mastery was unintentionally applying to on-hit effects triggered from this ability.</li></ul><li><b>Unbreakable (W)</b></li><ul><li>The total damage done by this ability has been reduced to 50/80/110/140/170, down from 60/95/130/165/200.</li><li>The total Power ratio on this ability has been reduced to 0.7, down from 0.8.</li><li>The amount of shielding Basko receives when used against jungle creatures has been reduced to 33%, down from 50%.</li></ul><li><b>Onslaught (E)</b></li><ul><li>The cleave damage reduced to 50/75/100/125/150, down from 60/85/110/135/160.</li><li>The second activation damage has been reduced to 50/75/100/125/150, down from 60/85/110/135/160.</li></ul></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li>Kindra now has a passive:</li><ul><li><b>Shadow Fury -</b> Night Strike, Duskmantle and Shadowstep have their cooldowns reset if Kindra gets a kill or assist.</li><li>The reset mechanic has been moved off of Kindra's Night Strike, Duskmantle and Shadowstep and placed on her Passive - Shadow Fury.</li></ul></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li>Kel now has a passive:</li><ul><li><b>The Shepherd -</b> Whenever Kel is hit by a basic attack, the cooldowns of all of his abilities are reduced by 0.25 seconds. The cooldown reduction effect is reduced to 0.1 seconds for attacks from non-shapers.</li></ul></ul>"
+		},
+		{
+			"id" : "Viridian",
+			"shaper" : "Viridian",
+			"data" : "<ul><li><B>Knife Toss (Q)</b></li><ul><li>The base damage of this ability has been increased to 55/90/125/160/195, up from 35/75/115/155/195.</li></ul><li><b>Surge (W)</b></li><ul><li>The cooldown of this ability has been reduced to 13/12/11/10/9, down from 14/13/12/11/10.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li>Voluc now has a passive:</li><ul><li><b>Mark of Consumption - </b>Whenever Voluc deals damage with an ability to a target he applies a Mark of Consumption, causing them to take 3% (+1.5% per 100 Power) of their maximum health as magical damage over 2 seconds. Voluc is healed an amount equal to the damage dealt. Damage against non-Shaper is reduced to 1.5% (+0.75% per 100 Power) of their maximum Health.</li></ul><li><b>Sentinel Strike (Q)</b></li><ul><li>Basic attacks against non-Shapers now reduce the cooldown of this ability by 0.25 seconds, down from 0.33 seconds.</li></ul><li><b>Curse of Weakness (W)</b></li><ul><li>The passive Lifedrain granted by this ability has been removed.</li></ul><li><b>Devour (E)</b></li><ul><li>The base damage of this ability has been reduced to 55/100/145/190/235, down from 60/105/150/195/240.</li></ul><li><b>Damnation (R)</b></li><ul><li>The base damage of this ability has been adjusted to 200/350/500 over 4 seconds, from 280/360/440.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Items</h3>"
+		},
+		{
+			"id" : "Abolition",
+			"itemp" : "Abolition",
+			"class" : "Advanced",
+			"data" : "<ul><li>The attack damage bonus from the Stackable Passive: Precision has been increased to 25, up from 10.</li><li>The cost of this item has been increased to 1500, up from 1425.</li></ul>"
+		},
+		{
+			"id" : "Conquest",
+			"itemp" : "Conquest",
+			"class" : "Legendary",
+			"data" : "<ul><li>The cost of this item has been increased to 3000, up from 2765.</li></ul>"
+		},
+		{
+			"id" : "Finesse",
+			"itemp" : "Finesse",
+			"class" : "Legendary",
+			"data" : "<ul><li>The flat basic attack damage increase from the Unique Passive: Exploit Weakness has been increased to 25, up from 10.</li><li>Fixed a bug where the basic attack damage increase from this ability was unintentionally applying to abilities in addition to basic attacks.</li></ul>"
+		},
+		{
+			"id" : "Growth",
+			"itemp" : "Growth",
+			"class" : "Advanced",
+			"data" : "<ul><li>The cost of this item has been increased to 1500, up from 1495.</li></ul>"
+		},
+		{
+			"id" : "Insight",
+			"itemp" : "Insight",
+			"class" : "Legendary",
+			"data" : "<ul><li>The tooltip on this item has been updated to calculate and show the amount of true damage your auto-attacks will deal.</li></ul>"
+		},
+		{
+			"id" : "Potency",
+			"itemp" : "Potency",
+			"class" : "Legendary",
+			"data" : "<ul><li>The cost of this item has been reduced to 3000, down from 3065.</li></ul>"
+		},
+		{
+			"id" : "Prosperity",
+			"itemp" : "Prosperity",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Health granted by this item has been increased to 450, up from 400.</li><li>The total amount of Health provided by the Unique Passive: Endless Bounty has been reduced to 150, down from 200.</li><li>The total amount of Armor provided by the Unique Passive: Endless Bounty has been reduced to 20, down from 25.</li><li>The cost of this item has been increased to 3000, up from 2870.</li></ul>"
+		},
+		{
+			"id" : "Rampancy",
+			"itemp" : "Rampancy",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Health to Power conversion ratio on the Unique Passive: Juggernaut has been increased to 1.5%, up from 1.25%.</li></ul>"
+		},
+		{
+			"id" : "Rebirth",
+			"itemp" : "Rebirth",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Health granted by this item has been reduced to 380, down from 460.</li><li>This item now gives 25 Health Regeneration per 5 seconds.</li><li>The cost of this item has been increased to 3000, up from 2700.</li></ul>"
+		},
+		{
+			"id" : "Ruin",
+			"itemp" : "Ruin",
+			"class" : "Legendary",
+			"data" : "<ul><li>The flat basic attack damage increased granted by the Unique Passive: Giant Killer has been increased to 25, up from 10.</li><li>The cost of this item has been decreased to 3000, down from 3115.</li></ul>"
+		},
+		{
+			"id" : "Vigor",
+			"itemp" : "Vigor",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Health granted by this item has been increased to 450, up from 400.</li><li>The cost of this item has been increased to 1500, up from 1010.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h2>General Updates</h2>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>The Collection</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>Re-ordered some search Filters.</li><li>Added a new search filter for 'The Chronicles.'</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Front-End Client</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>The Play Screens and Group Queue Lobby art has been updated to be more consistent with the new art around the Front-End Client.</li></ul>"
+		}
+	]
+}

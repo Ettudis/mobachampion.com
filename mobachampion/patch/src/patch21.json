@@ -1,0 +1,10 @@
+{
+    "name": "Closed Beta: Patch 21",
+    "date" : "December 19, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3><h4>Map</h4><ul><li>Fixed an issue that was allowing players to ignore Guardian collision.</li></ul>"
+		}
+	]
+}

@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 31 (June 17th, 2014)</h4><ul><li>The damage reduction component of this Spell on the affected target has been increased to 30%, up from 25%.</li></ul><h4 style="color: #DAA520;">Closed Beta: Patch 26.1 (March 3, 2014)</h4><ul><li>The range of this spell has been increased to 550, up from 537.</li></ul>

@@ -1,0 +1,65 @@
+{
+    "name": "Closed Beta: Patch 22",
+    "date" : "Jan 14, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<p><img src=\"http://cms-media.s3.amazonaws.com/wp-content/uploads/2014/01/Patch-22-Final.png\"></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><h5>Faris, The Ancient</h5><p>Faris is a hybrid Ranged and Melee magical damage assassin that brings a large amount of versatility and damage to a team. Faris succeeds in every role in Dawngate, bringing formidable harass and kill potential to the lane or fast clear times and powerful ganks to the jungle. Faris' primary gameplay revolves around masterful use of his two Basic Attack modes - knowing when to stay in Ranged Mode to poke and harass or when to switch to Melee Mode and go in for the kill is key to playing Faris effectively. Faris' ultimate is a very powerful nuke, but easily thwarted by a supportive enemy team - be sure to disrupt enemy attempts to save your ultimate target and ensure the kill. Faris, like all Assassins, is very susceptible to enemy CC and knowing when your opponents have used their CC abilities is critical to assassinating squishy targets.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Features</h3><p><i><b>Developer Note:</b> In conjunction with the rollout of these new systems, we will also be resetting Destiny and Shaper unlocks on ALL accounts.</i></p><p><i>To help test the new Loadout feature all accounts that have logged into Dawngate prior to January 13, 2014 will be receiving a one-time stipend of 1000 Destiny.</i></p><p><i>As always, we do not take resets lightly and only perform them when absolutely necessary.</i></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Leaderboards</h5><ul><li>The Leaderboard feature is now accessible through the front-end client by clicking the 'Leaderboards' button just under the large 'Play' button.</li><li>The Leaderboards will show the top 200 players within the Dawngate. You may also sort the leaderboards by a variety of conditions: Rank, Name, Most Played Shaper (click the 'Name' tab 3 times), Games Played and Win Ratio. You may also use the Search bar to quickly search the Leaderboards.</li><li>While we're excited to roll out Leaderboards, this is merely the first step for ranked content coming to The Dawngate. We appreciate any and all feedback regarding the system.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Loadouts</h5><ul><li>The Loadout system is a brand new system that will allow players to further customize their Shaper's stats and passive abilities when going into a game of Dawngate. The system may be accessed through hitting the 'Loadouts' button just below the 'Play' button in the front-end client.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Karma Voting</h5><ul><li>The Karma Voting System will allow players to give Karma to players who are deserving of good rewards. This system will tie directly in to the Blessings system and will have a direct impact on what Blessing a particular player receives. The Karma voting system will never be able to negatively impact a player's Blessing due to the fact that there is no way to give a player a negative Karma vote. A player may simply choose to give the Karma bonus, or not.</li><li>To award a worthy player of Karma, you must select the green Karma icon next to the player you wish to give Karma to in the Karma voting section of the end-game process. Players will have 20 seconds to choose any number of players that they would like to give a Karma Boost to before being taken to the next step of the Blessings system.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Blessings</h5><ul><li>The Blessings system is a brand new experience within Dawngate. The Blessings system will allow players to earn many different pieces of content through exceptional play, good behavior and a little bit of luck!</li><li>There are multiple tiers of Blessings that a player may receive - Common, Grand, Astral, Exalted and Divine.</li><li>Blessings may offer a variety of rewards to a player. Rewards may include: Sparks, Spiritstones, and Shapers and will always include some amount of Destiny depending on tier of Blessing and elapsed game time.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Bug Fixes</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shapers</h5>"
+		},
+		{
+			"id" : "King of Masks",
+			"shaper" : "King of Masks",
+			"data" : "<ul><li><B>Captivate (Q)</B></li><ul><li>Fixed a bug that was causing this ability to block pathing.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Landfall (R)</B></li><ul><li>Changed the targeting silhouette to reflect the narrower hit detection correctly.</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li>Fixed an error in Raina's passive's tooltip in her Shaper Gallery entry.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Front-End Client</h5><ul><li>Fixed a crash that could occur when viewing Profiles.</li><li>Fixed a crash that could occur when closing the Post-Game Scoreboard.</li><li>Fixed a bug that could cause the client to become unresponsive in Shaper Select.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>In Game</h5><ul><li>Fixed a bug that was causing the Target panel in the in-game UI to display incorrect colors.</li><li>Gave the Guardian's Area stun debuff an icon as well as a tooltip.</li></ul>"
+		}
+	]
+}

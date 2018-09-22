@@ -1,0 +1,156 @@
+[
+{
+"name" : "Amarynth",
+"title" : "The Tempest",
+"icon" : "http://www.moba-champion.com/images/shapers/Amarynth.png",
+"role" : "Ranged Mage",
+"recommended_role" : "Gladiator, Predator",
+"skill_q" : "Feeding Frenzy",
+"skill_w" : "Waverider",
+"skill_e" : "Tidal Prison",
+"skill_r" : "Riptide"
+},
+{
+"name" : "Cerulean",
+"title" : "The Warden",
+"icon" : "http://www.moba-champion.com/images/shapers/Cerulean.png",
+"role" : "Melee Ability Bruiser",
+"recommended_role" : "Hunter, Predator",
+"skill_q" : "Whirling Strike",
+"skill_w" : "Ritual Bulwark",
+"skill_e" : "Impale",
+"skill_r" : "Shore's Calling"
+},
+{
+"name" : "Desecrator",
+"title" : "The Desecrator",
+"icon" : "http://www.moba-champion.com/images/shapers/Desecrator.png",
+"role" : "Melee Tank",
+"recommended_role" : "Tactician, Predator",
+"skill_q" : "Forgotten Tombs",
+"skill_w" : "Chilling Presence",
+"skill_e" : "Desecrated Ground",
+"skill_r" : "Deathfog"
+},
+{
+"name" : "Dibs",
+"title" : "The Dreamer",
+"icon" : "http://www.moba-champion.com/images/shapers/Dibs.png",
+"role" : "Ranged Support",
+"recommended_role" : "Tactician",
+"skill_q" : "Nightmare",
+"skill_w" : "Dreamwrap",
+"skill_e" : "Ripple",
+"skill_r" : "Reverie"
+},
+{
+"name" : "Fenmore",
+"title" : "The Alpha",
+"icon" : "http://www.moba-champion.com/images/shapers/Fenmore.png",
+"role" : "Ranged Support",
+"recommended_role" : "Ranged Mage",
+"skill_q" : "Soul Rend",
+"skill_w" : "Unyielding March",
+"skill_e" : "Heart Eater",
+"skill_r" : "Ravenous Pack"
+},
+{
+"name" : "Freia",
+"title" : "The Survivor",
+"icon" : "http://www.moba-champion.com/images/shapers/Freia.png",
+"role" : "Melee Carry",
+"recommended_role" : "Predator, Hunter",
+"skill_q" : "Gouge",
+"skill_w" : "Blinding Speed",
+"skill_e" : "Crippling Blow",
+"skill_r" : "Wrath"
+},
+{
+"name" : "Kel",
+"title" : "The Shephard",
+"icon" : "http://www.moba-champion.com/images/shapers/Kel.png",
+"role" : "Melee Tank",
+"recommended_role" : "Predator, Hunter",
+"skill_q" : "Sheep Toss",
+"skill_w" : "Battle Cry!",
+"skill_e" : "Crook Sweep",
+"skill_r" : "Titanic Charge"
+},
+{
+"name" : "Mikella",
+"title" : "The Merchant Princess",
+"icon" : "http://www.moba-champion.com/images/shapers/Mikella.png",
+"role" : "Ranged Carry",
+"recommended_role" : "Gladiator",
+"skill_q" : "Collateral",
+"skill_w" : "Gold Standard",
+"skill_e" : "Waltz",
+"skill_r" : "Final Payment"
+},
+{
+"name" : "Moya",
+"title" : "The Otter",
+"icon" : "http://www.moba-champion.com/images/shapers/Moya.png",
+"role" : "Melee Attack Speed Bruiser",
+"recommended_role" : "Hunter, Predator",
+"skill_q" : "Bolt",
+"skill_w" : "Shock",
+"skill_e" : "Recharge",
+"skill_r" : "Landfall"
+},
+{
+"name" : "Nissa",
+"title" : "The High Huntress",
+"icon" : "http://www.moba-champion.com/images/shapers/Nissa.png",
+"role" : "Ranged Carry",
+"recommended_role" : "Gladiator",
+"skill_q" : "Branching Blade",
+"skill_w" : "The Chase",
+"skill_e" : "Wing Clip",
+"skill_r" : "Final Flight"
+},
+{
+"name" : "Petrus",
+"title" : "The Artificer",
+"icon" : "http://www.moba-champion.com/images/shapers/Petrus.png",
+"role" : "Melee Ability Bruiser",
+"recommended_role" : "Hunter, Predator",
+"skill_q" : "Demi",
+"skill_w" : "Force Wave",
+"skill_e" : "Unyielding Progress",
+"skill_r" : "Hypersonic Punch"
+},
+{
+"name" : "Varion",
+"title" : "The Mercenary",
+"icon" : "http://www.moba-champion.com/images/shapers/Varion.png",
+"role" : "Ranged Carry",
+"recommended_role" : "Gladiator",
+"skill_q" : "Celerity Shell",
+"skill_w" : "Progress Gate",
+"skill_e" : "Insight Shell",
+"skill_r" : "Chaos Shell"
+},
+{
+"name" : "Voluc",
+"title" : "The Warlock Knight",
+"icon" : "http://www.moba-champion.com/images/shapers/Voluc.png",
+"role" : "Melee Attack Speed Bruiser",
+"recommended_role" : "Hunter, Predator",
+"skill_q" : "Sentinel Strike",
+"skill_w" : "Curse of Weakness",
+"skill_e" : "Devour",
+"skill_r" : "Damnation"
+},
+{
+"name" : "Zeri",
+"title" : "The Artist",
+"icon" : "http://www.moba-champion.com/images/shapers/Zeri.png",
+"role" : "Ranged Support",
+"recommended_role" : "Tactician",
+"skill_q" : "Splatter",
+"skill_w" : "Muse",
+"skill_e" : "Desaturate",
+"skill_r" : "Prismatic Vortex"
+}
+]

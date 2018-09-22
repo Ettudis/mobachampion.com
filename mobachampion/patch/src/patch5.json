@@ -1,0 +1,181 @@
+{
+    "name": "Closed Beta: Patch 5",
+    "date" : "July 18, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>Beta Patch 5 has arrived. And with it, our first Assassin Shaper! We hope you guys have a blast using Kindra, the Vesper out on the fields of Dawngate. Remember to take our Survey to give us feedback after playing for a little while!</p><img src=\"http://i.imgur.com/lcH0r7C.png\">"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>New Shaper</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<B>Kindra, the Vesper</B><BR>Kindra is a melee, magical assassin with unparalleled burst and the ability to chain several kills by resetting her abilities. Kindra can excel in all portions of the early game, making both an effective Jungler and Laner. Kindra's built in survivability, both shielding and healing, make her an extremely daunting Shaper to fight in a duel or in a 2v2. Late game, Kindra's build tends to leave her susceptible to high burst or crowd control and encourages her to wait in the shadows while her team engages a fight. Choosing a low health target will ensure that Kindra gets the necessary ability resets to clean up any amount of foes. If Kindra's life is in danger, she can use her ultimate to briefly become untargetable as she damages and teleports between foes.</p><ul><li>Passive - Pure Shaper - Kindra is not limited by a resource and may cast her abilities freely.</li><li><B>Q - Night Strike</B> - Kindra fires several blades in a cone in front of her, dealing magical damage to all targets hit. Striking an enemy Shaper with this ability will cause Kindra to be healed when the blades return. This ability's cooldown resets if Kindra gets a kill or assist.</li><li><B>W - Duskmantle</B> - Kindra spins shadow blades in a short area around her, dealing magical damage to all targets hit. Striking an enemy Shaper with this ability will cause Kindra to gain a shield based on the number of Shapers hit. This ability's cooldown resets if Kindra gets a kill or assist.</li><li><B>E - Shadowstep</B> - Kindra instantly blinks behind her target, dealing magical damage if they are an enemy. This ability's cooldown resets if Kindra gets a kill or assist.</li><li><B>R - Nox Aeterna</B> - Kindra teleports a short distance to target enemy Shaper, becoming untargetable for a short duration while teleporting and dealing magical damage to multiple Shapers near her primary target. Multiple hits against the same target deal reduced damage.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+        },
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li><B>Feeding Frenzy (Q)</B></li><ul><li>The base damage of this ability has been reduced to 60/105/150/195/240, down from 60/110/160/210/260.</li></ul><li><B>Riptide (R)</B></li><ul><li>The power ratio on this ability has been reduced to 1.2 per point of Power, down from 1.4 per point of Power.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><B>Forgotten Tombs (Q)</B></li><ul><li>The cooldown of this ability has been increased to 13/12.5/12/11.5/11, up from 13/12/11/10/9.</li></ul></ul>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li><B>Nightmare (Q)</B></li><ul><li>The damage inflicted by an allied Shaper when damaging a target affected by Nightmare has been increased to 40/55/70/85/100, up from 20/30/40/50/60.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><B>Rage Shaper (Passive)</B></li><ul><li>Freia's passive will now generate 2 stacks of Rage when she uses basic attacks on an enemy Shaper, up from 1 stack per basic attack. She continues to only gain 1 stack of Rage per basic attack against non-Shaper enemies.</li></ul><li><B>Gouge (Q)</B></li><ul><li>The secondary activation bonus damage on this ability has been reduced to 70/120/170/220/270, down from 80/130/180/230/280.</li></ul></ul>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li><B>Final Payment (R)</B></li><ul><li>The power ratio on this ability has been reduced to 1.2 per point of power, down from 1.38.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Recharge (E)</B></li><ul><li>The on-hit heal on this ability no longer heals when attacking Bindings or the Guardian.</li></ul><li><B>Landfall (R)</B></li><ul><li>The cooldown of this ability has been increased to 150/140/130 seconds, up from 140/120/100 seconds.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li><B>Branching Blade (Q)</B></li><ul><li> The base damage on this ability has been reduced to 55/95/135/175/215, down from 70/110/150/190/230.</li></ul><li><B>Final Flight (R)</B></li><ul><li>The base damage on this ability has been reduced to 150/250/350 per hit, down from 175/275/375 per hit.</li></ul></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<ul><li><B>Unyielding Progress (E)</B></li><ul><li>The base damage of this ability has been increased to 180/270/360/450/540, up from 180/255/330/405/480.</li></ul></ul>"
+		},
+		{
+			"id" : "Varion",
+			"shaper" : "Varion",
+			"data" : "<ul><li><B>rogress Gate (W)</B></li><ul><li>The cast range of this ability has been reduced to 575, down from 775.</li></ul><li><B>Chaos Shell (R)</B></li><ul><li>The power ratio on this ability has been reduced to 1.0 per point of power, down from 1.5 per point of power.</li></ul></ul>"
+		},
+		{
+			"id" : "Zeri",
+			"shaper" : "Zeri",
+			"data" : "<ul><li><B>Splatter (Q)</B></li><ul><li>The base damage of this ability has been reduced to 75/120/165/210/255, down from 80/130/180/230/280.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Spells</h4>"
+        },
+		{
+			"id" : "Exceed",
+			"spell" : "Exceed",
+			"data" : "<ul><li>The percentage power increase given by this spell when activated has been reduced to 20%, down from 25%.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Items</h4>"
+        },
+		{
+			"id" : "Conviction",
+			"item" : "Conviction",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed an issue where the shield granted by this item was not activating again for the remainder of the game after it was fully removed once.</li></ul>"
+		},
+		{
+			"id" : "Faith",
+			"item" : "Faith",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed an issue where the shield granted by this item was not activating again for the remainder of the game after it was fully removed once.</li></ul>"
+		},
+		{
+			"id" : "Glory",
+			"item" : "Glory",
+			"class" : "Legendary",
+			"data" : "<ul><li>The cost to create Glory has increased to 2590, up from 2440.</li></ul>"
+		},
+		{
+			"id" : "Inevitability",
+			"item" : "Inevitability",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power on this item has been reduced to 35, down from 40.</li><li>The cost of this item has been reduced to 2720, down from 2860.</li></ul>"
+		},
+		{
+			"id" : "Life",
+			"item" : "Life",
+			"class" : "Basic",
+			"data" : "<ul><li>The amount healed by the Consume passive ability on this item has been reduced to 3/7/12, down from 5/10/15. The amount healed is now doubled for melee Shapers.</li></ul>"
+		},
+		{
+			"id" : "Pride",
+			"item" : "Pride",
+			"class" : "Advanced",
+			"data" : "<ul><li>The cost to create Pride has increased to 1730, up from 1630.</li></ul>"
+		},
+		{
+			"id" : "Rampancy",
+			"item" : "Rampancy",
+			"class" : "Legendary",
+			"data" : "<ul><li>The amount healed by the Consume passive ability on this item has been reduced to 3/7/12, down from 5/10/15. The amount healed is now doubled for melee Shapers.</li></ul>"
+		},
+		{
+			"id" : "Vigor",
+			"item" : "Vigor",
+			"class" : "Advanced",
+			"data" : "<ul><li>The amount healed by the Consume passive ability on this item has been reduced to 3/7/12, down from 5/10/15. The amount healed is now doubled for melee Shapers.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Map</h4>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Jungle</h5><i>Developer Note: The range of experience split has been increased to prevent players who are still actively pariticpating in a fight from accidentally missing experience. Additionally, the bonus experience for multiple shapers sharing experience has been reduced to give 1v2 lanes more of an experience advantage, allowing that strategy to be more viable.</i><ul><li>The range at which a player may be rewarded with Lane Minion experience from a dying Minion has been increased to 1250, up from 1200.</li><li>The range at which a player is rewarded experience for killing another player has been increased to 1650, up from 1400.</li><li>The amount of bonus experience for 2 or more players splitting experience from any source has been decreased to 30%, down from 35%.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Lane</h5><i>Developer Note: The range of experience split has been increased to prevent players who are still actively pariticpating in a fight from accidentally missing experience. Additionally, the bonus experience for multiple shapers sharing experience has been reduced to give 1v2 lanes more of an experience advantage, allowing that strategy to be more viable.</i><ul><li>The range at which a player may be rewarded with Lane Minion experience from a dying Minion has been increased to 1250, up from 1200.</li><li>The range at which a player is rewarded experience for killing another player has been increased to 1650, up from 1400.</li><li>The amount of bonus experience for 2 or more players splitting experience from any source has been decreased to 30%, down from 35%.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>General</h4>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Experience</h5><ul><li>The amount of experience gained for killing a lower level player has been changed to a 10% reduction of experience for a 1 level disparity, and a 20% reduction in experience for every additional level disparity, capping at a 4 level disparity threshold. This is down from a flat 5% reduction in experience rewarded per level difference between the players involved.</li></ul><ul><li>Old Values</li><ul><li>-1 Level: 95% Experience Awarded</li><li>-2 Levels: 90% Experience Awarded</li><li>-3 Levels: 85% Experience Awarded</li><li>-4 Levels: 80% Experience Awarded</li></ul><li>New Values</li><ul><li>-1 Level: 90% Experience Awarded</li><li>-2 Levels: 72% Experience Awarded</li><li>-3 Levels: 57.6% Experience Awarded</li><li>-4 Levels: 46% Experience Awarded</li></ul></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "The amount of experience gained for killing a higher level player has been changed to a 10% bonus of experience for a 1 level disparity, and a 20% bonus for every additional level disparity, capping at a 4 level disparity threshold. This is up from a flat 5% increase in experience rewarded per level difference between the players involved.<ul><li>Old Values</li><ul><li>+1 Level: 105% Experience Awarded</li><li>+2 Levels: 110% Experience Awarded</li><li>+3 Levels: 115% Experience Awarded</li><li>+4 Levels: 120% Experience Awarded</li></ul><li>New Values</li><ul><li>+1 Level: 110% Experience Awarded</li><li>+2 Levels: 132% Experience Awarded</li><li>+3 Levels: 158% Experience Awarded</li><li>+4 Levels: 190% Experience Awarded</li></ul></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Vim</h5><ul><li>The Vim penalty for players on death streaks has been increased. A player is now worth 10% less Vim after they have died once, and 30% less Vim for every subsequent death, up from 10% and 20% respectively. This change results in the penalty cap for death streaks now cap at being worth 22 Vim upon death after having died 8 times in a row, up from capping at 138 Vim after 4 deaths.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Audio</h5><ul><li>Added an audio cue for starting matchmaking and for when a match is found.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Front-End Client</h5><ul><li>Fixed the \"Waiting for game to start\" error that some players were experiencing during Matchmaking.'</li><li>Fixed an issue where non-party leader group members did not receive the correct pop up for the Match Found dialogue in matchmaking.</li></ul>"
+        },
+		{
+            "id" : "general",
+            "data" : "<h5>General</h5><ul><li>Fixed a crash for several newer / rarer GPUs.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>UI</h5><ul><li>Fixed the Spirit Well indicator portion of the UI to correctly display the state of Spirit Wells at all times.</li></ul>"
+        }
+	]
+}

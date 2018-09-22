@@ -1,0 +1,285 @@
+{
+    "name": "Closed Beta: Patch 31",
+    "date" : "June 17th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><img src=\"http://www.moba-champion.com/images/shapers/viridian/Viridian720.jpg\"><h4>Viridian, the Abyssal</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<p><h5>Viridian, the Abyssal</h5>Viridian is a melee, physical damage Assassin who focuses solely on doing massive damage to a single target. Viridian is suited both to the Gladiator and Hunter roles, always performing best when paired with (or ganking the lane of) Shapers who can help set up his massive burst combo. Viridian's core kit allows him to dominate duels against almost any target, as well as has enough mobility and damage to corner and assassinate targets in a hectic teamfight. Viridian's core combo can be one of the most devastating in the game, but requires tricky set up that can be interrupted by mobile targets or enemy crowd control - use Viridian's ultimate and mobility wisely to counter these strategies.<BR><BR><B>Passive - Rage Shaper - Adrenal Glands - </B>Viridian uses Rage to cast his abilities. Viridian is healed whenever his Rage drains or is consumed.<BR><B>Q - Knife Toss - </B>Viridian throws a knife at the closest target prioritizing Shapers, dealing damage and causing them to take increased damage from Viridian.<BR><B>W - Surge - </B>Viridian dashes in target direction, then gains increased movespeed and damage on his next basic attack which allows Surge to be reactivated when used.<BR><B>E - Heartstrike - </B>Deals massive damage to target enemy based on his Rage. Viridian will remove any Knives in the target, returning them to his supply and allowing the target to be knifed again.<BR><B>R - Deep Rising - </B>Viridian summons a giant Cetan Whale in target direction, impaling the first shaper struck and dragging them along with him. Any other shapers hit get knocked away.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shapers</h5>"
+		},
+		{
+			"id" : "Cerulean",
+			"shaper" : "Cerulean",
+			"data" : "<ul><li><B>Whirling Strike (Q)</B></li><ul><li>Fixed a bug that would occasionally allow multiple casts of this ability if activated several times within a short period of time.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><B>Forgotten Tombs (Q)</B></li><ul><li>The cooldown of this ability has been increased to 13/12.5/12/11.5/11, up from 12/11.5/11/10.5/10.</li></ul><li><b>Death Fog</b></li><ul><li>Fixed a bug where if this ability was interrupted during one of its activations, the rest of the activations would be lost.</li></ul></ul>"
+		},
+		{
+			"id" : "Faris",
+			"shaper" : "Faris",
+			"data" : "<ul><li><B>Reconfigure (Q)</B></li><ul><li>The non-Shaper damage cap on this ability has been reduced to 30/65/100/135/170, down from 50/90/130/170/210.</li><li>The melee form damage based on missing Health now gains 2.5% damage based on missing health per 100 Power, down from 4% per 100 power.</li></ul><li><B>Access Memory (W)</B></li><ul><li>The melee form damage vs non-Shapers on this ability has been reduced to 50/90/130/170/210, down from 60/100/140/180/220.</li><li>The melee form damage vs Shapers on this ability has been reduced to 75/135/195/255/315, down from 90/150/210/270/330.</li><li>The ranged form damage of this ability has been increased to 120/170/220/270/320, up from 100/150/200/250/300.</li></ul><li><B>Final Protocol (R)</B></li><ul><li>The damage per missile on this ability has been increased to 75/120/165, up from 45/70/95.</li><li>Consecutive hits against the same target now deal 50% reduced damage.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><B>Wrath (R)</B></li><ul><li>Fixed a bug that was allowing the Fear component of this ability to affect Shapers under the influence of disable immunity effects, such as Blitz.</li></ul></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li><b>Nightstrike (Q)</b></li><ul><li>The damage of this ability has been reduced to 60/105/150/195/240, down from 65/110/155/200/245.</li></ul><li><b>Nox Aeterna (R)</b></li><ul><li>Reduced the reactivation cooldown of this ability to 0.75 seconds, down from 1 second.</li><li>The time you have to reactivate this ability from the previous cast has been increased to 6 seconds, up from 5.</li><li>The range of this ability has been increased to 475, up from 425.</li><li>Fixed a bug where if this ability was interrupted during one of its activations, the rest of the activations would be lost.</li></ul></ul>"
+		},
+		{
+			"id" : "King of Masks",
+			"shaper" : "King of Masks",
+			"data" : "<ul><li><B>Captivate (Q)</B></li><ul><li>The cooldown of this ability has been reduced to 11/10/9/8/7, down from 12/11/10/9/8.</li></ul><li><B>Endless Delights (E)</B></li><ul><li>The cooldown of this ability has been reduced to 11/10/9/8/7, down from 12/11/10/9/8.</li></ul></ul>"
+		},
+		{
+			"id" : "Kensu",
+			"shaper" : "Kensu",
+			"data" : "<ul><li><B>Thrill of the Hunt (W)</B></li><ul><li>Fixed a bug where Kensu would sometimes hit a wall instead of correctly dashing over it.</li><li>Fixed a bug where this ability was resetting inconsistently when reset via Defiance's passive ability Cornered Beast.</li></ul></ul>"
+		},
+		{
+			"id" : "Mina",
+			"shaper" : "Mina",
+			"data" : "<ul><li><B>Spite (Q)</B></li><ul><li>The damage of this ability has been reduced to 50/95/140/185/230, down from 55/100/145/190/235.</li></ul></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<p>Updated auto attack animations.</p>"
+		},
+		{
+			"id" : "Viyana",
+			"shaper" : "Viyana",
+			"data" : "<ul><li><B>Pure Blood (W)</B></li><ul><li>The blood orbs generated by this ability will now generate 1% faster per 1% cooldown reduction that Viyana has.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Devour (E)</B></li><ul><li>This ability now has a 0.15 second cast time.</li><li>The damage of this ability has been reduced to 50/105/150/195/240, down from 65/110/155/200/245.</li></ul></ul>"
+		},
+		{
+			"id" : "Zalgus",
+			"shaper" : "Zalgus",
+			"data" : "<ul><li><B>Chains of Fate (Q)</B></li><ul><li>The cooldown of this ability has been reduced to 13/12/11/10/9, down from 15/14/13/12/11.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Items</h5>"
+		},
+		{
+			"id" : "Chaos",
+			"itemp" : "Chaos",
+			"class" : "Legendary",
+			"data" : "<ul><li>The base damage of the Chain Lightning passive has been reduced to 75, down from 100.</li><li>The price of this item has been increased to 3000, up from 2630.</li></ul>"
+		},
+		{
+			"id" : "Discipline",
+			"itemp" : "Discipline",
+			"class" : "Advanced",
+			"data" : "<ul><li>The price of this item has been increased to 1500, up from 1400.</li></ul>"
+		},
+		{
+			"id" : "Defiance",
+			"itemp" : "Defiance",
+			"class" : "Legendary",
+			"data" : "<ul><li>The price of this item has been reduced to 3000, down from 3175.</li></ul>"
+		},
+		{
+			"id" : "Devotion",
+			"itemp" : "Devotion",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Passive Armor granted by this item has been increased to 30, up from 15.</li><li>The Armor and Magic Resistance auras granted by this item has been increased to 20, up from 15.</li><li>The price of this item has been increased to 3000, up from 2550.</li></ul>"
+		},
+		{
+			"id" : "Empathy",
+			"itemp" : "Empathy",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Armor granted by this item has been increased to 100, up from 80.</li><li>The Magic Resistance granted by this item has been increased to 65, up from 50.</li><li>The price of this item has been reduced to 3000, down from 3060.</li></ul>"
+		},
+		{
+			"id" : "Energy",
+			"itemp" : "Energy",
+			"class" : "Advanced",
+			"data" : "<ul><li>The price of this item has been increased to 1500, up from 1450.</li></ul>"
+		},
+		{
+			"id" : "Equilibrium",
+			"itemp" : "Equilibrium",
+			"class" : "Legendary",
+			"data" : "<ul><li>The price of this item has been increased to 3000, up from 2880.</li></ul>"
+		},
+		{
+			"id" : "Finesse",
+			"itemp" : "Finesse",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Haste granted by this item has been increased to 35, up from 30.</li><li>The damage amplification granted by the Exploit Weakness Unique Passive has been increased to 5% per stack, up from 4%.</li><li>The price of this item has been increased to 3000, up from 2670.</li></ul>"
+		},
+		{
+			"id" : "Glory",
+			"itemp" : "Glory",
+			"class" : "Legendary",
+			"data" : "<ul><li>The damage from this item's passive ability is now correctly flagged as Damage Over Time.</li></ul>"
+		},
+		{
+			"id" : "Harmony",
+			"itemp" : "Harmony",
+			"class" : "Legendary",
+			"data" : "<ul><li>The price of this item has been increased to 3000, up from 2700.</li></ul>"
+		},
+		{
+			"id" : "Insight",
+			"itemp" : "Insight",
+			"class" : "Legendary",
+			"data" : "<ul><li>The true damage dealt by the Puncture Unique Passive has been increased to 10%, up from 5%.</li><li>The price of this item has been increased to 3000, up from 2190.</li></ul>"
+		},
+		{
+			"id" : "Momentum",
+			"itemp" : "Momentum",
+			"class" : "Legendary",
+			"data" : "<ul><li>The disable immune shield granted by the Unique Passive Unshakable will no longer absorb disables from items such as Control, Pursuit, etc.</li></ul>"
+		},
+		{
+			"id" : "Pestilence",
+			"itemp" : "Pestilence",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power granted by this item has been reduced to 30, down from 35.</li><li>The price of this item has been reduced to 3000, down from 3040.</li></ul>"
+		},
+		{
+			"id" : "Pestilence",
+			"itemp" : "Pestilence",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Health granted by this item has been increased to 650, up from 625.</li><li>The Maximum Health to Power conversion ratio on the Juggernaut Unique Passive has been increased to 1.25%, up from 1%.</li><li>The price of this item has been increased to 3000, up from 2445.</li></ul>"
+		},
+		{
+			"id" : "Resonance",
+			"itemp" : "Resonance",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Mastery granted by this item has been reduced to 25, down from 30.</li><li>The price of this item has been reduced to 3000, down from 3200.</li></ul>"
+		},
+		{
+			"id" : "Strife",
+			"itemp" : "Strife",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where the first stack of Strife was granting double the amount of attributes as it should have been granting.</li></ul>"
+		},
+		{
+			"id" : "Subjugation",
+			"itemp" : "Subjugation",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Magic Resistance granted by this item has been increased to 35, up from 30.</li><li>The price of this item has been increased to 3000, up from 2775.</li></ul>"
+		},
+		{
+			"id" : "Will",
+			"itemp" : "Will",
+			"class" : "Basic",
+			"data" : "<ul><li>The Stackable Passive: Void has been redesigned.</li><ul><li>Stackable Passive - Void: Attempts to reduce any magical damage taken by 10%. The amount of magical damage reduced cannot exceed 10 damage. When stacked, the reduction for every Void beyond the first is only 50% as effective as the previous stack.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Spells</h5>"
+		},
+		{
+			"id" : "Drain",
+			"spell" : "Drain",
+			"data" : "<ul><li>The damage of this spell has been reduced to 90-495 (based on level), down from 100-550.</li></ul>"
+		},
+		{
+			"id" : "Exceed",
+			"spell" : "Exceed",
+			"data" : "<ul><li>The flat Power bonus granted by this Spell has been increased to 30, up from 25.</li><li>The percentage Power bonus granted by this Spell has been increased to 30%, up from 20%.</li></ul>"
+		},
+		{
+			"id" : "Wither",
+			"spell" : "Wither",
+			"data" : "<ul><li>The damage reduction component of this Spell on the affected target has been increased to 30%, up from 25%.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Bug Fixes / General Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Audio</h5><ul><li>The music transition at the end of Shaper select will now end at the appropriate time.</li><li>Added audio warnings when running out of time during Shaper Select.</li><li>Added audio for selecting each Role.</li><li>Refinements to all audio for Marah's announcer pack.</li><li>Added missing audio in Marah's Announcer pack.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Collection</h5><ul><li>Fixed a bug causing yellow lines to flash on the screen when clicking a card.</li><li>Fixed sorting tags for the Kensu announcer pack.</li><li>Fixed a filtering issue for Petrus and Ashabel.</li><li>Fixed sorting issues for Mina, Voluc, and Desecrator skins.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>Updated recommended items on most Shapers.</li><li>Your Loadout selection will now be saved on a per Shaper basis.</li><li>The tooltip for Fears will now show the appropriate duration when being reduced by disable reductions, such as Tenacity.</li><li>Fixed a bug where if you had multiple sources of percentage Power increased it would result in significantly higher Power values than intended.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Map</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Bindings</h5><ul><li>Fixed a bug where Bindings would acquire Dibs as a target when he was flying over them with his ultimate.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Environment</h5><ul><li>Point Lights added to the torches in the Ugger camp areas and Vim generators in the Spirit Wells.</li><li>Fixed Torches so the fire and smoke all animate correctly.</li><li>Repainted most of the ground cover and foliage in the Ugger camp area to reduce aliasing.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Parasite</h5><ul><li>Fixed a bug where Parasite would fail to use his Spirit Bombs against targets who were standing at his maximum range.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Shapers</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Faris</h5><ul><li>Fixed a bug causing Faris' Reconfigure to display icons in the wrong order.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Fenmore</h5><ul><li>Fixed a bug that would allow Fenmore to kill himself using the Health cost associated with casting his abilities.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Freia</h5><ul><li>Fixed a bug allowing Freia's ultimate to pierce through Blitz.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Kensu</h5><ul><li>Fixed a typo in Kensu's passive Pure Shaper - Quick Release.</li><li>Fixed a typo in Kensu's Haunt ability</li><li>Fixed a bug causing Kensu's ultimate not to function properly if he was crowd controlled while the arrow was in flight.</li><li>Fixed a display issue with Kensu's Voidbreaker over certain terrain.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Marah</h5><ul><li>Fixed an animation issue with Spirit Echo Marah's dance.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Mina</h5><ul><li>Updated the ghostly effect on Mina's Sever Ties when using low settings to make it clearer.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Viyana</h5><ul><li>Fixed a bug that would allow Viyana to kill herself using the Health cost associated with casting her abilities.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Zeri</h5><ul><li>Fixed a bug causing Muse to grant exponential Power gains when combined with other Power gain effects.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>User Interface</h5><ul><li>Fixed an issue causing the spell selection to move to the wrong part of the screen.</li><li>Fixed a bug causing various user interface elements to grey out.</li><li>Several minor visual changes to the user interface.</li><li>Several minor visual changes to the player profile.</li></ul>"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Closed Beta: Patch 13",
+    "date" : "October 13, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<img src=\"http://i.imgur.com/JaXcKB8.png\">"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>New Shaper</h3><b>Vex, the Beast</b><BR>Vex is a spine-launching ranged carry that boasts all but unrivaled potential for inflicting damage-though he may have a perilous path to the top, should he get there, few are the shapers that can hope to stand up to his endless barrage of spines for any length of time. That firepower comes at a price, however-where other range carries have the ability to reposition rapidly to adapt instantly to a chaotic battle, Vex has no such mobility, forcing him into a meticulous, patient playstyle appropriate for a lurking predator, circling the battle just out of reach, waiting for the right moment to pin his foes and turn \"prey\" into \"meat\". If you want to rain jagged death on your enemies, cutting down the mighty and the frail alike, and you think you have the cunning to stay five steps ahead while doing it, then Vex might be the Shaper for you.<BR><BR><b>Passive - Pure Shaper</b> - Vex may use his abilities freely.<BR><b>Q - Skewer</b> - Vex summons a wave of spikes that rips through the ground, dealing physical damage to each enemy it passes through. Enemies with impaired movement are skewered by the spines, reducing their Armor by a percentage for several seconds.<BR><b>W - Grievous Wounds</b> Passive: Vex's every third basic attack will be a Grievous attack, dealing bonus magical damage based on the target's maximum Health. This passive is disabled while Grievous Wounds is on cooldown. Active: For a short time, all of Vex's attacks are Grievous.<BR><b>E - Jagged Volley</b> - Vex launches the spikes on his back in a high arc towards a targeted area, dealing physical damage to enemies they strike. The spines remain stuck in the ground for several seconds, slowing enemies who move through them.<BR><b>R - Splintering Spines</b> - Vex fires Splintering Spines with his basic attacks for several seconds. Splintering Spines have increased Base Attack Damage and shatter on the primary target, dealing a percentage of their total damage as physical damage to enemies in an arc behind the primary target."
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>New Feature - Shaper Rotation</h3><ul><li>We're pleased to announce our very first Shaper rotation. As a reminder: Shapers will normally be on a two week rotation, however this week will be a bit different since we're starting the staggered rotation. For this week, a subset of five Shapers will be available for one week only. After this week, all Shapers will be available on a two week rotating schedule.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>New Feature - Destiny</h3><i>Developer Note: For this phase of the beta, all players will start with 370 Destiny. Shapers at this point in time will cost 240 Destiny, but this number is always subject to change. This initial 370 Destiny should allow player's to unlock 1 Shaper of their choosing, and only have to play 3 games to unlock a 2nd Shaper. Each game will award a player with 50 Destiny whether they win or lose. This should make it so roughly every 5 games a player can unlock 1 Shaper!</i><ul><li>Destiny has now been introduced to Dawngate to work as an earned currency. Players will earn 50 Destiny after every game. Destiny is used to unlock Shapers to allow them to be playable throughout the beta.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+        },
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><B>Desecrated Ground (E)</B></li><ul><li>The root duration of this spell has been reduced to 1 second, down from 1.25 seconds.</li></ul></ul>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li><B>Nightmare (Q)</B></li><ul><li>The secondary damage that is inflicted when an allied Shaper attacks a target affected by this ability will now correctly credit the attacker with the Shaper kill or creep kill if the affected target dies.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Passive - Celerity</B></li><ul><li>The bonus haste per point of energy missing that this passive ability grants has been reduced to a maximum of 34 bonus Haste at level 1 to 110 bonus haste at level 20, down from a maximum of 35 bonus hate at level 1 to 130 bonus haste at level 20.</li></ul><li><B>Recharge (E)</B></li><ul><li>The flat healing on basic attack from this ability has been reduced to 5/10/15/20/25, down from 8/14/20/26/32.</li></ul></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<ul><li><B>Force Wave (W)</B></li><ul><li>The cast range of this ability has been increased to 500, up from 450.</li></ul><li><B>Unyielding Progress (E)</B></li><ul><li>The base damage of this ability has been increased to 240/330/420/510/600, up from 210/300/390/480/570.</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li><B>Passive - Steadfast</B></li><ul><li>The Armor and Magic Resistance ratio on this passive ability's heal has been reduced to 0.175, down from 0.2.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Curse of Weakness (W)</B></li><ul><li>The damage this ability inflicts when Voluc triggers the marked target has been reduced to 55/90/125/160/195, down from 65/100/135/170/205.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Map</h3><h5>Parasite</h5><ul><li>The bonus Power awarded by the 2nd Evolution Parasite buff has been reduced to 25, down from 30.</li><li>The bonus Health Regen awarded by the 2nd Evolution Parasite buff has been increased to 3% of maximum Health, up from 1.5%.</li><li>The bonus Power awarded by the 3rd Evolution Parasite buff has been reduced to 50, down from 60.</li><li>The visual effects for the 2nd and 3rd Evolution Parasite buffs now use the same visual effects.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Emotes</h5><ul><li>All Shapers now have a unique Dance emote that can be triggered by typing /dance!</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Fog of War</h5><ul><li>The scoreboard will now only update when a player becomes visible outside the Fog of War.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Map</h5><ul><li>There has been a major texture rework in the Fish area of the jungle. This update includes: New water that ripples, foliage, mangrove trees and roots!</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Matchmaking</h5><ul><li>The matchmaking logic has been updated to improve overall team balance.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Scoreboard</h5><ul><li>The in-game scoreboard and post-game scoreboard art has been updated.</li><li>Teamwide Kills, Deaths and Asissts are now viewable on the post-game scoreboard.</li><li>The amount of Destiny awarded per game now added to the post-game scoreboard.</li><li>Victory and Defeat messages have been made more clear in the post-game scoreboard.</li><li>Consumable slots have been removed from the post-game scoreboard.</li></ul>"
+        }
+	]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Closed Beta: Patch 6",
+    "date" : "July 26, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>This week we just have a few hot fixes going into the game, no big balance changes or anything are taking place! Enjoy the 30 hours of Dawngate available this weekend!</p>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>General</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Crash Fixes</h5><ul><li>Fixed a timing related crash on the Login Screen that occured when clicking \"Sign Up Now\" during the login process.</li><li>Fixed a crash when browsing the Shaper Gallery.</li><li>Fixed a crash when loading the post-game scoreboard.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>General</h5><i>Developer Note: Some players seem to be exclusively running the game from the Dawngate executable. Please always run the Launcher and use the 'Play Now' button, older version of the game will be unable to connect to the Dawngate servers.</i><ul><li>Added a version check during the login process - players who do not have the correct version of Dawngate will be unable to login.</li><li>Fixed an issue where Developer Names were not always properly displaying as orange.</li></ul>"
+        }		
+	]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Closed Beta: Patch 20",
+    "date" : "December 11, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<p><img src=\"http://i.imgur.com/PpTMIZH.png\"></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Viyana, the Purifier</h5><p>Viyana is a ranged, magical damage support that focuses almost exclusively on healing and sustaining her team. Viyana performs best in a lane role, harassing enemies with a bevy of powerful abilities - being rewarded for skillful offensive play with increased healing or shielding. Viyana sacrifices core kit utility present on other support Shapers in exchange for powerful sustain; being mindful of your lane partner's skillset and item choices can often inform which sustaining or shielding abilities will be most useful. Viyana's ultimate is immensely powerful, notably piercing through all forms of crowd control immunity, but leaves her vulnerable to enemy advances - be sure to use your abilities wisely and note your team's positioning before unleashing it on a hapless foe.</p><ul><li>Passive - Health Shaper - Pulse - Viyana uses health to cast her abilities. Viyana gains increased effectiveness from Heals, Regen and Lifedrain as her current health decreases.</li><li>Q - Needle - Viyana creates a spear of blood in target direction, dealing magical damage to the first enemy struck. Purified blood arcs back from the target healing nearby allied Shapers.</li><li>W - Pure Blood - Viyana generates Blood Orbs slowly over time that automatically heal nearby allied Shapers (except Viyana) with low health. Viyana may activate Pure Blood to consume a Blood Orb, shattering it at target location dealing magical damage and reducing the healing of enemies in the area.</li><li>E - Leech - Viyana curses target enemy, dealing damage over time. Each time the target takes damage, the lowest health allied Shaper gains a small shield that can stack several times. Any time a Shaper is shielded, the cooldown of this ability is reduced.</li><li>R - Exsanguinate - Viyana instantly suppresses target enemy Shaper, dealing magical damage to them over time. Viyana is healed over the duration of the effect.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Feature</h3><h4>Reporting</h4>Players now have the ability to report individuals from either the post-game lobby or social panel.<ul><li>How to report a player:</li><ul><li>Right click the player's name you wish to report in either the post-game lobby or social panel.<li>Select the appropriate offense that the player has committed.<li>Hit \"Ok\"</li></ul><li>Players may be reported for the following reasons:</li><ul><li>Griefing - Example: Player X was not able to play their desired Shaper and decided to run into the enemy Binding repeatedly.</li><li>Harassment - Example: Player X used vulgar or offensive language and/or regularly insulted teammates.</li><li>Inappropriate Name - Example: A player's name is inappropriate or contains offensive language.</li><li>Intentionally Leaving / AFK - Example: Player X died twice in lane early, typed \"GG\" and refused to help his team for the remainder of the match by sitting idle at the Locus.</li><li>Inaccurate Matchmaking - Example: Player X';s relative level of skill was perceived to be much higher or much lower rated than the rest of the players in the game, such that the skill difference surprised you enough to warrant this report.</li></ul><li>Waystone Games does not publicly discuss individual player reports or actions taken as a result of being reported.</li><li>While we take all reports very seriously please note that being reported a single time will not necessarily result in action being taken against your account.</li><li>We will very closely be monitoring to identify repeat offenders. Please note that repeat offenses may result in action being taken against your Dawngate account up to, and including, written warning, revocation of Beta access or any other actions that Waystone Games deems appropriate at our sole discretion.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Feature</h3><h4>Auto Re-queue / Improved Matchmaking</h4><h5>Auto Re-queue</h5><ul><li>Players will now be automatically placed back in queue if a match fails to start due to an inactive or declining player. If someone from your group fails to accept the AFK Detection, your entire group will be automatically placed back into the matchmaking lobby.</li></ul><h5>Improved Matchmaking</h5><ul><li><B>Matchmaking Rating Adjustments</B></li><ul><li>As part of a large host of matchmaking improvements, each player's matchmaking rating has been compressed towards a median value. While this doesn't affect a player's rating relative to another player, all values have been shifted relative to a median value.</li></ul><li><B>Number of Games Played</B></li><ul><li>Veteran players with a large number of games played are much less likely to encounter players with very few games played and vice versa.</li></ul><li><B>Premades</B></li><ul><li>Matchmaking will attempt to find opponents with the same group size, especially for full premades of 5 players. It will now be less likely for solo players to be matched against a premade group.</li></ul><li><B>Long Queue Times</B></li><ul><li>Players who have been in queue for extended periods of time are more likely to find a game. This should leave far fewer players stranded due to having too high or too low match making rating.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance, Tuning and Bug Fixes</h3><h4>Shapers</h4><h5>General</h5><ul><li>Fixed a bug that was causing all AOE abilities sometimes to not deal damage to certain enemies.</li></ul>"
+		},
+		{
+			"id" : "King of Masks",
+			"shaper" : "King of Masks",
+			"data" : "<ul><li><B>Captivate (Q)</B></li><ul><li>The Power ratio per hit on this ability has been reduced to 0.35, down from 0.4 (combined ratio now 1.05, down from 1.2)</li><li>The Flourished root duration on this ability has been increased to 1/1.25/1.5/1.75/2, up from 0.75/1/1.25/1.5/1.75</li><li>This ability now briefly reveals the target hit which now prevents a rare case where the tentacles collide with a target on the edge of the bush, slowing them but being unable to deal damage to them.</li><li>Fixed a bug that was causing this ability to go significantly further than max range when fired over certain walls.</li></ul><li><B>Endless Delights (E)</B></li><ul><li>The base damage per egg on this ability has been reduced to 65/100/135/170/205, down from 65/105/145/185/225.</li><li>The Power ratio per egg on this ability has been reduced to 0.7, down from .75.</li><li>Damage taken per egg for subsequent eggs hit past the first has been reduced to 25% damage, down from 35%.</li><li>The Flourished fear duration of this ability has been increased to 0.75/0.875/1/1.125/1.25, up from 0.5/0.6/0.7/0.8/0.9.</li><li>Fixed a bug where this ability could become interrupted if he was silenced immediately after casting this ability, even after the projectile was in flight.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Celerity - Passive</B></li><ul><li>This passive ability now grants bonus Attack Speed instead of Haste. The amount of Attack Speed gained is the same as if it still gave Haste, but now will no longer grant CDR and Move Speed now that it no longer gives Haste.</li></ul><li><b>Landfall (R)</b></li><ul><li>The width of this ability has been decreased to 75, down from 115.</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li><B>Repelling Strike (Q)</B></li><ul><li>Raina can no longer use this ability while rooted.</li><li>Raina will now correctly attempt to auto attack her target directly after using this ability.</li></ul></ul>"
+		},
+		{
+			"id" : "Renzo",
+			"shaper" : "Renzo",
+			"data" : "<ul><li><B>Repelling Strike (Q)</B></li><ul><li>Fixed a bug that was causing Renzo's resource bar to incorrectly display as having only 1 Inspiration when he actually had 5.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Destiny</h5><ul><li>The amount of Destiny awarded per game has been increased to 70, up from 35.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Front-End Client</h5><ul><li>Fixed a bug that was causing users to become stuck at the \"Waiting For Game to Start\" dialogue box after the Match Found Accept/Decline dialogue appeared.</li><li>Fixed a bug that was causing the client to become unresponsive if the host left a matchmaking lobby while searching for a game.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Map</h5><I>Developer Note: While we are making additional tweaks and changes to the work in progress map, it will be unavailable for play at this current time. We greatly appreciate the feedback we've received while the map was \"out in the wild.\"</I><ul><li>The Work In Progress map has been removed from the Custom Game Flow.</li><li>Binding shots now are correctly colored per team, rather than just per side.</li></ul>"
+		}
+	]
+}

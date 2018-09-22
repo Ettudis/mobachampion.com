@@ -1,0 +1,197 @@
+{
+    "name": "Closed Beta: Patch 3",
+    "date" : "June 21, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<img src=\"http://i.imgur.com/iGK4eUS.png\">"
+        },
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><h4>Petrus, the Artificer</h4>Petrus is an ability-centric bruiser who can dominate the early game with extremely fast jungle clear speed and effective ganks. A mix of sustained AoE damage and a potent single target nuke make Petrus a solid Jungler who can easily afford to take the Predator Role if confident in ganking success. Depending on how Petrus focuses ability-leveling, the early game can turn him into a bursty ganker or powerful counterjungler. A late-game Petrus can perform a critical teamfight engagement role, catching out squishy carries and feeding them to his team with his Ultimate or dealing enough damage to nearly instantly kill weaker targets. <ul><li>Passive - Pure Shaper - Petrus is not limited by a resource and may cast his abilities freely.</li><li>Q - Reprimand - Petrus crushes target foe with a mighty blow, dealing physical damage based on the target's maximum health.</li><li>W - Force Slam - Petrus leaps a short distance, dealing physical damage and briefly stunning all enemies near the landing point.</li><li>E - Unyielding Progress - Petrus spins for several seconds, dealing physical damage to all nearby enemies several times over the duration. Any time Unyielding Progress damages an enemy Shaper, all of Petrus's other ability have their cooldown reduced slightly.</li><li>R - Maridian Education - Petrus focuses an incredible amount of energy into a single blow against a target enemy Shaper, dealing physical damage and knocking them back a great distance. The punched target takes additional physical damage if they are knocked into a wall, and deal physical damage to every enemy Shaper passed through during the knockback.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+		},
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li><B>Riptide (R)</B></li><ul><li>Increased the height of the projectile to fix an issue with certain Shapers being able to jump over it and avoid the damage.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<i>Developer Note: These changes are aimed at addressing the amount of gameplay power The Desecrator derives from percentage area of effect changes which are extremely impactful, but hard to notice.</i><ul><li><B>Chilling Presence (W)</B></li><ul><li>Attack speed slow has been reduced to 15/20/25/30/35%, down from 25/30/35/40/45%. Basic attack silence duration reduced to 0.75 seconds, down from 1 second.</li></ul><li><B>Deathfog (R)</B></li><ul><li>The Magic Resist shred of Death Fog has been reduced to 20% at all ranks, down from 20/25/30%.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><B>Wrath (R)</B></li><ul><li>The fear inflicted by Wrath will now cause more consistent movement by affected target(s).</li></ul></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li><B>Titanic Charge (R)</B></li><ul><li>Single target base damage increased to 175/275/375, up from 150/225/300. Pass through damage increased to 150/225/300, up from 110/180/250.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Shock (W)</B></li><ul><li>Basic attack slow duration has been increased to 1.5 seconds, up from 1. Basic attack slow percentage has been adjusted to 20/25/30/35/40%, from 18/24/30/36/42%. Basic attack damage bonus increased to 10/20/30/40/50, up from 10/18/26/34/42.</li></ul><li><B>Recharge (E)</B></li><ul><li>This ability's passive stacks will now correctly disappear when Varian is killed.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li><B>Branching Blade (Q)</B></li><ul><li>The secondary projectile procced by this ability has had its range reduced to 500, down from 530.</li></ul><li><B>The Chase (W)</B></li><ul><li>The passive haste bonus granted by this ability has been decreased to 15/20/25/30/35, down from 16/22/28/34/40.</li></ul></ul>"
+		},
+		{
+			"id" : "Varion",
+			"shaper" : "Varion",
+			"data" : "<ul><li><B>Insight Shell (E)</B></li><ul><li>This ability's passive stacks will now correctly disappear when Varian is killed.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Sentinel Strike (Q)</B></li><ul><li>Cleave damage adjusted to 55/95/135/175/215 from 70/105/140/175/210. Sentinel Strike will now have it's cooldown decreased by 2 seconds when Voluc hits an enemy Shaper with a basic attack, up from a 1 second decrease in cooldown.</li></ul><li><B>Curse of Weakness (W)</B></li><ul><li>The projectile speed on Curse of Weakness has been increased by 50%. The major slow on Curse of Weakness has been increased to 40/45/50/55/60%, up from 35/40/45/50/55%. The duration of the minor slow of Curse of Weakness has been increased to 4 seconds, up from 3 seconds. The duration of the minor slow component of Curse of Weakness has been increased to 2 seconds, up from 1.5 seconds.</li></ul><li><B>Devour (E)</B></li><ul><li>Area of effect damage adjusted to 65/110/155/200/245 from 75/115/155/195/235.</li></ul></ul>"
+		},
+		{
+			"id" : "Zeri",
+			"shaper" : "Zeri",
+			"data" : "<ul><li><B>Prismatic Vortex (R)</B></li><ul><li>Bonus Health Power ratio has been reduced to 1.15, down from 1.5. Power drained from nearby shapers during the duration of Prismatic Vortex reduced to 10/15/20 per shaper, down from 10/20/30 per shaper. The Power drained from non-shapers during the duration of Prismatic Vortex has been changed to 3/4/5, adjusted from 2/4/6. Fixed a bug where Zeri would turn in a random direction if she cast Prismatic Vortex on herself.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Roles</h4>"
+        },
+		{
+			"id" : "Predator",
+			"role" : "Predator",
+			"data" : "<ul><li>Predators will now earn a total of 200% of the normal Vim gained from killing or being in the vicinity of a dying Spirit Well worker.</li></ul>"
+		},
+		{
+			"id" : "Tactician",
+			"role" : "Tactician",
+			"data" : "<ul><li>Now shows the Shaper harassment bonus cooldown as a buff on the buff bar. This will inform players when they will be able to receive their bonus Vim from harassing an enemy shaper, and when the effect is still on cooldown.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Map</h4>"
+        },		
+        {
+            "id" : "general",
+            "data" : "<h5>Bindings</h5><ul><li>The global Vim reward for destroying a binding has been reduced to 150 Vim per player, down from 250.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Jungle</h5><ul><li>The distance at which a jungle creature death grants experience to a player has been reduced to 450, down from 1200.</li></ul>"
+        },
+		{
+            "id" : "general",
+            "data" : "<h5>Spirit Wells</h5><i>Developer Note: The old Spirit Well models and FX weren't doing an adequate job of communicating all of the nuances of their behavior. The visual remake of the Wells has clearer team coloring, timers in a more visible location, and a \"pressure plate\" behavior to clearly show when it's being interacted with. We hope these enhancements make Spirit Well gameplay more easily understood by new players and also quicker to parse at a glance for Dawngate veterans.</i><ul><li>Spirit Wells have undergone a massive visual overhaul.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>The Parasite</h5><ul><li>The Parasite's scaling health has been increased at all evolutions.</li><li>Basic Attack damage has been increased at all evolutions.</li><li>Orb Launcher spell now applies 5 stacks of Greater Spirit Fire, down from 6.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Items</h4>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>The General</h5><i>Developer Note: By shifting power values across the board, we are attempting to mitigate some early game snowballing and the ability for Shapers to do excessive amounts of damage with non-power-centric builds. Players should need to adopt more of a \"glass cannon\" build style to reach power levels previously attainable through tankier builds.</i><ul><li>The Vim cost of Power has been adjusted across the board. Total amount of Power granted by all items and Loadouts has been reduced.</li></ul>"
+        },
+		{
+			"id" : "Conquest",
+			"item" : "Conquest",
+			"class" : "Legendary",
+			"data" : "<ul><li>This item's passive ability (Aftermath) has had its Power ratio increased to 1.1 from 1.</li></ul>"
+		},
+		{
+			"id" : "Decay",
+			"item" : "Decay",
+			"class" : "Legendary",
+			"data" : "<ul><li>Updated the visual effect on this item.</li></ul>"
+		},
+		{
+			"id" : "Duress",
+			"item" : "Duress",
+			"class" : "Legendary",
+			"data" : "New Item<ul><li>This new item grants 55 Haste and is built from Clarity.</li><li>The Netherbind passive ability has been moved to this new item, and removed from Insight.</li></ul>"
+		},
+		{
+			"id" : "Inevitability",
+			"item" : "Inevitability",
+			"class" : "Legendary",
+			"data" : "<ul><li>This item can now be built from Might.</li></ul>"
+		},
+		{
+			"id" : "Insight",
+			"item" : "Insight",
+			"class" : "Legendary",
+			"data" : "<i>Developer Note: The range increase combined with the root was too effective on a single item at shutting down melee characters.</i><ul><li>The Netherbind passive from Insight has been moved to the new item: Duress. In the place of Netherbind is a new passive: Puncture.</li><li>Puncture - Puncture causes every third attack to deal bonus true damage, scaling off of a power ratio.</li><li>The amount of Haste granted by Insight has been increased to 65, up from 5</li></ul>"
+		},
+		{
+			"id" : "Ruin",
+			"item" : "Ruin",
+			"class" : "Legendary",
+			"data" : "<ul><li>Updated the visual effect on this item.</li></ul>"
+		},
+		{
+			"id" : "Strife",
+			"item" : "Strife",
+			"class" : "Legendary",
+			"data" : "<ul><li>Updated the visual effect on this item.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Spells</h4>"
+        },
+		{
+			"id" : "Stagger",
+			"spell" : "Stagger",
+			"data" : "<i>Developer Note: With Stagger, we wanted to give a powerful tool to aggressive Shapers that want to close in on a distant foe. Making good use of Stagger is a matter of waiting for the enemy's moment of weakness and exploiting it ruthlessly. While superficially similar to Wither, its longer range, shorter cooldown and stronger slow make it far more flexible as an initiation tool.</i>New Spell<ul><li>This new Spell fires a bolt of energy that blasts a target Shaper at long range, inflicting light magical damage and a applying a massive slow that deteriorates quickly over a short time.</li></ul>"
+		},
+		{
+			"id" : "Exceed",
+			"spell" : "Exceed",
+			"data" : "<ul><li>The flat power bonus of this Spell has been reduced to 25, down from 30.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Audio</h5><ul><li>Slightly reduced baseline game volume to allow for a more dynamic range of volume throughout the duration of the game.</li><li>Adjusted in game attenuation curse to make audio events of High Importance (Ultimates, Banter) audible from further away from the source.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Chat</h5><ul><li>The Post Game Lobby will now inform the Lobby when a player leaves the room via a message prompt.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Controls & Keybindings</h5><ul><li>Space Bar and F1 now share the same functionality. When pressing either Space Bar or F1 the camera will be centered on the player's Shaper. As long as the Space Bar or F1 keys are held down, the Camera will stay centered. Upon releasing the Space Bar or F1 key the camera will return to a free move state.</li><li>Players are now able to queue move commands while under the effect of a disable or while casting an ability. This allows movements to seamlessly resume after the spellcast or disable has worn off.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Health Bars</h5><ul><li>Health bars throughout the game have undergone a significant visual upgrade. The health bars are now larger and display \"ticks\" of health. The smaller \"ticks\" start as a value of 100 health. The bolder \"Ticks\" always denote values of 1,000 health. As shapers gain larger amounts of health, the micro \"ticks\" begin representing larger values (up to 200 health per \"tick\") to maximize readability.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Help Section</h5><ul><li>New Player content has been moved to the official Help Section in the front-end client. This content may be accessed by clicking the \"?\" next to the \"Play\" button.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Item Shop</h5><ul><li>Fixed a bug where, under some conditions, it was possible to trigger the \"purchase sound\" without a transaction taking place.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Minimap</h5><ul><li>Added an option to swap the Minimap and the Shaper display in the UI to the opposite sides.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Surrender</h5><ul><li>The Vim differential required for the Surrender option to become available has been increased to 20,000, up from 15,000.</li></ul>"
+        }
+    ]
+}

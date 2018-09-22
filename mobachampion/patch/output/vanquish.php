@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 26.1 (March 3, 2014)</h4><ul><li>The range of this spell has been increased to 600, up from 544.</li></ul><h4 style="color: #DAA520;">Closed Beta: Patch 1 (June 06, 2013)</h4><ul><li>Shapers will now move into range when attempting to cast on an out-of-range enemy.</li></ul>

@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 23 (Jan 21, 2014)</h4><ul><li><b>Red Spark of Armor Growth</b></li><ul><li>The Armor granted by this Spark has been reduced to 0.7%, down from 1.2%.</li></ul></ul>

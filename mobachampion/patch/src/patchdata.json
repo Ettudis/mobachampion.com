@@ -1,0 +1,162 @@
+{
+	"update" : "May 5, 2014",
+    "latest" : "Closed Beta: Patch 29",
+	"latestid" : "29",
+    "patches": [
+        {
+            "name" : "Closed Beta: Patch 1",
+            "date" : "June 06, 2013",
+			"id" : "1"
+        },
+        {
+            "name" : "Closed Beta: Patch 2",
+            "date" : "June 13, 2013",
+			"id" : "2"
+        },
+        {
+            "name" : "Closed Beta: Patch 3",
+            "date" : "June 21, 2013",
+			"id" : "3"
+        },
+        {
+            "name" : "Closed Beta: Patch 4",
+            "date" : "July 14, 2013",
+			"id" : "4"
+        },
+        {
+            "name" : "Closed Beta: Patch 5",
+            "date" : "July 18, 2013",
+			"id" : "5"
+        },
+        {
+            "name" : "Closed Beta: Patch 6",
+            "date" : "July 26, 2013",
+			"id" : "6"
+        },
+        {
+            "name" : "Closed Beta: Patch 7",
+            "date" : "August 02, 2013",
+			"id" : "7"
+        },
+        {
+            "name" : "Closed Beta: Patch 8",
+            "date" : "August 09, 2013",
+			"id" : "8"
+        },
+        {
+            "name" : "Closed Beta: Patch 9",
+            "date" : "August 15, 2013",
+			"id" : "9"
+        },
+        {
+            "name" : "Closed Beta: Patch 10",
+            "date" : "August 23, 2013",
+			"id" : "10"
+        },
+        {
+            "name" : "Closed Beta: Patch 11",
+            "date" : "August 29, 2013",
+			"id" : "11"
+        },
+        {
+            "name" : "Closed Beta: Patch 12",
+            "date" : "September 26, 2013",
+			"id" : "12"
+        },
+        {
+            "name" : "Closed Beta: Patch 13",
+            "date" : "October 13, 2013",
+			"id" : "13"
+        },
+        {
+            "name" : "Closed Beta: Patch 14",
+            "date" : "October 16, 2013",
+			"id" : "14"
+        },
+        {
+            "name" : "Closed Beta: Patch 15",
+            "date" : "October 22, 2013",
+			"id" : "15"
+        },
+        {
+            "name" : "Closed Beta: Patch 16",
+            "date" : "October 31, 2013",
+			"id" : "16"
+        },
+        {
+            "name" : "Closed Beta: Patch 17",
+            "date" : "November 7, 2013",
+			"id" : "17"
+        },
+        {
+            "name" : "Closed Beta: Patch 18",
+            "date" : "November 21, 2013",
+			"id" : "18"
+        },
+        {
+            "name" : "Closed Beta: Patch 19",
+            "date" : "November 27, 2013",
+			"id" : "19"
+        },
+        {
+            "name" : "Closed Beta: Patch 20",
+            "date" : "December 11, 2013",
+			"id" : "20"
+        },
+        {
+            "name" : "Closed Beta: Patch 21",
+            "date" : "December 19, 2013",
+			"id" : "21"
+        },
+        {
+            "name" : "Closed Beta: Patch 22",
+            "date" : "Jan 14, 2014",
+			"id" : "22"
+        },
+        {
+            "name" : "Closed Beta: Patch 23",
+            "date" : "Jan 21, 2014",
+			"id" : "23"
+        },
+        {
+            "name" : "Closed Beta: Patch 24",
+            "date" : "Jan 30, 2014",
+			"id" : "24"
+        },
+        {
+            "name" : "Closed Beta: Patch 25",
+            "date" : "Feb 10, 2014",
+			"id" : "25"
+        },
+		{
+            "name" : "Closed Beta: Patch 26",
+            "date" : "Feb 24, 2014",
+			"id" : "26"
+        },
+		{
+            "name" : "Closed Beta: Patch 26.1",
+            "date" : "March 03, 2014",
+			"id" : "26.1"
+        },
+		{
+            "name" : "Closed Beta: Patch 27",
+            "date" : "March 17, 2014",
+			"id" : "27"
+        },
+		{
+            "name" : "Closed Beta: Patch 28",
+            "date" : "April 8, 2014",
+			"id" : "28"
+        },
+		{
+            "name" : "Closed Beta: Patch 28.1",
+            "date" : "April 24, 2014",
+			"id" : "28.1"
+        },
+		{
+            "name" : "Closed Beta: Patch 29",
+            "date" : "May 5, 2014",
+			"id" : "29"
+        }
+    ]
+}

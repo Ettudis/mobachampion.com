@@ -1,0 +1,10 @@
+{
+    "name": "Closed Beta: Patch 33.1",
+    "date" : "July 29th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>Bug Fixes</h3><ul><li>Fixed an issue that was causing the Spiritstone of the Rogue's Unique Passive to proc on jungle minions and lane creeps, when it is only intended to work against Shapers.</li><li>Fixed a bug that was causing the item Harmony to to continue to grant the Unique Passive Symbiosis to nearby allies while the carrier was dead.</li></ul>"
+		}
+	]
+}

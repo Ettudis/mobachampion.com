@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>The Consume I passive is now stackable.</li></ul><h4 style="color: #DAA520;">Closed Beta: Patch 5 (July 18, 2013)</h4><ul><li>The amount healed by the Consume passive ability on this item has been reduced to 3/7/12, down from 5/10/15. The amount healed is now doubled for melee Shapers.</li></ul>

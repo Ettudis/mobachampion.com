@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Price increased to 2915, up from 2725.</li></ul>

@@ -1,0 +1,30 @@
+[
+   {
+      "name":"MOBA-Champion",
+      "link":"http:\/\/www.twitch.tv\/mobachampion",
+      "channel":"mobachampion",
+      "online":true,
+      "time":1386975898
+   },
+   {
+      "name":"BestDibsNA",
+      "link":"http:\/\/www.twitch.tv\/bestdibsna",
+      "channel":"bestdibsna",
+      "online":true,
+      "time":1386975899
+   },
+   {
+      "name":"TheBlueMuzzy",
+      "link":"http:\/\/www.twitch.tv\/thebluemuzzy",
+      "channel":"thebluemuzzy",
+      "online":false,
+      "time":0
+   },
+	{
+		"name": "Tulce",
+		"link": "http://www.twitch.tv\/tulce",
+		"channel": "tulce",
+		"online": false,
+		"time": 1390278869
+	}
+]

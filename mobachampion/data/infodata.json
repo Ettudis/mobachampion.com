@@ -1,0 +1,142 @@
+[
+{
+	"name" : "spirit well",
+	"info" : "A capturable economy node that stays locked for 4 minutes after captured. First unlocks at 15 min. It takes (18s - 2s per player) to capture. It generates one worker every 15s, up to 18. Each worker generates 1.5 vim/min for the controlling team. There are 4 wells on the map, in the corners. Controlling 4 wells = 108 vim/min.  Workers can be killed even if locked. Grants vision to the well owner."
+},
+{
+	"name" : "power buff,green buff,fish buff",
+	"info" : "Fish/Green Buff: +15 Power. +10% Power. This buff lasts 2.5 minutes. The Buff respawns every 5 minutes. XP = (240 + 5/lvl), HP = (1350 + 125/lvl), Armor = (18 + 0.5/lvl), MR = (8 + 0.5/lvl), Vim = (75 + 1.4/lvl)"
+},
+{
+	"name" : "armor buff,orange buff,ugger buff",
+	"info" : "Ugger/Orange Buff: +10% Armor. +1% Damage Reduction upon dealing damage, stacks 10 times. This buff lasts 2.5 minutes. The Buff respawns every 5 minutes. XP = (240 + 5/lvl), HP = (1600 + 135/lvl), Armor = (17 + 0.5/lvl), MR = (8 + 0.5/lvl), Vim = (75 + 1.4/lvl)"
+},
+{
+	"name" : "haste buff,blue buff,mushroom buff",
+	"info" : "Mushroom/Blue Buff: +20% Haste. Grants +20 Haste on ability use for 3 seconds. This buff lasts 2.5 minutes. The Buff respawns every 5 minutes. XP = (240 + 5/lvl), HP = (1500 + 125/lvl), Armor = (18 + 0.5/lvl), MR = (5 + 0.5/lvl), Vim = (75 + 1.4/lvl)"
+},
+{
+	"name" : "fish camp",
+	"info" : "Green Camps, Groups of 3: 1 Large, 2 Small. Large: XP = (135 + 2.5/lvl) , HP = (950 + 50/lvl), Armor = (9 + 0.5/lvl), MR = (4 + 0.5/lvl), Vim = (45 + 0.8/lvl). Small: XP = (20 + 1/lvl), HP = (300 + 30/lvl), Armor = (6 + 0.5/lvl), MR = (3 + 0.5/lvl), Vim = (6 + 0.1/lvl)"
+},
+{
+	"name" : "ugger camp",
+	"info" : "Orange Camps. Groups of 2: 1 Large, 1 Small. Large: XP = (160 + 3/lvl) , HP = (1200 + 70/lvl), Armor = (12 + 0.5/lvl), MR = (5 + 0.5/lvl), Vim = (58 + 0.3/lvl). Small: XP = (40 + 1.5/lvl), HP = (350 + 40/lvl), Armor = (11 + 0.5/lvl), MR = (6 + 0.5/lvl), Vim = (19 + 0.2/lvl)"
+},
+{
+	"name" : "mushroom camp",
+	"info" : "Blue Camps, Groups of 4: 1 Large, 3 Small. Large: XP = (105 + 2/lvl) , HP = (950 + 50/lvl), Armor = (11 + 0.5), MR = (5 + 0.5/lvl), Vim = (38 + 0.4/lvl). Small: XP = (10 + 0.8/lvl), HP = (200 +20/lvl), Armor = (5 + 0.3/lvl), MR = (2 + 0.3/lvl), Vim = (4 + 0.1/lvl)"
+},
+{
+	"name" : "parasite",
+	"info" : "An imposing spirit creature at the center of the map. It grows stronger as the game progresses, spawning at 5:00 min, evolving at 15:00,25:00. Killing it grants Striders for 4 min.T1 Buff: NA. T2 Buff: +25 Pwr. T3 Buff: +50 Pwr. Also, 3% of your max HPas Regen in T2,T3 . Respawns 5 min after killed. T1:204 XP+9.75/lvl,155 vim+5/lvl T2:400 XP+9.75/lvl,255 vim+5/lvl T3:585 XP,350 vim at all lvls."
+},
+{
+	"name" : "parasite2",
+	"info" : "Lesser Spirit Fire: Applies a debuff causing 10/20/30 damage from the Parasite's Basic Attacks and applying Mortal Strke. Greater Spirit Fire: Breathes a stream of fire onto the ground dealing 110 magic damage over time. Spirit Bomb: Lobs an attack into the air, targeting shapers, crashing down and deals (450 + .25*Power) magic damage."
+},
+{
+	"name" : "minions",
+	"info" : "3 Melee and 3 Ranged small creatures that spawn from the Locus, every 30s, and march down the lane to assist in taking down the enemy bindings.  Melee: XP = (58 + 4.72/lvl), HP = (450 + 8/lvl), Armor = 0.5/lvl, MR = 0.25/lvl, Vim = (12 + 0.07/lvl) Ranged: XP = (28 + 2.4/lvl), HP = (280 + 6/lvl), Armor = 0.28/lvl, MR = 0.5/lvl, Vim = (9 + 0.07/lvl)"
+},
+{
+	"name" : "bindings",
+	"info" : "3/lane/team.Locks on to fire a physical dmg projectile every 1.5 sec.All gain 4 pwr/min and 25/50/75/100 pwr/consecutive hit on Shapers,increasing by 1 pwr/min after the first 4 min.They gain 12.5/25/37.5/50 Haste/ only on consecutive hit with Shapers(1:1 Haste Ratio).Deals set %hp dmg to minions.T1=165p 3000HP, T2=200p 3750HP, T3=250p 4500HP. All 50 armor 950 range"
+},
+{
+	"name" : "ward,wards",
+	"info" : "Each player has a free 3 minute ward. Press F to place your ward. After 3 min, you will be able to place it again. A ward provides vision in a 1980 diameter circle and can be cast up to 540 units away. Wards cannot see through walls or bushes, and are not able to see other wards. There are a lot of ward skins to choose from. Wards become invisible after 3 seconds.There is no counter vision system."
+},
+{
+	"name" : "vim",
+	"info" : "The currency in the Dawngate. Everyone gains 100 Vim/minute and can earn more through Spirit Wells (108 extra Vim/minute). Vim is neutral spirit energy that can be shaped into specific vitalities (items). Each Role allows you to gain extra Vim through specific playstyles."
+},
+{
+	"name" : "shapers",
+	"info" : "These are the characters you play as! They are named as such because they can shape neutral spirit energy, Vim, into specific vitalities to suit their needs. They can then bond with that piece of vitality and use it's effects (Items). Check them out here: moba-champion.com/shapers"
+},
+{
+	"name" : "haste",
+	"info" : "The do everything faster stat. Effects: Attack Speed, Movement Speed and Ability Cooldown. Each archetype scales at different ratios for these stats. Blue is the associated color with Haste."
+},
+{
+	"name" : "power",
+	"info" : "The do more damage stat. Effects: Auto-Attack and most Abilities damage. Power works for every Shaper regardless of damage type: Magic/Physical. Green is the associated color with Power."
+},
+{
+	"name" : "mastery",
+	"info" : "The extra damage stat. Auto-Attacks gain a chance to critical for 2x damage. Abilities gain spell overload that deal a percentage of extra damage equal to half of your total mastery. 100 Mastery = 100% crit chance and 50% additional ability damage. Teal is the associated color with Mastery."
+},
+{
+	"name" : "armor",
+	"info" : "The physical damage resistance stat. Reduces damage taken from physical sources. diminishing returns. Damage Reduction = Armor / (100 + Armor). Orange is the associated color with Armor."
+},
+{
+	"name" : "magic resist,mr",
+	"info" : "The magical damage resistance stat, MR. Reduces damage taken from magic sources. diminishing returns. Damage Reduction = MR / [100 + MR]. Purple is the associated color with Magic Resist."
+},
+{
+	"name" : "lifedrain",
+	"info" : "The healing through damage stat. Heals you for a portion of the damage you deal. ie 10% will heal you for 20 when you deal 200 damage. This applies to all damage from your auto attacks and your abilities. Yellow is the associated color with Lifedrain."
+},
+{
+	"name" : "spirit stones,stones,shapes",
+	"info" : "A large library of shapes that are used to make Loadouts. Each stone has its own stats and slots to place Sparks into.Spark slots come in green,blue,red,and tri-colored, to be filled by a matching color Spark. Any Spark fits the tri-colored slots. These stones will not apply their stats unless the Spark slots have been filled with the matching colored sparks. Cost:160-1080 Destiny"
+},
+{
+	"name" : "sparks,gems",
+	"info" : "A large library of uniformly shaped pieces to make Loadouts. Each Spark has its own stats and color: red (defense), green (offense), blue (utility). They fit into Spirit Stone spark slots and activate the stones stats. If placed in an off color slot, the Spark stats will still count towards the loadout but will not activate the Spirit Stone stats. Up to 16 Sparks fit in a Loadout. Cost 110 destiny"
+},
+{
+	"name" : "loadouts",
+	"info" : "A system of stat modifiers that can be created using a 4x4 squared, Tangram-esque mechanic. Players position Spirit Stones and Sparks in innumerable combinations to determine those stats. Players can have up to 10 pages (3 base, more cost 385 WayPoints or 1200 Destiny) and select them at Shaper Select before a match. See: Spirit Stones, Sparks."
+},
+{
+	"name" : "karma,blessing",
+	"info" : "A system employed at the end of a match to reward and encourage positive player interactions during matches. Players award Karma to individuals on either team. The amount of Karma you get is added into your Loot Roll to determine your level of end game reward. Less Karma is given to players in your group, or if you spam it every match for an extended period of time."
+},
+{
+	"name" : "destiny",
+	"info" : "The earned currency for your player career. It is given out after every match, with the exception of custom matches. The amount is affected by game length, loot reward level, and whether or not you won. It is used to unlock: Shapers, Spirit Stones and Sparks."
+},
+{
+	"name" : "waypoints",
+	"info" : "The premium, or paid currency in Dawngate. It is bought with real-world money and is used to unlock: Shapers, Skins, Ward Skins, Announcer Packs. Also called WP."
+},
+{
+	"name" : "money pigs",
+	"info" : "A boar camp that is worth a large amount of Vim. 1 Large 1 Small. Large: XP = (135+ 3/lvl), HP = (1500 + 100/lvl), Armor = (18 + 1/lvl), MR = (9 + 0.5/lvl), Vim = (110 + 1/lvl) Small:  XP = (80 + 1.55/lvl), HP = (1050 + 75/lvl), Armor = (14 + 0.5/lvl), MR = (6 + 0.5/lvl), Vim = (52 + 0.725/lvl)"
+},
+{
+	"name" : "guardian",
+	"info" : "The end objective of the game. However he does not go down without a fight, and will actively defend himself with skillshot auto-attacks and the abilities that he gets the from nearby cores. He is completely invulnerable until all his cores are destroyed. 5000 HP and 100 Armor. 42/5s HP Reg. +6 power/min starting at 10 min. Auto attacks deal 300 physical damage. See: Cores."
+},
+{
+	"name" : "core,cores",
+	"info" : "Five nodes tied to each of the 5 Guardian abilities. Destroying one gives 150 global Vim and increases Guardian ability cooldown by 2 seconds (6 sec base). Each one destroyed grants Ranged minions 4 Pwr, Melee 2 Pwr until core respawn.They respawn 8 minutes after being destroyed. 3000 HP, 50 Armor, Regen 12.5 hp/sec (4 min). See: Health Packs, Valkyrie Barrage, Eidolic Prison, Fissure, Laser Beam"
+},
+{
+	"name" : "valkyrie barrage",
+	"info" : "The Guardian telegraphs 5 small ground targeted shots per enemy shaper in the area, that deal 275 magic damage/shot, and create a 35% slow field mark that sits on the ground for a few seconds."
+},
+{
+	"name" : "crafting currency",
+	"info" : "Players are awarded this special currency if their Loot Drop is a Spark, Spirit Stone, or Shaper that they have already maxed out on. You get a predetermined amount based on each object type and tier. Currently, there is no way to see the collected amount and there is no system to use it, but Waystone has future plans for it."
+},
+{
+	"name" : "loot",
+	"info" : "After Karma voting, a rnd #(1-600)is rolled, then added to bonuses: Winning(200),Game Duration(1/min.),First Win of the Day(100) and Karma(0-300). Points determine your reward tier(Common,Grand,Astral,Exalted,Divine), all tiers give progressively more destiny and at Grand you can win sparks and small stones; Astral and Exalted give larger stones; Divine contains passive stones and shapers"
+},
+{
+	"name" : "matchmaking",
+	"info" : "Dawngate creates games using your accounts Matchmaking rating. This rating changes when you win or lose. You gain more points for defeating more skilled opponents, and vice versa."
+},
+{
+	"name" : "sqr",
+	"info" : "When you queue for matchmaking alone, you have a Solo Queue Rating that functions similar to your Matchmaking Rating. It becomes public after 50 games played. SQR uses your MMR and the enemy team's MMR to calculate the SQR gains and losses after a match. SQR is used to calculate Ranking and Leaderboard positions."
+},
+{
+	"name" : "dawnscore",
+	"info" : "Dawnscore is a custom ranking system developed by MOBA-Champion and Dawnscout. It seperates players into rating divisions based on their Solo Queue Rating. (i.e. top 0.5%, top 3%, etc) More Info: http://dawnscout.com/About"
+}
+]

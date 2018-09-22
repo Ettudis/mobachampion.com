@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 30 (May 27th, 2014)</h4>Fixed a bug where this item was reducing cooldowns by double the intended value for abilities that did not have an alternate form (All abilities other than Faris' Access Memory and Ashabel's Unleash).<h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Added to the game.</li></ul>

@@ -1,0 +1,78 @@
+{
+    "name": "Closed Beta: Patch 11",
+    "date" : "August 29, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<h3>New Shaper</h3><img src=\"http://i.imgur.com/C9EJLZk.png\">"
+        },
+        {
+            "id" : "general",
+            "data" : "<b>Renzo, the Sculptor</b><BR>Renzo is a melee, physical damage support that excels in exposing enemies to his allies. Renzo's support style fits best in the lane, with a playstyle and ability order differing greatly depending on Renzo's lane partner. Renzo's single-target guaranteed stun is an extremely potent ability, allowing for easy follow-ups from lane partners in the early game and potential catches in the mid to late game. In teamfights Renzo truly shines, his natural toughness allowing him to wade into groups to damage, disrupt and build Inspiration at a greatly accelerated rate. Knowing when to use Inspiration offensively or defensively can often save allies, sentence enemies to death, and win games.<BR><BR><b>Passive - Inspiration Shaper</b> - Fists of Inspiration - Renzo uses Inspiration to enhance his abilities. Whenever Renzo successfully Basic Attacks, he gains bonus armor for a short period. If Renzo Basic Attacks an enemy Shaper, he gains 1 Inspiration.<BR><b>Q - Inspiring Strike</b> - Renzo creates a giant hammer to smash into target enemy, dealing physical damage and generating 1 Inspiration. If the target was an enemy Shaper, Renzo generates 2 Inspiration.<BR><b>W - Renzo's Embrace</b> - Renzo shields target ally, additionally boosting their armor for the duration of the shield. If Renzo is fully inspired, the target will also be healed.<BR><b>E - Kinetic Sculpture</b> - Renzo slams a stone at target enemy from range, dealing physical damage and stunning them. If Renzo is fully inspired, the target will have their armor reduced for a few seconds.<BR><b>R - Masterpiece</b> - Renzo creates a pool of mud at target location, slowing all enemies in the area. After a brief delay, a gigantic statue of Renzo bursts from the ground, dealing physical damage to all nearby enemies. Enemies close to the epicenter are knocked upwards, while all other enemies are knocked away."
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+        },
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li><B>Battle Cry! (W)</B></li><ul><li>The base damage of this ability has been reduced to 60/95/130/165/200, down from 70/105/140/175/210.</li><li>The slow percentage applied by this ability has been reduced to 50/55/60/65/70%, down from 61/67/73/79/85%.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Landfall (R)</B></li><ul><li>Fixed a bug that was causing users be unable to reactivate this ability and choose a target location to drop to at the end of the duration.</li><li>Fixed a bug that allowed Shapers to attack a target who was suppressed by this ability.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li>Fixed a bug with Nissa's passive that caused her pet, Tal'ah, to get stuck in the first brush she entered.</li></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<ul><li><B>Hypersonic Punch (R)</B></li><ul><li>This ability will now knock aside any enemy Shaper that gets hit by the primary target as it is knocked back.</li><li>The primary target hitbox has been increased by 75%.</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li><B>Bastion of the North (W)</B></li><ul><li>The flat Armor and Magic Resist gained has been reduced to 9/13/17/21/25, down from 10/15/20/25/30.</li><li>The percentage damage reduction gained while the shield is active has been changed to 10/13.75/17.5/21.25/25%, down from 15/17.5/20/22.5/25%.</li></ul><li><B>Shockwave (E)</B></li><ul><li>The radius at which secondary and tertiary targets may be hit by the shockwave has been reduced to 90 degrees around the primary target, down from 160 degrees around the primary target.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>Perks / Loadouts</h3>"
+        },
+		{
+			"id" : "Juggernaut Loadout",
+			"loadout" : "Juggernaut Loadout",
+			"data" : "<ul><li>(New Loadout) +11.5 Armor<BR>Passive - Juggernaut: You gain bonus power equal to 12% of your current Armor.</li></ul>"
+		},
+		{
+			"id" : "Bravado Loadout",
+			"loadout" : "Bravado Loadout",
+			"data" : "<ul><li>(New Loadout) +112 Health<BR>Passive - Bravado: You take 5% less damage for 2 seconds after damaging an enemy Shaper. Items and spells will not trigger Bravado.</li></ul>"
+		},
+		{
+			"id" : "Scavenger Loadout",
+			"loadout" : "Scavenger Loadout",
+			"data" : "<ul><li>(New Loadout) +6 Defense Penetration<BR>Passive - Scavenger: Your Movement Speed is increased by 10% if you can see a nearby enemy with less than 40% Health remaining.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Front-End Client</h5><ul><li>Idle users will now no longer be automatically logged out of the client.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Keybindings</h5><ul><li>The hotkey to \"Learn Spell:\" now works without having the \"Select a Spell\" dialogue open.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h5>Map</h5><ul><li>Updated the art assets of all Spirit Side Lane Minions, Striders and the Spirit Side Guardian.</li><li>Fixed a bug that caused minions to stop pathing correctly after a knockup.</li></ul>"
+        }
+	]
+}

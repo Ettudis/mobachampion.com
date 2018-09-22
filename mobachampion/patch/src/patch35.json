@@ -1,0 +1,135 @@
+{
+  "name": "Patch 35",
+  "date": "September 11, 2014",
+  "patch": [
+    {
+      "id": "general",
+      "data": "<i><img style=\"display: block;margin-left: auto;margin-right: auto;\" src=\"http://i.imgur.com/ocfu7nA.png\"></i><p>Flin is a melee, physical damage Tank who combines excellent teamwide engage abilities with powerful utility abilities. Flin can excel in many roles but does so primarily as a Tactician or Hunter - Flin's passive can keep him healthier than most Shapers when both trading in lane and clearing the jungle, while his core abilities make for a fast jungle clear and a powerful harass game. Flin is powerful at most points of the game, his ranged crowd control both setting up for and protecting from ganks in the early game and his incredible teamwide engage skills in the mid-to-late game. Flin brings a large amount of utility to a fight, both shredding armor and particularly when well-equipped - Flin's ability to apply on-damage effects outstrips nearly every other Shaper, so always consider these items as early pickups. Flin's support-style Ultimate allows him to be successful with a more diverse team composition than most Tanks - consider the more powerful, lower mobility Shapers when composing a team with Flin as its primary engager.</p>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Passive - Pure Shaper - Carry On</b></li><ul><li> Flin may cast his abilities freely. Flin takes reduced damage from all non-Shaper sources, reflecting bonus damage reduced back at his attacker.</li></ul><li><b>Q -Thrilling Heroics</b></li><ul><li> Flin jumps to target location, dealing physical damage and stunning enemies in an area. Flin is stunned at target location for a few seconds before returning to the Sergeant and starting Thrilling Heroics' cooldown. The Sergeant may pick up Flin early by walking near him.</li></ul><li><b>W - Overrun</b></li><ul><li> Summons a swarm that slows and damages all nearby enemies for a few seconds. Flin's basic attacks will extend Overrun's duration.</li></ul><li><b>E - Field Ration</b></li><ul><li> Takes a bite out of target enemy, dealing physical damage and reducing the target's armor by a percentage for a few seconds. Flin heals based on the amount of armor reduced.</li></ul><li><b>R - Finest Hour</b></li><ul><li> Flin speeds up himself and all allies in a large area for a few seconds. Flin may recast Finest Hour to dash at target enemy Shaper, dealing physical damage and knocking them up. Recastable once per enemy Shaper.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>New Feature Casting Mode</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Casting Mode is now available in Custom Game lobbies.</b></li><ul><li> The \"Spectate Game\" button has been added into the client under Custom Game List.</li><li> The \"Join As Spectator\" button has been added into the client in Custom Games.</li></ul><li><b>Each Custom Game has five available Spectator slots.</b></li><ul><li> New drop-down menu under Key Bindings for Spectators with the following key bindings added.</li><li> \"Vision: Mortal Team\" has been added and bound to \"F1\" by default.</li><li> \"Vision: Spirit Team\" has been added and bound to \"F2\" by default.</li><li> \"Vision: Mortal & Spirit Team\" has been added and bound to \"F3\" by default.</li><li> \"Vision: All\" has been added and bound to \"F4\" by default.</li><li> \"Vision: Selected Player\" has been added and bound to \"V\" by default.</li><li> \"Select Mortal Player 1\" has been added and bound to \"1\" by default.</li><li> \"Select Mortal Player 2\" has been added and bound to \"2\" by default.</li><li> \"Select Mortal Player 3\" has been added and bound to \"3\" by default.</li><li> \"Select Mortal Player 4\" has been added and bound to \"4\" by default.</li><li> \"Select Mortal Player 5\" has been added and bound to \"5\" by default.</li><li> \"Select Spirit Player 1\" has been added and bound to \"Q\" by default.</li><li> \"Select Spirit Player 2\" has been added and bound to \"W\" by default.</li><li> \"Select Spirit Player 3\" has been added and bound to \"E\" by default.</li><li> \"Select Spirit Player 4\" has been added and bound to \"R\" by default.</li><li> \"Select Spirit Player 5\" has been added and bound to \"T\" by default.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>General Key Bindings</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Holding and dragging \"Middle Mouse Button\" will now pan the camera during gameplay.</b></li><ul><li> You may now bind \"Left Mouse Button\" as a valid key bind if used in conjunction with a modifier key \"Shift, Alt, Ctrl\".</li></ul><li><b>The following default key bindings have changed. Existing players' current key bindings will not be affected (only incoming new players).</b></li><ul><li> \"Toggle Soft-Lock Camera\" has been changed to \"Shift+Y\" from \"U\".</li><li> \"Toggle Offset Lock Camera\" has been changed to \"U\" from \"I\".</li><li> \"Toggle Offset Soft-Lock Camera\" has been changed to \"Shift+U\" from \"O\".</li></ul><li><b>The following key bindings have been added.</b></li><ul><li> \"Show Scoreboard (Toggle)\" has been added and bound to \"O\" by default.</li><li> \"HUD: Toggle UI\" has been added as a key binding.</li><li> \"HUD: Toggle Ping/FPS\" has been added as a key binding.</li><li> \"Healthbars: Toggle All\" has been added as a key binding.</li><li> \"Healthbars: Toggle Minions\" has been added as a key binding.</li><li> \"Healthbars: Toggle Players\" has been added as a key binding.</li><li> \"Healthbars: Toggle Player Names\" has been added as a key binding.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Quality of Life</h3>"
+    },
+    {
+      "id": "general",
+      "data": "You may now rearrange your Spell slots by clicking and dragging them into other slots."
+    },
+    {
+      "id": "general",
+      "data": "<h2>Balance and Tuning</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Shapers</h3>"
+    },
+    {
+      "id": "Amarynth",
+      "shaper": "Amarynth",
+      "data": "<ul><li><b>Feeding Frenzy (Q)</b></li><ul><li> The Power ratio of the initial part of this ability has been reduced to 0.7, down from 0.8.</li></ul></ul>"
+    },
+    {
+      "id": "Kensu",
+      "shaper": "Kensu",
+      "data": "<ul><li><b>Voidbreaker (R)</b></li><ul><li> Fixed a bug where players would become stuck in walls if they became stunned when the trail left by this ability expired.</li></ul></ul>"
+    },
+    {
+      "id": "Mina",
+      "shaper": "Mina",
+      "data": "<ul><li><b>Key to the Heart (W)</b></li><ul><li> Fixed a bug where Renzo's Kinetic Sculpture (E) could knock Mina out of this ability during the travel time.</li></ul></ul>"
+    },
+    {
+      "id": "Sakari",
+      "shaper": "Sakari",
+      "data": "<i>Dev Note: We're aware of and working on a bug where a single Sakari Iceberg (W) can occasionally lock a character's movement. However, the fix for it is not yet ready for this patch. Additionally, we're continuing to keep a close eye on Sakari's performance at the competitive level. Currently, especially because of her high mechanical skill requirement, we're waiting to make an evaluation on if she needs larger changes or not until her performance at the highest levels of play stabilizes.</i><ul><li><b>Basic Attack</b></li><ul><li> Fixed a bug where Sakari's basic attack range was lower than intended. It has now been set to 550.</li></ul><li><b>Iceberg (W)</b></li><ul><li> This ability is no longer on smart cast by default.</li><li> This ability no longer triggers Binding aggro when used to force movement from an enemy Shaper.</li></ul><li><b>Avalanche (R)</b></li><ul><li> Fixed a bug where this ability would apply the incorrect slow percentage if used before Ice Lance (Q) was unlocked.</li><li> Fixed a bug where the secondary explosion of this ability would give trigger two stacks of Black Ice (Passive) if Sakari had the Vanguard passive from the Form item tree.</li></ul></ul>"
+    },
+    {
+      "id": "Viridian",
+      "shaper": "Viridian",
+      "data": "<ul><li><b>Deep Rising (R)</b></li><ul><li> The impale region of this ability's hitbox has been increased to 200, up from 135.</li></ul></ul>"
+    },
+    {
+      "id": "Voluc",
+      "shaper": "Voluc",
+      "data": "<ul><li><b>Curse of Weakness (W)</b></li><ul><li> The base damage of this ability has been reduced to 30/55/80/105/130, down from 35/60/85/110/135.</li></ul><li><b>Damnation (R)</b></li><ul><li> The based damage of this ability has been reduced to 200/325/450, down from 200/350/500.</li></ul></ul>"
+    },
+    {
+      "id": "Zeri",
+      "shaper": "Zeri",
+      "data": "<ul><li><b>Muse (W)</b></li><ul><li> The tooltip of this ability has been updated.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Items</h3>"
+    },
+    {
+      "id": "Influence",
+      "itemp": "Influence",
+      "class": "Legendary",
+      "data": "<ul><li>Fixed a bug where the effect of this item would continue to function while the item holder was dead.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h2>General Updates</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Environment</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>The ground texture around Bindings has been improved.</b></li><li><b>There has been a visual update to the Swamp region of the jungle.</b></li><li><b>There is now a difference between Spirit and Mortal side torches.</b></li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Bug Fixes Crashes</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Fixed a crash that would occur at the start of Custom and Matchmade games.</b></li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Collection</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Fixed a filtering issue for Sakari's announcer pack in the Collection.</b></li><li><b>Fixed a filtering issue for Desecrator in the Collection.</b></li><li><b>Fixed a display error when the client size was changed multiple times while viewing the Collection.</b></li><li><b>Fixed a filtering issue for some Spiritstones in the Collection.</b></li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>General</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Fixed a bug that would cause the \"Alt\" key to become stuck when rebinding hotkeys.</b></li><li><b>Fixed a bug that would cause your ability or spell cooldowns to display the incorrect value when rejoining a game in progress.</b></li><li><b>System messages will no longer reappear every time the player returns to the landing page</b></li><li><b>Fixed a bug which caused certain parts of the \"Invite Players\" screen to be unclickable when the client window was at a certain size.</b></li><li><b>Fixed an inconsistency in the color of buttons across different lobby types.</b></li><li><b>Fixed a bug which allowed players to avoid the Dodge penalty by closing the client at the end of the game start countdown.</b></li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Abilities</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Fixed some typos in Basko's tooltips.</b></li><li><b>Fixed a typo in Petrus' Unyielding Progress (E) tooltip.</b></li><li><b>Fixed a typo in Mikella's Final Payment (R) ability description in the Collection.</b></li><li><b>Fixed a typo in Dibs's Ripple (E) tooltip.</b></li><li><b>Fixed a bug which caused the second application of Freia's Crippling Blow (E) to consume the slow debuff applied by the first application of Crippling Blow (E).</b></li><li><b>Fixed a bug where Forgefire Desecrator would cause fps spikes the first time his Deathfog (R) was used.</b></li></ul>"
+    }
+  ]
+}

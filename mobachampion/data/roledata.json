@@ -1,0 +1,26 @@
+[
+{
+"name" : "Gladiator",
+"icon" : "http://www.moba-champion.com/images/roles/gladiator.png",
+"desc" : "<img src=\"http://www.moba-champion.com/images/icons/vim.png\"> The vim gained for scoring the killing blow on lane minions is increased to 200% of normal.<BR><img src=\"http://www.moba-champion.com/images/icons/vim.png\"> Melee Only: You will store 50% of the total vim of minions that you fail to kill. The next time you kill a minion, you will gain any bonus vim you have stored this way (max 3 stacks).",
+"simple" : "Farming"
+},
+{
+"name" : "Tactician",
+"icon" : "http://www.moba-champion.com/images/roles/tactician.png",
+"desc" : "<img src=\"http://www.moba-champion.com/images/icons/vim.png\"> The vim gained for being near lane minions when they die is increased to 200% of normal.<BR><img src=\"http://www.moba-champion.com/images/icons/vim.png\"> You gain 20 bonus vim when you damage an enemy shaper (doubled to 40 for melee attacks). This effect has a 5 second cooldown.",
+"simple" : "Harassing and Poking"
+},
+{
+"name" : "Hunter",
+"icon" : "http://www.moba-champion.com/images/roles/hunter.png",
+"desc" : "You do 10% more damage to jungle creatures. When you kill a jungle creature, you will heal for 2.5% of the creature's maximum Health.<BR><img src=\"http://www.moba-champion.com/images/icons/vim.png\"> When you kill a jungle creature there is a 25% chance you will gain 30 bonus Vim.",
+"simple" : "Jungling"
+},
+{
+"name" : "Predator",
+"icon" : "http://www.moba-champion.com/images/roles/predator.png",
+"desc" : "<img src=\"http://www.moba-champion.com/images/icons/vim.png\"> The vim gained for killing an enemy shaper is increased to 150% of normal.<BR><img src=\"http://www.moba-champion.com/images/icons/vim.png\"> The Vim gained for assists against an enemy shaper is increased to 200% of normal. The experience gained for a kill or assist on an enemy shaper is increased to 130% of normal. The Vim gained for killing spirit well workers is increased to 200% of normal.",
+"simple" : "Ganking and Spirit Wells"
+}
+]

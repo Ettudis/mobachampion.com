@@ -1,0 +1,77 @@
+{
+    "name": "Closed Beta: Patch 18",
+    "date" : "November 21, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><img src=\"http://cms-media.s3.amazonaws.com/wp-content/uploads/2013/11/King720.png\">"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>The King of Masks</h5>The King of Masks is a ranged, magical damage control mage that focuses on crowd control, slipperiness and area denial. The King of Masks performs best in a lane role, denying his opponent's lane positioning and aggression through clever use of his abilities. The King of Masks uniquely excels at controlling his enemy, particularly in the mid-game. Area denial abilities mixed with situational and exclusive crowd control allows the King to be both versatile and powerful in many situations. In the late game, the King provides an intimidating presence for the enemy team to engage into while easily following up on his allies' aggression with his game-changing ultimate.<BR><BR><ul><li>Passive - Pure Shaper - King of Masks is not limited by a resource and may cast his abilities freely.</li><li>Q - Captivate - King of Masks spawns a tentacle in target direction, slowing the first enemy hit. When a target is hit, or the projectile ends, a group of tentacles spawns and attacks nearby enemies dealing magical damage. Flourish: If Captivate is Flourished, the primary projectile will also root the target.</li><li>W - Flourish - King of Masks dashes in target direction and causes his next Captivate or Endless Delights to be empowered. If an enemy Shaper witnesses the empowered cast, King of Masks may recast Flourish to dash again but will not gain a second empowered ability.</li><li>E - Endless Delights - King of Masks lobs a sac of eggs to target location. Enemies who step on an egg causes magical damage in an area. Enemies struck multiple times by eggs take reduced damage. Flourish: If Endless Delights is Flourished, the eggs will also fear targets who trigger them.</li><li>R - Finale - King of Masks throws his Cage to target location, slowing all nearby enemies when traveling. After a brief delay, the Cage erupts pulling in all nearby enemies and dealing magical damage.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+		},
+		{
+			"id" : "Fenmore",
+			"shaper" : "Fenmore",
+			"data" : "<ul><li><B>Soul Rend (Q)</B></li><ul><li>Fixed a bug with this ability that would not grant Fenmore the shield if he picked up the soul in the last few frames of the ability.</li></ul></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li><B>Night Strike (Q)</B></li><ul><li>Fixed a bug that would cause this ability to deal no damage if it was cast twice very quickly via resets.</li></ul></ul>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li><B>Final Payment (R)</B></li><ul><li>The base damage of this ultimate ability has been reduced to 270/480/690, down from 300/510/720.</li><li>The Power ratio of this ultimate ability had been reduced to 1.1, down from 1.2</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Bolt (Q)</B></li><ul><li>This ability is now flagged as a targeted line style ability, allowing non smart cast users to more accurately indicate the distance they will travel.</li></ul></ul>"
+		},
+		{
+			"id" : "Salous",
+			"shaper" : "Salous",
+			"data" : "<ul><li><B>Judgment (Q)</B></li><ul><li>Added some tooltip clarity to this ability to further describe the targeting function of this ability.</li></ul><li><B>Absolution (R)</B></li><ul><li>Added a new targeting icon for this ultimate ability so players may now effectively see the range at which targets affected will be stunned and the correct cone in which this ultimate ability will slow targets affected.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Items</h5>"
+		},
+		{
+			"id" : "Flask of Moxie",
+			"item" : "Flask of Moxie",
+			"class" : "Consumable",
+			"data" : "<ul><li>Fixed a bug that was causing this item to grant health each time it was activated allowing players to heal for extra health multiple times.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Assists</h5><ul><li>Fixed a bug that was causing Assists to grant too little Vim.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Bindings</h5><p><i>Developer Note: This change has been made to allow players to recognize the amount of time they have before a Binding respawns. Once any tier binding respawn ley line reaches the circle immediately around the binding, the time remaining before the Binding actually respawns will always be consistent.</i></p><ul><li>The ley lines that fill when a Binding is respawning have been normalized such that the time it takes for a spark to circle a binding always takes 30 seconds regardless of the tier of the binding.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Destiny</h5><p><i>Developer Note: While the amount of Destiny earned may change throughout the course of the Beta, it is for testing purposes and we welcome any and all feedback regarding these changes.</i></p><ul><li>Players will now earn 35 Destiny per game played, rather than 50 Destiny.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Settings</h5><ul><li>Fixed a bug that was causing user's settings to revert if they quit a game after having changed their settings.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shop</h5><ul><li>Fixed a bug causing right clicks to be registered twice when purchasing an item within the shop. This caused multiple purchases to be made unintentionally.</li></ul>"
+		}
+	]
+}

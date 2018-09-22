@@ -1,0 +1,114 @@
+{
+    "name": "Closed Beta: Patch 28",
+    "date" : "April 8, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><p><img src=\"http://cms-media.s3.amazonaws.com/wp-content/uploads/2014/04/Ashabel720.png\"></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Ashabel, the Dancer</h5><p>Ashabel is a Ranged, magical damage sustain Mage who excels above all Shapers at sieging the enemy team. Ashabel succeeds in any lane role, harassing enemy Shapers from afar while also clearing and last-hitting waves equally well. Extremely long range harass combined with short range versatility and burst make Ashabel an excellent fighter particularly in skirmishes. Ashabel's late game sustained damage is very potent, but relies heavily on her ability to land her skillshots consistently while positioning herself cleverly enough to make up for lack of hard CC or high mobility. Ashabel's Ultimate is one of the most impactful in Dawngate, allowing Ashabel to both contribute to teamfights from afar and deal massive magical damage to an entire enemy team. <BR><BR><B>Passive - Pure Shaper - Buffeting Winds - </B>Ashabel may cast her abilities freely. Whenever Ashabel deals to damage to an enemy Shaper with one of her abilities, she slows them for a short time.<BR><BR><B>Q - Gale - </B>Ashabel spins a balls of wind to target location, dealing magical damage to all enemies in a small area. Dealing damage with this ability will reduce its cooldown significantly.<BR><BR><B>W - Stance Dance - </B>Passive: Gale's damage is increased. Active: Ashabel switches between two stances: Zephyr Stance and Storm Stance. Zephyr Stance increases the range of Gale, while Storm Stance reduces the range of Gale but increases the damage.<BR><BR><B>E - Unleash - Zephyr Stance - Slipstream: </B>Ashabel unleashes a blast of wind in target direction, dealing magical damage to the first target hit. Slipstream deals more damage the farther it travels. Storm Stance - Stormwall: Ashabel blasts all nearby targets with wind, dealing magical damage and knocking them away from her.<BR><BR><B>R - Wrath of Heaven - </B>Ashabel summons a wind dragon at target location, dealing high magical damage in an area after a delay. This ability may be cast anywhere on the battlefield.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>New Feature</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>The Collection</h4><ul><li>The Collection is a new page in the front-end client that allows users to easily browse and obtain Shapers and various content. With The Collection the much requested feature of being able to rotate the 3D model of Shapers and content has been added throughout the front-end client. To read more on the purchasing of Waypoints and content please see MsMoneyPenny's post <a href=\"http://forums.waystonegames.com/forums/showthread.php?4495-Welcome-to-The-Collection\">here</a></li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Shapers</h4>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><b>Blinding Speed (W)</b></li><ul><li>The cooldown of this ability has been reduced to 10/9/8/7/6, down from 14/12/10/8/6.</li></ul></ul>"
+		},
+		{
+			"id" : "Kahgen",
+			"shaper" : "Kahgen",
+			"data" : "<ul><li>The recommended items on Kahgen have been updated.</li><li><b>Dust Devil (Q)</b></li><ul><li>The cooldown of this ability has been reduced to 3 seconds at all ranks, down from 4.</li><li>The base damage of this ability has been increased to 40/65/90/115/150, up from 35/60/85/110/135.</li><li>The base damage per stack of Spirit Sands that a target is affected by has been increased to 10/15/20/25/30, up from 6/9/12/15/18.</li><li>The Power ratio per stack of Spirit Sand has been increased to 0.15, up from 0.08.</li></ul><li><b>Heat Wave (E)</b></li><ul><li>The range of this ability has been increased to 540, up from 500.</li></ul></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li><B>Night Strike (Q)</B></li><ul><li>The base damage of this ability has been changed to 65/110/155/200/245 from 75/115/155/195/235.</li><li>The Power ratio on this ability has been reduced to 0.6, down from 0.7.</li><li>The heal associated with this ability will now proc off of jungle minions (this does not include Spirit Well workers.)</li></ul><li><B>Duskmantle (W)</B></li><ul><li>The shield activated by this ability will now proc on jungle minions (this does not include Spirit Well workers.)</li></ul><li>Shadowstep (E)</li><ul><li>The Power ratio on this ability has been reduced to 0.55, down from 0.6.</li></ul><li><B>Nox Aeterna (R)</B></li><ul><li>Fixed a bug where if Nox Aeterna killed the primary target with the 1st or 5th strike this ability would end early instead of striking for a 6th time.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Shock (W)</B></li><ul><li>The basic attack damage bonus on this ability has been increased to 15/20/25/30/35, up from 10/15/20/25/30.</li></ul><li><B>Recharge (E)</B></li><ul><li>The basic attack damage bonus on this ability has been increased to 15/20/25/30/35, up from 10/15/20/25/30.</li></ul></ul>"
+		},
+		{
+			"id" : "Salous",
+			"shaper" : "Salous",
+			"data" : "<ul><li><B>Judgment (Q)</B></li><ul><li>The projectile speed of this ability has been reduced to 1800, down from 2040.</li></ul><li><B>Spirit Seals (W)</B></li><ul><li>The base damage of this ability per orb has been reduced to 35/50/65/80/95, down from 40/55/70/85/100.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Sentinel Strike (Q)</B></li><ul><li>The base damage of this ability has been changed to 60/95/130/165/200, from 55/95/135/175/215.</li><li>The Power ratio of this ability has been reduced to 0.7, down from 0.8.</li></ul><li><B>Curse of Weakness (W)</B></li><ul><li>Fixed a bug where the debuff visual effect would sometimes fail to display on the affected target.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Items</h4>"
+		},
+		{
+			"id" : "Duress",
+			"itemp" : "Duress",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Netherbind passive ability will now only trigger on your primary target.</li></ul>"
+		},
+		{
+			"id" : "Equilibrium",
+			"itemp" : "Equilibrium",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where the attack speed slow was incorrectly flagged as a movement speed slow, subsequently causing it to be reduced in duration by disable reduction effects.</li></ul>"
+		},
+		{
+			"id" : "Furor",
+			"itemp" : "Furor",
+			"class" : "Legendary",
+			"data" : "<ul><li>The 20 bonus Haste component of the Windstrike Aura has been removed.</li><li>Price reduced to 2640, down from 3290.</li></ul>"
+		},
+		{
+			"id" : "Pestilence",
+			"itemp" : "Pestilence",
+			"class" : "Legendary",
+			"data" : "<ul><li>The infection from the Plague Carrier can now only apply to the same target once every 4 seconds.</li></ul>"
+		},
+		{
+			"id" : "Pursuit",
+			"itemp" : "Pursuit",
+			"class" : "Legendary",
+			"data" : "<ul><li>The movement speed stolen and gained has been reduced to 55, down from 60.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>General Updates</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>The experience for killing players has been reduced to 60% of their level, down from 75%.</li><li>The Health Bar of units have been lowered to be closer to the creature.</li><li>Map Edge scroll speed is no longer framerate dependant.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Leaderboards</h5><ul><li>The Top 200 Leaderboards will now be sorted by a Solo Queue Rating that players will obtain specifically by queueing up for a matchmade game alone. This new rating will be completely separate from the normal MMR that players will obtain from all matchmade games, and it will not affect the matchmaking system. Current leaderboard ranking will be converted directly to Solo Queue Rating to give each player an initial leaderboard placement.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Wards / Ward Skins</h5><ul><li>The sound effects for the Eastern Harmony ward skin has been updated.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Bug Fixes</h4><ul><li>Fixed an issue where the disable reduction from the Tenacity passive was being applied additively with other sources of disable reduction instead of multiplicatively with diminishing returns.</li><li>Fixed a bug where the disable reduction from using Dispel was being applied additively with other sources of disable reduction instead of multiplicitvely with diminishing returns.</li><li>Fixed a bug where the Guardian Cores could be slowed by Inevitability.</li><li>Fixed a display error in the Blessing flow.</li><li>Fixed an issue preventing Kahgen's Ultimate (Big Haul) from proccing Chaos' passive ability.</li><li>Fixed an issue whereby items did not interact properly with Shapers who had the ability to switch stances (i.e. Faris' Reconfigure).</li><li>Fixed typos in Kahgen's tooltips that referred to Spirit Sands as Living Sands.</li><li>Fixed a bug causing \"Career\" to be labelled \"Recent History\" in the Player Profile.</li><li>Fixed a filtering issue in the Item shop.</li></ul>"
+		}
+	]
+}

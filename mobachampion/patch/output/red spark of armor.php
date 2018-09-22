@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 23 (Jan 21, 2014)</h4><ul><li><b>Red Spark of Armor</b></li><ul><li>The Armor granted by this Spark has been increased to 1, up from 0.7.</li></ul></ul>

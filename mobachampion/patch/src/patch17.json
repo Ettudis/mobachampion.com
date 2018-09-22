@@ -1,0 +1,45 @@
+{
+    "name": "Closed Beta: Patch 17",
+    "date" : "November 7, 2013",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<p>Just a small tuning patch this week. The Advisor tab was clickable last patch which was an unintended feature. We've disabled it until it is officially released.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li><B>Collateral (Q)</B></li><ul><li>The power ratio on this ability has been reduced to 0.4, down from 0.5.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li><B>Branching Blade (Q)</B></li><ul><li>The base damage of this ability has been changed to 60/95/130/165/200, from 55/95/135/175/215.</li></ul></ul>"
+		},
+		{
+			"id" : "Vex",
+			"shaper" : "Vex",
+			"data" : "<ul><li><B>Jagged Volley (E)</B></li><ul><li>The cooldown of this ability has been reduced to 12/11/10/9/8, down from 14/13/12/11/10.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>General Fixes / Updates</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Destiny</h5><ul><li>The 370 Destiny that was allocated to new accounts will no longer be given when a new account is created. Existing Destiny awarded this way will not be affected.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Map</h5><ul><li>The Halloween jack-o-lanterns have been removed from the main map.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Advisor</h5><ul><li>The Advisor tab has been disabled - the feature will released at a future date.</li></ul>"
+		}
+	]
+}

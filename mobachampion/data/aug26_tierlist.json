@@ -1,0 +1,640 @@
+{
+    "lanetier": {
+        "tier1": [
+			{
+				"name" : "Desecrator",
+				"reason" : "Desecrator is the king of crowd control. With a root, knockup/stun and silence, nobody can control the pace of a teamfight like Desecrator. He can jungle as a Hunter but exceeds in the Tactician role and is easily the best tank in the game."
+			},
+    		{
+				"name" : "Dibs",
+            	"reason" : "Dibs is a very effective support character than provides a lot of lane control and very potent harass. His Reverie allows unparalleled map presence and can turn the tide of many small skirmishes."
+			},
+    		{
+				"name" : "Varion",
+				"reason" : "Varion has a very accessible kit for a ranged carry and deals considerable physical damage using skill shots. His damage potential is massive, and the vision granted from Insight Shell and the mobility from Progress Gate gives him a nice safety net in lane."
+			},            
+			{
+				"name" : "Nissa",
+				"reason" : "Nissa excels as a Ranged Carry with superb mobility, great lane harass and a powerful burst potential. Her passive's extra warding effect is extremely useful and makes her very difficult to gank."
+			},
+    		{
+				"name" : "Mikella",
+				"reason" : "Mikella scales the best out of all of the physical carries in late game. However, her Waltz ability has a fairly short range and long cooldown making her a bit more vulnerable than the other ranged carries."
+			}        
+        ],
+        "tier2": [
+            {
+                "name": "Amarynth",
+				"reason" : "Amarynth's high mobility, great sustained DPS and unparalleled burst make her a great pick in lane. She is a safe pick for Tactician and can perform adequately as a Predator or Gladiator."
+			},
+    		{
+				"name" : "Raina",
+				"reason" : "Raina is an absolute juggernaut when it comes to tanking. She offers a wide array of utility to her team, and is utterly unkillable. She performs well as a tactician, offering great protection to her allies, strong lane harass and a solid initiate at level 6 onwards."
+			},
+    		{
+				"name" : "Fenmore",
+				"reason" : "Fenmore is a very strong sustain mage that can bully most enemies in lane. He is arguably the best 1v2 Shaper in the game, but suffers a large weakness to Pain's Mortal Strike effect and can be easily shut down."
+			},            
+			{
+				"name" : "Zeri",
+				"reason" : "Zeri offers a lot of power to her allies. She has decent harass and lane damage, but it is her utility that makes her exceptionally strong. Her Muse and Prismatic Vortex will keep carries alive and dealing out tons of damage. She is also a direct counter to burst Shapers like Amarynth and Kindra. The recent addition of Blitz does make her a weaker pick against strong melee shapers."
+			}
+        ],
+        "tier3": [
+    		{
+				"name" : "Kel",
+				"reason" : "Kel has a great amount of damage and crowd control in lane, but suffers the same weaknesses as other melee Shaper's in lane due to harassment. He is also vulnerable after using his combos."
+			},            
+			{
+				"name" : "Cerulean",
+				"reason" : "Cerulean's incredible initiation and peeling make him a very potent theat in lane. However, he is restricted to melee range and can be harassed in lane due to his long cooldowns."
+			},
+			{
+				"name" : "Kindra",
+				"reason" : "Kindra's high damage potential via resets is counter balanced by a fairly low amount of damage on her base abilities. She has decent sustain and shielding but is mostly forced into a passive playstyle waiting for kill opportunities. Once she gets going, she doesn't stop."
+			}			
+        ],
+        "tier4": [
+    		{
+				"name" : "Petrus",
+				"reason" : "Petrus suffers from his melee range and long cooldowns, but does offer impressive crowd control, damage and kill potential at level 6."
+			},            
+			{
+				"name" : "Freia",
+            	"reason" : "Freia can have a tough time in lane due to long cooldowns and melee range. Her all-in potential at Level 6 is fairly strong and best suited for a kill lane or roaming position."
+			},		
+			{
+				"name" : "Voluc",
+				"reason" : "Voluc's kit has generally low ranges and relies on auto attacks. He is easily harassed and kited in lane and is much more effective in the jungle."
+			}			
+        ],
+        "tier5": [
+			{
+				"name" : "Moya",
+				"reason" : "As an attack speed bruiser, Moya is probably best suited for the jungle. However, due to her great kill potential with her ultimate she can be situationally powerful in a kill lane."
+			}
+        ]
+    },
+	"jungletier" : {
+        "tier1": [
+    		{
+				"name" : "Kel",
+				"reason" : "Kel's mobility is second only to Moya and allows him to be very creative in his jungling paths. His ganks are explosively strong and his tanky/utility kit scales well into late game. Unlike Moya, his ultimate cannot be body blocked."
+			},            
+			{
+				"name" : "Moya",
+				"reason" : "She has the best mobility in the game, impressive life steal, impeccable clear speed and incredibly potent ganks at level 6. Her high skill cap does allow her to fall off late game, so she is not recommended for beginners."
+			}
+        ],
+        "tier2": [
+    		{
+				"name" : "Petrus",
+				"reason" : "Petrus is a very well-rounded jungler and features a simple kit familiar to MOBA players. His clear speed and mobility are really good and he can offer fairly potent ganks with massive damage on his Force Wave and Hypersonic Punch. Spin 2 Win!"
+			},
+    		{
+				"name" : "Freia",
+				"reason" : "Much like Voluc, Freia can clear through the jungle with ease and duel enemy Shapers into the ground. Her damage and snowball potential is high, and her late game scaling outclasses most junglers. However, her high skill cap and lack of survivability can make her a risky pick for new players"
+			},            
+			{
+				"name" : "Cerulean",
+				"reason" : "Cerulean's ganks are exceptionally fearsome and landing Impale will almost always be rewarded with a kill or consume the enemy's blink. His low mobility does render his ganks slightly impotent if spotted by a ward."
+			},
+			{
+				"name" : "Voluc",
+				"reason" : "Voluc has impressive clear speeds, unlimited sustainability and is a very potent dueler. However, his ganks are a little weak as his initiation is pretty easy to spot and avoid."
+			}	
+        ],
+        "tier3": [	
+			{
+				"name" : "Raina",
+				"reason" : "Raina's jungling kit is pretty solid. She has good sustain, average clear speeds and incredible dueling. Her post-6 ganks are devastating, but she can get behind if she isn't careful."
+			},
+			{
+				"name" : "Desecrator",
+				"reason" : "Desecrator exceeds in the jungle due to his amazing crowd control. While his clear speed and damage is fairly low, his ganks have a high potential of netting kills and crowd control scales very well into late game."
+			},			
+			{
+				"name" : "Kindra",
+				"reason" : "While Kindra does not offer any crowd control, the resets on her Q/W/E abilities mean that ganks on duo lanes often result in multiple kills. Her kit also offers a lot of flexibility in tower dives."
+			}
+        ],
+        "tier4": [
+			{
+				"name" : "Nissa",
+				"reason" : "Nissa has good clear speeds and sustainability, but does not excel at ganing until level 6. Her passive Animal Companion offers a reasonable level of protection while clearing camps and her level 6 ganks are strong."
+			},
+			{
+				"name" : "Mikella",
+				"reason" : "Mikella can jungle effectively due to her high levels of damage. Her level 6 ganks are very strong as she can execute low health targets effectively with her ultimate from a long range."
+			},			
+			{
+				"name" : "Varion",
+				"reason" : "Varion is a pretty well rounded jungler. He has decent clear speeds and sustainability and can make some tricky ganking paths and escapes with his Progress Gate."
+			}		
+        ],
+        "tier5": [
+			{
+				"name" : "Fenmore",
+				"reason" : "While not an effective jungler, Fenmore is capable of clearing the jungle at a reasonable pace and keeping his health high while doing so."
+			},
+			{
+				"name" : "Amarynth",
+				"reason" : "Amarynths jungling is fairly weak as she will consume her spirit very quickly. However, once she gets to level 6 she can have effective ganks."
+			},				
+			{
+				"name" : "Dibs",
+				"reason" : "Dibs and Zeri do not particularly belong in the jungle. Dibs requires an ally to consume Nightmare's passive, and is not able to defend himself well against invasion."
+			},				
+			{
+				"name" : "Zeri",
+				"reason" : "Dibs and Zeri do not particularly belong in the jungle. Two of Zeri's abilities rely on buffing allies and the silence/slowing effects on her damaging abilities go mostly unnnoticed."
+			}	
+        ]
+	},
+    "laning": {
+        "amarynth": {
+			"name" : "Amarynth",
+            "damage": "A+",
+            "zoning": "A",
+            "sustain": "C",
+            "cc": "B+",
+            "gladiator": "B",
+            "tactician": "A",
+            "predator": "A+"
+        },
+        "cerulean": {
+			"name" : "Cerulean",
+            "damage": "B",
+            "zoning": "B+",
+            "sustain": "B",
+            "cc": "A",
+            "gladiator": "C+",
+            "tactician": "C",
+            "predator": "A+"
+        },
+        "desecrator": {
+			"name" : "Desecrator",
+            "damage": "C+",
+            "zoning": "A+",
+            "sustain": "C",
+            "cc": "A+",
+            "gladiator": "C",
+            "tactician": "A+",
+            "predator": "A-"
+        },
+        "dibs": {
+			"name" : "Dibs",		
+            "damage": "A-",
+            "zoning": "B",
+            "sustain": "C",
+            "cc": "B",
+            "gladiator": "B",
+            "tactician": "A+",
+            "predator": "A"
+        },
+        "fenmore": {
+			"name" : "Fenmore",		
+            "damage": "B+",
+            "zoning": "B-",
+            "sustain": "A+",
+            "cc": "C-",
+            "gladiator": "A-",
+            "tactician": "A",
+            "predator": "B-"
+        },
+        "freia": {
+			"name" : "Freia",		
+            "damage": "A",
+            "zoning": "C-",
+            "sustain": "B-",
+            "cc": "B-",
+            "gladiator": "C",
+            "tactician": "C",
+            "predator": "B"
+        },
+        "kel": {
+			"name" : "Kel",		
+            "damage": "B",
+            "zoning": "B",
+            "sustain": "C",
+            "cc": "A+",
+            "gladiator": "C",
+            "tactician": "C+",
+            "predator": "A"
+        },
+        "kindra": {
+			"name" : "Kindra",		
+            "damage": "B+",
+            "zoning": "B-",
+            "sustain": "B+",
+            "cc": "C-",
+            "gladiator": "C+",
+            "tactician": "B",
+            "predator": "A"
+        },		
+        "mikella": {
+			"name" : "Mikella",		
+            "damage": "A+",
+            "zoning": "B",
+            "sustain": "B+",
+            "cc": "B-",
+            "gladiator": "A+",
+            "tactician": "A",
+            "predator": "A"
+        },
+        "moya": {
+			"name" : "Moya",		
+            "damage": "B",
+            "zoning": "C+",
+            "sustain": "A",
+            "cc": "B",
+            "gladiator": "C+",
+            "tactician": "C+",
+            "predator": "A-"
+        },
+        "nissa": {
+			"name" : "Nissa",		
+            "damage": "A",
+            "zoning": "A-",
+            "sustain": "B+",
+            "cc": "B-",
+            "gladiator": "A+",
+            "tactician": "A",
+            "predator": "A"
+        },
+        "petrus": {
+			"name" : "Petrus",		
+            "damage": "B",
+            "zoning": "B-",
+            "sustain": "C",
+            "cc": "B+",
+            "gladiator": "C",
+            "tactician": "C",
+            "predator": "A-"
+        },
+        "raina": {
+			"name" : "Raina",
+            "damage": "C+",
+            "zoning": "A",
+            "sustain": "B",
+            "cc": "A",
+            "gladiator": "C",
+            "tactician": "A+",
+            "predator": "A-"
+        },		
+        "varion": {
+			"name" : "Varion",		
+            "damage": "A",
+            "zoning": "B+",
+            "sustain": "B+",
+            "cc": "C",
+            "gladiator": "A+",
+            "tactician": "A",
+            "predator": "A"
+        },
+        "voluc": {
+			"name" : "Voluc",		
+            "damage": "C+",
+            "zoning": "C+",
+            "sustain": "B-",
+            "cc": "B",
+            "gladiator": "C",
+            "tactician": "B-",
+            "predator": "B"
+        },
+        "zeri": {
+			"name" : "Zeri",		
+            "damage": "B",
+            "zoning": "A+",
+            "sustain": "C",
+            "cc": "A",
+            "gladiator": "B",
+            "tactician": "A+",
+            "predator": "A-"
+        }
+    },
+    "jungle": {
+        "amarynth": {
+			"name" : "Amarynth",
+            "speed": "C-",
+            "sustain": "C",
+            "ganks": "B",
+            "mobility": "B+",
+            "dueling": "C+",
+            "invasion": "C",
+            "hunter": "C-",
+            "predator": "C"
+        },
+        "cerulean": {
+			"name" : "Cerulean",		
+            "speed": "A-",
+            "sustain": "B",
+            "ganks": "A",
+            "mobility": "B",
+            "dueling": "A-",
+            "invasion": "A",
+            "hunter": "A-",
+            "predator": "A+"
+        },
+        "desecrator": {
+			"name" : "Desecrator",		
+            "speed": "B-",
+            "sustain": "B",
+            "ganks": "A-",
+            "mobility": "C",
+            "dueling": "B-",
+            "invasion": "B-",
+            "hunter": "B+",
+            "predator": "B+"
+        },
+        "dibs": {
+			"name" : "Dibs",		
+            "speed": "C",
+            "sustain": "B-",
+            "ganks": "C+",
+            "mobility": "B",
+            "dueling": "C",
+            "invasion": "B",
+            "hunter": "C",
+            "predator": "B+"
+        },
+        "fenmore": {
+			"name" : "Fenmore",	
+            "speed": "B",
+            "sustain": "B-",
+            "ganks": "C",
+            "mobility": "B",
+            "dueling": "C+",
+            "invasion": "C",
+            "hunter": "C",
+            "predator": "C"
+        },
+        "freia": {
+			"name" : "Freia",		
+            "speed": "A-",
+            "sustain": "A",
+            "ganks": "A-",
+            "mobility": "B+",
+            "dueling": "A",
+            "invasion": "A-",
+            "hunter": "A",
+            "predator": "A"
+        },
+        "kel": {
+			"name" : "Kel",		
+            "speed": "A-",
+            "sustain": "B",
+            "ganks": "A+",
+            "mobility": "A",
+            "dueling": "A-",
+            "invasion": "A",
+            "hunter": "A-",
+            "predator": "A+"
+        },
+        "kindra": {
+			"name" : "Kindra",		
+            "speed": "B+",
+            "sustain": "B",
+            "ganks": "B+",
+            "mobility": "B+",
+            "dueling": "B",
+            "invasion": "A-",
+            "hunter": "B+",
+            "predator": "A+"
+        },
+        "mikella": {
+			"name" : "Mikella",		
+            "speed": "B-",
+            "sustain": "B-",
+            "ganks": "B-",
+            "mobility": "B-",
+            "dueling": "B-",
+            "invasion": "C",
+            "hunter": "C+",
+            "predator": "C+"
+        },
+        "moya": {
+			"name" : "Moya",		
+            "speed": "A",
+            "sustain": "A+",
+            "ganks": "A+",
+            "mobility": "A+",
+            "dueling": "A+",
+            "invasion": "A+",
+            "hunter": "A+",
+            "predator": "A"
+        },
+        "nissa": {
+			"name" : "Nissa",		
+            "speed": "B-",
+            "sustain": "B-",
+            "ganks": "B-",
+            "mobility": "B",
+            "dueling": "B-",
+            "invasion": "C+",
+            "hunter": "C+",
+            "predator": "C+"
+        },
+        "petrus": {
+			"name" : "Petrus",		
+			"speed": "B",
+            "sustain": "B-",
+            "ganks": "A-",
+            "mobility": "B+",
+            "dueling": "B",
+            "invasion": "B+",
+            "hunter": "B+",
+            "predator": "A"
+        },
+        "raina": {
+			"name" : "Raina",		
+            "speed": "B-",
+            "sustain": "A-",
+            "ganks": "B+",
+            "mobility": "B-",
+            "dueling": "A",
+            "invasion": "B+",
+            "hunter": "B",
+            "predator": "B"
+        },		
+        "varion": {
+			"name" : "Varion",		
+            "speed": "B-",
+            "sustain": "B-",
+            "ganks": "C+",
+            "mobility": "A-",
+            "dueling": "B-",
+            "invasion": "B-",
+            "hunter": "C+",
+            "predator": "C+"
+        },
+        "voluc": {
+			"name" : "Voluc",		
+            "speed": "A+",
+            "sustain": "A+",
+            "ganks": "B+",
+            "mobility": "B",
+            "dueling": "A+",
+            "invasion": "A-",
+            "hunter": "A",
+            "predator": "A"
+        },
+        "zeri": {
+			"name" : "Zeri",		
+            "speed": "C-",
+            "sustain": "C",
+            "ganks": "C",
+            "mobility": "C",
+            "dueling": "C",
+            "invasion": "C",
+            "hunter": "C-",
+            "predator": "C-"
+        }
+    },
+    "overall": {
+        "amarynth": {
+			"name" : "Amarynth",		
+            "damage": "A+",
+            "tankiness": "B-",
+            "utility": "B",
+            "cc": "A-",
+            "objective": "B",
+            "winrate": "N/A"
+        },
+        "cerulean": {
+			"name" : "Cerulean",		
+            "damage": "B",
+            "tankiness": "A+",
+            "utility": "B+",
+            "cc": "A",
+            "objective": "B+",
+            "winrate": "N/A"
+        },
+        "desecrator": {
+			"name" : "Desecrator",		
+            "damage": "C+",
+            "tankiness": "A",
+            "utility": "A",
+            "cc": "A+",
+            "objective": "A",
+            "winrate": "N/A"
+        },
+        "dibs": {
+			"name" : "Dibs",		
+            "damage": "B+",
+            "tankiness": "B-",
+            "utility": "A",
+            "cc": "B+",
+            "objective": "A",
+            "winrate": "N/A"
+        },
+        "fenmore": {
+			"name" : "Fenmore",		
+            "damage": "A-",
+            "tankiness": "B",
+            "utility": "C",
+            "cc": "C",
+            "objective": "C+",
+            "winrate": "N/A"
+        },
+        "freia": {
+			"name" : "Freia",		
+            "damage": "A",
+            "tankiness": "B+",
+            "utility": "B",
+            "cc": "A-",
+            "objective": "B+",
+            "winrate": "N/A"
+        },
+        "kel": {
+			"name" : "Kel",		
+            "damage": "B",
+            "tankiness": "A",
+            "utility": "A",
+            "cc": "A",
+            "objective": "B+",
+            "winrate": "N/A"
+        },
+        "kindra": {
+			"name" : "Kindra",		
+            "damage": "A+",
+            "tankiness": "B",
+            "utility": "C-",
+            "cc": "C",
+            "objective": "B-",
+            "winrate": "N/A"
+        },		
+        "mikella": {
+			"name" : "Mikella",		
+            "damage": "A+",
+            "tankiness": "C",
+            "utility": "C",
+            "cc": "B-",
+            "objective": "B+",
+            "winrate": "N/A"
+        },
+        "moya": {
+			"name" : "Moya",		
+            "damage": "B+",
+            "tankiness": "B+",
+            "utility": "A-",
+            "cc": "A",
+            "objective": "A+",
+            "winrate": "N/A"
+        },
+        "nissa": {
+			"name" : "Nissa",		
+            "damage": "A+",
+            "tankiness": "C",
+            "utility": "A",
+            "cc": "C+",
+            "objective": "B+",
+            "winrate": "N/A"
+        },
+        "petrus": {
+			"name" : "Petrus",		
+            "damage": "B+",
+            "tankiness": "B+",
+            "utility": "B",
+            "cc": "A-",
+            "objective": "B+",
+            "winrate": "N/A"
+        },
+        "raina": {
+			"name" : "Raina",		
+            "damage": "C+",
+            "tankiness": "A+",
+            "utility": "A+",
+            "cc": "A",
+            "objective": "A-",
+            "winrate": "N/A"
+        },		
+        "varion": {
+			"name" : "Varion",		
+            "damage": "A",
+            "tankiness": "B-",
+            "utility": "A-",
+            "cc": "C",
+            "objective": "A-",
+            "winrate": "N/A"
+        },
+        "voluc": {
+			"name" : "Voluc",		
+            "damage": "A-",
+            "tankiness": "A-",
+            "utility": "B-",
+            "cc": "B",
+            "objective": "A-",
+            "winrate": "N/A"
+        },
+        "zeri": {
+			"name" : "Zeri",		
+            "damage": "B-",
+            "tankiness": "C+",
+            "utility": "A",
+            "cc": "A",
+            "objective": "B",
+            "winrate": "N/A"
+        }	
+    }
+}

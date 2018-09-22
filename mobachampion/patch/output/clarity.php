@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Haste reduced to 30, down from 45.</li><li>Price reduced to 900, down from 1260.</li></ul>

@@ -1,0 +1,280 @@
+[
+{
+"name" : "Amarynth",
+"type" : "shaper",
+"title" : "The Tempest",
+"lore" : "High Priestess of the Shorewind Tribe in the East, Amarynth is prone to intense bouts of rage despite her usual calm demeanor. Her powers have pushed those she loves away from her, even her sworn protector, Cerulean. Despite leading her people in the worship of the spirits, Amarynth secretly curses the spirits for what has become of her tribe."
+},
+{
+"name" : "Archon",
+"title" : "",
+"lore" : "Archons are spirits that Eidolus has bound to mortal contructs to fight for and defend the two sides of the Dawngate. Their ultimate purpose is unclear. Archons represent the Divine Tier in the Blessing System."
+},
+{
+"name" : "Minions and Striders",
+"title" : "",
+"lore" : "Minions and Striders are spirits that Eidolus has bound to physical bodies, forcing them to do his will."
+},
+{
+"name" : "Locus",
+"title" : "",
+"lore" : "The Loci are the two most important things in the Dawngate. With just one locus, a shaper is capable of temporarily turning vim into any vitality of their choosing. Harnessing both loci allows a small group of shapers to Converge with the Spirit World."
+},
+{
+"name" : "Guardians",
+"title" : "",
+"lore" : "A Guardian is an immense spirit that protects the Locus of the Spirit and Mortal teams. Their reasons for fighting are unknown, but it is believed they were coerced by Eidolus to protect the Dawngate."
+},
+{
+"name" : "The Dawngate",
+"title" : "",
+"lore" : "A shrine built by the shaper Eidolus. It bridges the gap between the mortal and spirit realms, allowing mortals limited access to the spirit realm while in control of the entire structure."
+},
+{
+"name" : "The Parasite",
+"title" : "",
+"lore" : "The Parasite is a creature from the Spiritstream that feeds on the immense amount of Vim being generated at the heart of the Dawngate. It latches on to a convenient tree stump and grows more powerful as it consumes Vim."
+},
+{
+"name" : "Ashabel",
+"type" : "shaper",
+"title" : "The Dancer",
+"lore" : "The owner of a famous salon in the South, Ashabel is renowned throughout the land for her dancing. In addition to her ravishing beauty, Ashabel is well versed in poetry and her singing voice is like no other. Though sought after for companionship, Ashabel only finds comfort in the Spirit of Elegance."
+},
+{
+"name" : "Anzerani",
+"title" : "The Duke of Maridia",
+"type" : "character",
+"lore" : "Mikella's father, Duke Anzerani, is an extremely influential figure in West. He has employed Varion as part of his personal guard, and has an agreement with Petrus to fund his research in return for advanced weapons."
+},
+{
+"name" : "Basko",
+"title" : "The Enforcer",
+"type" : "shaper",
+"lore" : "A commoner of Maridia, Basko has been oppressed by the Maridian nobility for long enough. As an enforcer for the mob, Basko has seen his share of the filth that fills the streets of Maridia. Bonded with the Spirit of Resolve, nobody can stand before this man who has nothing to lose."
+},
+{
+"name" : "Cerulean",
+"type" : "shaper",
+"title" : "The Warden",
+"lore" : "Sworn protector of Lady Amarynth and Warden of the Shorewind Tribe, Cerulean is tough, rowdy, and cheerful. His extremely tough coral armor and bond with the Spirit of Resilience allows him to withstand Amarynth's enraged outbursts. Despite not being able to be with the woman he loves, Cerulean will do anything to protect her."
+},
+{
+"name" : "Desecrator",
+"type" : "shaper",
+"title" : "The Bane of Maridia",
+"lore" : "A former intellect of questionable morals, this mysterious being has bonded with the Spirit of Decay in a most grotesque manner. He wields Decay as a surgeon would a scalpel, making precise cuts and incisions for the most efficient path to victory. A walking sepulcher with a vendetta against Mikella's father, the Desecrator is not one to be trifled with."
+},
+{
+"name" : "Dibs",
+"type" : "shaper",
+"title" : "The Dreamer",
+"lore" : "A pouchling from The Kuulahele Tangle, Dibs always dreamed of flying above the trees that his numerous siblings were perfectly content with being under. Since achieving his dream after bonding with the Spirit of Ambition, Dibs has decided to join Nissa in her journeys and help her achieve her dreams."
+},
+{
+"name" : "Eidolus",
+"title" : "Arch-Shaper of Maridia",
+"type" : "character",
+"lore" : "Eidolus constructed the Dawngate in a state of madness after the death of his wife. Little is known about his current whereabouts or activities."
+},
+{
+"name" : "Faris",
+"type" : "shaper",
+"title" : "The Ancient",
+"lore" : "Built over 1700 years ago in the East, Faris' primary function is to serve and protect children, but when duty requires, he can call on the Vitality of Ruin to bring down the strongest of foes. Faris is powered by his Anamnesis, a crystal that required the donation of memories to operate. Faris now possesses memories and emotions that are not his own."
+},
+{
+"name" : "Fenmore",
+"type" : "shaper",
+"title" : "The Alpha",
+"lore" : "Fenmore is cold and calculated, and the acting leader of the mysterious group called 'The Nine'. He strives to bring peace and order to the land, and is not afraid to get his hands dirty in doing so. Possessing the Spirit of Hunger, Fenmore is not capable of being killed; only reduced to a state of near-nothingness as he recreates himself."
+},
+{
+"name" : "Freia",
+"type" : "shaper",
+"title" : "The Survivor",
+"lore" : "A courier in a small village in the North, Freia was on a job when the warlord Fenmore destroyed her village. Eight days she buried her friends and relatives, rage building constantly as she worked. Eventually her rage peaked to the point that it consumed her. With the Spirit of Rage, Freia now channels her hate into hunting and killing Fenmore as many times as necessary."
+},
+{
+"name" : "Kahgen",
+"type" : "shaper",
+"title" : "The Raider",
+"lore" : "A one-armed bandit of the southern deserts, Kahgen makes his living by raiding the caravans that make their way through the desert. Using grapples, Kahgen and his raiders climb aboard hathi to collect their plunder. With the Spirit of Avarice's help, Kahgen's job has become much easier in recent times."
+},
+{
+"name" : "Kel",
+"type" : "shaper",
+"title" : "The Shepherd",
+"lore" : "A shepherd from the Heart of the World, Kel has always lived a simple life with his clan. Upon bonding with the Spirit of Protection, he saw nothing wrong with living life as he always had. Better to live small, talk with friends, eat good food, bathe in the warm sun, and just breathe."
+},
+{
+"name" : "Kensu",
+"type" : "shaper",
+"title" : "The Mistwalker",
+"lore" : "Kensu the Mistwalker: An Iteshi of Suzutai, Kensu hunts the desires and regrets of the souls trapped by his people. The Iteshi turned their backs on the Spirits long ago, yet the Spirit of Conviction still sought out Kensu. For unknown reasons, he has left his island home and has his eyes set on the Dawngate"
+},
+{
+"name" : "Kindra",
+"type" : "shaper",
+"title" : "The Vesper",
+"lore" : "A young noblewoman from the North, Kindra was banished for her deadly carnal activities. While locked away in a remote abbey, Kindra bonded with the Spirit of Shadow, killing almost everyone as she made her escape. She now spends her days looking for ways to amuse herself."
+},
+{
+"name" : "King of Masks",
+"type" : "shaper",
+"title" : "The Master of Illusions",
+"lore" : "The King of Masks has always looked down upon adults. For they see his tricks and stories as childish. The South reveres art of all kind, yet the King, in all of his glory is not given the proper respect. Bonding with the Spirit of Madness, the King of Masks returns to the stage, with even more horrifying grandeur and panache."
+},
+{
+"name" : "Marah",
+"type" : "shaper",
+"title" : "The Awakened",
+"lore" : "Marah is a midwife from Kel's tribe in the heart of the world. Her kind heart and desire for life attracted the Spirit of Growth. She now uses her power to thwart death and to save the lives of the innocent. If she didn't, the painful memories of loss would overwhelm her."
+},
+{
+"name" : "Mikella",
+"type" : "shaper",
+"title" : "The Merchant Princess",
+"lore" : "The daughter of a rich merchant prince, Mikella has very little say in how her life will unfold. Upon bonding with the spirit of Fortune, the young merchant princess found that she was able to use her vast fortune as a weapon, and now ventures to the Heart of the World to seek her own fortune, away from the whims of her father."
+},
+{
+"name" : "Mina",
+"type" : "shaper",
+"title" : "The Tyrant",
+"lore" : "Mina was a Western Countess in life. Upon nearly drowning to death, her soul was tethered to a doll from the Festival of Dolls by the Spirit of Dominance. She now walks in a new body, possessing the power to force her will upon others so that they will do her bidding."
+},
+{
+"name" : "Moya",
+"type" : "shaper",
+"title" : "The Smuggler",
+"lore" : "Burdened with the Spirit of Motion, Moya and her eel companion lay down the smackdown in the Dawngate. Rumors of her previous involvement in the salt business are whispered in the shadows of taverns in the late night, where no prying ears can hear."
+},
+{
+"name" : "Nissa",
+"type" : "shaper",
+"title" : "The High Huntress",
+"lore" : "High Huntress of the Stonebloom tribe, Nissa was once revered among her people. Now that she has bonded with the Spirit of Pursuit, she has been ostracized, for the East revere the Spirits, and bonding directly with one is considered a great offense. Nissa now travels with Dibs as she strives to recover her status within the tribe by shedding her spirit."
+},
+{
+"name" : "Petrus",
+"type" : "shaper",
+"title" : "The Artificer",
+"lore" : "One of the oldest and well-learned shapers of his time, Petrus was devastated when he lost his arm during an accident on a shaping site. Since he could no longer shape with his hands, he instead became the mentor of Mikella. When the Spirit of Progress bonded with him, Petrus used his newfound powers to shape himself a replacement arm."
+},
+{
+"name" : "Raina",
+"type" : "shaper",
+"title" : "The Archivist",
+"lore" : "A Northern Archivist, Raina bonded with the Spirit of Preservation when eastern sea raiders threatened to kill her friends and burn the archives. She has since become an indomitable wall, not letting anything come between her and what she deems worthy of preservation."
+},
+{
+"name" : "Renzo",
+"type" : "shaper",
+"title" : "The Sculptor",
+"lore" : "A master sculptor from the South, Renzo's bond with the Spirit of Form has only served to improve his art immeasurably. It stands to reason that he would oversee the training of only the greatest prodigies. Renzo is also strutting proof that a moustache does, in fact, make you manlier. Sorry ladies, he's already in a relationship... with Renzo of course!"
+},
+{
+"name" : "Salous",
+"type" : "shaper",
+"title" : "The Pentinent",
+"lore" : "A master assassin of unknown origins, Salous once worked for the warlord Fenmore. However, after the many atrocities that he committed finally caught up to his conscience, Salous put the assassin's life behind him. He now serves penance for what he's done, but with the power of the Vitality of Control, he can channel his determination and will to be an unstoppable force."
+},
+{
+"name" : "Tess",
+"type" : "shaper",
+"title" : "The Sky Captain",
+"lore" : "Coarse, exuberant, and unrestrained, Tess and her pirate crew terrorized shipping along the Jeweled Coast of the west. After years of fruitless tinkering and experiments, the coming of the Spirit of Defiance granted her life-long dream; a ship that can sail among the clouds."
+},
+{
+"name" : "Varion",
+"type" : "shaper",
+"title" : "The Mercenary",
+"lore" : "Once a mere mercenary working for Maridian lords, Varion has since suffered through the loss of his only friends, and rejection at the hand of the Merchant Princess, Mikella. Now that he has embraced the Spirit of Adaptability, he goes with the flow, not letting the worries of life get him down."
+},
+{
+"name" : "Vex",
+"type" : "shaper",
+"title" : "The Beast",
+"lore" : "Once a mere frax, Vex was subject to many experiments at the hand of Petrus, who was searching for a way to shape his flesh into a new arm. Driven to near madness by the pain inflicted on him, Vex bonded with the Spirit of Pain to overcome his misery and gain significantly more intelligence than any other frax before him."
+},
+{
+"name" : "Viridian",
+"type" : "shaper",
+"title" : "The Abyssal",
+"lore" : "As is the case with all members of the Shorewind Tribe, Viridian received a 'blessing' as he matured. Unlike the others, his completely altered his physiology and made him look horrifying, even to members of his own tribe. A social outcast from a young age, Viridian spends most of his time hunting cetan whales to feed and supply his tribe."
+},
+{
+"name" : "Viyana",
+"title" : "The Purifier",
+"type" : "shaper",
+"lore" : "Years of blood-shaping have resulted in the near perfect specimen that is Viyana. She knew that it only stood to reason that she would become a Shaper, and how fitting for her to bond with the Spirit of Purity. Viyana now seeks to rid the world of impurity, but has been burdened with the task of leading the Eastern tribes to victory in war."
+},
+{
+"name" : "Voluc",
+"type" : "shaper",
+"title" : "The Warlock Knight",
+"lore" : "A paladin mortally wounded in the Holy Woods, Voluc bonded with the Spirit of Consumption. He now must remain constantly vigilant, lest the life around him be destroyed by the very Vitality he controls."
+},
+{
+"name" : "Zalgus",
+"type" : "shaper",
+"title" : "The Loremaster",
+"lore" : "A cynical, haughty, and generally snooty man, Zalgus had always lived under the shadow of certainty. He had grown bored with life, for he felt that everything was far too predictable. The Spirit of Fate showed him that life is hardly as obvious as the studious man thought, and showed him a world where nothing was certain."
+},
+{
+"name" : "Zeri",
+"type" : "shaper",
+"title" : "The Artist",
+"lore" : "A master of painting and other fine-arts, Zeri is perhaps the most esteemed painter in the South. She honestly couldn't care less. She enjoys having fun, not doing work, and making witty comments to her overconfident master, Renzo. Zeri's bond with the Spirit of Vibrance was an honorable occurrence, but all she had to say was, 'meh.'"
+},
+{
+"name" : "Sereyn",
+"title" : "Queen of Chassart",
+"type" : "character",
+"lore" : "Chassart is the most influential of the three queendoms of the North, and is home to Raina, Zalgus, and Kindra. Sereyn is known to be graceful and wise, and knows the ins and outs of diplomacy. She is confident in her abilities, and usually gets what she wants."
+},
+{
+"name" : "The Nine",
+"type" : "faction",
+"lore" : "A shadowy group led by the mysterious One. The only known member is Fenmore, who is second-in-command. One has tasked Fenmore with recruiting seven others to the group, and provided him with special badges to identify each member of the group. The intent of the Nine is currently unknown, except that One and Fenmore both strive for peace through dominance."
+},
+{
+"name" : "The Shorewind Tribe",
+"type" : "faction",
+"lore" : "Blessed by the Spirits, the people of the Shorewind tribe all develop a unique physical trait as their bodies develop. Each member of the tribe assumes a role based on what this trait is. The leader of the tribe, the Moon Priestess, experiences fey moods during the full moon, and must unleash her fury upon the tribe's warden."
+},
+{
+"name" : "The West",
+"override" : "The Englightened West",
+"type" : "region",
+"lore" : "It is no coincidence that the patron spirit of the West is the Spirit of Progress. Home to many shapers of the old way, The West strives to be more technologically, economically, and socially advanced than the rest of the world. It is ruled by a number of merchant princes. The West is marred by its inhumane view of the poor and unfortunate.",
+"quote" : "To become the giant that others stand upon, you must first make everyone else shorter"
+},
+{
+"name" : "The East",
+"override" : "The Savage East",
+"type" : "region",
+"lore" : "The East is composed of a number of scattered tribes descended from great cities that have fallen from majesty in the past fifteen-hundred years. The tribes are seen as barbaric and misguided, but as more of them become shapers, they seek out the guidance of blood shapers; ancient leaders of the old East.",
+"quote" : "A child may leave his parents without their blessing, but from the ashes of defeat, he will rise wiser and stronger than ever before."
+},
+{
+"name" : "The North",
+"override" : "The Brooding North",
+"type" : "region",
+"lore" : "A matriarchal region; the North is composed of three queendoms: Chassart, Neissen, and Falkrent. The North's passion is knowledge; knowledge of the past, and knowledge of the present. It is home to archivists and intellectuals. The Northern queendoms also have the most organized and efficient armies in the known world.",
+"quote" : "Words can soothe the soul, win the heart, and crush the enemy. They are a powerful weapon, and must be handled with exceeding gentleness"
+},
+{
+"name" : "The South",
+"override" : "The Dreaming South",
+"type" : "region",
+"lore" : "Home to artists of all types, the South prides itself on making the world a more vibrant and colorful place. One of the largest cities, Nishi'an, is ruled by the greatest artists living in the city. If the South has a fault, it is the immense pride that its upper class possesses.",
+"quote" : "Dreams magnify the world around us. Emphasize the good, beautiful, and intelligent, and ignore the talentless and horrid."
+},
+{
+"name" : "The Heart of the World",
+"type" : "region",
+"lore" : " The folk that live in the Holy Woods are quiet, peace-loving people. The woods are also protected by a group of sentinel paladins that keep the woods free of those that would defile its beauty. Due to its proximity to the Spirit Realm, this is where Eidolus chose to build the Dawngate.",
+"quote" : "The quiet nights are a thing of the past. Now we can only pray that our lives aren't further uprooted by the conflicts that take place in that wretched place."
+}
+]

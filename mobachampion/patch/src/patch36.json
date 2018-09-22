@@ -1,0 +1,232 @@
+{
+  "name": "Patch 36",
+  "date": "September 30, 2014",
+  "patch": [
+    {
+      "id": "general",
+      "data": "<h2>New Shaper</h2><img src=\"http://i.imgur.com/Ie3T5Ed.jpg\">"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Passive - Pure Shaper - Keen Senses</b></li><ul><li>Ronan may cast his abilities freely. Ronan's wards are enhanced by his heightened sense of hearing, causing them to see over walls and terrain.</li></ul><li><b>Q - Bolt</b></li><ul><li> Ronan dashes in target direction, resetting his basic attack and causing his next basic attack to deal bonus physical damage.</li></ul><li><b>W - Injection</b></li><ul><li> Ronan tosses his vim ampoules into the air. After a brief period they inject him, removing all disabling effects. If any disabling effects were removed, Ronan gains bonus movespeed for a short period.</li></ul><li><b>E - On The House</b></li><ul><li> Ronan kicks his flask in target direction, impacting on the first enemy hit or at max distance in a large cone. Deals physical damage to all enemies in the cone, dealing less to those further from the point of impact.</li></ul><li><b>R - Reckoning</b></li><ul><li> Ronan embodies Justice for a short period, causing his basic attacks to deal bonus physical damage and ricochet to nearby enemy Shapers. Prioritizes Shaper with low health as targets. Using a Bolt-enhanced basic attack will cause this ability to bounce to two targets.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "Ronan is a ranged, physical damage Carry who rewards precise, highly-skilled play with devastating potency. Ronan excels in the Gladiator role above all others, his combined mobility and empowered basics attacks making for easy last hitting and efficient trading. Ronan is truly powerful at all points of the game, excelling at avoiding enemies in small skirmishes while dishing out tremendous damage in large teamfights - use his strength aggressively and early, a well-played Ronan in a 2v2 or 3v3 can often be the winning factor in a fight. Ronan's Ultimate synergizes extremely well with his playstyle, always be looking for the best opportunity to get off the most uninterrupted Basics before activating it. Once active, simply focus on what Ronan does best: staying just out of the opponents reach while maintaining as much damage uptime as possible. Ronan's ability to self-peel and avoid enemy Shapers can open up a seriously heavy damage team composition - consider foregoing a Bruiser or CC-heavy Support when building a team around Ronan, often better damage can prove more useful given Ronan's innate slipperiness."
+    },
+    {
+      "id": "general",
+      "data": "<h3>New Feature</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Sales</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Content sales will now show up periodically in The Collection.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Quality of Life</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Matchmaking</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Clients will now automatically re-queue for matchmaking (at the same priority that they had when the game lobby was created) when another player leaves the game during Shaper Select.</li><li>Matchmaking groups will remain together after the game is complete, allowing players to quickly queue again with the same group.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Shaper Select</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Announcer Packs are now ordered alphabetically.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Forward Renderer</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<i>Dev Note: We've switched to a forward renderer instead of using the light prepass deferred renderer for low spec machines (the setting is enhanced lighting off). This uses less bandwidth and less pixel fill. So people who have low spec GPUs should see a significant improvement in performance. You will note that we turn off some other features like local lights, spot light shadows, glow and distortion but the impact to the look of the game should be minimal (glow being the most notable).\n\nThis feature does not address CPU performance, however, so if you happen to be CPU bound you might not see an increase. This feature is new and hot off the press, so please let us know what you think. While we have tested many configurations, we'll be excited to get telemetry and reports from you all.</i><ul><li>Rendering has been improved for lower end machines.</li><li>Users using lower settings should see significant improvement in their FPS.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h2>Balance and Tuning</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Shapers</h3>"
+    },
+    {
+      "id": "Ashabel",
+      "shaper": "Ashabel",
+      "data": "<ul><li><b>Gale (Q)</b></li><ul><li> Fixed a bug where this ability would deal no damage if Ashabel was silenced or stunned immediately after firing the projectile.</li></ul></ul>"
+    },
+    {
+      "id": "Cerulean",
+      "shaper": "Cerulean",
+      "data": "<ul><li><b>Impale (E)</b></li><ul><li> Fixed a bug where this ability would sometimes flip an enemy after they exited this ability's cast range.</li></ul><li><b>Shore's Calling (R)</b></li><ul><li> Fixed a bug where this ability would sometimes heal Cerulean for less than the intended amount against targets between 70% to 100% Health.</li></ul></ul>"
+    },
+    {
+      "id": "Desecrator",
+      "shaper": "Desecrator",
+      "data": "<ul><li><b>Death Fog (R)</b></li><ul><li> Fixed a bug where Desecrator and Forgefire Desecrator had a low chance of not displaying this ability's animation.</li></ul></ul>"
+    },
+    {
+      "id": "Dibs",
+      "shaper": "Dibs",
+      "data": "<ul><li><b>Reverie (R)</b></li><ul><li> Fixed a bug where reactivating this ability within a short window would occasionally fly Dibs to the center of the map.</li></ul></ul>"
+    },
+    {
+      "id": "Faris",
+      "shaper": "Faris",
+      "data": "<ul><li><b>Flashback (E)</b></li><ul><li> Fixed a bug where reactivating this ability within a short window would cause an additional initial activation, causing Faris to return to the charge position after teleporting.</li></ul></ul>"
+    },
+    {
+      "id": "Fenmore",
+      "shaper": "Fenmore",
+      "data": "<ul><li><b>Heart Eater (E)</b></li><ul><li> Fixed a bug where this ability cost less Health than intended at max rank.</li></ul></ul>"
+    },
+    {
+      "id": "Flin",
+      "shaper": "Flin",
+      "data": "<ul><li><b>Pure Shaper - Carry On (Passive)</b></li><ul><li> The amount of damage reflected is now calculated pre-mitigation instead of post-mitigation so that the damage from this passive does not become less effective when Flin builds Armor.</li></ul><li><b>Thrilling Heroics (Q)</b></li><ul><li> The cooldown on this ability has been reduced to 11/10/9/8/7, down from 11/10.5/10/9.5/9.</li></ul><li><b>Finest Hour (R)</b></li><ul><li> The cooldown on this ability has been reduced to 120/110/100, down from 130/120/110.</li></ul></ul>"
+    },
+    {
+      "id": "Kindra",
+      "shaper": "Kindra",
+      "data": "<ul><li><b>Nox Aeterna (R)</b></li><ul><li> Fixed a bug where using this ability on a recalling enemy Shaper on the same frame where the recall finished would bring Kindra to the enemy Locus.</li></ul></ul>"
+    },
+    {
+      "id": "King of Masks",
+      "shaper": "King of Masks",
+      "data": "<ul><li><b>Captivate (Q)</b></li><ul><li> This ability will now always cast to maximum range.</li></ul><li><b>Flourish (W)</b></li><ul><li> Fixed a bug where King of Masks could lose the empowered component of his Captivate (Q) or Endless Delights (E) if he was silenced during their casts immediately after using Flourish (W).</li><li> This ability may now be cast during a Captivate (Q) or Endless Delights (E) cast animation without cancelling the abilities.</li><li> Casting Captivate (Q) or Endless Delights (E) during a Flourish (W) will now instantly cast them from King of Masks' position, rather than after a delay.</li></ul></ul>"
+    },
+    {
+      "id": "Mina",
+      "shaper": "Mina",
+      "data": "<ul><li><b>Sever Ties (R)</b></li><ul><li> Fixed a bug where the cooldown of this ability would be incorrectly displayed if Mina was interrupted before the cast of this ability was completed.</li></ul></ul>"
+    },
+    {
+      "id": "Sakari",
+      "shaper": "Sakari",
+      "data": "<ul><li><b>Iceberg (W)</b></li><ul><li> Fixed a bug where this ability could immobilize enemy Shapers with a single Iceberg.</li></ul><li><b>Shatter (E)</b></li><ul><li> Sakari will now start basic attacking a Shaper that she has used her Shatter on.</li></ul></ul>"
+    },
+    {
+      "id": "Viridian",
+      "shaper": "Viridian",
+      "data": "<ul><li><b>Deep Rising (R)</b></li><ul><li> Fixed a bug where this ability would incorrectly knock the target to the side instead of impaling them if the target was too close to Viridian when this ability was casted.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Items</h3>"
+    },
+    {
+      "id": "Will",
+      "itemp": "Will",
+      "class": "Basic",
+      "data": "<ul><li>The passive on this item now calculates the damage reduction post mitigation instead of pre-mitigation.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Gameplay</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Parasite</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>The rewards for killing Parasite have been changed to be more consistent with his evolutions. It will now provide an additional reward per evolution as follows:</b></li><ul><li> Evolution 1: Global team Vim.</li><li> Evolution 2: Global team Vim + Global team Buff.</li><li> Evolution 3: Global team Vim + Global team Buff + Striders for 4 minutes.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h2>General</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Casting Mode</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Smart Camera</h5>"
+    },
+    {
+      "id": "general",
+      "data": "The smart camera will no longer consider jumping to a new part of the map immediately upon a Shaper's death."
+    },
+    {
+      "id": "general",
+      "data": "<h5>Announcer Packs</h5>"
+    },
+    {
+      "id": "general",
+      "data": "Players may now select Announcer Packs during the Shaper Select process as a spectator."
+    },
+    {
+      "id": "general",
+      "data": "<h3>Launcher</h3>"
+    },
+    {
+      "id": "general",
+      "data": "The Launcher will now display a message and a countdown before it restarts itself."
+    },
+    {
+      "id": "general",
+      "data": "<h3>Matchmaking</h3>"
+    },
+    {
+      "id": "general",
+      "data": "Brand new players will be matched as if they had a lower matchmaking rating for their first few games"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Animations/Effects</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li><b>Dibs</b></li><ul><li> Dibs now has an updated basic attack animation.</li><li> Dibs now has unique animations for his basic attack, Nightmare (Q), Dreamwrap (W) and Ripple (E) while he has Reverie (R) activated.</li></ul><li><b>Fenmore</b></li><ul><li> Fenmore now has an updated basic attack animation.</li></ul><li><b>Kel</b></li><ul><li> Kel now has an updated basic attack animation.</li></ul><li><b>Moya</b></li><ul><li> Moya now has an updated basic attack animation.</li></ul><li><b>Magic Resistance Shred</b></li><ul><li> This status now has a new particle effect.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Bugs</h3>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>The Collection</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Fixed a display error on the Announcer pack, Spiritstone and Spark purchases on some resolutions.</li><li>Clarified the description of Voluc's Damnation (R) in the Collection.</li><li>Fixed some categorization errors for Flin's Announcer pack.</li><li>Clarified the description of Kindra's Night Strike (Q) ability in the Collection.</li><li>Fixed an inconsistency in Flin's Finest Hour (R) ability tooltips between the Collection and in-game.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Game Mode</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Fixed a bug where Spirit Well Workers' were incorrectly displaying as having zero attack damage in the target panel instead of the correct value.</li><li>Fixed a bug where basic attacking an enemy Shaper right before they leave your vision range could cause your Shaper to animate running in place.</li><li>Fixed a bug where players were not earning experience from getting kills while dead.</li><li>Fixed a bug where the minimap indicator on neutral creep camps would not update to show the camp as cleared if you killed the creeps without vision of the camp.</li><li>Fixed a bug where the Announcer would not announce on some Parasite kills.</li><li>Patches of grass should no longer contrast so sharply with the rest of the map.</li><li>Improved performance of the game when viewing a canyon.</li><li>The parasite can no longer be displaced by Petrus' Maridian Education (R).</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Shapers</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Fixed a bug which caused Kahgen's hook to glow brightly.</li><li>Fixed a bug causing Moya's Celerity (Passive) to give her an incorrect amount of attack speed.</li><li>Fixed a bug causing Cerulean's Ritual Bulwark (W) to last slightly too long.</li><li>The debuff applied by Kensu's Haunt (Q) is now properly color coded.</li><li>Fixed text errors in Tess' Mount Up (W) ability buff tooltip.</li><li>Clarified the description of Viyana's Pulse (Passive) ability.</li><li>Fixed a bug where Flin would refer to Sgt. Mandrake as Sgt. Buttersworth in his VO while remounting.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Game Client</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Fixed a bug preventing some users from joining public chat rooms.</li><li>Fixed an issue causing decreased performance on the Options screen.</li><li>Fixed a bug causing a matchmaking timeout penalty to be given to users who disconnected during the Accept/Decline phase of game creation.</li><li>The Balance Teams button no longer remains highlighted after it has been clicked.</li><li>Invites to games will now always display the inviting user's name.</li><li>Previously invited users will no longer display as pending in the invite players list if the host creates a new lobby.</li></ul>"
+    }
+  ]
+}

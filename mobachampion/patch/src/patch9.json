@@ -1,0 +1,39 @@
+{
+    "name": "Closed Beta: Patch 9",
+    "date" : "August 15, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>Nothing large this week! Just a small nerf to Raina and some item tuning! Enjoy the beta this weekend, folks!</p>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+        },
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li>Base discipline resource increased to 25 discipline regenerated per 5 seconds, up from 15 discipline regenerated per 5 seconds.</li><li>The cooldown on the heal component of Raina's passive has been increased to 4 seconds, up from 3 seconds.</li><li><B>Bastion of the North (W)</B></li><ul><li>The amount of Discipline drained per second by this ability, while active, has been increased to 12.5 Discipline per second, up from 6.6 Discipline per second.</li></ul></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h4>Items</h4>"
+        },
+		{
+			"id" : "Fate",
+			"item" : "Fate",
+			"class" : "Legendary",
+			"data" : "<ul><li>The range at which the projectiles will bounce to other targets has been reduced to 375, down from 450.</li></ul>"
+		},
+		{
+			"id" : "Insight",
+			"item" : "Insight",
+			"class" : "Legendary",
+			"data" : "<ul><li>The cost of this item has been increased to 2850, up from 2830.</li><li>The amount of Haste this item gives has been reduced to 50, down from 65.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3><h4>General</h4><ul><li>Fixed several user reported crashes.</li></ul>"
+        }
+	]
+}

@@ -1,0 +1,189 @@
+{
+    "name": "Closed Beta: Patch 30",
+    "date" : "May 27th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><img src=\"http://www.moba-champion.com/shapers/viridian/Viridian720.jpg\"><h4>Kensu, the Mistwalker</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<p>Kensu is a ranged, physical damage Carry who combines powerful engage tools and flexibility in teamfights. Kensu is best suited for the Gladiator role, though he can also be a successful Tactician - Kensu's unique basic attack style allows him to last hit easily but also trade powerfully with enemy laners. Kensu's core kit revolves around his ability to stay flexible in duels and small skirmishes. Knowing which stance to use can easily mean the difference between a kill or a death. Kensu's late game teamfight power is incomparable - his ultimate allows teamfights to take place on his team's terms and often when the enemy least expects it.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<B>Passive - Pure Shaper - Quick Release -</b> Kensu may cast his abilities freely. Kensu nocks up to 2 arrows and may fire them in quick succession with his basic attack.<BR><BR><B>Q - Haunt - </B>Kensu switches between Malice and Despair arrows. Malice arrows deal bonus magical damage, while Despair arrows slow targets.<BR><BR><B>W - Thrill of the Hunt - </B>Passive: Kensu's basic attacks reduce the target's armor. Active: After stacking Thrill of the Hunt's armor shred, Kensu may dash within a limited area around the target.<BR><BR><B>E - Kill Shot - </B>Kensu fires an arrow in target direction, dealing physical damage to the first target hit. Malice: More damage to low-health targets. Despair: Damages and slows additional nearby targets.<BR><BR><B>R - Voidbreaker - </B>Kensu projects a ghastly force in target direction, damaging and fearing the first Shaper hit while carving a path through impassable terrain."
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shapers</h5>"
+		},
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<p>Amarynth's spirit regeneration now scales with Haste at a rate of 1% increased regeneration per 1% cooldown reduction granted by Haste.</p>"
+		},
+		{
+			"id" : "Ashabel",
+			"shaper" : "Ashabel",
+			"data" : "<ul><li><B>Gale (Q)</B></li><ul><li>The cooldown of this ability has been changed to 3 seconds at all ranks.</li><li>The cooldown reduction upon hitting an enemy has been removed from this ability.</li><li>The hitbox radius of this ability has been reduced to 120, down from 125.</li></ul><li><B>Unleash - Storm Stance (E)</B></li><ul><li>The cooldown of this ability has been reduced to 10/9/8/7/6 seconds, down from 12/11/10/9/8.</li><li>The base damage of this ability has been increased to 60/105/150/195/240, up from 60/100/140/180/220.</li></ul><li><B>Wrath of Heaven (R)</B></li><ul><li>The cooldown of this ability has been reduced to 100/90/80 seconds, down from 110/100/90.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><B>Forgotten Tombs (Q)</B></li><ul><li>Updated the hit box on this ability to more accurately reflect the animation.</li></ul></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li><B>Night Strike (Q)</B></li><ul><li>The power ratio of this ability has been reduced to 0.5, down from 0.6.</li></ul><li><B>Duskmantle (W)</B></li><ul><li>The power ratio of this ability has been reduced to 0.3, down from 0.35.</li></ul><li><B>Nox Aeterna (R)</B></li><ul><li>This ability has been redesigned. It now does the following:</li><ul><li>Multi-Cast: Kindra dashes to target enemy shaper, dealing 95/160/225 (+0.5) magical damage to nearby enemies upon arriving. After dashing, Kindra wraps herself in shadows, reducing all incoming damage by 10% for 2 seconds for each shaper hit. Nox Aeterna may be cast again within 5 seconds of the previous cast, up to a total of 3 times.</li></ul></ul></ul>"
+		},
+		{
+			"id" : "Mina",
+			"shaper" : "Mina",
+			"data" : "<ul><li><B>Siphon Soul (E)</B></li><ul><li>The casting range of this ability has been reduced to 600, down from 650.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li><B>Branching Blade (Q)</B></li><ul><li>The cooldown of this ability has been increased to 10/9/8/7/6 seconds, up from 9/8/7/6/5.</li></ul><li><B>Final Flight (R)</B></li><ul><li>The power ratio of this ability has been reduced to 0.65, down from 0.7.</li></ul></ul>"
+		},
+		{
+			"id" : "Renzo",
+			"shaper" : "Renzo",
+			"data" : "<ul><li><B>Renzo's Embrace (W)</B></li><ul><li>The cooldown of this ability has been decreased to 11/10/9/8/7 seconds, down from 13/12/11/10/9.</li></ul><li><B>Kinetic Sculpture (E)</B></li><ul><li>The cooldown of this ability has been decreased to 13/12/11/10/9, down from 14/13/12/11/10.</li></ul></ul>"
+		},
+		{
+			"id" : "Salous",
+			"shaper" : "Salous",
+			"data" : "<ul><li><B>Spirit Seals (W)</B></li><ul><li>The base damage per orb on this ability has been reduced to 30/45/60/75/90, down from 35/50/65/80/95.</li></ul><li><B>Absolution (R)</B></li><ul><li>The base damage on this ability has been adjusted to 150/225/300, from 150/250/350.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Mortal Strike</h5><p>This effect now reduces incoming shielding by 50% - the same percentage as healing.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Map</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Bindings</h5><p>Bindings will now wait to fire at a target until they have been inside the binding's attack range for at least 0.25 seconds (bindings will still acquire targets instantaneously).</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Spiritstones</h3>"
+		},
+		{
+			"id" : "Spiritstone of the Brawler",
+			"stone" : "Spiritstone of the Brawler",
+			"data" : "<h5>Brawler</h5><p>Bonus Armor and Magic Resist for each nearby enemy Shaper has been reduced to 3-6, down from 3-7.</p>"
+		},
+		{
+			"id" : "Spiritstone of the Hoplite",
+			"stone" : "Spiritstone of the Hoplite",
+			"data" : "<h5>Hoplite</h5><p>Bonus Power has been reduced to 10% of Armor, down from 12%.</p>"
+		},
+		{
+			"id" : "Spiritstone of the Rogue",
+			"stone" : "Spiritstone of the Rogue",
+			"data" : "<h5>Rogue</h5><p>Recharge time on the passive has been reduced to 0 seconds, down from 5.<BR>Base damage on the passive has been reduced to 12 -75, down from 30-100.<BR>Power ratio on the passive has been reduced to 0.1, down from 0.15.<BR>The passive no longer triggers from Fate's projectile damage.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Bug Fixes</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Items</h5>"
+		},
+		{
+			"id" : "Discipline",
+			"itemp" : "Discipline",
+			"class" : "Advanced",
+			"data" : "Fixed a bug where the power reduction component of this item's passive was applying to structures."
+		},
+		{
+			"id" : "Equilibrium",
+			"itemp" : "Equilibrium",
+			"class" : "Legendary",
+			"data" : "Fixed a bug where the attack speed reduction component of this item's passive was applying to structures."
+		},
+		{
+			"id" : "Harmony",
+			"itemp" : "Harmony",
+			"class" : "Legendary",
+			"data" : "Fixed a bug where this item was reducing cooldowns by double the intended value for abilities that did not have an alternate form (All abilities other than Faris' Access Memory and Ashabel's Unleash)."
+		},
+		{
+			"id" : "Pestilence",
+			"itemp" : "Pestilence",
+			"class" : "Legendary",
+			"data" : "Fixed a bug where having two Pestilence buffs applied to the same target would result in the buff being lost when one of the owners of Pestilence left the buff radius."
+		},
+		{
+			"id" : "Zeal",
+			"itemp" : "Zeal",
+			"class" : "Legendary",
+			"data" : "Fixed a bug where this item was reducing cooldowns by double the intended value for abilities that did not have an alternate form (All abilities other than Faris' Access Memory and Ashabel's Unleash)."
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Map</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Bindings</h5><p>Fixed a bug where players would not receive audio feedback when targeted by Bindings.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Guardian</h5><p>Fixed a variety of tooltip and death recap bugs regarding the Guardian's abilities.<br>Fixed a bug where the Guardian's basic attack and Fissure warning effects would always appear red, even when cast by your own Guardian.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Jungle</h5><p>Fixed a few bugs which resulted in the jungle creatures unintentionally entering their evade behavior.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Shapers</h3>"
+		},
+		{
+			"id" : "Viyana",
+			"shaper" : "Viyana",
+			"data" : "<ul><li><B>Needle (Q)</B></li><ul><li>Fixed a bug where this Shaper could outrange her own heal.</li></ul><li><B>Pure Blood (W)</B></li><ul><li>Fixed a bug where the tooltip for this ability was displaying the incorrect value for the base healing values.</li></ul></ul>"
+		},
+		{
+			"id" : "Renzo",
+			"shaper" : "Renzo",
+			"data" : "<ul><li><B>Kinetic Sculpture (E)</B></li><ul><li>Fixed a bug where this ability's effects would disappear midflight if cast at max range or if the target moves away from Renzo.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Custom Games</h5><p>Removed skill level as a setting.<BR>Players may now use a password to protect their custom games.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Friends/Recently Played List</h5><p>Improvements have been made to better reflect the online/offline status of players.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Matchmaking</h5><p>Adjusted the rating boost that gets applied for players group queued with other players to be more accurate.<BR>Decreased likelihood of new players being matched with veteran players.<BR>Adjusted matchmaking to find more accurate matches for queue times of under 10 minutes.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shaper Select</h5><p>Shaper selection will now by default select the most recently used skin for the shaper you have selected.<BR>Shaper selection will now by default select the announcer pack that was selected in your previous game.<BR>Shaper selection will now by default select the ward skin that was selected in your previous match.</p>"
+		}
+	]
+}

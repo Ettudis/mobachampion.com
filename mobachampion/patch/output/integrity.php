@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Armor increased to 60, up from 40.Price increased to 1260, up from 1000.</li></ul>

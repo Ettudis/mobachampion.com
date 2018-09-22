@@ -1,0 +1,89 @@
+{
+    "name": "Closed Beta: Patch 23",
+    "date" : "Jan 21, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>Balance, Tuning and Bug Fixes</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Shapers</h4>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Bolt (Q)</B></li><ul><li>This ability no longer allows Moya to go through walls and will now cause her to slide along them if attempting to go through a wall.</li></ul><li><B>Shock (W)</B></li><ul><li>The Basic Attack Damage bonus granted by activating this ability has been changed to 15/20/25/30/35, from 10/18/26/34/42.</li></ul><li><B>Recharge (E)</B></li><ul><li>The Basic Attack Damage bonus granted by activating this ability has been changed to 15/20/25/30/35, from 10/18/26/34/42.</li><li>The damage boost when using Bolt (Q) while using this ability has been reduced to 35/50/65/80/95, down from 35/55/75/95/115.</li><li>The damage boost power ratio when using Bolt (Q) while this ability is active has been reduced to 0.3, down from 0.35.</li></ul><li><B>Landfall (R)</B></li><ul><li>The base damage of this ability has been reduced to 200/300/400, down from 250/350/450.</li></ul></ul>"
+		},
+		{
+			"id" : "Vex",
+			"shaper" : "Vex",
+			"data" : "<ul><li><B>Jagged Volley (E)</B></li><ul><li>The slow applied by this ability has been increased to 30/35/40/45/50%, up from 20/25/30/35/40%.</li></ul><li><B>Splintering Spines (R)</B></li><ul><li>This ability now grants Vex 20% increased basic attack range for the duration of the ability.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Loadouts</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Spiritstones</h4>"
+		},
+		{
+			"id" : "Spiritstone of the Outrider",
+			"stone" : "Spiritstone of the Outrider",
+			"data" : "<ul><li><b>Spiritstone of the Outrider</b></li><ul><li>The movespeed buff granted by this Spiritstone will now deactivate when upon entering combat, rather than only upon the user dealing damage.</li></ul></ul>"
+		},
+		{
+			"id" : "Spiritstone of the Ravager",
+			"stone" : "Spiritstone of the Ravager",
+			"data" : "<ul><li><b>Spiritstone of the Ravager</b></li><ul><li>The Bonus Power granted by this Spiristone while in combat has been reduced to 7 to 26 (based on level), down from 8 to 29.</li></ul><ul><li>The passive ability of this Spiritstone now only stacks while dealing damage has opposed to dealing and receiving damage.</li></ul><ul><li>The time it takes for this passive ability to deactivate has been reduced to 3 seconds, down from 5.</li></ul></ul>"
+		},
+		{
+			"id" : "Spiritstone of the Reaper",
+			"stone" : "Spiritstone of the Reaper",
+			"data" : "<ul><li><b>Spiritstone of the Reaper</b></li><ul><li>The Power bonus awarded by this Spiritstone after scoring a kill or assist has been increased to 30, up from 25.</li></ul></ul>"
+		},
+		{
+			"id" : "Red Spiritstone of Armor Growth",
+			"stone" : "Red Spiritstone of Armor Growth",
+			"data" : "<ul><li><b>Red Spiritstone of Armor Growth</b></li><ul><li>The Armor granted by this Spiritstone has been reduced to 6.6%, down from 11%.</li></ul></ul>"
+		},
+		{
+			"id" : "Red Spiritstone of Resist Growth",
+			"stone" : "Red Spiritstone of Resist Growth",
+			"data" : "<ul><li><b>Red Spiritstone of Resist Growth</b></li><ul><li>The Magic Resistance granted by this Spiritstone has been reduced to 6.6%, down from 11%.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Sparks</h4>"
+		},
+		{
+			"id" : "Red Spark of Armor",
+			"spark" : "Red Spark of Armor",
+			"data" : "<ul><li><b>Red Spark of Armor</b></li><ul><li>The Armor granted by this Spark has been increased to 1, up from 0.7.</li></ul></ul>"
+		},
+		{
+			"id" : "Red Spark of Armor Growth",
+			"spark" : "Red Spark of Armor Growth",
+			"data" : "<ul><li><b>Red Spark of Armor Growth</b></li><ul><li>The Armor granted by this Spark has been reduced to 0.7%, down from 1.2%.</li></ul></ul>"
+		},
+		{
+			"id" : "Red Spark of Magic Resist",
+			"spark" : "Red Spark of Magic Resist",
+			"data" : "<ul><li><b>Red Spark of Magic Resist</b></li><ul><li>The Magic Resist granted by this Spark has been increased to 1, up from 0.7.</li></ul></ul>"
+		},
+		{
+			"id" : "Red Spark of Magic Resistance Growth",
+			"spark" : "Red Spark of Magic Resistance Growth",
+			"data" : "<ul><li><b>Red Spark of Magic Resistance Growth</b></li><ul><li>The Magic Resistance granted by this Spark has been reduced to 0.7%, down from 1.2%.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Fixes / Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>All Shapers will now cost 800 Destiny, up from 240.</li><li>Spiritstones and Sparks have had their prices adjusted.</li><li>End of game Destiny awards have been adjusted.</li><li>The Blessing drop rates have been tuned slightly.</li></ul>"
+		}
+	]
+}

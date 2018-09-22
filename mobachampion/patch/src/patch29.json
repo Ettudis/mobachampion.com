@@ -1,0 +1,162 @@
+{
+    "name": "Closed Beta: Patch 29",
+    "date" : "May 5th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><img src=\"http://cms-media.s3.amazonaws.com/wp-content/uploads/2014/05/Mina720.png\"><h5>Mina, the Tyrant</h5>"
+		},
+		{
+			"id" : "general",
+			"data" : "Mina is a ranged, magical damage Support who dominates teamfights with a combination of mobility, crowd control, and powerful debuffs or buffs. Mina is suited best for the Tactician role, supporting her lane partner in several different ways. Mina's unique ability to become untargetable while simultaneously traveling great distances, protecting an ally and crowd controlling enemies is the core of her kit - mastering the use of this ability is critical to playing Mina effectively. Mina excels when paired with several different kinds of Shapers, but requires her play to be adapted to their style - some Shaper partners lend to big plays and aggression, while others prefer to be protected and play it safe. Mina's primary early game strength is being aggressive when the situation calls for it - many of her most powerful effects are increased significantly if Mina or her team gets an edge up on the enemy team, so securing the early game is key to victory. <BR><BR><B>Passive - Pure Shaper</b> - Master/Servant - Mina may cast her abilities freely. Mina forms a bond with the first ally Shaper that remains near her for a short time, increasing both their movespeeds as long as they remain close.<BR><BR><B>Q - Spite</b> - Mina fires a ghostly projectile in target direction, dealing magical damage to the first target hit. If the target was a Shaper, Mina or her Host gains a buff - differing depending on Mina or her Host's archetype. <BR><ul><li>Carry, Mage, Assassin: Deals bonus damage to the next Shaper they damage.</li><li>Support, Bruiser, Tank: Deals bonus damage and slows the next Shaper they damage.</li></ul><B>W - Key to the Heart</B> - Mina becomes untargetable and jumps into ally Shaper, shielding them. Mina continues to shield them as long as she remains within them. While Mina remains within the ally Shaper she will share a percentage of the damage that her Host takes. Mina may reactivate Key to the Heart to jump to target location, shielding herself before damaging and fearing nearby enemies.<BR><BR><B>E - Siphon Soul</B> - Mina instantly deals magical damage to target enemy, sharding off a piece of their soul to grant Mina or her Host damage reduction for a short time.<BR><BR><B>R - Sever Ties</B> - Mina deals magical damage to all enemy Shapers in an area and separates them from their souls for a short time. During this period, all affected Shapers take % increased damage from Mina's team - doubled for Mina or her Host."
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Shapers</h5>"
+		},
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li>Amarynth's visual and sound effects on her abilities have been updated.</li></ul>"
+		},
+		{
+			"id" : "Cerulean",
+			"shaper" : "Cerulean",
+			"data" : "<ul><li><b>Impale (E)</b></li><ul><li>The base damage of this ability has been reduced to 70/115/160/205/250, down from 80/125/170/215/260.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><B>Forgotten Tombs (Q)</B></li><ul><li>The cooldown of this ability has been reduced to 12/11.5/11/10.5/10, down from 13/12.5/12/11.5/11.</li><li>Fixed a bug which was allowing enemy Shapers to walk through this ability without being knocked up or damaged.</li></ul></ul>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li><b>Dreamwrap (W)</b></li><ul><li>The cooldown of this ability has been reduced to 12/11/10/9/8 seconds, down from 12 at all ranks.</li><li>The percentage movement speed increase granted by this ability has been increased to 30%, up from 25%.</li><li>The shield strength of this ability has been increased to 35/50/65/80/95 per cast, up from 25/40/55/70/85.</li></ul><li><B>Ripple (E)</B></li><ul><li>The cooldown of this ability has been reduced to 13/12/11/10/9, down from 15/14/13/12/11.</li></ul></ul>"
+		},
+		{
+			"id" : "Faris",
+			"shaper" : "Faris",
+			"data" : "<ul><li><b>Reconfigure (Q)</b></li><ul><li>Melee form base bonus damage based on the missing Health of the target has been reduced to 8%, down from 10%.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><B>Blinding Speed (W)</B></li><ul><li>The cooldown of this ability has been reduced to 9/8/7/6/5 seconds, down from 10/9/8/7/6.</li><li>The movement speed granted by reactivating this ability has been increased to 60%, up from 40%.</li><li>The bonus movement speed duration granted by reactivating this ability has been increased to 3 seconds, up from 2.</li></ul></ul>"
+		},
+		{
+			"id" : "King of Masks",
+			"shaper" : "King of Masks",
+			"data" : "<ul><li><B>Captivate (Q)</B></li><ul><li>Fixed a bug where the tooltip of this ability was showing incorrect damage values.</li><li>Base damage now correctly display 35/55/75/95/115, fixed from displaying as 30/45/60/75/90.</li><li>Power ratio now correctly displays as 0.35, fixed from displaying as 0.25.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Sentinel Strike (Q)</B></li><ul><li>The damage of this ability has been reduced to 50/85/120/155/190, down from 60/95/130/165/200.</li></ul><li><b>Curse of Weakness (W)</b></li><ul><li>The initial base damage of this ability has been reduced to 35/65/95/125/155, down from 40/70/100/130/160.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Loadouts</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Spiritstones</h5>"
+		},
+		{
+			"id" : "Blue Spiritstone of Stamina",
+			"stone" : "Blue Spiritstone of Stamina",
+			"data" : "<ul><li><b>Blue Spiritstone of Stamina</b></li><ul><li>The Health gained from this Spiritstone has been reduced to 12.4, down from 14.3.</li><li>The Health Regeneration per 5 seconds grained from this Spiritstone has been reduced to 1.6, down from 1.9.</li></ul></ul>"
+		},
+		{
+			"id" : "Green Spiritstone of Stamina",
+			"stone" : "Green Spiritstone of Stamina",
+			"data" : "<ul><li><b>Green Spiritstone of Stamina</b></li><ul><li>The Health gained from this Spiritstone has been reduced to 12.4, down from 14.3.</li><li>The Health Regeneration per 5 seconds grained from this Spiritstone has been reduced to 1.6, down from 1.9.</li></ul></ul>"
+		},
+		{
+			"id" : "Red Spiritstone of Stamina",
+			"stone" : "Red Spiritstone of Stamina",
+			"data" : "<ul><li><b>Red Spiritstone of Stamina</b></li><ul><li>The Health gained from this Spiritstone has been reduced to 11, down from 12.4.</li><li>The Health Regeneration per 5 seconds grained from this Spiritstone has been reduced to 1.4, down from 1.6.</li></ul></ul>"
+		},
+		{
+			"id" : "Spiritstone of the Duelist",
+			"stone" : "Spiritstone of the Duelist",
+			"data" : "<ul><li><b>Spiritstone of the Duelist</b></li><ul><li>Fixed a bug where the bonus magic damage applied from basic attacks would apply a stack of Duelist.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>The Guardian</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>The Guardian</h5><ul><li>The time until the Guardian's basic attack hits the ground has been increased by 0.2 seconds.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Guardian Cores</h5><ul><li>The time it takes for a Core to respawn has been increased to 8 minutes, up from 6.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Bindings</h5>"
+		},
+		{
+			"id" : "general",
+			"data" : "<i>Developer Note: It's our goal that Bindings feel safe to retreat to and fight underneath for players on the defensive. With their current tuning, it was a little too safe for enemy players to engage in fights underneath them and escape relatively unharmed. These changes are aimed at making the territory underneath Bindings feel safer while also still permitting the gameplay of being able to attack players being protected by them.</i>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Bindings will now immediately acquire targets instead of waiting for 0.5 seconds before attacking.</li><li>The base cooldown of the Binding's basic attack has been reduced to 1.5 seconds, down from 1.6.</li><li>All bindings now gain 4 damage every minute, starting after 4 minutes into the game.</li><li>Middle Bindings have had their base damage reduced to 200, down from 207.</li><li>Inner Bindings have had their base damage increased to 250, up from 223.</li><li>All Bindings now gain +25/50/75/100 Power per consecutive hit against enemy Shapers, down from +40/65/90/115/140.</li><li>The bonus Power gained per consecutive hit will now increase by 1 Power every minute starting after 4 minutes into the game.</li><li>Binding bonus damage per consecutive hit now only increments when firing against enemy Shapers.</li><li>Binding bonus damage per consecutive hit will no longer reset when the Binding switches target, it is now only reset when the Binding has no available Shapers left to fire upon.</li><li>All Bindings now gain +12.5/25/37.5/50 Haste per consecutive hit against enemy Shapers.</li><li>The basic attack of all Bindings now have a 1.0 Haste ratio.</li><li>Bindings now deal percent health damage to lane minions to build a more consistent last hit experience at all stages of the game.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Jungle</h5><ul><li>Jungle creatures will now attack targets that deal damage to them regardless of line of sight or distance.</li><li>If a Jungle Creature reaches the edge of its tether range it will now Evade, becoming untargetable until it has returned to the center of its camp, at which point it will begin to rapidly regenerate its health.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Front-End Client</h5><ul><li>The Front-End Client has undergone a visual overhaul. This is the first of many steps to updating the UI to be consistent throughout the game.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Map</h5><ul><li>There is now shop Archon at the locus that, upon clicking, will open the in-game item shop. Visual effects have also been added to signify purchasing an item.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Custom Games</h5><ul><li>A \"Balance Teams\" button has been added to the custom game lobby that will automatically rearrange players based on their hidden matchmaking ratings.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Bug Fixes</h3>"
+		},
+		{
+			"id" : "Faris",
+			"shaper" : "Faris",
+			"data" : "<ul><li><B>Reconfigure (Q)</B></li><ul><li>Fixed a bug where the melee form bonus damage based on missing Health was gaining no benefit from Power.</li></ul><li><B>Final Protocol (R)</B></li><ul><li>Fixed a bug where this ability was getting less bonus damage per point of Power than intended.</li><li>Fixed a bug where Shapers wouldn't be able to gain or drop targeting stacks in certain circumstances.</li></ul></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li><B>Sheep Toss (Q)</B></li><ul><li>Fixed a visual beg where Kel's Sheep would not appear properly if an enemy Kel used this ability from out of vision.</li></ul></ul>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li><B>Final Payment (R)</B></li><ul><li>Fixed a visual bug where this ability was invisible if Mikella was offscreen.</li></ul></ul>"
+		},
+		{
+			"id" : "Viyana",
+			"shaper" : "Viyana",
+			"data" : "<ul><li><B>Exsanguinate (R)</B></li><ul><li>Fixed a bug where the target would become immune to knockbacks during the duration of this ability.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>Fixed a bug where Shapers were receiving slightly less movement speed than intended between the values of 415 to 490.</li><li>Fixed an issue where Ward cooldowns were being affected by cooldown reduction via Loadouts.</li><li>Fixed a visual bug where pinging enemy Shapers would cause the Ping effect to artifact.</li></ul>"
+		}
+	]
+}

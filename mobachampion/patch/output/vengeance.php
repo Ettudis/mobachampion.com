@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 32 (July 9th, 2014)</h4><ul><li>The Health on this item has been increased to 350, up from 300.</li><li>The price of this item has been increased to 3000, up from 2575.</li></ul><h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Added to the game.</li></ul>

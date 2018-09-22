@@ -1,0 +1,74 @@
+{
+    "name": "Closed Beta: Patch 2",
+    "date" : "June 13, 2013",
+    "patch": [
+        {
+            "id" : "general",
+            "data" : "<p>Greetings Friends!<BR><BR>We have arrived at our second patch in the Dawngate Closed Beta and with it come some features to improve the quality of life of our players. Introduced in this patch is a full Death Recap, an option to surrender and a whole slew of new emotes for each Shaper! Be sure to read the full details of the patch down below. Enjoy!</p><img src=\"http://i.imgur.com/RCpREk6.png\">"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4>"
+        },
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><B>Wrath (R)</B></li><ul><li>Updated the visual effects of this ability to improve its readability.</li></ul><li>Fixed a bug with Freia's death voice over where it was being broadcast globally.</li></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li>Updated visuals on Moya's Eel.</li><li><B>Wrath (R)</B></li><ul><li>Fixed an issue where Moya's abilities were not properly displaying lighting effects when activated.</li></ul></ul>"
+		},
+		{
+			"id" : "Varion",
+			"shaper" : "Varion",
+			"data" : "<ul><li>Updated Varion's attack animation to make it feel more responsive.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>Map</h3><ul><li>Fixed lighting issues on the map which were causing confusion while under the Fog of War effect.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h3>Spells</h3><i>Developer Note - With Exceed, we wanted to provide an aggressive spell option for players that want to capitalize on brief windows of enemy vulnerability. Exceed has far less utility than the other spells, but in return offers unrivaled firepower, making it a great tool for high-risk, high-reward strategies.</i>"
+        },
+		{
+			"id" : "Exceed",
+			"spell" : "Exceed",
+			"data" : "<ul><li>(New Spell) - For 5 seconds you gain 30 Power plus an additional 25% of your total Power as bonus Power. This Spell is on a 90 second cooldown.</li></ul>"
+		},
+        {
+            "id" : "general",
+            "data" : "<h3>General Fixes / Updates</h3>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Surrender</h4>Players may now call for a surrender vote under the following conditions:<ul><li>Once the game has reached the 20 minute mark.</li><li>When one player has been disconnected for 5 or more minutes in total.</li><li>A 20 kill lead has been achieved by one team.</li><li>A 15,000 Vim lead has been achieved by one team.</li><li>Players can vote to surrender by using the following commands: /forfeit, /surrender, /ff</li><li>In order for the surrender vote to succeed there has to be an approval of more than 66% in favor of the surrender.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Audio / VO</h4><ul><li>Unique emotes added for all shapers. Commands include: /care, /push, /charge, /comp, /compliment, /flirt, /joke, /laugh, /no, /sorry, /taunt, /thankyou, /thank, /ty, /yes.</li><li>New music representing Victory or Defeat will now play upon game's end.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Key Bindings</h4><ul><li>Middle mouse button, mouse button 4 and mouse button 5 are all now bindable.</li><li>Players may now change the bindings of \"Show Previous Chat\" (Default Z) and \"Chat to Game\" (Default Shift+Enter).</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Item Shop</h4><ul><li>Right Clicking or Double Clicking a Recommended Item will now attempt to purchase that item.</li><li>Items will now become highlighted when clicked directly in the shop.</li><li>The Recommended Items dropdown menu will no longer display empty entries.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Reconnect</h4><ul><li>Players are no longer able to join/create other games while their current game is still in progress.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Death Recap</h4><i>Developer Note - We have added Death Recap into the game to allow players to make more informed decisions when planning strategies or selecting their item builds.</i><ul><li>When a player dies, they will now be able to pull up a death recap that will present them with a chart detailing the types of damage that contributed to their death.</li></ul>"
+        },
+        {
+            "id" : "general",
+            "data" : "<h4>Gameplay</h4><ul><li>When creating a game the creator must now select a skill level (Novice, Intermediate, Veteran or Pro) that will be displayed to all players when searching for a game. This will allow players to find a game appropriate to their skill level.</li><li>Adjusted messaging players would receive when attempting to use the Item Shop or Spell Book retraining when out of range of the Locus.</li><li>Fixed an issue where the purchase text would flicker when attempting to purchase an item when out of range of the Locus.</li><li>Fixed an issue where Shapers improperly able to Blink while rooted.</li><li>Fixed an issue where some visual effects would persist through the Fog of War.</li><li>Fixed a bug where the Binding respawn effects and animations were becoming stuck if the Binding was destroyed as it respawned.</li><li>Fixed a bug that was causing some player's \"Ultimate Ready\" icon was being displayed when a player had not learned their ultimate ability yet.</li><li>Fixed an issue where scrolling the minimap with your mouse would, on occasion, cause the minimap to no longer properly function.</li>"
+        }		
+    ]
+}

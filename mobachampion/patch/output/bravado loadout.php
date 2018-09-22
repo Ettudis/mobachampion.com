@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 11 (August 29, 2013)</h4><ul><li>(New Loadout) +112 Health<BR>Passive - Bravado: You take 5% less damage for 2 seconds after damaging an enemy Shaper. Items and spells will not trigger Bravado.</li></ul>

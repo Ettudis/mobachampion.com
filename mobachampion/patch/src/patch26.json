@@ -1,0 +1,794 @@
+{
+    "name": "Closed Beta: Patch 26",
+    "date" : "Feb 24, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<p><img src=\"http://cms-media.s3.amazonaws.com/wp-content/uploads/2014/02/Patch-26-1024x577.png\"></img></p><p><i>Developer Note: Almost every item in Dawngate has changed in some way, below will be a list of each item sorted by the tree it belongs to.</i></p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Items</h3><h4>Health Tree</h4>"
+		},
+		{
+			"id" : "Life",
+			"itemp" : "Life",
+			"class" : "Basic",
+			"data" : "<ul><li>The Consume I passive is now stackable.</li></ul>"
+		},
+		{
+			"id" : "Vigor",
+			"itemp" : "Vigor",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Consume III passive is now stackable.</li><li>The Health to Power conversion ratio on the Juggernaut passive ability has been reduced to 1% of max Health, down from 1.5%.</li><li>Price reduced to 2445, down from 2450.</li></ul>"
+		},
+		{
+			"id" : "Defiance",
+			"itemp" : "Defiance",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Prosperity",
+			"itemp" : "Prosperity",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Pride",
+			"itemp" : "Pride",
+			"class" : "Advanced",
+			"data" : "<ul><li>Blazing Aura I passive ability has been removed.</li><li>New Passive: Stackable Passive - Blaze: Your basic attacks set the target ablaze, causing them to take 30 magical damage over 3 seconds, stacking up to 3 times.</li><li>Price reduced to 1590, down from 1730.</li><li>Now additionally builds into the new Legendary item: Vengeance.</li></ul>"
+		},
+		{
+			"id" : "Glory",
+			"itemp" : "Glory",
+			"class" : "Legendary",
+			"data" : "<ul><li>Blazing Aura I passive ability has been removed.</li><li>New Passive: Stackable Passive - Blaze: Your basic attacks set the target ablaze, causing them to take 30 magical damage over 3 seconds, stacking up to 3 times.</li><li>Price reduced to 1590, down from 1730.</li><li>Now additionally builds into the new Legendary item: Vengeance.</li></ul>"
+		},
+		{
+			"id" : "Vengeance",
+			"itemp" : "Vengeance",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Fortitude",
+			"item" : "Fortitude",
+			"class" : "Advanced",
+			"data" : "<ul><li>Removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Harmony",
+			"itemp" : "Harmony",
+			"class" : "Advanced",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Devotion",
+			"itemp" : "Devotion",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Pestilence",
+			"itemp" : "Pestilence",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Unity",
+			"item" : "Unity",
+			"class" : "Legendary",
+			"data" : "<ul><li>Removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Stamina",
+			"item" : "Stamina",
+			"class" : "Legendary",
+			"data" : "<ul><li>Removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Protection",
+			"item" : "Protection",
+			"class" : "Legendary",
+			"data" : "<ul><li>Removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Growth",
+			"itemp" : "Growth",
+			"class" : "Advanced",
+			"data" : "<ul><li>Now additionally builds into the new Legendary item: Vibrance.</li><li>Price increased to 1495, up from 1440.</li></ul>"
+		},
+		{
+			"id" : "Rebirth",
+			"itemp" : "Rebirth",
+			"class" : "Legendary",
+			"data" : "<ul><li>Price increased to 2700, up from 2465.</li></ul>"
+		},
+		{
+			"id" : "Creation",
+			"itemp" : "Creation",
+			"class" : "Legendary",
+			"data" : "<ul><li>This item no longer gives Lifedrain.</li><li>Haste increased to 35, up from 30.</li><li>Price reduced to 2215, down from 2330.</li></ul>"
+		},
+		{
+			"id" : "Vibrance",
+			"itemp" : "Vibrance",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Armor Tree</h4>"
+		},
+		{
+			"id" : "Resilience",
+			"itemp" : "Resilience",
+			"class" : "Basic",
+			"data" : "<ul><li>The Toughness I passive is now stackable.</li><li>Now builds into the new Advanced item: Form.</li><li>Now builds into the new Advanced item: Resolve</li></ul>"
+		},
+		{
+			"id" : "Form",
+			"itemp" : "Form",
+			"class" : "Advanced",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Adamance",
+			"itemp" : "Adamance",
+			"class" : "Legendary",
+			"data" : "<ul><li>Now builds out of the new Advanced item: Form.</li><li>Power reduced to 50, down from 60.</li><li>No longer has the Unique Passive: Last Stand.</li><li>Now has the Stackable Passive: Vanguard - Your abilities will deal additional damage equal to 10% of your Armor.</li><li>The Unique Passive: Lockdown is now only triggered by Shaper physical damage, as opposed to physical damage from any source.</li><li>Price reduced to 2955, down from 2980.</li><li>Now builds into the new Advanced item: Resolve</li></ul>"
+		},
+		{
+			"id" : "Preservation",
+			"itemp" : "Preservation",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Integrity",
+			"itemp" : "Integrity",
+			"class" : "Advanced",
+			"data" : "<ul><li>Armor increased to 60, up from 40.Price increased to 1260, up from 1000.</li></ul>"
+		},
+		{
+			"id" : "Order",
+			"itemp" : "Order",
+			"class" : "Legendary",
+			"data" : "<ul><li>Armor increased to 90, up from 75.</li><li>Price increased to 2060, up from 1805.</li></ul>"
+		},
+		{
+			"id" : "Discipline",
+			"itemp" : "Discipline",
+			"class" : "Advanced",
+			"data" : "<ul><li>Armor reduced to 40, down from 50.</li><li>Discipline now gives 25 Haste.</li><li>Added the Stackable Passive - Inner Peace: Dealing damage reduces the target's Power by 10 for 3 seconds.</li><li>Cost: 1400.</li></ul>"
+		},
+		{
+			"id" : "Equilibrium",
+			"itemp" : "Equilibrium",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Unique Passive: Wither has been reworked and renamed to Subdue.</li><li>Unique Passive: Subdue - Dealing damage will reduce the target's Power by 10 and attack speed by 30% for 3 seconds.</li><li>Price increased to 2880, up from 2560.</li></ul>"
+		},
+		{
+			"id" : "Subjugation",
+			"itemp" : "Subjugation",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Unique Passive: Power Lock has been reworked.</li><li>Unique Passive: Power Lock - Dealing damage reduces the target's Power by 10 and all damage they deal by 10% for 3 seconds.</li><li>Price increased to 2775, up from 2720.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Magic Resistance Tree</h4>"
+		},
+		{
+			"id" : "Will",
+			"itemp" : "Will",
+			"class" : "Basic",
+			"data" : "<ul><li>The Void passive is now stackable.</li><li>Fixed a bug where the Void passive was not triggering correctly.</li></ul>"
+		},
+		{
+			"id" : "Conviction",
+			"itemp" : "Conviction",
+			"class" : "Advanced",
+			"data" : "<ul><li>Health increased to 200, up from 150.</li><li>Magic Resistance increased to 40, up from 35.</li><li>Void II passive removed.</li><li>New Stackable Passive - Fervor: Taking damage from an enemy Shaper causes you to regenerate 40 Health over 10 seconds.</li><li>Cost increased to 1340, up from 1315.</li></ul>"
+		},
+		{
+			"id" : "Faith",
+			"itemp" : "Faith",
+			"class" : "Legendary",
+			"data" : "<ul><li>Movement speed removed.</li><li>Now has the Stackable Passive - Fervor.</li><li>Price increased to 2820, up from 2365.</li><li>Fixed a bug where the magic shield granted from this item's passive would not be correctly removed if the item was sold.</li></ul>"
+		},
+		{
+			"id" : "Retribution",
+			"itemp" : "Retribution",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Luck",
+			"item" : "Luck",
+			"class" : "Advanced",
+			"data" : "<ul><li>Removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Resolve",
+			"itemp" : "Resolve",
+			"class" : "Advanced",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Empathy",
+			"itemp" : "Empathy",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Hope",
+			"itemp" : "Hope",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Unique Passive - Divine Intervention II has been removed from this item and replaced with the Unique Passive - Avatar.</li><li>Unique Passive - Avatar: Upon dropping below 50% Health you will gain a bonus Armor, Magic Resistance, and 20% damage reduction for 4 seconds. Dealing damage extends the effect by 1 second up to a maximum of 8 seconds. The bonus values are equal to 100% of your Armor and Magic Resistance. This effect has a 30 second cooldown.</li><li>Price increased to 2835, up from 2430.</li></ul>"
+		},
+		{
+			"id" : "Wisdom",
+			"item" : "Wisdom",
+			"class" : "Advanced",
+			"data" : "<ul><li>(Advanced) Removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Balance",
+			"itemp" : "Balance",
+			"class" : "Advanced",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Valor",
+			"itemp" : "Valor",
+			"class" : "Legendary",
+			"data" : "<ul><li>Now has the Stackable Passive - Will Thief.</li><li>Cost increased to 3000, up from 2575.</li><li>Builds from: Balance</li></ul>"
+		},
+		{
+			"id" : "Oppression",
+			"itemp" : "Oppression",
+			"class" : "Legendary",
+			"data" : "<ul><li>Power reduced to 40, down from 42.</li><li>Now also has the Stackable Passive - Will Thief.</li><li>Price increased to 2945, up from 2875.</li><li>No longer builds from Might.</li><li>Builds from: Balance.</li></ul>"
+		},
+		{
+			"id" : "Betrayal",
+			"itemp" : "Betrayal",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Freedom",
+			"itemp" : "Freedom",
+			"class" : "Advanced",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Momentum",
+			"itemp" : "Momentum",
+			"class" : "Legendary",
+			"data" : "<ul><li>Now has the Unique Passive - Unshakable.</li><li>Unique Passive - Unshakable: Every 30 seconds you will gain a shield that will prevent the first disabling effect, other than suppression, used against you.</li><li>Stackable Passive - Tenacity.</li><li>Cost: 2745.</li><li>Builds from: Freedom</li></ul>"
+		},
+		{
+			"id" : "Stability",
+			"itemp" : "Stability",
+			"class" : "Legendary",
+			"data" : "<ul><li>Now give +20 Health Regen per 5 seconds, in addition to its other stats.</li><li>Now has the Unique Passive - Fleet of Foot.</li><li>Unique Passive - Fleet of Foot: You gain 40% bonus movement speed for 1 second whenever a disabling effect expires from you.</li><li>Stackable Passive - Tenacity.</li><li>Cost: 2940</li><li>Builds from: Freedom.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Power Tree</h4>"
+		},
+		{
+			"id" : "Might",
+			"itemp" : "Might",
+			"class" : "Advanced",
+			"data" : "<ul><li>No longer builds into Oppression or Inevitability.</li><li>Base Health reduced to 150, down from 175.</li><li>Base Power reduced to 20, down from 32.</li><li>Now has the Unique Passive - Soul Collector.</li><li>Unique Passive - Soul Collector: Killing a minion, creature or worker permanently grants 4 bonus Health and 0.5 bonus power. The bonuses stack up to 30 times.</li><li>Price reduced to 1130, down from 1270.</li><li>Builds into: Decay and Strife</li></ul>"
+		},
+		{
+			"id" : "Strife",
+			"itemp" : "Strife",
+			"class" : "Legendary",
+			"data" : "<ul><li>Base Power reduced to 30, down from 42.</li><li>Base Health reduced to 250, down from 300</li><li>Price increased to 2630, up from 2560.</li><li>The Unique Passive - Soul Collector has been renamed to Soul Master.</li><li>Will carry the stacks of Soul Collector gained on the Advanced item Might when upgraded into Strife.</li></ul>"
+		},
+		{
+			"id" : "Decay",
+			"itemp" : "Decay",
+			"class" : "Legendary",
+			"data" : "<ul><li>Power reduced to 30, down from 35.</li><li>No longer gives Haste.</li><li>Now gives 200 Health.</li><li>No longer has the Expose Weakness passive ability.</li><li>Now has the Unique Passive - Soul Collector. Stacks gained on the Advanced item Might will carry over when upgrading into Decay.</li><li>The Unique Passive - Spirit Burn has been reworked.</li><li>Unique Passive - Spirit Burn: Dealing damage with abilities will deal 6% of the target's maximum Health over 3 seconds as magical damage. Damage against non-Shapers cannot exceed 320 total damage.</li></ul>"
+		},
+		{
+			"id" : "Command",
+			"itemp" : "Command",
+			"class" : "Advanced",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Supremacy",
+			"itemp" : "Supremacy",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Wisdom",
+			"itemp" : "Wisdom",
+			"class" : "Legendary",
+			"data" : "<ul><li>(Legendary) Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Justice",
+			"itemp" : "Justice",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Aggression",
+			"itemp" : "Aggression",
+			"class" : "Advanced",
+			"data" : "<ul><li>Defense Penetration reduced to 10, down from 15.</li><li>The Defense Penetration is no longer a unique passive.</li><li>Price reduced to 1090, down from 1210.</li><li>Builds into: Judgement, Rage and Destruction</li></ul>"
+		},
+		{
+			"id" : "Rage",
+			"itemp" : "Rage",
+			"class" : "Legendary",
+			"data" : "<ul><li>Power reduced to 30, down from 40</li><li>The Unique Passive - Guard Crush has been redesigned.</li><li>Unique Passive - Guard Crush: Your basic attacks and abilities passively penetrate 50% of your target's bonus defenses.</li><li>Price increased to 2375, up from 2150.</li></ul>"
+		},
+		{
+			"id" : "Destruction",
+			"itemp" : "Destruction",
+			"class" : "Legendary",
+			"data" : "<ul><li>Power reduced to 60, down from 75.</li><li>Price decreased to 2950, down from 3265.</li></ul>"
+		},
+		{
+			"id" : "Judgement",
+			"itemp" : "Judgement",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Control",
+			"itemp" : "Control",
+			"class" : "Advanced",
+			"data" : "<ul><li>Power increased to 30, up from 25.</li><li>Price increased to 1300, up from 1285.</li></ul>"
+		},
+		{
+			"id" : "Inevitability",
+			"itemp" : "Inevitability",
+			"class" : "Legendary",
+			"data" : "<ul><li>No longer builds from Might.</li><li>Health increased to 500, up from 475.</li><li>Price reduced to 2975, down from 3065.</li></ul>"
+		},
+		{
+			"id" : "Pursuit",
+			"itemp" : "Pursuit",
+			"class" : "Legendary",
+			"data" : "<ul><li>No longer has the Unique Passives Frost I or Quick Step. Now has the Unique Passive - Relentless.</li><li>Unique Passive - Relentless: Dealing damage reduces the target's movement speed by 60 and increases your movement speed by 60 for 2 seconds.</li><li>Price reduced to 2765, down from 3050.</li></ul>"
+		},
+		{
+			"id" : "Force",
+			"itemp" : "Force",
+			"class" : "Advanced",
+			"data" : "<ul><li>Power increased to 30, up from 25.</li><li>Price increased to 1300, up from 1245.</li><li>Builds into: Hostility, Pain, Dominance and Divinity.</li></ul>"
+		},
+		{
+			"id" : "Hostility",
+			"itemp" : "Hostility",
+			"class" : "Legendary",
+			"data" : "<ul><li>Price increased to 2915, up from 2725.</li></ul>"
+		},
+		{
+			"id" : "Pain",
+			"itemp" : "Pain",
+			"class" : "Legendary",
+			"data" : "<ul><li>Power reduced to 45, down from 50.</li><li>Mastery reduced to 20, down from 25.</li><li>Price reduced to 2575, down from 2995.</li></ul>"
+		},
+		{
+			"id" : "Dominance",
+			"itemp" : "Dominance",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Divinity",
+			"itemp" : "Divinity",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Haste Tree</h4>"
+		},
+		{
+			"id" : "Motion",
+			"itemp" : "Motion",
+			"class" : "Advanced",
+			"data" : "<ul><li>No longer builds from Will.</li><li>No longer gives Magic Resistance.</li><li>Now gives +5% Movement Speed.</li><li>Price reduced to 1055, down from 1250.</li><li>Builds into: Fluidity, Impulse and Influence.</li></ul>"
+		},
+		{
+			"id" : "Fluidity",
+			"itemp" : "Fluidity",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Influence",
+			"itemp" : "Influence",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Impulse",
+			"itemp" : "Impulse",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Progress",
+			"item" : "Progress",
+			"class" : "Legendary",
+			"data" : "<ul><li>Removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Abolition",
+			"itemp" : "Abolition",
+			"class" : "Advanced",
+			"data" : "<ul><li>Power reduced to 20, down from 21.</li><li>No longer builds into Decay.</li><li>No longer has the Unique Passive - Expose Weakness.</li><li>Now has the new Stackable Passive - Precision.</li><li>Stackable Passive - Precision: Your basic attacks deal an additional 10 bonus physical damage.</li><li>Price reduced to 1425, down from 1645.</li><li>Builds into: Finesse, Ruin and Conquest.</li></ul>"
+		},
+		{
+			"id" : "Conquest",
+			"itemp" : "Conquest",
+			"class" : "Advanced",
+			"data" : "<ul><li>Power increased to 35, up from 30.</li><li>Haste decreased to 25, down from 30.</li><li>Movement speed decreased to 5%, down from 8%.</li><li>The Power ratio on the Aftermath passive ability has been increased to 1.2, up from 1.1</li><li>No longer has the Unique Passive - Expose Weakness.</li><li>Now has the Stackable Passive - Precision from Abolition.</li><li>Price reduced to 2765, down from 2900.</li></ul>"
+		},
+		{
+			"id" : "Ruin",
+			"itemp" : "Ruin",
+			"class" : "Advanced",
+			"data" : "<ul><li>This item no longer gives Mastery.</li><li>No longer has the Unique Passive - Expose Weakness.</li><li>The Unique Passive - Giant Killer has been reworked.</li><li>Unique Passive - Giant Killer: Your basic attacks will deal an additional 10 (+2% of the target's maximum Health)(+8% of the target's bonus Health) as physical damage. Bonus damage against non-Shapers cannot exceed 225 damage.</li><li>Price reduced to 3115, down from 3300.</li></ul>"
+		},
+		{
+			"id" : "Finesse",
+			"itemp" : "Finesse",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Inspiration",
+			"itemp" : "Inspiration",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Corruption",
+			"itemp" : "Corruption",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Furor",
+			"itemp" : "Furor",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Grace",
+			"itemp" : "Grace",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Zeal",
+			"itemp" : "Zeal",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Clarity",
+			"itemp" : "Clarity",
+			"class" : "Advanced",
+			"data" : "<ul><li>Haste reduced to 30, down from 45.</li><li>Price reduced to 900, down from 1260.</li></ul>"
+		},
+		{
+			"id" : "Fate",
+			"itemp" : "Fate",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where the shrapnel damage of this item's passive ability was unintentionally getting attack damage per level added to its damage.</li></ul>"
+		},
+		{
+			"id" : "Insight",
+			"itemp" : "Insight",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Unique Passive - Puncture has been reworked.</li><li>Unique Passive - Puncture: Your basic attacks will deal an additional 5% of their damage as true damage.</li></ul>"
+		},
+		{
+			"id" : "Duress",
+			"itemp" : "Duress",
+			"class" : "Legendary",
+			"data" : "<ul><li>Haste reduced to 45, down from 55.</li><li>The root duration of this item's passive ability has been increased to 1 seconds, up from 0.5.</li><li>The cooldown of this item's passive ability has been reduced to 10 seconds, down from 15.</li><li>Price reduced to 2630, down from 2865.</li></ul>"
+		},
+		{
+			"id" : "Action",
+			"item" : "Action",
+			"class" : "Advanced",
+			"data" : "<ul><li>This item has been removed from the game.</li></ul>"
+		},
+		{
+			"id" : "Energy",
+			"itemp" : "Energy",
+			"class" : "Advanced",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Potency",
+			"itemp" : "Potency",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "Chaos",
+			"itemp" : "Chaos",
+			"class" : "Legendary",
+			"data" : "<ul><li>No longer has movement speed on it.</li><li>The Chain Lightning passive ability now causes the targets struck to take an additional 10% magic damage for 3 seconds.</li><li>Price reduced to 2630, down from 2910.</li></ul>"
+		},
+		{
+			"id" : "Resonance",
+			"itemp" : "Resonance",
+			"class" : "Legendary",
+			"data" : "<ul><li>Added to the game.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Lifedrain  Tree</h4>"
+		},
+		{
+			"id" : "Hunger",
+			"itemp" : "Hunger",
+			"class" : "Basic",
+			"data" : "<ul><li>Now gives +5 Power.</li><li>The Life Leech passive has been reworked.</li><li>Stackable Passive - Life Leech: Heals a flat amount per damage dealt. The amount is doubled against enemy Shapers. This effect has a 0.5 second cooldown.</li><li>Price increased to 460, up from 420.</li></ul>"
+		},
+		{
+			"id" : "Desire",
+			"itemp" : "Desire",
+			"class" : "Advanced",
+			"data" : "<ul><li>No longer has the Unique Passive - Desperate Thrist I.</li><li>Now gives +10 Power in addition to its other attributes.</li><li>Price increased to 1170, up from 1090.</li></ul>"
+		},
+		{
+			"id" : "Consumption",
+			"itemp" : "Consumption",
+			"class" : "Advanced",
+			"data" : "<ul><li>Power reduced to 25, down from 26.</li><li>Price increased to 1270, up from 1260.</li><li>No longer builds into Ambition.</li></ul>"
+		},
+		{
+			"id" : "Assimilation",
+			"itemp" : "Assimilation",
+			"class" : "Legendary",
+			"data" : "<ul><li>Defense Penetration reduced to 10, down from 15.</li><li>Price increased to 3075, up from 2950.</li></ul>"
+		},
+		{
+			"id" : "Voracity",
+			"itemp" : "Voracity",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Mastery provided by this item has been removed.</li><li>Lifedrain reduced to 10%, down from 12%.</li><li>Power increased to 50, up from 45.</li><li>The Rising Hunger passive ability on this item now only works on basic attacks, instead of all damage types.</li><li>The Power provided by the Rising Hunger passive ability on this item has been increased to 6 per stack, up from 4.</li><li>Price decreased to 3025, down from 3160.</li></ul>"
+		},
+		{
+			"id" : "Ambition",
+			"itemp" : "Ambition",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Desperate Thirst passive ability on is now simply Desperate Thirst, rather than Desperate Thirst II due to the removal of the ability from Desire.</li><li>Price increased to 2555, down from 2575.</li><li>No longer builds from Consumption.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Balance and Tuning</h3><h4>Shapers</h4><p><i>Developer Note: With the release of the reworked Item system and new version of the map in Dawngate, many systemic changes had to happen to each archetype of Shaper.</i></p><p><i>With this in mind, EVERY Shaper has had their base movement speed and attack range increased by 11% across the board.</i></p>"
+		},
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li>Feeding Frenzy (Q)</li><ul><li>The range of this ability has been increased by 11%</li><li>The Power ratio of this ability has been reduced to 0.7, down from 1.0.</li><li>The Power ratio of the damage over time component of this ability has been reduced to 0.6, down from 0.8.</li><li>The base damage of the damage over time component of this ability has been reduced to 50/80/110/140/170, down from 80/120/160/200/240.</li></ul><li>Waverider (W)</li><ul><li>The range of this ability has been increased by 6%.</li><li>The Power ratio of this ability has been reduced to 0.6, down from 0.8.</li></ul><li>Tidal Prison (E)</li><ul><li>The range of this ability has been increased by 3%.</li><li>The Power ratio of this ability has been reduced to 0.75, down from 0.95.</li></ul><li>Riptide (R)</li><ul><li>The range of this ability has been increased by 6%.</li><li>The Power ratio of this ability has been reduced to 0.8, down from 1.2.</li></ul></ul>"
+		},
+		{
+			"id" : "Cerulean",
+			"shaper" : "Cerulean",
+			"data" : "<ul><li>Whirling Strike (Q)<ul><li>The displayed range of this ability has been updated to 380, from previous value of 425.</li></ul><li>Impale (E)</li><ul><li>The range of this ability has been reduced by 10%.</li></ul><li>Shore's Calling (R)</li><ul><li>The displayed range of this ability has been updated to 585, from previous value of 650.</li><li>The Power ratio of this ability has been reduced to 0.8, down from 0.9.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li>Forgotten Tombs (Q)</li><ul><li>The displayed range of this ability has been updated to 985, from previous value of 1100.</li><li>The Power ratio of this ability has been reduced to 0.4, down from 0.6.</li></ul><li>Chilling Presence (W)</li><ul><li>The displayed range of this ability has been updated to 450, from previous value of 500.</li></ul><li>Desecrated Ground (E)</li><ul><li>The displayed range of this ability has been updated to 760, from previous value of 850.</li></ul><li>Deathfog (R)</li><ul><li>The displayed range of this ability has been updated to 1700, from previous value of 1900.</li></ul></ul>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li>Nightmare (Q)</li><ul><li>The range of this ability has been increased by 2%.</li><li>The cooldown of this ability has been increased to 6/5.5/5/4.5/4, up from 4 at all ranks.</li><li>The Power ratio of this ability has been reduced to 0.5, down from 0.8.</li><li>The Power ratio of the ally Shaper damage component on this ability has been reduced to 0.7, down from 0.9.</li></ul><li>Dreamwrap (W)</li><ul><li>The range of this ability has been increased by 1%.</li></ul><li>Ripple (E)</li><ul><li>The range of this ability has been increased by 2%.</li><li>The Power ratio of this ability has been reduced to 0.6, down from 0.8.</li></ul></ul>"
+		},
+		{
+			"id" : "Faris",
+			"shaper" : "Faris",
+			"data" : "<ul><li>Reconfigure (Q)</li><ul><li>The flat bonus magical damage this ability deals is now doubled when in melee form.</li><li>The missing health component in melee form has had its bonus damage increased to 10% of the target's missing health, up from 8%.</li></ul><li>Access Memory (W)</li><ul><li>The ranged form of this ability has had its range increased by 11%.</li></ul><li>Final Protocol (R)</li><ul><li>This ability will no longer be canceled if Faris dies after having selected a target.</li><li>The time to lock all targets for this ability has been reduced to 2 seconds, down from 2.5</li></ul></ul>"
+		},
+		{
+			"id" : "Fenmore",
+			"shaper" : "Fenmore",
+			"data" : "<ul><li>Soul Rend (Q)</li><ul><li>The range of this ability has been reduced by 1%.</li><li>The Power ratio on this ability has been reduced to 0.65, down from 1.0.</li><li>The shield Power ratio for this ability has been reduced to 0.8, down from 1.0.</li></ul><li>Heart Eater (E)</li><ul><li>The displayed range of this ability has been updated to 1000, from previous value of 1125.</li><li>The Power ratio of this ability has been reduced to 0.5 per hit, down from 0.6.</li></ul><li>Ravenous Pack (R)</li><ul><li>The range of this ability has been increased by 3%.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li>Gouge (Q)</li><ul><li>The range of this ability has been increased by 11%.</li><li>The 2nd activation bonus damage has been reduced to 50/90/130/170/210, down from 70/120/170/220/270.</li><li>The 2nd activation Power ratio has been reduced to 0.6, down from 1.2</li></ul><li>Blinding Speed (W)</li><ul><li>The displayed range of this ability has been updated to 600, from previous value of 675.</li></ul><li>Crippling Blow (E)</li><ul><li>The range of this ability has been increased by 11%.</li></ul></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li>Sheep Toss (Q)</li><ul><li>The displayed range of this ability has been updated to 850, from previous value of 950.</li></ul><li>Battle Cry! (W)</li><ul><li>The displayed range of this ability has been updated to 580, from previous value of 650.</li></ul><li>Crook Sweep (E)</li><ul><li>The displayed range of this ability has been updated to 340, from previous value of 380.</li></ul><li>Titanic Charge (R)</li><ul><li>The displayed range of this ability has been updated to 450, from previous value of 550.</li><li>The Power ratio of this ability has been reduced to 0.7, down from 0.9</li></ul></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li>Nightstrike (Q)</li><ul><li>The displayed range of this ability has been updated to 575, from previous value of 625.</li><li>The Power ratio of this ability has been reduced to 0.7, down from 0.8.</li></ul><li>Duskmantle (W)</li><ul><li>The displayed range of this ability has been updated to 340, from previous value of 380.</li><li>The Power ratio of this ability has been reduced to 0.35, down from 0.55</li></ul><li>Shadowstep (E)</li><ul><li>The displayed range of this ability has been updated to 530, from previous value of 600.</li><li>The Power ratio of this ability has been reduced to 0.6, down from 0.7</li></ul><li>Nox Aeterna (R)</li><ul><li>The displayed range of this ability has been updated to 400, from previous value of 450.</li></ul></ul>"
+		},
+		{
+			"id" : "King of Masks",
+			"shaper" : "King of Masks",
+			"data" : "<ul><li>Captivate (Q)</li><ul><li>The displayed range of this ability has been updated to 700, from previous value of 775.</li><li>The base damage of this ability has been reduced to 90/135/180/225/270, down from 105/165/225/285/345.</li><li>The Power ratio of this ability has been reduced to 0.75, down from 1.20.</li></ul><li>Flourish (W)</li><ul><li>The displayed range of this ability has been updated to 325, from previous value of 350.</li></ul><li>Endless Delights (E)</li><ul><li>The displayed range of this ability has been updated to 725, from previous value of 800.</li><li>The base damage of this ability per egg has been reduced to 55/90/125/160/195, down from 65/100/135/170/205.</li></ul><li>Finale (R)</li><ul><li>The displayed range of this ability has been updated to 805, from previous value of 900.</li><li>The Power ratio of this ability has been reduced to 0.7, down from 1.0.</li><li>The cooldown of this ability has been increased to 130/115/100, up from 120/105/90.</li></ul></ul>"
+		},
+		{
+			"id" : "Marah",
+			"shaper" : "Marah",
+			"data" : "<ul><li>Circle of Life (Passive)</li><ul><li>The radius in which seeds will spawn has been increased by 30%.</li><li>The radius in which Marah may pick up the seed has been increased by 80%.</li><li>Seeds will now have a minimum value of 0.5 Health per seed after reaching 80 stacks.</li><li>The maximum seeds you may collect has been increased to 9999, up from 400.</li></ul><li>Snapdragon (Q)</li><ul><li>The projectile width of this ability has been widened by 50%.</li><li>Fixed a bug that would cause Marah to not get pulled to her target if the target dispelled the effect.</li><li>Fixed a bug that would cause Marah to not get pulled to her target if she was silenced during the effect.</li></ul></ul>"
+		},
+		{
+			"id" : "Mikella",
+			"shaper" : "Mikella",
+			"data" : "<ul><li>Collateral (Q)</li><ul><li>The displayed range of this ability has been updated to 825, from previous value of 930.</li></ul><li>Waltz (E)</li><ul><li>The displayed range of this ability has been updated to 400, from previous value of 425.</li></ul><li>Final Payment (R)</li><ul><li>The displayed range of this ability has been updated to 1900, from previous value of 2100.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li>Celerity (Passive)</li><ul><li>The attack speed gained based on missing energy has been reduced to a maximum value of 22% to 60%, down from 35% to 130% (the value scales with level).</li></ul><li>Bolt (Q)</li><ul><li>The displayed range of this ability has been updated to 400, from previous value of 450.</li></ul><li>Shock (W)</li><ul><li>The basic attack bonus damage of this ability has been reduced to 10/15/20/25/30, down from 15/20/25/30/35.</li><li>The basic attack bonus damage Power ratio has been reduced to 0.1, down from 0.15.</li></ul><li>Recharge (E)</li><ul><li>The basic attack bonus damage of this ability has been reduced to 10/15/20/25/30, down from 15/20/25/30/35.</li><li>The basic attack bonus damage Power ratio has been reduced to 0.1, down from 0.15.</li></ul><li>Landfall (R)</li><ul><li>The range you may cover with this ability has been reduced to 650, down from 760.</li><li>The reactivation range of this ability has been reduced to 550, down from 612.</li><li>The base damage of this ability has been reduced to 150/225/300, down from 200/300/400.</li><li>The Power ratio of this ability has been reduced to 0.6, down from 1.0.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li>Branching Blade (Q)</li><ul><li>The range of this ability has been increased by 11%.</li></ul><li>The Chase (W)</li><ul><li>The movement speed duration gained when activating this ability has been increased to 3 seconds, up from 2.</li></ul><li>Wing Clip (E)</li><ul><li>The displayed range of this ability has been updated to 675, from previous value of 750.</li></ul><li>Final Flight (R)</li><ul><li>The displayed range of this ability has been updated to 1900, from previous value of 2100.</li></ul></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<ul><li>Reprimand (Q)</li><ul><li>The displayed range of this ability has been updated to 170, from previous value of 190.</li></ul><li>Force Slam (W)</li><ul><li>The displayed range of this ability has been updated to 450, from previous value of 500.</li><li>The Power ratio of this ability has been reduced to 0.45, down from 0.6.</li></ul><li>Maridian Education (R)</li><ul><li>The displayed range of this ability has been updated to 275, from previous value of 300.</li><li>The Power ratio of this ability has been reduced to 0.9,d own from 1.1.</li><li>The base damage for the secondary damage if the target is hit into a wall or structure has been reduced to 175/300/425, down from 200/375/550.</li><li>The Power ratio for the secondary damage of this ability has been reduced to 0.7, down from 1.1</li></ul></ul>"
+		},
+		{
+			"id" : "Raina",
+			"shaper" : "Raina",
+			"data" : "<ul><li>Repelling Strike (Q)</li><ul><li>The displayed range of this ability has been updated to 275, from previous value of 300.</li><li>The Power ratio of this ability has been reduced to 0.5, down from 0.6.</li></ul><li>Bastion of the North (W)</li><ul><li>The displayed range of this ability has been updated to 985, from previous value of 1100.</li></ul><li>Shockwave (E)</li><ul><li>The displayed range of this ability has been updated to 485, from previous value of 550.</li></ul><li>Wisdom's Reach (R)</li><ul><li>The displayed range of this ability has been updated to 850, from previous value of 950.</li></ul><li>The Power ratio of this ability has been reduced to 0.7, down from 0.9.</li></ul></ul>"
+		},
+		{
+			"id" : "Renzo",
+			"shaper" : "Renzo",
+			"data" : "<ul><li>Inspiring Strike (Q)</li><ul><li>The displayed range of this ability has been updated to 175, from previous value of 190.</li></ul><li>Renzo's Embrace (W)</li><ul><li>The displayed range of this ability has been updated to 680, from previous value of 760.</li></ul><li>Kinetic Sculpture (E)</li><ul><li>The displayed range of this ability has been updated to 525, from previous value of 550.</li><li>The base damage of this ability has been reduced to 50/85/120/155/190, down from 60/95/130/165/200.</li></ul><li>Masterpiece (R)</li><ul><li>The displayed range of this ability has been updated to 675, from previous value of 750.</li><li>The base damage of this ability has been reduced to 175/275/375, down from 180/295/410.</li><li>The Power ratio of this ability has been reduced to 0.65, down from 1.</li></ul></ul>"
+		},
+		{
+			"id" : "Salous",
+			"shaper" : "Salous",
+			"data" : "<ul><li>Judgment (Q)</li><ul><li>The range of this ability has been increased by 11%.</li></ul><li>Spirit Seals (W)</li><ul><li>The displayed range of this ability has been updated to 500, from previous value of 550.</li><li>The radius in which the orbs on this ability will detonate has been increased to 125, up from 80.</li></ul><li>Penance (E)</li><ul><li>The displayed range of this ability has been updated to 170, from previous value of 190.</li></ul><li>Absolution (R)</li><ul><li>The displayed range of this ability has been updated to 680, from previous value of 760.</li><li>The Power ratio of this ability has been reduced to 0.6, down from 0.75.</li></ul></ul>"
+		},
+		{
+			"id" : "Varion",
+			"shaper" : "Varion",
+			"data" : "<ul><li>Celerity Shell (Q)</li><ul><li>The displayed range of this ability has been updated to 950, from previous value of 1013.</li><li>The base damage of this ability has been reduced to 65/110/155/200/245, down from 70/115/160/205/250.</li><li>The cooldown of this ability has been changed to 10/9/8/7/6, changed from 8 at all ranks.</li><li>The Power ratio of this ability has been reduced to 0.7, down from 1.0.</li></ul><li>Progress Gate (W)</li><ul><li>The displayed range of this ability has been updated to 550, from previous value of 575.</li></ul><li>Insight Shell (E)</li><ul><li>The displayed range of this ability has been updated to 1050, from previous value of 1150.</li><li>The Haste bonus this ability's passive gives is now 20/30/40/50/60 based on rank, down from 55 at all ranks.</li><li>The bonus damage Power ratio has been reduced to 0.1, down from 0.15.</li></ul><li>Chaos Shell (R)</li><ul><li>The displayed range of this ability has been updated to 1075, from previous value of 1200.</li></ul></ul>"
+		},
+		{
+			"id" : "Vex",
+			"shaper" : "Vex",
+			"data" : "<ul><li>Skewer (Q)</li><ul><li>The displayed range of this ability has been updated to 950, from previous value of 1000.</li></ul><li>Jagged Volley (E)</li><ul><li>The range of this ability has been increased by 11%.</li></ul><li>Splinter Spines (R)</li><ul><li>The displayed range of this ability has been updated to 500, from previous value of 550.</li></ul></ul>"
+		},
+		{
+			"id" : "Viyana",
+			"shaper" : "Viyana",
+			"data" : "<ul><li>Needle (Q)<ul><li>The displayed range of this ability has been updated to 800, from previous value of 835.</li><li>The Power ratio of this ability has been reduced to 0.5, down from 0.9.</li></ul><li>Pure Blood (W)</li><ul><li>The displayed range of this ability has been updated to 775, from previous value of 850.</li></ul><li>Leech (E)</li><ul><li>The displayed range of this ability has been updated to 575, from previous value of 625.</li><li>The Power ratio on this ability has been reduced to 0.5, down from 0.6</li></ul><li>Exsanguinate (R)</li><ul><li>The displayed range of this ability has been updated to 575, from previous value of 625.</li><li>The base damage of this ability has been changed to 150/250/350, from 175/240/304.</li><li>The Power ratio for this ability has been reduced to 0.6, down from 0.8.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li>Sentinel Strike (Q)</li><ul><li>The Power ratio of this ability has been reduced to 0.8, down from 1.2.</li></ul><li>Curse of Weakness (W)</li><ul><li>The displayed range of this ability has been updated to 575, from previous value of 625.</li><li>The Power ratio of this ability has been reduced to 0.3, down from 0.4.</li><li>The Power ratio of the mark triggered upon basic damaging a marked enemy has been reduced to 0.5, down from 0.7.</li></ul><li>Devour (E)</li><ul><li>The displayed range of this ability has been updated to 540, from previous value of 600.</li></ul><li>Damnation (R)</li><ul><li>The displayed range of this ability has been updated to 400, from previous value of 450.</li><li>The Power ratio for this ability has been reduced to 1.0, down from 1.2.</li><li>The cooldown of this ability has been reduced to 100/90/80, down from 120/110/100.</li><li>This ability no longer heals Voluc for the amount of damage it deals. Instead, Voluc will now be granted 50/75/100% bonus Lifedrain for the duration.</li></ul></ul>"
+		},
+		{
+			"id" : "Zalgus",
+			"shaper" : "Zalgus",
+			"data" : "<ul><li>Chains of Fate (Q)</li><ul><li>The range of this ability has been increased by 11%.</li><li>The Power ratio of this ability has been reduced to 0.6, down from 0.75</li></ul><li>Burden of Knowledge (W)</li><ul><li>The passive on this ability will no longer knock up Shapers when struck. Instead, it will now slow the target by 40/50/60/70/80% decaying over 0.5 seconds.</li></ul><li>Great Rift (E)</li><ul><li>The range of this ability has been increased by 11%.</li></ul><li>Final Chapter (R)</li><ul><li>The displayed range of this ability has been updated to 2750, from previous value of 3040.</li><li>The Power ratio of this ability has been reduced to 0.8, down from 1.25.</li></ul></ul>"
+		},
+		{
+			"id" : "Zeri",
+			"shaper" : "Zeri",
+			"data" : "<ul><li>Spatter (Q)</li><ul><li>The displayed range of this ability has been updated to 1000, from previous value of 1050.</li><li>The base damage of this ability has been reduced to 65/110/155/200/245, down from 75/120/165/210/255.</li><li>The Power ratio of this ability has been reduced to 0.55, down from 0.65.</li></ul><li>Muse (W)</li><ul><li>The displayed range of this ability has been updated to 700, from previous value of 750.</li></ul><li>Desaturate (E)</li><ul><li>The displayed range of this ability has been updated to 600, from previous value of 665.</li><li>The Power ratio of this ability has been reduced to 0.6, down from 0.7.</li></ul><li>Prismatic Vortex (R)</li><ul><li>The displayed range of this ability has been updated to 800, from previous value of 875.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Roles</h4>"
+		},
+		{
+			"id" : "Gladiator",
+			"role" : "Gladiator",
+			"data" : "<ul><li>The mechanic for gaining stacking bonus Vim for consecutive last hits has been removed from the game.</li><li>Gladiators will now gain a flat 200% increased Vim for scoring the killing blow on a minion.</li><li>Melee Shapers using the Gladiator role will store 50% of the total Vim a nearby minion is worth if they fail to kill it. On the next minion kill you will gain any stored bonus Vim you have accrued this way. This can be stored up to a maximum of 3 times.</li></ul>"
+		},
+		{
+			"id" : "Hunter",
+			"role" : "Hunter",
+			"data" : "<ul><li>The healing gained from killing a jungle creature has been reduced to 2.5% of its maximum Health, down from 5%.</li></ul>"
+		},
+		{
+			"id" : "Predator",
+			"role" : "Predator",
+			"data" : "<ul><li>The Shaper kill Vim bonus has been increased to 150%, up from 135%.</li><li>The Shaper assist Vim bonus has been increased to 200%, up from 180%.</li></ul>"
+		},
+		{
+			"id" : "Tactician",
+			"role" : "Tactician",
+			"data" : "<ul><li>The proximity Vim bonus has been increased to 200%, up from 150%.</li><li>The bonus Vim for harassing enemy Shapers is now 40 and 20 Vim (melee and ranged, respectively) up from 30 and 15.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Spells</h4>"
+		},
+		{
+			"id" : "Dispel",
+			"spell" : "Dispel",
+			"data" : "<ul><li>The cooldown of this spell has been increased to 180 seconds, up from 90.</li><li>The residual tenacity granted by this ability has been reduced to 35%, down from 50%.</li></ul>"
+		},
+		{
+			"id" : "Tailwind",
+			"spell" : "Tailwind",
+			"data" : "<ul><li>The cooldown of this spell has been increased to 120 seconds, up from 75.</li></ul>"
+		},
+		{
+			"id" : "Deflect",
+			"spell" : "Deflect",
+			"data" : "<ul><li>The cooldown of this spell has been increased to 150 seconds, up from 90.</li><li>The base shield amount of this spell has been reduced to 50, down from 80.</li><li>The shield per level of this spell has been reduced to 9, down from 10.</li></ul>"
+		},
+		{
+			"id" : "Bastion",
+			"spell" : "Bastion",
+			"data" : "<ul><li>The cooldown of this spell has been increased to 210 seconds, up from 150.</li><li>The base shield of this spell has been reduced to 80, down from 100.</li><li>The shield per level of this spell has been reduced to 15, down from 20.</li></ul>"
+		},
+		{
+			"id" : "Blitz",
+			"spell" : "Blitz",
+			"data" : "<ul><li>The cooldown of this spell has been increased to 210 seconds, up from 150.</li></ul>"
+		},
+		{
+			"id" : "Drain",
+			"spell" : "Drain",
+			"data" : "<ul><li>The cooldown of this spell has been increased to 180 seconds, up from 150.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Game Mode / Map</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>The radius for Shaper kill reward sharing has been increased by 12%.</li><li>The amount of passive Vim gained naturally over time has been increased by 100 Vim per minute, up from 40.</li><li>The amount of experience awarded for killing a Shaper has been increased by 75% of the experience needed for the Shaper that was killed to level up to their next level, up from 60%.</li><li>The experience multiplier for killing a Shaper that is higher level than the killer has been increased to the following values:</li><ul><li>+1 Level: No change</li><li>+2 Levels: Increased to 137.5%, up from 132%</li><li>+3 Levels: Increased to 171.8%, up from 158%</li><li>+4 Levels: Increased to 214.8%, up from 190%</li></ul><li>The experience multiplier for killing a Shaper that is lower level than the killer has been reduced to the following values:</li><ul><li>-1 Level: No change</li><li>-2 Levels: Reduced to 67.5%, down from 72%</li><li>-3 Levels: Reduced to 50.6%, down from 57.6%</li><li>-4 Levels: Reduced to 38%, down from 46%</li></ul><li>The Vim bonus when last hitting a lane minion has been increased to 300% of its base bounty, up from 250%.</li><li>The Spirit Wells will now unlock at 15 minutes, up from 10 minutes.</li><li>The Guardian now only has 1 Health bar and is invulnerable until all the Cores have been destroyed.</li><li>Bindings will no longer Respawn, nor provide teams with Striders.</li><li>Killing the Parasite will now Spawn striders whose strength is relative to the evolution of the Parasite.</li><li>When the Parasite is slain a global vision and kill callout will now trigger for both teams.</li><li>Minions will now spawn at 1:00, down from 1:30.</li><li>All jungle creatures will now spawn at 1:30, down from 2:00.</li><li>Money pigs will now spawn at 3:30, down from 4:00.</li><li>The amount of Vim that Spirit Well workers gather has been increased to 1.5 Vim per worker, up from 1.</li><li>Lane minion vim rewards and scaling have been adjusted to the following values:</li><ul><li>Ranged Lane Minions</li><ul><li>Base vim reward decreased to 2.5, down from 6.5.</li><li>Vim per level reward has been decreased to 0.0.25, down from 0.1.</li></ul></ul><ul><li>Melee Lane Minions</li><ul><li>Base vim reward decreased to 3.5, down from 9.5.</li><li>Vim per level reward has been decreased to 0.025, down from 0.1.</li></ul></ul><li>Jungle minions have had the amount of experience they give adjusted to the following values:</li><ul><li>Small Jungle Fish</li><ul><li>Base experience reward increased to 20 experience, up from 10.</li><li>Experience per level increased to 1, up from 0.5.</li></ul></ul><ul><li>Medium Jungle Fish</li><ul><li>Base experience reward increased to 135, up from 95.</li><li>Experience per level increased to 2.5, up from 2.</li></ul></ul><ul><li>Small Jungle Ugger</li><ul><li>Base experience reward increased to 40, up from 30.</li></ul></ul><ul><li>Medium Jungle Ugger</li><ul><li>Base experience increased to 160, up from 150.</li><li>Experience per level increased to 3, up from 2.7.</li></ul></ul><ul><li>Small Jungle Mushroom</li><ul><li>Base experience increased to 10, up from 6.</li><li>Experience per level increased to 0.8, up from 0.5.</li></ul></ul><ul><li>Medium Jungle Mushroom</li><ul><li>Base experience increased to 105, up from 80.</li><li>Experience per level increased to 2, up from 1.9.</li></ul></ul><ul><li>Small Money Pig</li><ul><li>Base experience increased to 80, up from 70.</li></ul></ul><ul><li>Large Money Pig</li><ul><li>Base experience increased to 135, up from 125.</li><li>Experience per level increased to 3, up from 2.</li></ul></ul><li>Bindings have had their ranges increased by 13.2%.</li><li>Binding health values have also been adjusted to the following values:</li><ul><li>Outer Binding</li><ul><li>Health reduced to 3000, down from 3750.</li></ul></ul><ul><li>Middle Binding</li><ul><li>Health reduced to 3750, down from 4750.</li></ul></ul><ul><li>Inner Binding</li><ul><li>Health reduced to 4500, down from 5750.</li></ul></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Leaderboards</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Temporarily removed the ranking change indicator icons due to several accuracy issues.</li><li>To be placed on the Leaderboards you must now have played a minimum of 50 games.</li><li>Updated the Leaderboard header to signify the 50 game requirement as well as indicating that the Leaderboard is sorted by MMR.</li><li>Adjusted tuning for player idle decay.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>UI</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>The Health bar of the player's Shaper will now be displayed as yellow as a contrast to the other player's Health bars.</li><li>Shapers that become untargetable for a short amount of time will now have their Health bars faded by 50% rather than disappearing from the screen entirely, allowing you to more easily track the position of these Shapers.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h4>Bug Fixes</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<ul><li>Fixed an issue that would cause non-Shaper enemies to not correctly play their death animation if they died to a critical strike.</li><li>Fixed a crash that could potentially occur when viewing the leaderboard.</li><li>Fixed an issue that would cause jungle creeps to heal as if their target had walked out of range when it actually hadn't.</li><li>Fixed an issue that prevented a second Desecrator Forgotten Tombs (Q), when used within a short window after the first, from knocking up properly.</li><li>Fixed an issue that was causing Vex not to use VO when pinging a Binding.</li><li>Fixed an issue that was causing the sound effects for the Northern Insight Ward Skin to be too low.</li><li>Fixed an issue where Matchmaking lobbies would incorrectly report a queue time of 00:00.</li><li>Fixed some choreography issues on the Blessings reward tier indicator.</li><li>\"Will Fit\" mode in Loadouts will no longer display content you do not own, unless Crafting Mode is also toggled to \"On.\"</li><li>Fixed an issue causing the player's team not to be the team on the top half of the end-game Karma screen.</li><li>Fixed an issue causing the item Faith's passive text to pop up over dead bodies.</li><li>Fixed an issue that would allow players to invite invalid targets to a game from the social panel on the right click menu.</li><li>Fixed an issue allowing non-hosts to invite players to Matchmaking lobbies.</li><li>Refreshing the chat channel list no longer places the user in General Chat.</li><li>Fixed an issue that was preventing Item passives from displaying in the post-game scoreboard.</li></ul>"
+		}
+	]
+}

@@ -1,0 +1,107 @@
+[
+	{
+	  "name": "Red Spark of Health",
+	  "color" : "red",
+	  "bonus" : "+4.7 Health",
+	  "id" : "1",
+	  "img" : "perk_gem_red_flatHealth"
+	},
+	{
+	  "name": "Red Spark of Health Growth",
+	  "color" : "red",
+	  "bonus" : "+0.4 Percent-Health",
+	  "id" : "2",
+	  "img" : "perk_gem_red_healthInc"
+	},
+	{
+	  "name": "Red Spark of Armor",
+	  "color" : "red",
+	  "bonus" : "+1.0 Armor",
+	  "id" : "3",
+	  "img" : "perk_gem_red_flatArmor"
+	},
+	{
+	  "name": "Red Spark of Armor Growth",
+	  "color" : "red",
+	  "bonus" : "+0.7 Percent-Armor",
+	  "id" : "4",
+	  "img" : "perk_gem_red_armorInc"
+	},
+	{
+	  "name": "Red Spark of Resistance",
+	  "color" : "red",
+	  "bonus" : "+1.0 Magic-Resistance",
+	  "id" : "5",
+	  "img" : "perk_gem_red_flatMagicRes"
+	},
+	{
+	  "name": "Red Spark of Resistance Growth",
+	  "color" : "red",
+	  "bonus" : "+0.7 Percent-Magic-Resistance",
+	  "id" : "6",
+	  "img" : "perk_gem_red_magicResInc"
+	},
+	{
+	  "name": "Red Spark of Regeneration",
+	  "color" : "red",
+	  "bonus" : "+0.3 Health-Regeneration",
+	  "id" : "7",
+	  "img" : "perk_gem_red_flatHealthRegen"
+	},
+	{
+	  "name": "Green Spark of Power",
+	  "color" : "green",
+	  "bonus" : "+0.4 Power",
+	  "id" : "8",
+	  "img" : "perk_gem_green_flatPower"
+	},
+	{
+	  "name": "Green Spark of Power Growth",
+	  "color" : "green",
+	  "bonus" : "+0.5 Percent-Power",
+	  "id" : "9",
+	  "img" : "perk_gem_green_powerInc"
+	},
+	{
+	  "name": "Green Spark of Piercing",
+	  "color" : "green",
+	  "bonus" : "+0.3 Defense-Penetration",
+	  "id" : "10",
+	  "img" : "perk_gem_green_flatDefPen"
+	},
+	{
+	  "name": "Green Spark of Mastery",
+	  "color" : "green",
+	  "bonus" : "+0.3 Mastery",
+	  "id" : "11",
+	  "img" : "perk_gem_green_flatMastery"
+	},
+	{
+	  "name": "Blue Spark of Haste",
+	  "color" : "blue",
+	  "bonus" : "+0.4 Haste",
+	  "id" : "12",
+	  "img" : "perk_gem_blue_flatHaste"
+	},
+	{
+	  "name": "Blue Spark of Haste Growth",
+	  "color" : "blue",
+	  "bonus" : "+1.0 Percent-Haste",
+	  "id" : "13",
+	  "img" : "perk_gem_blue_hasteInc"
+	},
+	{
+	  "name": "Blue Spark of Celerity",
+	  "color" : "blue",
+	  "bonus" : "+0.4 Percent-Cooldown-Reduction",
+	  "id" : "14",
+	  "img" : "perk_gem_blue_cooldownReduction"
+	},
+	{
+	  "name": "Blue Spark of Fortune",
+	  "color" : "blue",
+	  "bonus" : "+0.1 Vim-Generation-Per-5",
+	  "id" : "15",
+	  "img" : "perk_gem_blue_vim"
+	}
+]

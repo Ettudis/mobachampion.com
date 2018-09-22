@@ -1,0 +1,74 @@
+[
+{
+"name" : "Bastion",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Bastion.png",
+"desc" : "On use you gain a shield that absorbs 80 (+19 per level - Max 460) damage for 2 seconds and grants 20 bonus Armor and Magic resistance while the shield is active.",
+"cooldown" : "210 seconds"
+},
+{
+"name" : "Blink",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Blink_1.png",
+"desc" : "Instantly teleports your shaper to target nearby location (625m range)",
+"cooldown" : "300 seconds"
+},
+{
+"name" : "Blitz",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Blitz_1.png",
+"desc" : "Increases your movement speed by 30% for 6 seconds, and renders you immune to all disabling effects except suppression for 1.5 seconds. The duration is doubled to 3 seconds for melee shapers.",
+"cooldown" : "210 seconds"
+},
+{
+"name" : "Deflect",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Deflect_1.png",
+"desc" : "You grant a shield to all allies in an area. Those shields absorb 50 (+9.5 from your level - Max 250) damage and last 3 seconds. (700m range)",
+"cooldown" : "150 seconds"
+},
+{
+"name" : "Drain",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Drain_1.png",
+"desc" : "Active: Saps lifeforce from a targeted enemy Shaper within 550 range for 5 seconds, dealing 66.3 (+23.7 per level) magical damage over the duration and healing you for 90% of the damage dealt. In addition, all healing effects on the target are reduced by 50% for the duration of the spell. (550m range)",
+"cooldown" : "180 seconds"
+},
+{
+"name" : "Dispel",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Dispel_1.png",
+"desc" : "Instantly remove all debuffs and disables (except suppression) from your shaper, and then reduces the duration of incoming disables by 35% for 3 seconds. If Dispel successfully removes a debuff or disable, you gain 50% increased movespeed for 1 second.",
+"cooldown" : "180 seconds"
+},
+{
+"name" : "Exceed",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Exceed_1.png",
+"desc" : "For 5 seconds you gain 30 Power plus an additional 30% of your total Power as bonus Power.",
+"cooldown" : "90 seconds"
+},
+{
+"name" : "Stasis",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Stasis_1.png",
+"desc" : "Instantly places your shaper into stasis for 2 seconds, becoming immune to all damage and effects but unable to move or act for the duration.",
+"cooldown" : "240 seconds"
+},
+{
+"name" : "Stagger",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Stagger_1.png",
+"desc" : "Fire a magic blast at target enemy shaper, dealing 5 (+20 per level) magical damage and reducing their movement speed by 80%, decaying over 0.5 - 2.0 seconds. The duration is increased the further you are from your target. (675m range)",
+"cooldown" : "180 seconds"
+},
+{
+"name" : "Tailwind",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Tailwind_1.png",
+"desc" : "Grants you and all nearby allies 45% increased movement speed for 3 seconds. (575m range)",
+"cooldown" : "120 seconds"
+},
+{
+"name" : "Vanquish",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Vanquish_1.png",
+"desc" : "Instantly deals +300 (+30 from your level) true damage to target minion, creature or worker. (600m range)",
+"cooldown" : "75 seconds"
+},
+{
+"name" : "Wither",
+"icon" : "http://www.moba-champion.com/images/spells/Spell_Wither_1.png",
+"desc" : "For 4 seconds, target enemy shaper's movement speed is reduced by 40%, their attack speed is reduced by 40%, and they deal 30% less damage. (550m range)",
+"cooldown" : "180 seconds"
+}
+]

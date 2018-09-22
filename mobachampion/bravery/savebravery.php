@@ -1,0 +1,142 @@
+<?php 
+require('../rb/rb.php');
+require('../rb/connect.php');
+
+$braveryBean = R::dispense('bravery');
+
+$player1 = $_POST['player1'];
+$player2 = $_POST['player2'];
+$player3 = $_POST['player3'];
+$player4 = $_POST['player4'];
+$player5 = $_POST['player5'];
+$player6 = $_POST['player6'];
+$player7 = $_POST['player7'];
+$player8 = $_POST['player8'];
+$player9 = $_POST['player9'];
+$player10 = $_POST['player10'];
+
+$role1 =  $_POST['role1'];
+$role2 =  $_POST['role2'];
+$role3 =  $_POST['role3'];
+$role4 =  $_POST['role4'];
+$role5 =  $_POST['role5'];
+$role6 =  $_POST['role6'];
+$role7 =  $_POST['role7'];
+$role8 =  $_POST['role8'];
+$role9 =  $_POST['role9'];
+$role10 = $_POST['role10'];
+
+$shaper1 = $_POST['shaper1'];
+$shaper2 = $_POST['shaper2'];
+$shaper3 = $_POST['shaper3'];
+$shaper4 = $_POST['shaper4'];
+$shaper5 = $_POST['shaper5'];
+$shaper6 = $_POST['shaper6'];
+$shaper7 = $_POST['shaper7'];
+$shaper8 = $_POST['shaper8'];
+$shaper9 = $_POST['shaper9'];
+$shaper10 = $_POST['shaper10'];
+
+$spells1 = $_POST['spells1'];
+$spells2 = $_POST['spells2'];
+$spells3 = $_POST['spells3'];
+$spells4 = $_POST['spells4'];
+$spells5 = $_POST['spells5'];
+$spells6 = $_POST['spells6'];
+$spells7 = $_POST['spells7'];
+$spells8 = $_POST['spells8'];
+$spells9 = $_POST['spells9'];
+$spells10 = $_POST['spells10'];
+
+$items1 = $_POST['items1'];
+$items2 = $_POST['items2'];
+$items3 = $_POST['items3'];
+$items4 = $_POST['items4'];
+$items5 = $_POST['items5'];
+$items6 = $_POST['items6'];
+$items7 = $_POST['items7'];
+$items8 = $_POST['items8'];
+$items9 = $_POST['items9'];
+$items10 = $_POST['items10'];
+
+$order1 = $_POST['order1'];
+$order2 = $_POST['order2'];
+$order3 = $_POST['order3'];
+$order4 = $_POST['order4'];
+$order5 = $_POST['order5'];
+$order6 = $_POST['order6'];
+$order7 = $_POST['order7'];
+$order8 = $_POST['order8'];
+$order9 = $_POST['order9'];
+$order10 = $_POST['order10'];
+
+$braveryBean->player1=$player1;
+$braveryBean->player2=$player2;
+$braveryBean->player3=$player3;
+$braveryBean->player4=$player4;
+$braveryBean->player5=$player5;
+$braveryBean->player6=$player6;
+$braveryBean->player7=$player7;
+$braveryBean->player8=$player8;
+$braveryBean->player9=$player9;
+$braveryBean->player10=$player10;
+$braveryBean->role1=$role1;
+$braveryBean->role2=$role2;
+$braveryBean->role3=$role3;
+$braveryBean->role4=$role4;
+$braveryBean->role5=$role5;
+$braveryBean->role6=$role6;
+$braveryBean->role7=$role7;
+$braveryBean->role8=$role8;
+$braveryBean->role9=$role9;
+$braveryBean->role10=$role10;
+$braveryBean->shaper1=$shaper1;
+$braveryBean->shaper2=$shaper2;
+$braveryBean->shaper3=$shaper3;
+$braveryBean->shaper4=$shaper4;
+$braveryBean->shaper5=$shaper5;
+$braveryBean->shaper6=$shaper6;
+$braveryBean->shaper7=$shaper7;
+$braveryBean->shaper8=$shaper8;
+$braveryBean->shaper9=$shaper9;
+$braveryBean->shaper10=$shaper10;
+$braveryBean->spells1=$spells1;
+$braveryBean->spells2=$spells2;
+$braveryBean->spells3=$spells3;
+$braveryBean->spells4=$spells4;
+$braveryBean->spells5=$spells5;
+$braveryBean->spells6=$spells6;
+$braveryBean->spells7=$spells7;
+$braveryBean->spells8=$spells8;
+$braveryBean->spells9=$spells9;
+$braveryBean->spells10=$spells10;
+$braveryBean->items1=$items1;
+$braveryBean->items2=$items2;
+$braveryBean->items3=$items3;
+$braveryBean->items4=$items4;
+$braveryBean->items5=$items5;
+$braveryBean->items6=$items6;
+$braveryBean->items7=$items7;
+$braveryBean->items8=$items8;
+$braveryBean->items9=$items9;
+$braveryBean->items10=$items10;
+$braveryBean->order1=$order1;
+$braveryBean->order2=$order2;
+$braveryBean->order3=$order3;
+$braveryBean->order4=$order4;
+$braveryBean->order5=$order5;
+$braveryBean->order6=$order6;
+$braveryBean->order7=$order7;
+$braveryBean->order8=$order8;
+$braveryBean->order9=$order9;
+$braveryBean->order10=$order10;
+
+$returnid = R::store($braveryBean);
+$reason = "Bravery created successfully.";
+$success = true;
+$message = "";
+
+$data = array('success'=>$success,'message'=>$reason, 'returnid'=>$returnid);
+echo json_encode($data);
+
+?>

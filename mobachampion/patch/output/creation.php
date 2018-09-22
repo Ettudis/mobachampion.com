@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>This item no longer gives Lifedrain.</li><li>Haste increased to 35, up from 30.</li><li>Price reduced to 2215, down from 2330.</li></ul>

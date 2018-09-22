@@ -1,0 +1,288 @@
+{
+    "name": "Closed Beta: Patch 32",
+    "date" : "July 9th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><img src=\"http://www.moba-champion.com/images/shapers/basko/Basko720.jpg\"><h4>Basko, the Enforcer</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<p><h5>Basko, the Enforcer</h5><p>Basko is a melee, physical damage ability Bruiser who can combo and chain his abilities together to dominate his enemies. Basko excels most in the Hunter role, but can also succeed in lane as a Gladiator when paired with the right lane partner. Basko's core kit encourages prolonged scrapping - flowing correctly between Revolt and Basko's other abilities will guarantee high damage output over the course of a fight. Basko's passive and the on-hit portion of his core kit promote more diverse builds than the average Bruiser, and his built-in durability often allows these builds to succeed where other Shapers wouldn't. Basko is strongest in the early to mid-game, particularly in extended brawls - look to take big objectives early and force fights when possible. The resetting nature of Basko's ultimate gives him an incredible high-end damage and mobiltiy potential and make him the absolute best cleanup crew Bruiser in Dawngate.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h2>Balance and Tuning</h2>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Shapers</h3>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><B>Death Fog (R)</B></li><ul><li>Fixed a bug where if the player attempted to reactivate this ability too quickly, the 2nd activation would get prematurely cancelled.</li></ul></ul>"
+		},
+		{
+			"id" : "Freia",
+			"shaper" : "Freia",
+			"data" : "<ul><li><B>Blinding Speed (W)</B></li><ul><li>Reduced the auto attack delay after using this ability to 0.3 seconds, down from 0.4.</li></ul></ul>"
+		},
+		{
+			"id" : "Kahgen",
+			"shaper" : "Kahgen",
+			"data" : "<ul><li><B>Quicksand (W)</B></li><ul><li>Fixed a bug where enemies on the outer edge of the Quicksand zone were being slowed for less than the intended amount.</li></ul></ul>"
+		},
+		{
+			"id" : "Kel",
+			"shaper" : "Kel",
+			"data" : "<ul><li><B>Titanic Charge (R)</B></li><ul><li>Fixed a bug where the final damage dealt by this ability to the primary target was incorrectly flagged as AoE damage.</li></ul></ul>"
+		},
+		{
+			"id" : "Kensu",
+			"shaper" : "Kensu",
+			"data" : "<ul><li><B>Kill Shot (E)</B></li><ul><li>The damage from the Despair form arrows is now correctly flagged as AoE damage.</li></ul></ul>"
+		},
+		{
+			"id" : "Kindra",
+			"shaper" : "Kindra",
+			"data" : "<ul><li><B>Night Strike (Q)</B></li><ul><li>The base damage of this ability has been reduced to 60/100/140/180/220, down from 60/105/150/195/240.</li></ul><li><B>Nox Aeterna (R)</B></li><ul><li>The base damage of this ability has been reduced to 90/145/200, down from 95/160/225.</li><li>This ability is now correctly flagged as AoE damage.</li></ul></ul>"
+		},
+		{
+			"id" : "Marah",
+			"shaper" : "Marah",
+			"data" : "<ul><li><b>Snapdragon (Q)</b></li><ul><li>Fixed a bug where this ability would execute an auto attack immediately after landing instead of waiting for the 0.2 second intended delay.</li><li>Fixed a bug where the first auto attack executed after this ability connected would always be a guaranteed hit, regardless of the target's distance.</li></ul><li><B>Bramblecrush (E)</B></li><ul><li>The base damage of this ability has been reduced to 60/100/140/180/220, down from 60/105/150/195/240.</li></ul><li><b>Force of Nature (R)</b></li><ul><li>The bonus Health gained from activating this ability has been reduced to 150/275/400, down from 150/300/450.</li></ul></ul>"
+		},
+		{
+			"id" : "Mina",
+			"shaper" : "Mina",
+			"data" : "<ul><li><b>Spite (Q)</b></li><ul><li>The base damage of this ability has been reduced to 50/90/130/170/210, down from 50/95/140/185/230.</li></ul><li><b>Siphon Soul (E)</b></li><ul><li>The base damage reduction granted by this ability has been reduced to 15%, down from 20%.</li><li>The Power ratio on the damage reduction granted by this ability has been reduced to 4% per 100 Power, down from 5% per 100 Power.</li><li>Fixed a bug that was causing the damage reduction portion of this ability to become stuck on a Shaper indefinitely.</li></ul><li><b>Sever Ties (R)</b></li><ul><li>The damage amplification granted by this ability is no longer doubled for Mina or her host.</li></ul></ul>"
+		},
+		{
+			"id" : "Moya",
+			"shaper" : "Moya",
+			"data" : "<ul><li><B>Passive - Celerity</B></li><ul><li>Fixed a bug where Moya was gaining more attack speed than intended under most circumstances.</li></ul></ul>"
+		},
+		{
+			"id" : "Nissa",
+			"shaper" : "Nissa",
+			"data" : "<ul><li><B>Branching Blade (Q)</B></li><ul><li>The secondary hit damage on this ability has been reduced to 100% of the primary damage, down from 120%.</li></ul></ul>"
+		},
+		{
+			"id" : "Petrus",
+			"shaper" : "Petrus",
+			"data" : "<ul><li><B>Maridian Education (R)</B></li><ul><li>Enemies can now dispel out of the displacement portion of this ability.</li></ul></ul>"
+		},
+		{
+			"id" : "Viridian",
+			"shaper" : "Viridian",
+			"data" : "<ul><li><b>Knife Toss (Q)</b></li><ul><li>The time it takes to generate 1 knife has been reduced to 6 seconds, down from 8.</li></ul><li><b>Surge (W)</b></li><ul><li>The bonus movement speed granted upon activating this ability has been increased to 10/12.5/15/17.5/20%, up from 8/10/12/14/16%.</li></ul><li><b>Deep Rising (R)</b></li><ul><li>The base damage of this ability has been increased to 200/325/450, up from 150/275/400.</li><li>Enemies may now dispel the displacement aspect of this ability.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><B>Sentinel Strike (Q)</B></li><ul><li>Fixed a bug where this ability would sometimes fail to reset Voluc's basic attack cooldown.</li><li>Fixed a bug where this ability would sometimes cause an overlay animation error where he would display an improper animation during the basic attack.</li></ul></ul>"
+		},
+		{
+			"id" : "Zalgus",
+			"shaper" : "Zalgus",
+			"data" : "<ul><li><B>Burden of Knowledge (W)</B></li><ul><li>Fixed a bug where this ability's slow proc from basic attacks was slowing less than intended at ranks 2-5.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Roles</h3>"
+		},
+		{
+			"id" : "Gladiator",
+			"role" : "Gladiator",
+			"data" : "<ul><li>A melee Shaper's creep score in the Scoreboard will be incremented by one for every two stacks of melee Gladiator passive that they consume.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Items</h3>"
+		},
+		{
+			"id" : "Adamance",
+			"itemp" : "Adamance",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power granted by this item has been reduced 35, down from 40.</li><li>The Armor granted by this item has been increased to 55, up from 45.</li><li>The price of this item has been increased to 3000, up from 2665.</li></ul>"
+		},
+		{
+			"id" : "Aggression",
+			"itemp" : "Aggression",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Power granted by this item has been increased to 30, up from 25.</li><li>The Defense Penetration granted by this item has been increased to 15, up from 10.</li><li>The price of this item has been increased to 1500, up from 1090.</li></ul>"
+		},
+		{
+			"id" : "Assimilation",
+			"itemp" : "Assimilation",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power ratio on the Unique Passive: Undying Storm has been increased to 1.0, up from 0.8.</li><li>The price of this item has been reduced to 3000, up from 3075.</li></ul>"
+		},
+		{
+			"id" : "Balance",
+			"itemp" : "Balance",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Power granted by this item has been reduced to 25, down from 30.</li><li>The Magic Resistance granted by this item has been reduced to 30, down from 35.</li><li>The price of this item has been reduced to 1500, down from 1575.</li></ul>"
+		},
+		{
+			"id" : "Betrayal",
+			"itemp" : "Betrayal",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Haste granted by this item has been reduced to 25, down from 30.</li><li>The Magic Damage on hit provided by the Unique Passive: Contempt has been reduced to 40, down from 45.</li></ul>"
+		},
+		{
+			"id" : "Command",
+			"itemp" : "Command",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Power granted by this item has been increased to 35, up from 30.</li><li>The price of this item has been increased to 1500, up from 1150.</li></ul>"
+		},
+		{
+			"id" : "Consumption",
+			"itemp" : "Consumption",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Power granted by this item has been increased to 30, up from 25.</li><li>The price of this item has been increased to 1500, up from 1270.</li></ul>"
+		},
+		{
+			"id" : "Desire",
+			"itemp" : "Desire",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Lifedrain granted by this item has been reduced to 8%, down from 10%.</li><li>The price of this item has been increased to 1500, up from 1170.</li></ul>"
+		},
+		{
+			"id" : "Destruction",
+			"itemp" : "Destruction",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Defense Penetration granted by this item has been increased to 30, up from 25.</li><li>The price of this item has been increased to 3000, up from 2950.</li></ul>"
+		},
+		{
+			"id" : "Divinity",
+			"itemp" : "Divinity",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power granted by this item has been reduced to 50, down from 55.</li><li>The Mastery granted by this item has been reduced to 20, down from 25.</li><li>The Ability Overload granted by the Unique Passive: Prodigy has been increased to 7.5%, up from 5%.</li><li>The price of this item has been reduced to 3000, down from 3430.</li></ul>"
+		},
+		{
+			"id" : "Force",
+			"itemp" : "Force",
+			"class" : "Advanced",
+			"data" : "<ul><li>The price of this item has been increased to 1500, up from 1300.</li></ul>"
+		},
+		{
+			"id" : "Furor",
+			"itemp" : "Furor",
+			"class" : "Legendary",
+			"data" : "<ul><li>The price of this item has been increased to 3000, up from 2640.</li></ul>"
+		},
+		{
+			"id" : "Glory",
+			"itemp" : "Glory",
+			"class" : "Legendary",
+			"data" : "<ul><li>The max Health ratio on this Unique Passive: Blazing Aura has been increased to 1.5%, up from 1%.</li><li>The price of this item has been increased to 3000, up from 2860.</li></ul>"
+		},
+		{
+			"id" : "Insight",
+			"itemp" : "Insight",
+			"class" : "Legendary",
+			"data" : "<ul><li>The true damage applied by this item's Unique Passive: Puncture will now calculate its damage before your target's mitigation is applied instead of afterwards.</li></ul>"
+		},
+		{
+			"id" : "Judgement",
+			"itemp" : "Judgement",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Defense Penetration granted by this item has been increased to 15, up from 10.</li><li>The price of this item has been increased to 3000, up from 2860.</li></ul>"
+		},
+		{
+			"id" : "Preservation",
+			"itemp" : "Preservation",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power per stack of this item's Unique Passive: Ablative Armor has been reduced to 5, down from 6.</li><li>The price of this item has been increased to 3000, up from 2800.</li></ul>"
+		},
+		{
+			"id" : "Pride",
+			"itemp" : "Pride",
+			"class" : "Advanced",
+			"data" : "<ul><li>The Health on this item has been reduced to 265, down from 300.</li><li>The price of this item has been reduced to 1500, down from 1590.</li></ul>"
+		},
+		{
+			"id" : "Rage",
+			"itemp" : "Rage",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power granted by this item has been increased to 45, up from 30.</li><li>This item no longer provides any flat Defense Penetration.</li><li>The bonus Defense Penetration granted by the Unique Passive: Furious Assault has been reduced to 50%, down from 60%.</li><li>The price of this item has been increased to 3000, up from 2500.</li></ul>"
+		},
+		{
+			"id" : "Rebirth",
+			"itemp" : "Rebirth",
+			"class" : "Legendary",
+			"data" : "<ul><li>Fixed a bug where the healing from Rebirth's Unique Passive: Ashborn was unintentionally being increased by Vibrance's Unique Passive: Wellspring.</li></ul>"
+		},
+		{
+			"id" : "Resilience",
+			"itemp" : "Resilience",
+			"class" : "Basic",
+			"data" : "<ul><li>Fixed a bug where this item was unintentionally reducing the damage from magical damage applied from basic attacks (Kensu Q, Zalgus W, Vex W and Faris Q)</li></ul>"
+		},
+		{
+			"id" : "Supremacy",
+			"itemp" : "Supremacy",
+			"class" : "Legendary",
+			"data" : "<ul><li>The price of this item has been reduced to 3000, down from 3215.</li></ul>"
+		},
+		{
+			"id" : "Valor",
+			"itemp" : "Valor",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Power granted by this item has been reduced to 40, down from 45.</li><li>The maximum Power granted by the Unique Passive: Last Stand has been reduced to 40, down from 50.</li></ul>"
+		},
+		{
+			"id" : "Vengeance",
+			"itemp" : "Vengeance",
+			"class" : "Legendary",
+			"data" : "<ul><li>The Health on this item has been increased to 350, up from 300.</li><li>The price of this item has been increased to 3000, up from 2575.</li></ul>"
+		},
+		{
+			"id" : "Wisdom",
+			"itemp" : "Wisdom",
+			"class" : "Legendary",
+			"data" : "<ul><li>The percentage Power increase granted by this item's Unique Passive: Enlightenment has been increased by 20%, up from 15%.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Spells</h3>"
+		},
+		{
+			"id" : "Bastion",
+			"spell" : "Bastion",
+			"data" : "<ul><li>The Shield value of this spell has been adjusted to 80-460 based on level, up from 95-380.</li></ul>"
+		},
+		{
+			"id" : "Deflect",
+			"spell" : "Deflect",
+			"data" : "<ul><li>The Shield value of this spell has been increased to 60-250 based on level, up from 59-180.</li></ul>"
+		},
+		{
+			"id" : "Drain",
+			"spell" : "Drain",
+			"data" : "<ul><li>This spell now applies the Mortal Strike debuff instead of applying a separate debuff with the same effect. This change will result in Drain refreshing the Mortal Strike effect rather than stacking with it.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h2>Bug Fixes / General Updates</h2>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Front-End Client</h5><ul><li>Shaper Select has received a new art treatment to be more in line with the updated art style.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>The Mortal Strike debuff now has a custom icon.</li><li>The Year Zero and Logitech G icons are being distributed with this patch!</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>The Collection</h5><ul><li>The Shaper details pages have been updated to now display more information about a Shaper's attributes and abilities.</li><li>The Shaper details pages will now include an audio lore monologue for every Shaper.</li><li>Added the \"Related Collections\" panel for all content detail pages.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Bug Fixes</h5><ul><li>Fixed a bug that would corrupt the text in The Collection searches.</li><li>Raina's shield will no longer appear distorted when using the House Kethelle skin.</li><li>Fixed a bug causing the clickable area of the Send Chat button to be larger than intended.</li><li>Fixed a bug that was causing the text to pop out of the frame when resizing the client while viewing an announcer pack's entry in the collection.</li><li>Fixed a filtering issue for the Viridian announcer pack.</li><li>Fixed a scaling issue in the collection that was causing certain cards to overlap header text.</li><li>Fixed a bug causing the Blessing icons in the post-game Blessing screen to become highlighted before they were achieved.</li><li>Fixed a bug preventing orange coloured developer names from displaying correctly.</li><li>Fixed a filtering issue for Voluc in The Collection.</li></ul>"
+		}
+	]
+}

@@ -1,0 +1,497 @@
+{
+  "name": "Patch 38",
+  "date": "November 3, 2014",
+  "patch": [
+    {
+      "id": "general",
+      "data": "<h3>Environment</h3>"
+    },
+    {
+      "id": "general",
+      "data": "The Dawngate map is no longer SpoOooOooOoOky."
+    },
+    {
+      "id": "general",
+      "data": "<h2>Balance and Tuning</h2>"
+    },
+    {
+      "id": "general",
+      "data": "<h3>Shapers</h3>"
+    },
+    {
+      "id": "Flin",
+      "shaper": "Flin",
+      "data": "<ul><li><b>Thrilling Heroics (Q)</b></li><ul><li> The cooldown of this ability has been reduced to 9/8.5/8/7.5/7, down from 11/10/9/8/7.</li></ul></ul>"
+    },
+    {
+      "id": "Lillin",
+      "shaper": "Lillin",
+      "data": "<ul><li><b>Pure Shaper - Chastise (Passive)</b></li><ul><li> The percent damage per Fool's Fire Shade has been reduced to 3%, down from 4%.</li><li> The percent damage on Rebuke, Consecrate and Invocation has been reduced to 6%, down from 8%.</li><li> The Power ratio of this passive has been reduced to 4% per 100 Power, down from 5% per 100 Power.</li></ul><li><b>Fool's Fire (Q)</b></li><ul><li> The range of this ability has been reduced to 650, down from 700.</li></ul></ul>"
+    },
+    {
+      "id": "Raina",
+      "shaper": "Raina",
+      "data": "<ul><li><b>Wisdom's Reach (R)</b></li><ul><li> The cooldown of this ability has been reduced to 130/120/110, down from 150/130/110.</li></ul></ul>"
+    },
+    {
+      "id": "Ronan",
+      "shaper": "Ronan",
+      "data": "<ul><li><b>Bolt (Q)</b></li><ul><li> The cooldown of this ability has been reduced to 6/5/4/3/2, down from 7/6/5/4/3.</li><li> The Basic Attack Bonus has been increased to 25/30/35/40/45%, up from 20/25/30/35/40%.</li></ul></ul>"
+    },
+    {
+      "id": "Voluc",
+      "shaper": "Voluc",
+      "data": "<ul><li><b>Damnation(R)</b></li><ul><li> The lifedrain granted by this ability has been changed to 30/45/60% from 25/50/75%.</li></ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<i>\"Melee Tacticians always felt disadvantaged by how disproportionately difficult it was for them to take advantage of the role's harass bonus. This change is aimed at allowing the natural combos that melee shapers have in their kit both feel and be appropriately rewarding.\"</i><ul></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Tactician</h5>"
+    },
+    {
+      "id": "general",
+      "data": "<ul><li>Melee attacks and abilities are now on a separate cooldown from ranged attacks and abilities.</li><li>The amount of Vim rewarded for a melee proc has been reduced to 20, down from 40.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<i>\"The price of most items have been updated to provide early, mid, and late game options per tier while still providing a degree of normalization in order to help make it easier to know if a player should return to base to buy or not. Additionally, the price per point of Haste has been increased due to Haste slightly over-performing across the board. Most items with Haste have either had their price increased, or their amount of Haste slightly reduced.\"</i><h5></h5>"
+    },
+    {
+      "id": "Life",
+      "itemp": "Life",
+      "class": "Basic",
+      "data": "<ul><li>The Health Regeneration granted by this item has been reduced to 5, down from 10.</li><li>The Health granted by this item has been reduced to 100, down from 120.</li><li>The price of this item has been reduced to 380, down from 420.</li></ul>"
+    },
+    {
+      "id": "Power",
+      "itemp": "Power",
+      "class": "Basic",
+      "data": "<ul><li>The The price of this item has been increased to 380, up from 375.</li></ul>"
+    },
+    {
+      "id": "Time",
+      "itemp": "Time",
+      "class": "Basic",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 15, down from 20.</li><li>The price of this item has been reduced to 420, down from 460.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Advanced</h5>"
+    },
+    {
+      "id": "Abolition",
+      "itemp": "Abolition",
+      "class": "Advanced",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 20, down from 25.</li></ul>"
+    },
+    {
+      "id": "Balance",
+      "itemp": "Balance",
+      "class": "Advanced",
+      "data": "<ul><li>The Power granted by this item has been reduced to 20, down from 25.</li></ul>"
+    },
+    {
+      "id": "Command",
+      "itemp": "Command",
+      "class": "Advanced",
+      "data": "<ul><li>The Power granted by this item has been reduced to 30, down from 35.</li><li>The price of this item has been reduced to 1200, down from 1500.</li></ul>"
+    },
+    {
+      "id": "Control",
+      "itemp": "Control",
+      "class": "Advanced",
+      "data": "<ul><li>The Power granted by this item has been reduced to 25, down from 30.</li><li>The price of this item has been reduced to 1200, down from 1300.</li><li>The slow percentages of the Frost passive have been increased to the following values:</li><ul><li> Ranged: Increased to 15%, up from 12.5%.</li><li> Melee: Increased to 25%, up from 20%.</li><li> Single Target Ability: Increased to 20%, up from 17.5%.</li><li> AoE and DoT: Increased to 10%, up from 7.5%.</li></ul></ul>"
+    },
+    {
+      "id": "Conviction",
+      "itemp": "Conviction",
+      "class": "Advanced",
+      "data": "<ul><li>The Magic Resistance granted by this item has been reduced to 35, down from 40.</li><li>The price of this item  has been reduced to 900, down from 1340.</li></ul>"
+    },
+    {
+      "id": "Discipline",
+      "itemp": "Discipline",
+      "class": "Advanced",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 20, down from 25.</li></ul>"
+    },
+    {
+      "id": "Energy",
+      "itemp": "Energy",
+      "class": "Advanced",
+      "data": "<ul><li>The Haste granted by this item has been increased to 25, up from 20.</li></ul>"
+    },
+    {
+      "id": "Form",
+      "itemp": "Form",
+      "class": "Advanced",
+      "data": "<ul><li>The Power granted by this item has been reduced to 20, down from 25.</li></ul>"
+    },
+    {
+      "id": "Freedom",
+      "itemp": "Freedom",
+      "class": "Advanced",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 20, down from 40.</li><li>The price of this item has been reduced to 1200, down from 1485.</li></ul>"
+    },
+    {
+      "id": "Growth",
+      "itemp": "Growth",
+      "class": "Advanced",
+      "data": "<ul><li>The Health granted by this item has been increased to 225, up from 210.</li><li>The Haste granted by this item has been reduced to 20, down from 25.</li></ul>"
+    },
+    {
+      "id": "Integrity",
+      "itemp": "Integrity",
+      "class": "Advanced",
+      "data": "<ul><li>The Armor granted by this item has been reduced to 55, down from 60.</li><li>The price of this item has been reduced to 900, down from 1260.</li><li>The Basic Attack damage reduction granted by the Toughness passive has been increased to 10%, up from 8%.</li></ul>"
+    },
+    {
+      "id": "Might",
+      "itemp": "Might",
+      "class": "Advanced",
+      "data": "<ul><li>The Power granted by this item has been reduced to 15, down from 20.</li><li>The price of this item has been reduced to 900, down from 1130.</li></ul>"
+    },
+    {
+      "id": "Motion",
+      "itemp": "Motion",
+      "class": "Advanced",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 20, down from 30.</li><li>The price of this item has been reduced to 900, down from 1055.</li></ul>"
+    },
+    {
+      "id": "Pride",
+      "itemp": "Pride",
+      "class": "Advanced",
+      "data": "<ul><li>The Health granted by this item has been increased to 300, up from 265.</li></ul>"
+    },
+    {
+      "id": "Purity",
+      "itemp": "Purity",
+      "class": "Advanced",
+      "data": "<ul><li>The price of this item has been increased to 1200, up from 1150.</li></ul>"
+    },
+    {
+      "id": "Resolve",
+      "itemp": "Resolve",
+      "class": "Advanced",
+      "data": "<ul><li>The price of this item has been reduced to 1200, down from 1400.</li></ul>"
+    },
+    {
+      "id": "Vigor",
+      "itemp": "Vigor",
+      "class": "Advanced",
+      "data": "<ul><li>The Health granted by this item has been reduced to 350, down from 450.</li><li>The price of this item has been reduced to 900, down from 1500.</li></ul>"
+    },
+    {
+      "id": "general",
+      "data": "<h5>Legendary</h5>"
+    },
+    {
+      "id": "Adamance",
+      "itemp": "Adamance",
+      "class": "Legendary",
+      "data": "<ul><li>The Armor granted by this item has been increased to 60, up from 55.</li></ul>"
+    },
+    {
+      "id": "Betrayal",
+      "itemp": "Betrayal",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3300, up from 3000</li></ul>"
+    },
+    {
+      "id": "Chaos",
+      "itemp": "Chaos",
+      "class": "Legendary",
+      "data": "<ul><li>The Mastery granted by this item has been reduced to 15, down from 20.</li><li>The price of this item has been reduced to 2700, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Conquest",
+      "itemp": "Conquest",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been reduced to 30, down from 35.</li><li>The price of this item has been reduced to 2700, down from 3000.</li><li>The Base Damage of the Aftermath passive has been increased to 70, up from 50.</li></ul>"
+    },
+    {
+      "id": "Corruption",
+      "itemp": "Corruption",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been reduced to 2100, down from 2335.</li></ul>"
+    },
+    {
+      "id": "Creation",
+      "itemp": "Creation",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been increased to 300, up from 250.</li><li>The Health Regeneration granted by this item has been increased to 30, up from 25.</li><li>The Haste granted by this item has been reduced to 30, down from 35.</li><li>The price of this item has been increased to 2400, up from 2215.</li></ul>"
+    },
+    {
+      "id": "Decay",
+      "itemp": "Decay",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been reduced to 2700, down from 2715.</li></ul>"
+    },
+    {
+      "id": "Defiance",
+      "itemp": "Defiance",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by t his item has been increased to 900, up from 800.</li></ul>"
+    },
+    {
+      "id": "Devotion",
+      "itemp": "Devotion",
+      "class": "Legendary",
+      "data": "<ul><li>The Armor granted by this item has been reduced to 15, down from 30.</li><li>The price of this item has been reduced to 2400, down from 3000.</li><li>The Armor and Magic Resistance granted by the Devotion Aura passive have both been reduced to 15, down from 20.</li></ul>"
+    },
+    {
+      "id": "Divinity",
+      "itemp": "Divinity",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been increased to 55, up from 50.</li><li>The price of this item has been increased to 3300, up from 3000.</li></ul>"
+    },
+    {
+      "id": "Dominance",
+      "itemp": "Dominance",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3600, up from 3515.</li></ul>"
+    },
+    {
+      "id": "Empathy",
+      "itemp": "Empathy",
+      "class": "Legendary",
+      "data": "<ul><li>The Armor granted by this item has been reduced to 90, down from 100.</li><li>The Magic Resistance granted by this item has been reduced to 60, down from 65.</li></ul>"
+    },
+    {
+      "id": "Equilibrium",
+      "itemp": "Equilibrium",
+      "class": "Legendary",
+      "data": "<ul><li>The Armor granted by this item has been reduced to 80, down from 85.</li><li>The Haste granted by this item has been reduced to 30, down from 40.</li><li>The price of this item has been reduced to 2700, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Duress",
+      "itemp": "Duress",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been increased to 35, up from 30.</li><li>This item now has the Brilliance passive.</li><li>This item now builds out of Inspiration.</li><li>The Netherbind passive has been redesigned. It now does the following: \"Basic attacks and melee abilities against enemy Shapers will Constrict them for 4 seconds. Upon being Constricted 3 times, the target will be rooted for a short duration and cannot be affected by Constrict again for 6 seconds. Additionally, applying Constrict has a 0.75 second cooldown. The root lasts for 0.75 seconds as a ranged Shaper, and 1.5 seconds as a melee Shaper.\"</li></ul>"
+    },
+    {
+      "id": "Faith",
+      "itemp": "Faith",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been increased to 325, up from 300.</li><li>The price of this item has been reduced to 2700, down from 2730.</li></ul>"
+    },
+    {
+      "id": "Fate",
+      "itemp": "Fate",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 50, down from 60.</li><li>The price of this item has been increased to 3000, up from 2790.</li></ul>"
+    },
+    {
+      "id": "Finesse",
+      "itemp": "Finesse",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 30, down from 35.</li></ul>"
+    },
+    {
+      "id": "Fluidity",
+      "itemp": "Fluidity",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 35, down from 45.</li><li>The price of this item has been reduced to 2100, down from 2620.</li></ul>"
+    },
+    {
+      "id": "Glory",
+      "itemp": "Glory",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been reduced to 2700, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Grace",
+      "itemp": "Grace",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 35, down from 40.</li></ul>"
+    },
+    {
+      "id": "Harmony",
+      "itemp": "Harmony",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been reduced to 325, down from 350.</li><li>The Haste granted by this item has been reduced to 20, down from 25.</li><li>The price of this item has been reduced to 2700, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Hope",
+      "itemp": "Hope",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3000, up from 2990.</li></ul>"
+    },
+    {
+      "id": "Hostility",
+      "itemp": "Hostility",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3000, up from 2915.</li></ul>"
+    },
+    {
+      "id": "Impulse",
+      "itemp": "Impulse",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 30, down from 35.</li><li>The price of this item has been reduced to 2400, down from 3070.</li></ul>"
+    },
+    {
+      "id": "Inevitability",
+      "itemp": "Inevitability",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3000, up from 2975.</li><li>The Melee Basic Attack slow granted by the Frost passive on this item has been increased to 45%, up from 40%.</li></ul>"
+    },
+    {
+      "id": "Influence",
+      "itemp": "Influence",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 35, down from 40.</li><li>The price of this item has been increased to 2700, up from 2645.</li></ul>"
+    },
+    {
+      "id": "Insight",
+      "itemp": "Insight",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3300, up from 3000.</li></ul>"
+    },
+    {
+      "id": "Judgement",
+      "itemp": "Judgement",
+      "class": "Basic",
+      "data": "<ul><li>The Power granted by this item has been reduced to 30, down from 50.</li><li>The price of this item has been reduced to 2700, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Justice",
+      "itemp": "Justice",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been reduced to 30, down from 35.</li><li>The price of this item has been increased to 3300, up from 3000.</li></ul>"
+    },
+    {
+      "id": "Momentum",
+      "itemp": "Momentum",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 25, down from 40.</li><li>The price of this item haws been reduced to 2700, down from 2745.</li></ul>"
+    },
+    {
+      "id": "Oppression",
+      "itemp": "Oppression",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been reduced to 200, down from 225.</li><li>The Power granted by this item has been reduced to 25, down from 40.</li><li>The price of this item has been reduced to 2700, down from 2945.</li></ul>"
+    },
+    {
+      "id": "Order",
+      "itemp": "Order",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 2100, up from 2060.</li><li>The Basic Attack damage reduction granted by the Toughness passive on this item has been increased to 20%, up from 15%.</li></ul>"
+    },
+    {
+      "id": "Pain",
+      "itemp": "Pain",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been reduced to 40, down from 45.</li><li>The price of this item has been reduced to 2400, down from 2575.</li></ul>"
+    },
+    {
+      "id": "Passion",
+      "itemp": "Passion",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3000, down from 2915.</li></ul>"
+    },
+    {
+      "id": "Pestilence",
+      "itemp": "Pestilence",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been increased to 35, up from 30.</li></ul>"
+    },
+    {
+      "id": "Preservation",
+      "itemp": "Preservation",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been increased to 35, up from 30.</li><li>The price of this item has been reduced to 2700, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Prosperity",
+      "itemp": "Prosperity",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been increased to 3300, up from 3000.</li><li>The Health, Armor and Magic Resistance granted by each stack of the Endless Bounty passive have been increased to 25/3/2, up from 15/2/1.5 respectively.</li></ul>"
+    },
+    {
+      "id": "Pursuit",
+      "itemp": "Pursuit",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 25, down from 30.</li><li>The price of this item has been reduced to 2700, down from 2765.</li></ul>"
+    },
+    {
+      "id": "Rage",
+      "itemp": "Rage",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been reduced to 40, down from 45.</li><li>The price of this item has been reduced to 2400, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Rampancy",
+      "itemp": "Rampancy",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been reduced to 550, down from 650.</li><li>The price of this item has been reduced to 2400, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Rebirth",
+      "itemp": "Rebirth",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been increased to 400, up from 380.</li><li>The price of this item has been increased to 3300, up from 3000.</li></ul>"
+    },
+    {
+      "id": "Resonance",
+      "itemp": "Resonance",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been increased to 45, up from 40.</li><li>The price of this item has been increased to 3300, up from 3000.</li></ul>"
+    },
+    {
+      "id": "Retribution",
+      "itemp": "Retribution",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been increased to 250, up from 225.</li><li>The price of this item has been reduced to 2400, down from 2640.</li></ul>"
+    },
+    {
+      "id": "Stability",
+      "itemp": "Stability",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been reduced to 300, down from 335.</li><li>The Haste granted by this item has been reduced to 20, down from 40.</li><li>The price of this item has been reduced to 2400, down from 2665.</li></ul>"
+    },
+    {
+      "id": "Strife",
+      "itemp": "Strife",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been reduced to 2400, down from 2630.</li></ul>"
+    },
+    {
+      "id": "Subjugation",
+      "itemp": "Subjugation",
+      "class": "Legendary",
+      "data": "<ul><li>The Haste granted by this item has been reduced to 25, down from 30.</li></ul>"
+    },
+    {
+      "id": "Supremacy",
+      "itemp": "Supremacy",
+      "class": "Legendary",
+      "data": "<ul><li>The price of this item has been reduced to 2700, down from 3000.</li></ul>"
+    },
+    {
+      "id": "Valor",
+      "itemp": "Valor",
+      "class": "Legendary",
+      "data": "<ul><li>The Power granted by this item has been reduced to 30, down from 40.</li></ul>"
+    },
+    {
+      "id": "Vengeance",
+      "itemp": "Vengeance",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been increased to 400, up from 350.</li><li>The Power granted by this item has been increased to 20, up from 15.</li></ul>"
+    },
+    {
+      "id": "Vibrance",
+      "itemp": "Vibrance",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been increased to 400, up from 300.</li><li>The Health Regeneration granted by this item has been increased to 45, up from 40.</li><li>The price of this item has been increased to 2700, up from 2480.</li></ul>"
+    },
+    {
+      "id": "Zeal",
+      "itemp": "Zeal",
+      "class": "Legendary",
+      "data": "<ul><li>The Health granted by this item has been increased to 200, up from 125.</li><li>The Haste granted by this item has been increased to 40, up from 30.</li><li>This item no longer grants any bonus Power.</li><li>This item no longer has the Brilliance passive.</li><li>This item now builds out of Clarity.</li><li>The price of this item has been reduced to 2700, down from 2950.</li></ul>"
+    }
+  ]
+}

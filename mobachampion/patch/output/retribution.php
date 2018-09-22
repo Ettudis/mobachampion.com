@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 26.1 (March 3, 2014)</h4><ul><li>The Magic Resistance granted by this item has been reduced to 40, down from 45.</li><li>The price of this item has been reduced to 2640, down from 2725.</li></ul><h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Added to the game.</li></ul>

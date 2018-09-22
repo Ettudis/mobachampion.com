@@ -1,0 +1,519 @@
+{
+    "Life": {
+        "links": [
+            {
+                "links": [
+                    {
+                        "cost": 2450,
+                        "name": "Rampancy",
+						"summary": "+625 Health",						
+						"passive1" : "Consume III: When a nearby enemy dies there is a 100% chance that you will be healed for 25 Health",
+						"passive2" : ""
+                    }
+                ],
+                "cost": 1070,
+                "name": "Vigor",
+				"summary": "+400 Health",						
+				"passive1" : "Consume II: When a nearby enemy dies there is a 50% chance that you will be healed for 15 Health",
+				"passive2" : ""
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2350,
+                        "name": "Stamina",
+						"summary": "+330 Health, +20 Armor",						
+						"passive1" : "Defensive Aura II: You and all nearby allies are granted 12 Armor and 17 Magic Resist.",
+						"passive2" : "You and all nearby allies have their Armor increased by 8%."
+                    },
+                    {
+                        "cost": 1965,
+                        "name": "Protection",
+						"summary": "+375 Health, +20 Armor, +25 magic Resistance",						
+						"passive1" : "Defensive Aura III: You and all nearby allies are granted 16 Armor and 24 Magic Resist.",
+						"passive2" : ""
+                    },
+                    {
+                        "cost": 2445,
+                        "name": "Unity",
+						"summary": "+330 Health, +30 Haste, +25 Magic Resistance",						
+						"passive1" : "Defensive Aura II: You and all nearby allies are granted 12 Armor and 17 Magic Resist.",
+						"passive2" : "You and all nearby allies take 15% less damage from area of effect attacks."
+                    }
+                ],
+				"cost": 1080,
+                "name": "Fortitude",
+				"summary": "+300 Health",						
+				"passive1" : "Defensive Aura 1: You and all nearby allies are granted 8 Armor and 10 Magic Resist",
+				"passive2" : ""
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2440,
+                        "name": "Glory",
+						"summary": "+400 Health, +38 Armor",						
+						"passive1" : "Blazing Aura II: Deals 35 (+1.2% of Maximum Health) damage every second to nearby enemies.",
+						"passive2" : ""
+                    }
+                ],
+				"cost": 1630,
+                "name": "Pride",
+                "summary": "+300 Health, +30 Armor",
+                "passive1" : "Blazing Aura I: Deals 35 magical damage every second to nearby enemies",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2465,
+                        "name": "Rebirth",
+						"summary": "+460 Health, +35 Haste",
+						"passive1" : "From the Ashes: Dropping below 30% Health will cause you to recover 30% of Maximum Health over 5 seconds. This effect has a 120 second cooldown.",
+						"passive2" : ""
+                    },
+                    {
+                        "cost": 2330,
+                        "name": "Creation",
+						"summary": "+250 Health, +25 Health Regen per 5 seconds, +30 Haste, 5% Lifedrain",
+						"passive1" : "Vitality Blessing: Increases the effectiveness of Heals, Regen and Lifedrain by 30%",
+						"passive2" : ""   
+                    }
+                ],
+				"cost": 1440,
+                "name": "Growth",
+				"summary": "+210 Health, +25 Health Regen per 5 seconds, +25 Haste",
+				"passive1" : "",
+				"passive2" : ""
+            }
+        ],
+        "name": "Life"
+	},
+    "Resilience": {
+        "links": [
+            {
+                "links": [
+                    {
+                        "cost": 2440,
+                        "name": "Glory",
+						"summary": "+400 Health, +38 Armor",
+						"passive1" : "Blazing Aura II: Deals 35 (+1.2% of Maximum Health) damage every second to nearby enemies.",
+						"passive2" : ""   
+                    }
+                ],
+				"cost": 1630,
+                "name": "Pride",
+				"summary": "+300 Health, +30 Armor",
+				"passive1" : "Blazing Aura I: Deals 35 magical damage every second to nearby enemies.",
+				"passive2" : ""   
+            },			
+            {
+                "links": [
+                    {
+                        "cost": 1805,
+                        "name": "Order",
+                        "summary": "+75 Armor",
+                        "passive1" : "Toughness III: Reduces the damage taken from basic attacks by 15%.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1000,
+                "name": "Integrity",
+                "summary": "+40 Armor",
+                "passive1" : "Toughness II: Reduces the damage taken from basic attacks by 8%.",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2560,
+                        "name": "Equilibrium",
+                        "summary": "+40 Haste, +85 Armor",
+                        "passive1" : "Wither: Dealing damage will slow the target's attack speed by 30% for 2 seconds.",
+                        "passive2" : ""   
+                    },
+                    {
+                        "cost": 2720,
+                        "name": "Subjugation",
+                        "summary": "+30 Haste, +55 Armor, +30 Magic Resistance",
+                        "passive1" : "Power Lock: Dealing damage reduces all of the damage that target deals by 15% for 3 seconds.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 830,				
+                "name": "Discipline",
+                "summary": "+50 Armor",
+                "passive1" : "",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2430,
+                        "name": "Hope",
+                        "summary": "+60 Armor, +40 Magic Resistance",
+                        "passive1" : "Divine Intervention II: Using an ability grants you 30% damage reduction for 3 seconds. this effect has a 8 second cooldown.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1420,
+                "name": "Luck",
+                "summary": "+40 Armor, +25 Magic Resistance",
+                "passive1" : "Divine Intervention I: Using an ability grants you 15% damage reduction for 3 seconds. This effect has a 8 second cooldown.",
+                "passive2" : ""  
+            }
+        ],
+        "name": "BasicItem_Resilience"
+    },
+    "Will": {
+        "links": [
+            {
+                "links": [
+                    {
+                        "cost": 2365,
+                        "name": "Faith",
+                        "summary": "+300 Health, +55 Magic Resistance",
+                        "passive1" : "Void III: Every 4 seconds you will gain a shield that absorbs up to 25 magical damage. This effect will continue to stack until the shield reaches a value of 375.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1315,
+                "name": "Conviction",
+                        "summary": "+150 Health, +35 Magic Resistance",
+                        "passive1" : "Void II: Every 4 seconds you will gain a shield that absorbs up to 15 magical damage. This effect will continue to stack until the shield reaches a value of 225.",
+                        "passive2" : ""   
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2430,
+                        "name": "Hope",
+                        "summary": "+60 Armor, +40 Magic Resistance",
+                        "passive1" : "Divine Intervention II: Using an ability grants you 30% damage reduction for 3 seconds. this effect has a 8 second cooldown",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1420,
+                "name": "Luck",
+                "summary": "+40 Armor, +25 Magic Resistance",
+                "passive1" : "Divine Intervention I: Using an ability grants you 15% damage reduction for 3 seconds. This effect has a 8 second cooldown.",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2860,
+                        "name": "Oppression",
+                        "summary": "+225 Health, +50 Power, +35 Magic Resistance",
+                        "passive1" : "Despair Aura: Nearby enemies have their Magic Resist reduced by 15.",
+                        "passive2" : ""   
+                    },
+                    {
+                        "cost": 2595,
+                        "name": "Valor",
+                        "summary": "+55 Power, +40 Magic Resistance",
+                        "passive1" : "Diehard II: On taking damage that would drop you below 30% Health, you will first gain a shield that absorbs 350 damage for 5 seconds. This effect has a 60 second cooldown.",
+                        "passive2" : "Last Stand: Grants bonus Power based on missing Health, up to a maximum of 50 Power."   
+                    }
+                ],
+				"cost": 1230,
+                "name": "Wisdom",
+                "summary": "+35 Power, +35 Magic Resistance",
+                "passive1" : "",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2860,
+                        "name": "Stability",
+                        "summary": "+335 Health, +40 Haste, +30 Magic Resistance",
+                        "passive1" : "Tenacity II: Reduces the duration of disabling effects by 40%.",
+                        "passive2" : "Unstoppable: The movespeed reduction effect of slows is reduced by 35%"   
+                    },
+                    {
+                        "cost": 2750,
+                        "name": "Momentum",
+                        "summary": "+40 Power, +35 Haste, +25 Magic Resistance, +6% Movespeed",
+                        "passive1" : "Tenacity II: Reduces the duration of disablign effects by 40%.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1250,
+                "name": "Motion",
+                "summary": "+30 Haste, +25 Magic Resistance",
+                "passive1" : "Tenacity I: Reduces the duration of disabling effects by 25%.",
+                "passive2" : ""  
+            }
+        ],
+        "name": "Will"
+    },
+    "Power": {
+        "links": [
+            {
+                "links": [
+                    {
+                        "cost": 2860,
+                        "name": "Oppression",
+                        "summary": "+225 Health, +50 Power, +35 Magic Resistance",
+                        "passive1" : "Despair Aura: Nearby enemies have their Magic Resist reduced by 15",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1260,
+                "name": "Might",
+                "summary": "+175 Health, +38 Power",
+                "passive1" : "",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2925,
+                        "name": "Adamance",
+                        "summary": "+70 Power, +45 Armor",
+                        "passive1" : "Diehard II: On taking damage that would drop you below 30% Health, you first gain a shield that aborbs 350 health for 5 seconds. This effect has a 60 second cooldown.",
+                        "passive2" : "Lockdown: Taking physical damage builds a stack of Lockdown. At 5 stacks Lockdown will activate, reducing any nearby enemies' movespeed by 30% and attack speed by 40% for 3 seconds."   
+                    },
+                    {
+                        "cost": 2595,
+                        "name": "Valor",
+                        "summary": "+55 Power, +40 Magic Resistance",
+                        "passive1" : "Diehard II: On taking dmage that would drop you below 30% Health, you will first gain a shield that absorbs 350 damage for 5 seconds. This effect has a 60 second cooldown.",
+                        "passive2" : "Last Stand: Grants bonus Power based on missing Health, up to a maximum of 50 Power."   
+                    }
+                ],
+				"cost": 1100,
+                "name": "Resolve",
+                "summary": "+38 Power",
+                "passive1" : "Diehard I: On taking damage that would drop you below 30% Health, you will first gain a shield that absorbs 150 damage for 5 seconds. This effect has a 60 second cooldown.",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2110,
+                        "name": "Rage",
+                        "summary": "+50 Power",
+                        "passive1" : "Guard Crush: Your basic attacks and abilities passively penetrate 40% of your target's defenses.",
+                        "passive2" : ""   
+                    },
+                    {
+                        "cost": 3260,
+                        "name": "Destruction",
+                        "summary": "+90 Power",
+                        "passive1" : "Guard Break: Increases Defense Penetration by 25.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1210,
+                "name": "Aggression",
+                "summary": "+30 Power",
+                "passive1" : "Guard Crack: Increases Defense Penetration by 15.",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                     {
+                        "cost": 2900,
+                        "name": "Inevitability",
+                        "summary": "+475 Health, +50 Power",
+                        "passive1" : "Frost II: Dealing damage will slow the target based on the type of attack used.",
+                        "passive2" : ""   
+                    },
+                    {
+                        "cost": 3095,
+                        "name": "Pursuit",
+                        "summary": "+50 Power, +30 Haste",
+                        "passive1" : "Quick Step: Dealing damage grants a 14% movespeed increase that quickly decays over 2 seconds.",
+                        "passive2" : "Frost 1: Dealing damage will slow the target based on the type of attack used."   
+                    }
+                ],
+				"cost": 1435,
+                "name": "Control",
+                "summary": "+35 Power",
+                "passive1" : "Frost I: Dealing damage will slow the target based on the type of attack used.",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2740,
+                        "name": "Hostility",
+                        "summary": "+210 Health, +35 Power, +10 Mastery",
+                        "passive1" : "Violence Aura: You and all nearby allies are granted 20 Power and 10 Mastery.",
+                        "passive2" : ""   
+                    },
+                    {
+                        "cost": 2990,
+                        "name": "Pain",
+                        "summary": "+60 Power, +25 Mastery",
+                        "passive1" : "Mortal Strike: Dealing damage to an enemy will Mortal Strike them, reducing the effect of Heals, Regen and Lifedrain by 50% for 3 seconds.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1245,
+                "name": "Force",
+                "summary": "+30 Power, +10 Mastery",
+                "passive1" : "",
+                "passive2" : ""  
+            }
+        ],
+        "name": "Power"
+    },
+    "Time": {
+        "links": [
+            {
+                "links": [
+                    {
+                        "cost": 2575,
+                        "name": "Stability",
+                        "summary": "+335 Health, +40 Haste, +30 Magic Resistance",
+                        "passive1" : "Tenacity II: Reduces the duration of disabling effects by 40%",
+                        "passive2" : "Unstoppable: The movespeed reduction effect of slows is reduced by 35%."   
+                    },
+                    {
+                        "cost": 2750,
+                        "name": "Momentum",
+                        "summary": "+40 Power, +35 Haste, +25 Magic Resistance, +6% Movespeed",
+                        "passive1" : "Tenacity II: Reduces the duration of disablign effects by 40%.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1250,
+                "name": "Motion",
+                "summary": "+30 Haste, +25 Magic Resistance",
+                "passive1" : "Tenacity I: Reduces the duration of disabling effects by 25%.",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2880,
+                        "name": "Conquest",
+                        "summary": "+35 Power, +30 Haste, +8% Movespeed",
+                        "passive1" : "Expose Weakness II: Dealing damage reduces the target's Armor or Magic Resistance by 5% for 4 seconds, depending on if the damage dealt was physical or magical. This effect stacks up to 4 times.",
+                        "passive2" : "Aftermath: After using an ability, your next basic attack will deal an additional 50 (+1.0) damage. This effect has a 3 second cooldown."   
+                    },
+                    {
+                        "cost": 3290,
+                        "name": "Ruin",
+                        "summary": "+30 Power, +35 Haste, +10% Lifedrain",
+                        "passive1" : "Expose Weakness II: Dealing damage reduces the target's Armor or Magic Resist by 5% for 4 seconds, depending on if the damage dealt was physical or magical. This effect stacks up to 4 times.",
+                        "passive2" : "Giant Killer: Basic attacks deal 4% of the target's maximum Health as bonus physical damage (max: 240 bonus damage vs minions and creatures)."   
+                    },
+                    {
+                        "cost": 3085,
+                        "name": "Decay",
+                        "summary": "+40 Power, +25 Haste, +10% Defense Penetration",
+                        "passive1" : "Expose Weakness II: Dealing damage reduces the target's Armor or Magic Resist by 5% for 4 seconds, depending on if the damage dealt was physical or magical. This effect stacks up to 4 times.",
+                        "passive2" : "Spririt Burn: Dealing damage with abilites will deal 4% of the target's maximum Health over 4 seconds as magical damage. This damage is doubled for single target abilities (max: 320 total damage vs minions and creatures)."   
+                    }
+                ],
+				"cost": 1640,
+                "name": "Abolition",
+                "summary": "+25 Power, +25 Haste",
+                "passive1" : "Expose Weakness I: Dealing damage reduces the target's Armor or Magic Resist by 3% for 4 seconds, depending on if the damage dealt was physical or magical. This effect stacks up to 4 times.",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2790,
+                        "name": "Fate",
+                        "summary": "+200 Health, +60 Haste",
+                        "passive1" : "Collateral Damage: Dealing damage with basic attacks fires projectiles at up to 3 enemies near the target, each dealing 60% of your basic attack damage as basic attack damage.",
+                        "passive2" : ""   
+                    },
+                     {
+                        "cost": 2900,
+                        "name": "Insight",
+                        "summary": "+70 Haste",
+                        "passive1" : "Eagle Eye: Increases basic attack range by 25%",
+                        "passive2" : "Netherbind: Basic attacks against enemy shapers will root them for 0.8 seconds. This effect has a 15 second cooldown. Basic attacks reduce the cooldown by 1 second."   
+                    }
+                ],
+				"cost": 1260,
+                "name": "Clarity",
+                "summary": "+45 Haste",
+                "passive1" : "",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2760,
+                        "name": "Progress",
+                        "summary": "+25 Haste, +25 Mastery, +25 Magic Resistance",
+                        "passive1" : "Chain Lightning I: Dealing damage causes a chain lightning, dealing 50 magical damage to up to 4 nearby enemies. This effect has a 6 second cooldown.",
+                        "passive2" : "Iron Will: Dealing damage grants 5 Magic Resist for 4 seconds. This effect stacks up to 5 times."   
+                    },
+                    {
+                        "cost": 2910,
+                        "name": "Chaos",
+                        "summary": "+40 Haste, +20 Mastery, +5% Movespeed",
+                        "passive1" : "Chain Lightning II: Dealing damage causes a chain lightning, dealing 100 (+10% of the damage dealt) as magical damage to up to 4 nearby enemies. This second has a 6 second cooldown.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1460,
+                "name": "Action",
+                "summary": "+25 Haste, +10 Mastery",
+                "passive1" : "Expose Weakness I: Dealing damage reduces the target's Armor or Magic Resist by 3% for 4 seconds, depending on if the damage dealt was physical or magical. This effect stacks up to 4 times.",
+                "passive2" : ""  
+            }
+        ],
+        "name": "Time"
+    },
+    "Hunger": {
+        "links": [
+            {
+                "links": [
+                    {
+                        "cost": 2550,
+                        "name": "Ambition",
+                        "summary": "+35 Power, +25 Haste, +30 Armor, +10% Lifedrain",
+                        "passive1" : "Grants bonus Haste and Lifedrain based on your missing health, up to a maximum of 30 Haste and 10% Lifedrain.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1090,
+                "name": "Desire",
+                "summary": "+30 Armor, 10% Lifedrain",
+                "passive1" : "Desperate Thirst 1: Grants bonus Haste and Lifedrain based on your missing health, up to a maximum of 15 Haste and 5% Lifedrain",
+                "passive2" : ""  
+            },
+            {
+                "links": [
+                    {
+                        "cost": 2550,
+                        "name": "Ambition",
+                        "summary": "+35 Power, +25 Haste, +30 Armor, +10% Lifedrain",
+                        "passive1" : "Grants bonus Haste and Lifedrain based on your missing health, up to a maximum of 30 Haste and 10% Lifedrain.",
+                        "passive2" : ""   
+                    },
+                    {
+                        "cost": 3180,
+                        "name": "Voracity",
+                        "summary": "+55 Power, +12% Lifedrain, +15 Mastery",
+                        "passive1" : "Rising Hunger: Dealing damage grants 4 Power and 1% Lifedrain. This effect stacks up to 5 times for maximum bonus of 20 Power and 5% Lifedrain.",
+                        "passive2" : ""   
+                    },
+                    {
+                        "cost": 2940,
+                        "name": "Assimilation",
+                        "summary": "+60 Power, +10% Lifedrain",
+                        "passive1" : "Undying Storm: After scoring a kill or an assist on an enemy shaper you are instantly healed for 75 (+0.7) Health.",
+                        "passive2" : ""   
+                    }
+                ],
+				"cost": 1275,
+                "name": "Consumption",
+                "summary": "+32 Power, +10% Lifedrain",
+                "passive1" : "",
+                "passive2" : ""  
+            }
+        ],
+        "name": "Hunger"
+    }
+}

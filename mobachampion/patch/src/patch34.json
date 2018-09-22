@@ -1,0 +1,117 @@
+{
+    "name": "Closed Beta: Patch 34",
+    "date" : "August 19th, 2014",
+    "patch": [
+		{
+			"id" : "general",
+			"data" : "<h3>New Shaper</h3><img src=\"http://moba-champion.com/images/shapers/sakari/sakari.jpg\"><h4>Sakari, the Bride of Winter</h4>"
+		},
+		{
+			"id" : "general",
+			"data" : "<p>Sakari is a ranged, magical damage Control Mage who trades mobility and upfront burst for powerful CC and battlefield control. Sakari excels in both the Gladiator and Tactician roles, her core kit allowing for both easy and safe last hitting or harass. Sakari's core kit focuses around building stacks of her kit debuff, Frozen - being able to stack Frozen several times can lead to seriously powerful burst in lane. Enemies actions are limited severely if Sakari lands her abilities consistently, entering open combat while having several stacks of Frozen allows her to hit her skillshots more easily and deal a tremendous amount of damage. Sakari's primary strength stems from her ability to control the battlefield, by taking into consideration both ally and enemy movements Sakari can guide the battle in the way she wants to. Sakari's late game is very strong, applying movement-impairing debuffs to the entire enemy team before deciding a target to detonate. Be wary of Sakari's weaknesses though, a truly determined Bruiser or Assassin will make quick work of a Sakari who has her abilities on cooldown.</p>"
+		},
+		{
+			"id" : "general",
+			"data" : "<b>Passive - Frost Shaper - Black Ice - </b>Sakari uses Frost to cast Ice Lance. Whenever Sakari deals damage with an ability she gains a stack of Black Ice, increasing her armor. Stacks several times.<BR><b>Q - Ice Lance - </b>Fires an ice bolt in target direction, dealing magical damage and applying Frozen to the first target hit. Frozen slows enemies and stacks several times.<BR><b>W - Iceberg - </b>Passive: Increases Sakari's Power and Frost Generation rate. Active: Creates an ice block at target location, blocking units' movement. Uses up 1 Ice Shard, which Sakari generates slowly over time.<BR><b>E - Shatter - </b>Blasts a target enemy with snow, dealing magical damage to them based on the number of Frozen stacks they have. Consumes Frozen stacks.<BR><b>R - Avalanche - </b>Summons a massive ice crystal at target location, dealing magical damage and stunning all enemies hit and applying one stack of Frozen. Explodes after a brief delay, dealing more magical damage and applying another stack of Frozen."
+		},
+		{
+			"id" : "general",
+			"data" : "<h2>New Feature</h2>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Group Practice Mode</h5><ul><li>Players may now group with friends and take on Bots that will grant some Destiny with a victory. These bits are more challenging than Practice Mode.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h2>Balance and Tuning</h2>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Shapers</h3>"
+		},
+		{
+			"id" : "Amarynth",
+			"shaper" : "Amarynth",
+			"data" : "<ul><li><b>Feeding Frenzy (Q)</b></li><ul><li>The base damage on this ability has been reduced to 50/95/140/185/230, down from 60/105/150/195/240.</li><li>The Power ratio on this ability has been increased to 0.8, up from 0.7.</li></ul><li><b>Tidal Prison (E)</b></li><ul><li>The base damage of this ability has been reduced to 65/115/165/215/265, down from 80/130/180/230/180.</li><li>The tooltip for this ability now correctly reflects the duration of the slowing effect.</li></ul></ul>"
+		},
+		{
+			"id" : "Basko",
+			"shaper" : "Basko",
+			"data" : "<ul><li><b>Uprising (R)</b></li><ul><li>The reactivation window upon getting a kill has been reduced to 10 seconds, down from 15.</li></ul></ul>"
+		},
+		{
+			"id" : "Cerulean",
+			"shaper" : "Cerulean",
+			"data" : "<ul><li><b>Ritual Bulwark (W)</b></li><ul><li>The flat Armor and Magic Resistance bonus granted when activating this ability has been reduced to 20/30/40/50/60, down from 25/35/45/55/65.</li><li>The decaying Armor and Magic Resistance bonus granted when activating this ability has been reduced to 20/30/40/50/60, down from 25/35/45/55/65.</li></ul><li><b>Shore's Calling (R)</b></li><ul><li>The cooldown of this ability has been increased to 110/100/90, up from 100/85/70.</li></ul></ul>"
+		},
+		{
+			"id" : "Desecrator",
+			"shaper" : "Desecrator",
+			"data" : "<ul><li><b>Desecrator now has a passive:</b></li><ul><li>Desecrator's basic attacks stupefy the target, dealing damage and silencing them for 0.75 seconds. The damage is doubled against non-Shapers. This effect has a 5 second per-target cooldown.</li></ul><li><b>Chilling Presence (W)</b></li><ul><li>The passive silence on this ability has been removed.</li></ul></ul>"
+		},
+		{
+			"id" : "Dibs",
+			"shaper" : "Dibs",
+			"data" : "<ul><li><b>Dreamwrap (W)</b></li><ul><li>The cooldown of this ability has been increased to 14/13/12/11/10, up from 12/11/10/9/8.</li></ul><li><b>Reverie (R)</b></li><ul><li>The cooldown of this ability has been increased to 140/130/120, up from 140/120/100.</li></ul></ul>"
+		},
+		{
+			"id" : "Faris",
+			"shaper" : "Faris",
+			"data" : "<ul><li><b>Flashback (E)</b></li><ul><li>The tooltip of this ability now correctly reflects the duration of the slowing effect.</li></ul></ul>"
+		},
+		{
+			"id" : "King of Masks",
+			"shaper" : "King of Masks",
+			"data" : "<ul><li><b>Captivate (Q)</b></li><ul><li>The damage dealt per tentacle hit has been reduced to 25/45/65/85/105, down from 35/55/75/95/115.</li></ul></ul>"
+		},
+		{
+			"id" : "Mina",
+			"shaper" : "Mina",
+			"data" : "<ul><li><b>Spite (Q)</b></li><ul><li>The damage of this ability has been reduced to 40/80/120/170/200, down from 50/90/130/170/210.</li><li>The Bruiser/Tank/Support Archetype damage bonus Power ratio has been reduced to 0.2, down from 0.3.</li></ul><li><b>Key to the Heart (W)</b></li><ul><li>The cooldown of this ability has been increased to 13 at all ranks, up from 12.</li></ul></ul>"
+		},
+		{
+			"id" : "Voluc",
+			"shaper" : "Voluc",
+			"data" : "<ul><li><b>Mark of Consumption (Passive)</b></li><ul><li>Voluc will now only heal for 50% of the damage dealt by this passive, down from 100%.</li></ul><li><b>Sentinel Strike (Q)</b></li><ul><li>The base damage of this ability has been reduced to 40/75/110/145/180, down from 50/85/120/155/190.</li><li>The cooldown reduction component of this ability versus non-Shaper enemies has been removed.</li></ul><li><b>Devour (E)</b></li><ul><li>The Haste granted by this ability per target struck has been reduced to 5/7.5/10/12.5/15, down from 9/13/17/21/25.</li></ul></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Items</h3>"
+		},
+		{
+			"id" : "Abolition",
+			"itemp" : "Abolition",
+			"class" : "Advanced",
+			"data" : "<ul><li>The flat basic attack damage bonus granted by the Stackable Passive: Precision has been reduced to 20, down from 25.</li></ul>"
+		},
+		{
+			"id" : "Finesse",
+			"itemp" : "Finesse",
+			"class" : "Legendary",
+			"data" : "<ul><li>The flat basic attack damage bonus granted by the Stackable Passive: Precision has been reduced to 20, down from 25.</li></ul>"
+		},
+		{
+			"id" : "Ruin",
+			"itemp" : "Ruin",
+			"class" : "Legendary",
+			"data" : "<ul><li>The flat basic attack damage bonus granted by the Stackable Passive: Precision has been reduced to 20, down from 25.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>General Updates</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>Environment</h5><ul><li>The stone base around the Guardians have been repainted.</li></ul>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h3>Bug Fixes</h3>"
+		},
+		{
+			"id" : "general",
+			"data" : "<h5>General</h5><ul><li>Fixed an issue where typing a long message in the in-game chat would spill the chat out of frame.</li><li>Fixed an issue where a user could consume multiple Potions of Vitality and not receive the duration of all of them.</li><li>Fixed an issue allowing players to consume Potions of Vitality while at full health.</li><li>Fixed a bug where items and role effects that triggered on killing something would sometimes fail to trigger if the unit that was killed was too far away.</li></ul>"
+		}
+	]
+}

@@ -1,0 +1,1 @@
+<h4 style="color: #DAA520;">Closed Beta: Patch 27 (March 17, 2014)</h4><ul><li>The disable reduction granted by the Tenacity on this item has been reduced to 30%, down from 35%.</li></ul><h4 style="color: #DAA520;">Closed Beta: Patch 26 (Feb 24, 2014)</h4><ul><li>Added to the game.</li></ul>
